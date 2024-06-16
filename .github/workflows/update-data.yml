@@ -19,6 +19,9 @@ jobs:
       - name: Install ghtopdep
         run: |
           pipx install git+https://github.com/haya14busa/ghtopdep.git#egg=ghtopdep
+      - uses: aquaproj/aqua-installer@v0.6.0
+        with:
+          aqua_version: v2.29.0
       - run: ./update.sh
       - run: ./update_shieldsio_all.sh
       - run: ./update_repo_templates_all.sh
