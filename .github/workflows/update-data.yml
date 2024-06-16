@@ -1,7 +1,7 @@
 name: Update data
 on:
   schedule:
-  - cron: "14 7 * * *"
+  - cron: "14 7 * * 0"
   repository_dispatch:
     types: [updates]
   workflow_dispatch:
@@ -14,14 +14,11 @@ jobs:
         run: |
           pipx install git+https://github.com/haya14busa/ghtopdep.git#egg=ghtopdep
       - run: ./update.sh
-      - name: Set up Git.
+      - name: Commit and Push
         run: |
-          git config user.name "GitHub Used-By Bot"
+          # https://github.com/actions/checkout?tab=readme-ov-file#push-a-commit-using-the-built-in-token
+          git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-      - name: Commit
-        run: |
           git add .
           git commit -m "Update GitHub Used-By data"
-      - name: Push
-        run: |
-          git push origin
+          git push
