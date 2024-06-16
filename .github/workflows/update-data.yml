@@ -21,6 +21,7 @@ jobs:
           pipx install git+https://github.com/haya14busa/ghtopdep.git#egg=ghtopdep
       - run: ./update.sh
       - run: ./update_shieldsio_all.sh
+      - run: ./update_repo_templates_all.sh
       - name: Commit and Push
         run: |
           # https://github.com/actions/checkout?tab=readme-ov-file#push-a-commit-using-the-built-in-token

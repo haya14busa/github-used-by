@@ -1,0 +1,24 @@
+{{ $repo := (ds "repo") }}
+{{ $repo_slush := (print $repo.owner "/" $repo.repo) }}
+{{ $shieldio_img := (printf "https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/%s/shieldsio.json" $repo_slush) }}
+{{ $userd_by_url := (print "https://github.com/haya14busa/github-used-by/repo/" $repo_slush) }}
+{{ $shield_badge := (printf "[![Used-by counter](%s)](%s)" $shieldio_img $userd_by_url) }}
+
+## [{{$repo_slush}}](https://github.com/{{$repo_slush}}) {{$shield_badge}}
+
+| Total | Public | Private | At least 1 star
+| ----- | ------ | ------- | ---------------
+| {{$repo.count.total}} | {{$repo.count.public}} | {{$repo.count.private}} | {{$repo.count.more_than_zero_star}} |
+
+```md
+{{$shield_badge}}
+```
+
+> [!CAUTION]
+> It uses dependents (Used-by) data from GitHub and usage data can be outdated.
+
+### Repos
+
+| # | Icon | URL | Stars |
+| -- | -- | -- | -- | {{ range $i, $r := $repo.repos }}
+|{{add $i 1}}|<img src="{{regexp.Replace "/[^/]*$" ".png" $r.url}}" width=50 height=50>|{{$r.url}}|{{$r.stars}}|{{ end }}
