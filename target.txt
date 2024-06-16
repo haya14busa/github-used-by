@@ -1,0 +1,12 @@
+reviewdog/action-setup
+reviewdog/reviewdog
+reviewdog/action-suggester
+reviewdog/action-golangci-lint
+reviewdog/action-eslint
+reviewdog/action-actionlint
+reviewdog/action-shellcheck
+reviewdog/action-rubocop
+reviewdog/action-shfmt
+reviewdog/action-statickcheck
+reviewdog/action-misspell
+reviewdog/action-typos

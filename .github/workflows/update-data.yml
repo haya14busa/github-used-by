@@ -1,6 +1,10 @@
 name: Update data
 on:
-  push:
+  schedule:
+  - cron: "14 7 * * *"
+  repository_dispatch:
+    types: [updates]
+  workflow_dispatch:
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -9,5 +13,15 @@ jobs:
       - name: Install ghtopdep
         run: |
           pipx install git+https://github.com/haya14busa/ghtopdep.git#egg=ghtopdep
-      - run: |
-          ghtopdep --json --rows 100 https://github.com/reviewdog/action-setup
+      - run: ./update.sh
+      - name: Set up Git.
+        run: |
+          git config user.name "GitHub Used-By Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Commit
+        run: |
+          git add .
+          git commit -m "Update GitHub Used-By data"
+      - name: Push
+        run: |
+          git push origin
