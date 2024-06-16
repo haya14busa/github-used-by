@@ -1,0 +1,11 @@
+# GitHub Used By
+
+| Repo | Used-By |
+| -- | -- |
+{{ range $i, $repo := (ds "repos") }}
+  {{- $repo_slush := (print $repo.owner "/" $repo.repo) -}}
+  {{- $shieldio_img := (printf "https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/%s/shieldsio.json" $repo_slush) -}}
+  {{- $used_by_url := (print "https://github.com/haya14busa/github-used-by/tree/main/repo/" $repo_slush) -}}
+  {{- $shield_badge := (printf "[![Used-by counter](%s)](%s)" $shieldio_img $used_by_url) -}}
+| [{{ $repo_slush }}]({{$used_by_url}}) | {{$shield_badge}} |
+{{ end }}
