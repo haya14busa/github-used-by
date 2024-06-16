@@ -1,5 +1,13 @@
 # GitHub Used By
 
+## Grouped-by owner pages
+{{ $owners := ((ds "owners") | strings.TrimSpace | strings.Split "\n") }}
+{{ range $i, $owner := $owners }}
+- [{{$owner}}](https://github.com/haya14busa/github-used-by/tree/main/repo/{{$owner}})
+{{ end  }}
+
+## Repositories
+
 | Repo | Used-By |
 | -- | -- |
 {{ range $i, $repo := (ds "repos") }}
