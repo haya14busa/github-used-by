@@ -21,10 +21,10 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/supabase.png" width=50 height=50>|https://github.com/supabase/supabase|67705|
-|2|<img src="https://github.com/onnx.png" width=50 height=50>|https://github.com/onnx/onnx|17116|
+|1|<img src="https://github.com/supabase.png" width=50 height=50>|https://github.com/supabase/supabase|67704|
+|2|<img src="https://github.com/onnx.png" width=50 height=50>|https://github.com/onnx/onnx|17117|
 |3|<img src="https://github.com/ben-manes.png" width=50 height=50>|https://github.com/ben-manes/caffeine|15397|
-|4|<img src="https://github.com/microsoft.png" width=50 height=50>|https://github.com/microsoft/onnxruntime|13233|
+|4|<img src="https://github.com/microsoft.png" width=50 height=50>|https://github.com/microsoft/onnxruntime|13234|
 |5|<img src="https://github.com/twpayne.png" width=50 height=50>|https://github.com/twpayne/chezmoi|12088|
 |6|<img src="https://github.com/rook.png" width=50 height=50>|https://github.com/rook/rook|12043|
 |7|<img src="https://github.com/danluu.png" width=50 height=50>|https://github.com/danluu/post-mortems|11142|
@@ -45,7 +45,7 @@
 |22|<img src="https://github.com/qdm12.png" width=50 height=50>|https://github.com/qdm12/ddns-updater|1418|
 |23|<img src="https://github.com/microsoft.png" width=50 height=50>|https://github.com/microsoft/Olive|1323|
 |24|<img src="https://github.com/nextcloud.png" width=50 height=50>|https://github.com/nextcloud/vm|1273|
-|25|<img src="https://github.com/fortran-lang.png" width=50 height=50>|https://github.com/fortran-lang/stdlib|1004|
+|25|<img src="https://github.com/fortran-lang.png" width=50 height=50>|https://github.com/fortran-lang/stdlib|1003|
 |26|<img src="https://github.com/latchset.png" width=50 height=50>|https://github.com/latchset/clevis|828|
 |27|<img src="https://github.com/mattn.png" width=50 height=50>|https://github.com/mattn/goveralls|780|
 |28|<img src="https://github.com/K-Phoen.png" width=50 height=50>|https://github.com/K-Phoen/grabana|651|
@@ -60,7 +60,7 @@
 |37|<img src="https://github.com/datanymizer.png" width=50 height=50>|https://github.com/datanymizer/datanymizer|496|
 |38|<img src="https://github.com/twilio-labs.png" width=50 height=50>|https://github.com/twilio-labs/paste|427|
 |39|<img src="https://github.com/K-Phoen.png" width=50 height=50>|https://github.com/K-Phoen/dark|419|
-|40|<img src="https://github.com/zigcc.png" width=50 height=50>|https://github.com/zigcc/awesome-zig|402|
+|40|<img src="https://github.com/zigcc.png" width=50 height=50>|https://github.com/zigcc/awesome-zig|401|
 |41|<img src="https://github.com/liquidz.png" width=50 height=50>|https://github.com/liquidz/antq|391|
 |42|<img src="https://github.com/textileio.png" width=50 height=50>|https://github.com/textileio/powergate|383|
 |43|<img src="https://github.com/tyru.png" width=50 height=50>|https://github.com/tyru/caw.vim|377|

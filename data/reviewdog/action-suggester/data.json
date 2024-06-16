@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/neovim/neovim",
-      "stars": 79181
+      "stars": 79180
     },
     {
       "url": "https://github.com/starship/starship",
@@ -12,11 +12,11 @@
     },
     {
       "url": "https://github.com/svc-develop-team/so-vits-svc",
-      "stars": 24469
+      "stars": 24468
     },
     {
       "url": "https://github.com/OI-wiki/OI-wiki",
-      "stars": 19059
+      "stars": 19058
     },
     {
       "url": "https://github.com/slint-ui/slint",

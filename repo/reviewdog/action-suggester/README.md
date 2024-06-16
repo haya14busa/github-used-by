@@ -21,10 +21,10 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/neovim.png" width=50 height=50>|https://github.com/neovim/neovim|79181|
+|1|<img src="https://github.com/neovim.png" width=50 height=50>|https://github.com/neovim/neovim|79180|
 |2|<img src="https://github.com/starship.png" width=50 height=50>|https://github.com/starship/starship|41860|
-|3|<img src="https://github.com/svc-develop-team.png" width=50 height=50>|https://github.com/svc-develop-team/so-vits-svc|24469|
-|4|<img src="https://github.com/OI-wiki.png" width=50 height=50>|https://github.com/OI-wiki/OI-wiki|19059|
+|3|<img src="https://github.com/svc-develop-team.png" width=50 height=50>|https://github.com/svc-develop-team/so-vits-svc|24468|
+|4|<img src="https://github.com/OI-wiki.png" width=50 height=50>|https://github.com/OI-wiki/OI-wiki|19058|
 |5|<img src="https://github.com/slint-ui.png" width=50 height=50>|https://github.com/slint-ui/slint|15648|
 |6|<img src="https://github.com/Mrs4s.png" width=50 height=50>|https://github.com/Mrs4s/go-cqhttp|10286|
 |7|<img src="https://github.com/optuna.png" width=50 height=50>|https://github.com/optuna/optuna|9976|

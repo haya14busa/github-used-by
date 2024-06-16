@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/supabase/supabase",
-      "stars": 67705
+      "stars": 67704
     },
     {
       "url": "https://github.com/onnx/onnx",
-      "stars": 17116
+      "stars": 17117
     },
     {
       "url": "https://github.com/ben-manes/caffeine",
@@ -16,7 +16,7 @@
     },
     {
       "url": "https://github.com/microsoft/onnxruntime",
-      "stars": 13233
+      "stars": 13234
     },
     {
       "url": "https://github.com/twpayne/chezmoi",
@@ -100,7 +100,7 @@
     },
     {
       "url": "https://github.com/fortran-lang/stdlib",
-      "stars": 1004
+      "stars": 1003
     },
     {
       "url": "https://github.com/latchset/clevis",
@@ -160,7 +160,7 @@
     },
     {
       "url": "https://github.com/zigcc/awesome-zig",
-      "stars": 402
+      "stars": 401
     },
     {
       "url": "https://github.com/liquidz/antq",

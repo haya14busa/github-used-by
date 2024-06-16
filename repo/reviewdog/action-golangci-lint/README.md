@@ -23,7 +23,7 @@
 | -- | -- | -- | -- | 
 |1|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/netdata|68784|
 |2|<img src="https://github.com/go-gorm.png" width=50 height=50>|https://github.com/go-gorm/gorm|35883|
-|3|<img src="https://github.com/gofiber.png" width=50 height=50>|https://github.com/gofiber/fiber|31912|
+|3|<img src="https://github.com/gofiber.png" width=50 height=50>|https://github.com/gofiber/fiber|31911|
 |4|<img src="https://github.com/GoogleCloudPlatform.png" width=50 height=50>|https://github.com/GoogleCloudPlatform/terraformer|12000|
 |5|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|7521|
 |6|<img src="https://github.com/runatlantis.png" width=50 height=50>|https://github.com/runatlantis/atlantis|7451|
@@ -38,7 +38,7 @@
 |15|<img src="https://github.com/TarsCloud.png" width=50 height=50>|https://github.com/TarsCloud/TarsGo|3301|
 |16|<img src="https://github.com/k1LoW.png" width=50 height=50>|https://github.com/k1LoW/tbls|3182|
 |17|<img src="https://github.com/hacdias.png" width=50 height=50>|https://github.com/hacdias/webdav|2820|
-|18|<img src="https://github.com/go-gorm.png" width=50 height=50>|https://github.com/go-gorm/gen|2125|
+|18|<img src="https://github.com/go-gorm.png" width=50 height=50>|https://github.com/go-gorm/gen|2124|
 |19|<img src="https://github.com/PeerDB-io.png" width=50 height=50>|https://github.com/PeerDB-io/peerdb|1885|
 |20|<img src="https://github.com/denisenkom.png" width=50 height=50>|https://github.com/denisenkom/go-mssqldb|1801|
 |21|<img src="https://github.com/magma.png" width=50 height=50>|https://github.com/magma/magma|1656|

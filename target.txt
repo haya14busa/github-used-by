@@ -7,6 +7,6 @@ reviewdog/action-actionlint
 reviewdog/action-shellcheck
 reviewdog/action-rubocop
 reviewdog/action-shfmt
-reviewdog/action-statickcheck
+reviewdog/action-staticcheck
 reviewdog/action-misspell
 reviewdog/action-typos
