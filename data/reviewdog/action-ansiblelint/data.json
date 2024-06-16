@@ -1,0 +1,60 @@
+{
+  "owner": "reviewdog",
+  "repo": "action-ansiblelint",
+  "repos": [
+    {
+      "url": "https://github.com/galaxyproject/ansible-postgresql",
+      "stars": 117
+    },
+    {
+      "url": "https://github.com/galaxyproject/ansible-slurm",
+      "stars": 77
+    },
+    {
+      "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
+      "stars": 14
+    },
+    {
+      "url": "https://github.com/TerrorSquad/ansible-post-installation",
+      "stars": 13
+    },
+    {
+      "url": "https://github.com/idiv-biodiversity/ansible-role-lmod",
+      "stars": 13
+    },
+    {
+      "url": "https://github.com/galaxyproject/ansible-postgresql-objects",
+      "stars": 11
+    },
+    {
+      "url": "https://github.com/galaxyproject/ansible-cvmfs",
+      "stars": 10
+    },
+    {
+      "url": "https://github.com/bjw-s/ansible-role-vyos",
+      "stars": 7
+    },
+    {
+      "url": "https://github.com/RiskIdent/ansible-collection-luks",
+      "stars": 7
+    },
+    {
+      "url": "https://github.com/idiv-biodiversity/ansible-role-nrpe",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/idiv-biodiversity/ansible-role-systemd-timesyncd",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/galaxyproject/ansible-proftpd",
+      "stars": 5
+    }
+  ],
+  "count": {
+    "total": 120,
+    "public": 98,
+    "private": 22,
+    "more_than_zero_star": 47
+  }
+}

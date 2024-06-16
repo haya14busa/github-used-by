@@ -4,35 +4,35 @@
 
 
 
-## [reviewdog/action-shellcheck](https://github.com/reviewdog/action-shellcheck) [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-shellcheck/shieldsio.json)](https://github.com/haya14busa/github-used-by/repo/reviewdog/action-shellcheck)
+## [reviewdog/action-shellcheck](https://github.com/reviewdog/action-shellcheck) [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-shellcheck/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-shellcheck)
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 2756 | 1919 | 837 | 591 |
+| 2756 | 1920 | 836 | 591 |
 
 ```md
-[![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-shellcheck/shieldsio.json)](https://github.com/haya14busa/github-used-by/repo/reviewdog/action-shellcheck)
+[![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-shellcheck/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-shellcheck)
 ```
 
 > [!CAUTION]
 > It uses dependents (Used-by) data from GitHub and usage data can be outdated.
 
-### Repos
+### Used by following repositories
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/netdata|68784|
-|2|<img src="https://github.com/wechaty.png" width=50 height=50>|https://github.com/wechaty/wechaty|19397|
-|3|<img src="https://github.com/onnx.png" width=50 height=50>|https://github.com/onnx/onnx|17117|
+|1|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/netdata|68786|
+|2|<img src="https://github.com/wechaty.png" width=50 height=50>|https://github.com/wechaty/wechaty|19398|
+|3|<img src="https://github.com/onnx.png" width=50 height=50>|https://github.com/onnx/onnx|17116|
 |4|<img src="https://github.com/microsoft.png" width=50 height=50>|https://github.com/microsoft/onnxruntime|13234|
-|5|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|7521|
+|5|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|7522|
 |6|<img src="https://github.com/phpmyadmin.png" width=50 height=50>|https://github.com/phpmyadmin/phpmyadmin|7099|
 |7|<img src="https://github.com/Ralim.png" width=50 height=50>|https://github.com/Ralim/IronOS|6934|
-|8|<img src="https://github.com/openvinotoolkit.png" width=50 height=50>|https://github.com/openvinotoolkit/openvino|6193|
-|9|<img src="https://github.com/actions.png" width=50 height=50>|https://github.com/actions/actions-runner-controller|4359|
+|8|<img src="https://github.com/openvinotoolkit.png" width=50 height=50>|https://github.com/openvinotoolkit/openvino|6194|
+|9|<img src="https://github.com/actions.png" width=50 height=50>|https://github.com/actions/actions-runner-controller|4360|
 |10|<img src="https://github.com/hfg-gmuend.png" width=50 height=50>|https://github.com/hfg-gmuend/openmoji|3819|
 |11|<img src="https://github.com/stellargraph.png" width=50 height=50>|https://github.com/stellargraph/stellargraph|2912|
-|12|<img src="https://github.com/chromebrew.png" width=50 height=50>|https://github.com/chromebrew/chromebrew|2265|
+|12|<img src="https://github.com/chromebrew.png" width=50 height=50>|https://github.com/chromebrew/chromebrew|2266|
 |13|<img src="https://github.com/huan.png" width=50 height=50>|https://github.com/huan/docker-wechat|2225|
 |14|<img src="https://github.com/RichiH.png" width=50 height=50>|https://github.com/RichiH/vcsh|2164|
 |15|<img src="https://github.com/dotenv-linter.png" width=50 height=50>|https://github.com/dotenv-linter/dotenv-linter|1777|
@@ -64,7 +64,7 @@
 |41|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/percona-backup-mongodb|251|
 |42|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/percona-postgresql-operator|251|
 |43|<img src="https://github.com/go-shiori.png" width=50 height=50>|https://github.com/go-shiori/obelisk|243|
-|44|<img src="https://github.com/microsoft.png" width=50 height=50>|https://github.com/microsoft/onnxscript|239|
+|44|<img src="https://github.com/microsoft.png" width=50 height=50>|https://github.com/microsoft/onnxscript|240|
 |45|<img src="https://github.com/openebs.png" width=50 height=50>|https://github.com/openebs/lvm-localpv|234|
 |46|<img src="https://github.com/bgruening.png" width=50 height=50>|https://github.com/bgruening/docker-galaxy-stable|222|
 |47|<img src="https://github.com/carpenike.png" width=50 height=50>|https://github.com/carpenike/k8s-gitops|221|

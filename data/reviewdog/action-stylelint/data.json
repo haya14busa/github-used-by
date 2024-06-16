@@ -1,0 +1,216 @@
+{
+  "owner": "reviewdog",
+  "repo": "action-stylelint",
+  "repos": [
+    {
+      "url": "https://github.com/Tokyo-Metro-Gov/covid19",
+      "stars": 6266
+    },
+    {
+      "url": "https://github.com/target/goalert",
+      "stars": 2159
+    },
+    {
+      "url": "https://github.com/adobe/spectrum-css",
+      "stars": 1158
+    },
+    {
+      "url": "https://github.com/h3poteto/whalebird-desktop",
+      "stars": 888
+    },
+    {
+      "url": "https://github.com/th0th/poeticmetric",
+      "stars": 213
+    },
+    {
+      "url": "https://github.com/Retrospring/retrospring",
+      "stars": 209
+    },
+    {
+      "url": "https://github.com/modx-pro/miniShop2",
+      "stars": 149
+    },
+    {
+      "url": "https://github.com/haya14busa/github-action-brandings",
+      "stars": 133
+    },
+    {
+      "url": "https://github.com/10up/10up-experience",
+      "stars": 128
+    },
+    {
+      "url": "https://github.com/department-of-veterans-affairs/va.gov-cms",
+      "stars": 79
+    },
+    {
+      "url": "https://github.com/nordcloud/pat-frontend-template",
+      "stars": 59
+    },
+    {
+      "url": "https://github.com/stop-covid19-hyogo/covid19",
+      "stars": 54
+    },
+    {
+      "url": "https://github.com/a01sa01to/covid19-ibaraki",
+      "stars": 40
+    },
+    {
+      "url": "https://github.com/WPMedia/arc-themes-blocks",
+      "stars": 33
+    },
+    {
+      "url": "https://github.com/gdg-fukushima/covid19",
+      "stars": 32
+    },
+    {
+      "url": "https://github.com/codeforjapan/StudyAtHome",
+      "stars": 31
+    },
+    {
+      "url": "https://github.com/DepSpy/depspy",
+      "stars": 30
+    },
+    {
+      "url": "https://github.com/nordcloud/GNUI",
+      "stars": 30
+    },
+    {
+      "url": "https://github.com/Code-for-OKINAWA/covid19",
+      "stars": 29
+    },
+    {
+      "url": "https://github.com/nomunomu0504/covid19",
+      "stars": 28
+    },
+    {
+      "url": "https://github.com/stopcovid19-okayama/covid19",
+      "stars": 27
+    },
+    {
+      "url": "https://github.com/code-for-hamamatsu/covid19",
+      "stars": 26
+    },
+    {
+      "url": "https://github.com/nonebot/registry",
+      "stars": 21
+    },
+    {
+      "url": "https://github.com/Lipoic/Lipoic-Frontend",
+      "stars": 18
+    },
+    {
+      "url": "https://github.com/glowfic-constellation/glowfic",
+      "stars": 16
+    },
+    {
+      "url": "https://github.com/covid19-oita/covid19",
+      "stars": 15
+    },
+    {
+      "url": "https://github.com/covid19-miyazaki/covid19",
+      "stars": 15
+    },
+    {
+      "url": "https://github.com/ironpeakservices/iron-chart-hugo",
+      "stars": 11
+    },
+    {
+      "url": "https://github.com/codeforjapan/remote-patient-monitoring-dashboard",
+      "stars": 11
+    },
+    {
+      "url": "https://github.com/codeforkumamoto/covid19",
+      "stars": 11
+    },
+    {
+      "url": "https://github.com/PichuChen/covid19",
+      "stars": 11
+    },
+    {
+      "url": "https://github.com/reviewdog/errorformat-playground",
+      "stars": 11
+    },
+    {
+      "url": "https://github.com/stop-covid19-kyoto/covid19-kyoto",
+      "stars": 10
+    },
+    {
+      "url": "https://github.com/codeforjapan/remote-patient-monitoring-client",
+      "stars": 9
+    },
+    {
+      "url": "https://github.com/hiroyuki-ichikawa/covid19",
+      "stars": 9
+    },
+    {
+      "url": "https://github.com/Retsuki/covid19-ishikawa",
+      "stars": 9
+    },
+    {
+      "url": "https://github.com/covid19-tochigi/covid19",
+      "stars": 9
+    },
+    {
+      "url": "https://github.com/adobecom/dc",
+      "stars": 7
+    },
+    {
+      "url": "https://github.com/chiefpansancolt/simplecov-material",
+      "stars": 7
+    },
+    {
+      "url": "https://github.com/arkirchner/resourcer",
+      "stars": 7
+    },
+    {
+      "url": "https://github.com/harrialeksi/poetic_metric",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/wildberries-tech/ui-react",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/thunder/select2",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/kenjinote/kablog",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/kazuomatz/covid19",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/yamaserif/covid19",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/CodeForNagasaki/covid19",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/ta1m1kam/shimane-covid19",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/btkostner/jumar",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/danskernesdigitalebibliotek/dpl-react",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/danskernesdigitalebibliotek/dpl-design-system",
+      "stars": 5
+    }
+  ],
+  "count": {
+    "total": 452,
+    "public": 351,
+    "private": 101,
+    "more_than_zero_star": 97
+  }
+}

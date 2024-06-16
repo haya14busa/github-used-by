@@ -1,0 +1,44 @@
+{
+  "owner": "reviewdog",
+  "repo": "action-brakeman",
+  "repos": [
+    {
+      "url": "https://github.com/pglombardo/PasswordPusher",
+      "stars": 1763
+    },
+    {
+      "url": "https://github.com/chanzuckerberg/czid-web",
+      "stars": 78
+    },
+    {
+      "url": "https://github.com/veuelive/veue",
+      "stars": 55
+    },
+    {
+      "url": "https://github.com/rubyforgood/Flaredown",
+      "stars": 39
+    },
+    {
+      "url": "https://github.com/sokusekiya/sokuseki",
+      "stars": 23
+    },
+    {
+      "url": "https://github.com/glowfic-constellation/glowfic",
+      "stars": 16
+    },
+    {
+      "url": "https://github.com/etalab/admin_api_entreprise",
+      "stars": 9
+    },
+    {
+      "url": "https://github.com/linkvan/linkvan-api",
+      "stars": 6
+    }
+  ],
+  "count": {
+    "total": 100,
+    "public": 69,
+    "private": 31,
+    "more_than_zero_star": 20
+  }
+}

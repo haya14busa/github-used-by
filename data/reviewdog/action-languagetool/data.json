@@ -1,0 +1,268 @@
+{
+  "owner": "reviewdog",
+  "repo": "action-languagetool",
+  "repos": [
+    {
+      "url": "https://github.com/reviewdog/reviewdog",
+      "stars": 7522
+    },
+    {
+      "url": "https://github.com/easymotion/vim-easymotion",
+      "stars": 7383
+    },
+    {
+      "url": "https://github.com/vdaas/vald",
+      "stars": 1475
+    },
+    {
+      "url": "https://github.com/markuspoerschke/iCal",
+      "stars": 1113
+    },
+    {
+      "url": "https://github.com/latchset/clevis",
+      "stars": 828
+    },
+    {
+      "url": "https://github.com/CircuitVerse/CircuitVerse",
+      "stars": 824
+    },
+    {
+      "url": "https://github.com/jeertmans/manim-slides",
+      "stars": 398
+    },
+    {
+      "url": "https://github.com/swiftwave-org/swiftwave",
+      "stars": 287
+    },
+    {
+      "url": "https://github.com/openhab/openhab-google-assistant",
+      "stars": 176
+    },
+    {
+      "url": "https://github.com/jeertmans/languagetool-rust",
+      "stars": 150
+    },
+    {
+      "url": "https://github.com/leandro-lugaresi/hub",
+      "stars": 142
+    },
+    {
+      "url": "https://github.com/CircuitVerse/Interactive-Book",
+      "stars": 132
+    },
+    {
+      "url": "https://github.com/grafana/k8s-monitoring-helm",
+      "stars": 126
+    },
+    {
+      "url": "https://github.com/mszostok/version",
+      "stars": 92
+    },
+    {
+      "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
+      "stars": 86
+    },
+    {
+      "url": "https://github.com/pheature-flags/pheature-flags",
+      "stars": 82
+    },
+    {
+      "url": "https://github.com/capactio/capact",
+      "stars": 80
+    },
+    {
+      "url": "https://github.com/Shemnei/punktf",
+      "stars": 75
+    },
+    {
+      "url": "https://github.com/agilepathway/label-checker",
+      "stars": 63
+    },
+    {
+      "url": "https://github.com/codewars/docs",
+      "stars": 55
+    },
+    {
+      "url": "https://github.com/stackabletech/spark-k8s-operator",
+      "stars": 47
+    },
+    {
+      "url": "https://github.com/shopware/docs",
+      "stars": 46
+    },
+    {
+      "url": "https://github.com/stackabletech/trino-operator",
+      "stars": 44
+    },
+    {
+      "url": "https://github.com/GStones/moke-kit",
+      "stars": 39
+    },
+    {
+      "url": "https://github.com/stackabletech/hdfs-operator",
+      "stars": 31
+    },
+    {
+      "url": "https://github.com/Together-Java/ModernJava",
+      "stars": 31
+    },
+    {
+      "url": "https://github.com/jeertmans/untex",
+      "stars": 28
+    },
+    {
+      "url": "https://github.com/ZeroAssumptions/aide-de-camp",
+      "stars": 28
+    },
+    {
+      "url": "https://github.com/ADE-Scheduler/ADE-Scheduler",
+      "stars": 27
+    },
+    {
+      "url": "https://github.com/stackabletech/zookeeper-operator",
+      "stars": 25
+    },
+    {
+      "url": "https://github.com/jeertmans/rpdf",
+      "stars": 25
+    },
+    {
+      "url": "https://github.com/stackabletech/superset-operator",
+      "stars": 24
+    },
+    {
+      "url": "https://github.com/stackabletech/nifi-operator",
+      "stars": 24
+    },
+    {
+      "url": "https://github.com/stackabletech/kafka-operator",
+      "stars": 22
+    },
+    {
+      "url": "https://github.com/pkosiec/website",
+      "stars": 22
+    },
+    {
+      "url": "https://github.com/nownabe/go-bqloader",
+      "stars": 21
+    },
+    {
+      "url": "https://github.com/TheNeikos/type_description",
+      "stars": 19
+    },
+    {
+      "url": "https://github.com/stackabletech/airflow-operator",
+      "stars": 17
+    },
+    {
+      "url": "https://github.com/stackabletech/hive-operator",
+      "stars": 16
+    },
+    {
+      "url": "https://github.com/stackabletech/opa-operator",
+      "stars": 15
+    },
+    {
+      "url": "https://github.com/stackabletech/hbase-operator",
+      "stars": 14
+    },
+    {
+      "url": "https://github.com/hashbite/gatsby-mdx-suite",
+      "stars": 14
+    },
+    {
+      "url": "https://github.com/leveeml/rabbids",
+      "stars": 14
+    },
+    {
+      "url": "https://github.com/vipulgupta2048/talkswith2048",
+      "stars": 12
+    },
+    {
+      "url": "https://github.com/hp-net/homebridge-nibe",
+      "stars": 12
+    },
+    {
+      "url": "https://github.com/stackabletech/druid-operator",
+      "stars": 10
+    },
+    {
+      "url": "https://github.com/stackabletech/secret-operator",
+      "stars": 9
+    },
+    {
+      "url": "https://github.com/latchset/tang-operator",
+      "stars": 8
+    },
+    {
+      "url": "https://github.com/stackabletech/commons-operator",
+      "stars": 8
+    },
+    {
+      "url": "https://github.com/kubeshop/botkube-docs",
+      "stars": 8
+    },
+    {
+      "url": "https://github.com/phoenix-rtos/phoenix-rtos-doc",
+      "stars": 8
+    },
+    {
+      "url": "https://github.com/chocolatey/boxstarter.org",
+      "stars": 7
+    },
+    {
+      "url": "https://github.com/VikeSec/CTF-Infrastructure",
+      "stars": 7
+    },
+    {
+      "url": "https://github.com/GoogleCloudPlatform/appengine-cloud-demo-portal",
+      "stars": 7
+    },
+    {
+      "url": "https://github.com/helpwave/helpwave",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/jeertmans/manim-tutorial",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/capactio/website",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/stackabletech/listener-operator",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/stackabletech/operator-templating",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/margau/bahn.day",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/stakater/employee-handbook",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/will-fong/data-science",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/fission/fission.io",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/CircuitVerse/Blog",
+      "stars": 5
+    }
+  ],
+  "count": {
+    "total": 347,
+    "public": 235,
+    "private": 112,
+    "more_than_zero_star": 109
+  }
+}

@@ -4,26 +4,26 @@
 
 
 
-## [reviewdog/action-actionlint](https://github.com/reviewdog/action-actionlint) [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-actionlint/shieldsio.json)](https://github.com/haya14busa/github-used-by/repo/reviewdog/action-actionlint)
+## [reviewdog/action-actionlint](https://github.com/reviewdog/action-actionlint) [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-actionlint/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-actionlint)
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
 | 1705 | 1219 | 486 | 583 |
 
 ```md
-[![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-actionlint/shieldsio.json)](https://github.com/haya14busa/github-used-by/repo/reviewdog/action-actionlint)
+[![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-actionlint/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-actionlint)
 ```
 
 > [!CAUTION]
 > It uses dependents (Used-by) data from GitHub and usage data can be outdated.
 
-### Repos
+### Used by following repositories
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/netdata|68784|
-|2|<img src="https://github.com/ben-manes.png" width=50 height=50>|https://github.com/ben-manes/caffeine|15397|
-|3|<img src="https://github.com/neondatabase.png" width=50 height=50>|https://github.com/neondatabase/neon|13039|
+|1|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/netdata|68786|
+|2|<img src="https://github.com/ben-manes.png" width=50 height=50>|https://github.com/ben-manes/caffeine|15398|
+|3|<img src="https://github.com/neondatabase.png" width=50 height=50>|https://github.com/neondatabase/neon|13044|
 |4|<img src="https://github.com/semgrep.png" width=50 height=50>|https://github.com/semgrep/semgrep|9977|
 |5|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9459|
 |6|<img src="https://github.com/datahub-project.png" width=50 height=50>|https://github.com/datahub-project/datahub|9367|
@@ -44,7 +44,7 @@
 |21|<img src="https://github.com/jackpocket.png" width=50 height=50>|https://github.com/jackpocket/android-scratchoff|448|
 |22|<img src="https://github.com/ZcashFoundation.png" width=50 height=50>|https://github.com/ZcashFoundation/zebra|399|
 |23|<img src="https://github.com/javierjulio.png" width=50 height=50>|https://github.com/javierjulio/textarea-autosize|397|
-|24|<img src="https://github.com/nginxinc.png" width=50 height=50>|https://github.com/nginxinc/nginx-gateway-fabric|394|
+|24|<img src="https://github.com/nginxinc.png" width=50 height=50>|https://github.com/nginxinc/nginx-gateway-fabric|395|
 |25|<img src="https://github.com/k0sproject.png" width=50 height=50>|https://github.com/k0sproject/k0sctl|347|
 |26|<img src="https://github.com/xapi-project.png" width=50 height=50>|https://github.com/xapi-project/xen-api|342|
 |27|<img src="https://github.com/opentibiabr.png" width=50 height=50>|https://github.com/opentibiabr/canary|330|

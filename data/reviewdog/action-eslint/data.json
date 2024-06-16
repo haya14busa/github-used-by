@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 68784
+      "stars": 68786
     },
     {
       "url": "https://github.com/matplotlib/matplotlib",
-      "stars": 19554
+      "stars": 19555
     },
     {
       "url": "https://github.com/microsoft/onnxruntime",
@@ -16,7 +16,7 @@
     },
     {
       "url": "https://github.com/alibaba/formily",
-      "stars": 10882
+      "stars": 10883
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://github.com/TeamPiped/Piped",
-      "stars": 7728
+      "stars": 7731
     },
     {
       "url": "https://github.com/chancejs/chancejs",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/NangoHQ/nango",
-      "stars": 4286
+      "stars": 4288
     },
     {
       "url": "https://github.com/mdn/webextensions-examples",

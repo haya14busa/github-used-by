@@ -4,20 +4,20 @@
 
 
 
-## [reviewdog/action-shfmt](https://github.com/reviewdog/action-shfmt) [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-shfmt/shieldsio.json)](https://github.com/haya14busa/github-used-by/repo/reviewdog/action-shfmt)
+## [reviewdog/action-shfmt](https://github.com/reviewdog/action-shfmt) [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-shfmt/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-shfmt)
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
 | 138 | 76 | 62 | 33 |
 
 ```md
-[![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-shfmt/shieldsio.json)](https://github.com/haya14busa/github-used-by/repo/reviewdog/action-shfmt)
+[![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-shfmt/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-shfmt)
 ```
 
 > [!CAUTION]
 > It uses dependents (Used-by) data from GitHub and usage data can be outdated.
 
-### Repos
+### Used by following repositories
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 

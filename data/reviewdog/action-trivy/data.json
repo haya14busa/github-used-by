@@ -1,0 +1,16 @@
+{
+  "owner": "reviewdog",
+  "repo": "action-trivy",
+  "repos": [
+    {
+      "url": "https://github.com/nuvibit/github-terraform-workflows",
+      "stars": 5
+    }
+  ],
+  "count": {
+    "total": 17,
+    "public": 14,
+    "private": 3,
+    "more_than_zero_star": 4
+  }
+}

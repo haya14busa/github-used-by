@@ -4,38 +4,38 @@
 
 
 
-## [reviewdog/action-setup](https://github.com/reviewdog/action-setup) [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-setup/shieldsio.json)](https://github.com/haya14busa/github-used-by/repo/reviewdog/action-setup)
+## [reviewdog/action-setup](https://github.com/reviewdog/action-setup) [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-setup/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-setup)
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 2254 | 1599 | 655 | 514 |
+| 2256 | 1601 | 655 | 514 |
 
 ```md
-[![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-setup/shieldsio.json)](https://github.com/haya14busa/github-used-by/repo/reviewdog/action-setup)
+[![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-setup/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-setup)
 ```
 
 > [!CAUTION]
 > It uses dependents (Used-by) data from GitHub and usage data can be outdated.
 
-### Repos
+### Used by following repositories
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/go-gorm.png" width=50 height=50>|https://github.com/go-gorm/gorm|35883|
+|1|<img src="https://github.com/go-gorm.png" width=50 height=50>|https://github.com/go-gorm/gorm|35885|
 |2|<img src="https://github.com/carbon-language.png" width=50 height=50>|https://github.com/carbon-language/carbon-lang|32344|
 |3|<img src="https://github.com/tqdm.png" width=50 height=50>|https://github.com/tqdm/tqdm|27746|
-|4|<img src="https://github.com/matplotlib.png" width=50 height=50>|https://github.com/matplotlib/matplotlib|19554|
-|5|<img src="https://github.com/neovide.png" width=50 height=50>|https://github.com/neovide/neovide|12251|
+|4|<img src="https://github.com/matplotlib.png" width=50 height=50>|https://github.com/matplotlib/matplotlib|19555|
+|5|<img src="https://github.com/neovide.png" width=50 height=50>|https://github.com/neovide/neovide|12252|
 |6|<img src="https://github.com/mdn.png" width=50 height=50>|https://github.com/mdn/content|8929|
-|7|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|7521|
+|7|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|7522|
 |8|<img src="https://github.com/TheWidlarzGroup.png" width=50 height=50>|https://github.com/TheWidlarzGroup/react-native-video|7039|
 |9|<img src="https://github.com/mrousavy.png" width=50 height=50>|https://github.com/mrousavy/react-native-vision-camera|6814|
 |10|<img src="https://github.com/mrousavy.png" width=50 height=50>|https://github.com/mrousavy/react-native-mmkv|5430|
 |11|<img src="https://github.com/encoredev.png" width=50 height=50>|https://github.com/encoredev/encore|4960|
 |12|<img src="https://github.com/sezanzeb.png" width=50 height=50>|https://github.com/sezanzeb/input-remapper|3435|
 |13|<img src="https://github.com/nutsdb.png" width=50 height=50>|https://github.com/nutsdb/nutsdb|3316|
-|14|<img src="https://github.com/TagStudioDev.png" width=50 height=50>|https://github.com/TagStudioDev/TagStudio|2837|
-|15|<img src="https://github.com/dooboolab-community.png" width=50 height=50>|https://github.com/dooboolab-community/react-native-iap|2718|
+|14|<img src="https://github.com/TagStudioDev.png" width=50 height=50>|https://github.com/TagStudioDev/TagStudio|2838|
+|15|<img src="https://github.com/dooboolab-community.png" width=50 height=50>|https://github.com/dooboolab-community/react-native-iap|2719|
 |16|<img src="https://github.com/holistics.png" width=50 height=50>|https://github.com/holistics/dbml|2491|
 |17|<img src="https://github.com/google.png" width=50 height=50>|https://github.com/google/exposure-notifications-server|2371|
 |18|<img src="https://github.com/keptn.png" width=50 height=50>|https://github.com/keptn/keptn|1797|
@@ -48,12 +48,12 @@
 |25|<img src="https://github.com/mrousavy.png" width=50 height=50>|https://github.com/mrousavy/react-native-multithreading|1114|
 |26|<img src="https://github.com/wartremover.png" width=50 height=50>|https://github.com/wartremover/wartremover|1066|
 |27|<img src="https://github.com/pods-framework.png" width=50 height=50>|https://github.com/pods-framework/pods|1051|
-|28|<img src="https://github.com/yytypescript.png" width=50 height=50>|https://github.com/yytypescript/book|915|
+|28|<img src="https://github.com/yytypescript.png" width=50 height=50>|https://github.com/yytypescript/book|916|
 |29|<img src="https://github.com/h3poteto.png" width=50 height=50>|https://github.com/h3poteto/whalebird-desktop|888|
 |30|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/CircuitVerse|824|
 |31|<img src="https://github.com/grafana.png" width=50 height=50>|https://github.com/grafana/grafana-operator|811|
-|32|<img src="https://github.com/allegro.png" width=50 height=50>|https://github.com/allegro/hermes|800|
-|33|<img src="https://github.com/numandev1.png" width=50 height=50>|https://github.com/numandev1/react-native-compressor|800|
+|32|<img src="https://github.com/numandev1.png" width=50 height=50>|https://github.com/numandev1/react-native-compressor|801|
+|33|<img src="https://github.com/allegro.png" width=50 height=50>|https://github.com/allegro/hermes|800|
 |34|<img src="https://github.com/OSGeo.png" width=50 height=50>|https://github.com/OSGeo/grass|782|
 |35|<img src="https://github.com/Javacord.png" width=50 height=50>|https://github.com/Javacord/Javacord|749|
 |36|<img src="https://github.com/vran-dev.png" width=50 height=50>|https://github.com/vran-dev/databasir|731|
@@ -75,7 +75,7 @@
 |52|<img src="https://github.com/yasinkacmaz.png" width=50 height=50>|https://github.com/yasinkacmaz/jetflix|379|
 |53|<img src="https://github.com/mattwebbio.png" width=50 height=50>|https://github.com/mattwebbio/orbital-sync|372|
 |54|<img src="https://github.com/iterative.png" width=50 height=50>|https://github.com/iterative/shtab|347|
-|55|<img src="https://github.com/decompme.png" width=50 height=50>|https://github.com/decompme/decomp.me|337|
+|55|<img src="https://github.com/decompme.png" width=50 height=50>|https://github.com/decompme/decomp.me|338|
 |56|<img src="https://github.com/margelo.png" width=50 height=50>|https://github.com/margelo/react-native-bignumber|334|
 |57|<img src="https://github.com/opentibiabr.png" width=50 height=50>|https://github.com/opentibiabr/canary|330|
 |58|<img src="https://github.com/razorpay.png" width=50 height=50>|https://github.com/razorpay/go-financial|306|

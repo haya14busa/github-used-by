@@ -4,32 +4,32 @@
 
 
 
-## [reviewdog/action-suggester](https://github.com/reviewdog/action-suggester) [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-suggester/shieldsio.json)](https://github.com/haya14busa/github-used-by/repo/reviewdog/action-suggester)
+## [reviewdog/action-suggester](https://github.com/reviewdog/action-suggester) [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-suggester/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-suggester)
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 1265 | 949 | 316 | 400 |
+| 1265 | 948 | 317 | 400 |
 
 ```md
-[![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-suggester/shieldsio.json)](https://github.com/haya14busa/github-used-by/repo/reviewdog/action-suggester)
+[![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-suggester/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-suggester)
 ```
 
 > [!CAUTION]
 > It uses dependents (Used-by) data from GitHub and usage data can be outdated.
 
-### Repos
+### Used by following repositories
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/neovim.png" width=50 height=50>|https://github.com/neovim/neovim|79180|
-|2|<img src="https://github.com/starship.png" width=50 height=50>|https://github.com/starship/starship|41860|
-|3|<img src="https://github.com/svc-develop-team.png" width=50 height=50>|https://github.com/svc-develop-team/so-vits-svc|24468|
-|4|<img src="https://github.com/OI-wiki.png" width=50 height=50>|https://github.com/OI-wiki/OI-wiki|19058|
-|5|<img src="https://github.com/slint-ui.png" width=50 height=50>|https://github.com/slint-ui/slint|15648|
+|1|<img src="https://github.com/neovim.png" width=50 height=50>|https://github.com/neovim/neovim|79187|
+|2|<img src="https://github.com/starship.png" width=50 height=50>|https://github.com/starship/starship|41864|
+|3|<img src="https://github.com/svc-develop-team.png" width=50 height=50>|https://github.com/svc-develop-team/so-vits-svc|24469|
+|4|<img src="https://github.com/OI-wiki.png" width=50 height=50>|https://github.com/OI-wiki/OI-wiki|19060|
+|5|<img src="https://github.com/slint-ui.png" width=50 height=50>|https://github.com/slint-ui/slint|15652|
 |6|<img src="https://github.com/Mrs4s.png" width=50 height=50>|https://github.com/Mrs4s/go-cqhttp|10286|
 |7|<img src="https://github.com/optuna.png" width=50 height=50>|https://github.com/optuna/optuna|9976|
-|8|<img src="https://github.com/CleverRaven.png" width=50 height=50>|https://github.com/CleverRaven/Cataclysm-DDA|9794|
-|9|<img src="https://github.com/openvinotoolkit.png" width=50 height=50>|https://github.com/openvinotoolkit/openvino|6193|
+|8|<img src="https://github.com/CleverRaven.png" width=50 height=50>|https://github.com/CleverRaven/Cataclysm-DDA|9795|
+|9|<img src="https://github.com/openvinotoolkit.png" width=50 height=50>|https://github.com/openvinotoolkit/openvino|6194|
 |10|<img src="https://github.com/TuringLang.png" width=50 height=50>|https://github.com/TuringLang/Turing.jl|1990|
 |11|<img src="https://github.com/JuliaPlots.png" width=50 height=50>|https://github.com/JuliaPlots/Plots.jl|1812|
 |12|<img src="https://github.com/getkirby.png" width=50 height=50>|https://github.com/getkirby/kirby|1223|

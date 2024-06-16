@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 68784
+      "stars": 68786
     },
     {
       "url": "https://github.com/wechaty/wechaty",
-      "stars": 19397
+      "stars": 19398
     },
     {
       "url": "https://github.com/onnx/onnx",
-      "stars": 17117
+      "stars": 17116
     },
     {
       "url": "https://github.com/microsoft/onnxruntime",
@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7521
+      "stars": 7522
     },
     {
       "url": "https://github.com/phpmyadmin/phpmyadmin",
@@ -32,11 +32,11 @@
     },
     {
       "url": "https://github.com/openvinotoolkit/openvino",
-      "stars": 6193
+      "stars": 6194
     },
     {
       "url": "https://github.com/actions/actions-runner-controller",
-      "stars": 4359
+      "stars": 4360
     },
     {
       "url": "https://github.com/hfg-gmuend/openmoji",
@@ -48,7 +48,7 @@
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2265
+      "stars": 2266
     },
     {
       "url": "https://github.com/huan/docker-wechat",
@@ -176,7 +176,7 @@
     },
     {
       "url": "https://github.com/microsoft/onnxscript",
-      "stars": 239
+      "stars": 240
     },
     {
       "url": "https://github.com/openebs/lvm-localpv",
@@ -405,8 +405,8 @@
   ],
   "count": {
     "total": 2756,
-    "public": 1919,
-    "private": 837,
+    "public": 1920,
+    "private": 836,
     "more_than_zero_star": 591
   }
 }

@@ -1,0 +1,272 @@
+{
+  "owner": "reviewdog",
+  "repo": "action-flake8",
+  "repos": [
+    {
+      "url": "https://github.com/netdata/netdata",
+      "stars": 68786
+    },
+    {
+      "url": "https://github.com/microsoft/onnxruntime",
+      "stars": 13234
+    },
+    {
+      "url": "https://github.com/bndr/pipreqs",
+      "stars": 5922
+    },
+    {
+      "url": "https://github.com/BaguaSys/bagua",
+      "stars": 868
+    },
+    {
+      "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
+      "stars": 541
+    },
+    {
+      "url": "https://github.com/pnuckowski/aioresponses",
+      "stars": 500
+    },
+    {
+      "url": "https://github.com/simpeg/simpeg",
+      "stars": 479
+    },
+    {
+      "url": "https://github.com/PersiaML/PERSIA",
+      "stars": 387
+    },
+    {
+      "url": "https://github.com/PAhelper/PhoenixAdult.bundle",
+      "stars": 353
+    },
+    {
+      "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
+      "stars": 155
+    },
+    {
+      "url": "https://github.com/libcgroup/libcgroup",
+      "stars": 133
+    },
+    {
+      "url": "https://github.com/TrangPham/django-admin-confirm",
+      "stars": 124
+    },
+    {
+      "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
+      "stars": 90
+    },
+    {
+      "url": "https://github.com/f0uriest/interpax",
+      "stars": 83
+    },
+    {
+      "url": "https://github.com/ehpor/hcipy",
+      "stars": 82
+    },
+    {
+      "url": "https://github.com/fdintino/pillow-avif-plugin",
+      "stars": 74
+    },
+    {
+      "url": "https://github.com/PlasmaControl/DESC",
+      "stars": 74
+    },
+    {
+      "url": "https://github.com/LFPy/LFPy",
+      "stars": 66
+    },
+    {
+      "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
+      "stars": 54
+    },
+    {
+      "url": "https://github.com/ydb-platform/nbs",
+      "stars": 50
+    },
+    {
+      "url": "https://github.com/stackabletech/spark-k8s-operator",
+      "stars": 47
+    },
+    {
+      "url": "https://github.com/ut-issl/c2a-core",
+      "stars": 46
+    },
+    {
+      "url": "https://github.com/stackabletech/trino-operator",
+      "stars": 44
+    },
+    {
+      "url": "https://github.com/ThePornDatabase/scrapers",
+      "stars": 40
+    },
+    {
+      "url": "https://github.com/f0uriest/quadax",
+      "stars": 33
+    },
+    {
+      "url": "https://github.com/stackabletech/hdfs-operator",
+      "stars": 31
+    },
+    {
+      "url": "https://github.com/stackabletech/zookeeper-operator",
+      "stars": 25
+    },
+    {
+      "url": "https://github.com/stackabletech/superset-operator",
+      "stars": 24
+    },
+    {
+      "url": "https://github.com/stackabletech/nifi-operator",
+      "stars": 24
+    },
+    {
+      "url": "https://github.com/stackabletech/kafka-operator",
+      "stars": 22
+    },
+    {
+      "url": "https://github.com/DirtyRacer1337/PhoenixAdult.bundle",
+      "stars": 22
+    },
+    {
+      "url": "https://github.com/comorment/containers",
+      "stars": 21
+    },
+    {
+      "url": "https://github.com/ZPascal/grafana_api_sdk",
+      "stars": 18
+    },
+    {
+      "url": "https://github.com/stackabletech/airflow-operator",
+      "stars": 17
+    },
+    {
+      "url": "https://github.com/danishi/dynamodb-csv",
+      "stars": 17
+    },
+    {
+      "url": "https://github.com/stackabletech/hive-operator",
+      "stars": 16
+    },
+    {
+      "url": "https://github.com/rickstaa/ros-gazebo-gym",
+      "stars": 16
+    },
+    {
+      "url": "https://github.com/nnsnodnb/kalyke",
+      "stars": 16
+    },
+    {
+      "url": "https://github.com/nnsnodnb/django-ios-storekit",
+      "stars": 16
+    },
+    {
+      "url": "https://github.com/stackabletech/opa-operator",
+      "stars": 15
+    },
+    {
+      "url": "https://github.com/mikhailprivalov/l2",
+      "stars": 15
+    },
+    {
+      "url": "https://github.com/stackabletech/hbase-operator",
+      "stars": 14
+    },
+    {
+      "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
+      "stars": 14
+    },
+    {
+      "url": "https://github.com/stackabletech/docker-images",
+      "stars": 14
+    },
+    {
+      "url": "https://github.com/rickstaa/stable-gym",
+      "stars": 11
+    },
+    {
+      "url": "https://github.com/ccdc-opensource/dash",
+      "stars": 11
+    },
+    {
+      "url": "https://github.com/istellartech/GELATO",
+      "stars": 11
+    },
+    {
+      "url": "https://github.com/stackabletech/druid-operator",
+      "stars": 10
+    },
+    {
+      "url": "https://github.com/arkedge/c2a-core",
+      "stars": 10
+    },
+    {
+      "url": "https://github.com/rickstaa/panda-gazebo",
+      "stars": 10
+    },
+    {
+      "url": "https://github.com/aces/Loris-MRI",
+      "stars": 10
+    },
+    {
+      "url": "https://github.com/stackabletech/secret-operator",
+      "stars": 9
+    },
+    {
+      "url": "https://github.com/stackabletech/commons-operator",
+      "stars": 8
+    },
+    {
+      "url": "https://github.com/stackabletech/spark-operator",
+      "stars": 8
+    },
+    {
+      "url": "https://github.com/BedrockStreaming/hsdo",
+      "stars": 7
+    },
+    {
+      "url": "https://github.com/rickstaa/stable-learning-control",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/stackabletech/stackable-cockpit",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/ccdc-opensource/science-paper-rf-machine-learned-scoring-2022",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/LFPy/LFPykit",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/Police-Data-Accessibility-Project/data-source-identification",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/stackabletech/listener-operator",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/stackabletech/operator-templating",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/alkemyTech/OT281-python",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/NurOrNuLL/ESDP-AP-5-6-TEAM-2",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/stackabletech/druid-opa-authorizer",
+      "stars": 5
+    }
+  ],
+  "count": {
+    "total": 400,
+    "public": 309,
+    "private": 91,
+    "more_than_zero_star": 122
+  }
+}

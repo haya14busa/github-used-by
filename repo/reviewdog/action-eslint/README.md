@@ -4,33 +4,33 @@
 
 
 
-## [reviewdog/action-eslint](https://github.com/reviewdog/action-eslint) [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-eslint/shieldsio.json)](https://github.com/haya14busa/github-used-by/repo/reviewdog/action-eslint)
+## [reviewdog/action-eslint](https://github.com/reviewdog/action-eslint) [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-eslint/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-eslint)
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
 | 3472 | 2557 | 915 | 717 |
 
 ```md
-[![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-eslint/shieldsio.json)](https://github.com/haya14busa/github-used-by/repo/reviewdog/action-eslint)
+[![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-eslint/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-eslint)
 ```
 
 > [!CAUTION]
 > It uses dependents (Used-by) data from GitHub and usage data can be outdated.
 
-### Repos
+### Used by following repositories
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/netdata|68784|
-|2|<img src="https://github.com/matplotlib.png" width=50 height=50>|https://github.com/matplotlib/matplotlib|19554|
+|1|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/netdata|68786|
+|2|<img src="https://github.com/matplotlib.png" width=50 height=50>|https://github.com/matplotlib/matplotlib|19555|
 |3|<img src="https://github.com/microsoft.png" width=50 height=50>|https://github.com/microsoft/onnxruntime|13234|
-|4|<img src="https://github.com/alibaba.png" width=50 height=50>|https://github.com/alibaba/formily|10882|
+|4|<img src="https://github.com/alibaba.png" width=50 height=50>|https://github.com/alibaba/formily|10883|
 |5|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9459|
 |6|<img src="https://github.com/opf.png" width=50 height=50>|https://github.com/opf/openproject|8591|
-|7|<img src="https://github.com/TeamPiped.png" width=50 height=50>|https://github.com/TeamPiped/Piped|7728|
+|7|<img src="https://github.com/TeamPiped.png" width=50 height=50>|https://github.com/TeamPiped/Piped|7731|
 |8|<img src="https://github.com/chancejs.png" width=50 height=50>|https://github.com/chancejs/chancejs|6400|
 |9|<img src="https://github.com/Tokyo-Metro-Gov.png" width=50 height=50>|https://github.com/Tokyo-Metro-Gov/covid19|6266|
-|10|<img src="https://github.com/NangoHQ.png" width=50 height=50>|https://github.com/NangoHQ/nango|4286|
+|10|<img src="https://github.com/NangoHQ.png" width=50 height=50>|https://github.com/NangoHQ/nango|4288|
 |11|<img src="https://github.com/mdn.png" width=50 height=50>|https://github.com/mdn/webextensions-examples|3993|
 |12|<img src="https://github.com/dbeaver.png" width=50 height=50>|https://github.com/dbeaver/cloudbeaver|3174|
 |13|<img src="https://github.com/ohmyform.png" width=50 height=50>|https://github.com/ohmyform/ohmyform|2755|

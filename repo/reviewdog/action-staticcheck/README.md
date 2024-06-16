@@ -4,27 +4,27 @@
 
 
 
-## [reviewdog/action-staticcheck](https://github.com/reviewdog/action-staticcheck) [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-staticcheck/shieldsio.json)](https://github.com/haya14busa/github-used-by/repo/reviewdog/action-staticcheck)
+## [reviewdog/action-staticcheck](https://github.com/reviewdog/action-staticcheck) [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-staticcheck/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-staticcheck)
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
 | 668 | 527 | 141 | 215 |
 
 ```md
-[![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-staticcheck/shieldsio.json)](https://github.com/haya14busa/github-used-by/repo/reviewdog/action-staticcheck)
+[![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-staticcheck/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-staticcheck)
 ```
 
 > [!CAUTION]
 > It uses dependents (Used-by) data from GitHub and usage data can be outdated.
 
-### Repos
+### Used by following repositories
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/zeromicro.png" width=50 height=50>|https://github.com/zeromicro/go-zero|27987|
+|1|<img src="https://github.com/zeromicro.png" width=50 height=50>|https://github.com/zeromicro/go-zero|27989|
 |2|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|7522|
 |3|<img src="https://github.com/cloudwego.png" width=50 height=50>|https://github.com/cloudwego/kitex|6753|
-|4|<img src="https://github.com/golang-jwt.png" width=50 height=50>|https://github.com/golang-jwt/jwt|6609|
+|4|<img src="https://github.com/golang-jwt.png" width=50 height=50>|https://github.com/golang-jwt/jwt|6611|
 |5|<img src="https://github.com/cloudwego.png" width=50 height=50>|https://github.com/cloudwego/hertz|4829|
 |6|<img src="https://github.com/TarsCloud.png" width=50 height=50>|https://github.com/TarsCloud/TarsGo|3301|
 |7|<img src="https://github.com/kevwan.png" width=50 height=50>|https://github.com/kevwan/tproxy|3181|
@@ -32,7 +32,7 @@
 |9|<img src="https://github.com/gookit.png" width=50 height=50>|https://github.com/gookit/goutil|1871|
 |10|<img src="https://github.com/shomali11.png" width=50 height=50>|https://github.com/shomali11/slacker|811|
 |11|<img src="https://github.com/zeromicro.png" width=50 height=50>|https://github.com/zeromicro/go-queue|674|
-|12|<img src="https://github.com/bytedance.png" width=50 height=50>|https://github.com/bytedance/mockey|546|
+|12|<img src="https://github.com/bytedance.png" width=50 height=50>|https://github.com/bytedance/mockey|547|
 |13|<img src="https://github.com/gookit.png" width=50 height=50>|https://github.com/gookit/config|524|
 |14|<img src="https://github.com/Snowflake-Labs.png" width=50 height=50>|https://github.com/Snowflake-Labs/terraform-provider-snowflake|507|
 |15|<img src="https://github.com/gookit.png" width=50 height=50>|https://github.com/gookit/event|493|

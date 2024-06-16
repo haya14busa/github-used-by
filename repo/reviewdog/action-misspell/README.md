@@ -4,38 +4,38 @@
 
 
 
-## [reviewdog/action-misspell](https://github.com/reviewdog/action-misspell) [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-misspell/shieldsio.json)](https://github.com/haya14busa/github-used-by/repo/reviewdog/action-misspell)
+## [reviewdog/action-misspell](https://github.com/reviewdog/action-misspell) [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-misspell/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-misspell)
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 2638 | 2051 | 587 | 771 |
+| 2639 | 2053 | 586 | 771 |
 
 ```md
-[![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-misspell/shieldsio.json)](https://github.com/haya14busa/github-used-by/repo/reviewdog/action-misspell)
+[![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-misspell/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-misspell)
 ```
 
 > [!CAUTION]
 > It uses dependents (Used-by) data from GitHub and usage data can be outdated.
 
-### Repos
+### Used by following repositories
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/supabase.png" width=50 height=50>|https://github.com/supabase/supabase|67704|
-|2|<img src="https://github.com/onnx.png" width=50 height=50>|https://github.com/onnx/onnx|17117|
-|3|<img src="https://github.com/ben-manes.png" width=50 height=50>|https://github.com/ben-manes/caffeine|15397|
+|1|<img src="https://github.com/supabase.png" width=50 height=50>|https://github.com/supabase/supabase|67708|
+|2|<img src="https://github.com/onnx.png" width=50 height=50>|https://github.com/onnx/onnx|17116|
+|3|<img src="https://github.com/ben-manes.png" width=50 height=50>|https://github.com/ben-manes/caffeine|15398|
 |4|<img src="https://github.com/microsoft.png" width=50 height=50>|https://github.com/microsoft/onnxruntime|13234|
-|5|<img src="https://github.com/twpayne.png" width=50 height=50>|https://github.com/twpayne/chezmoi|12088|
+|5|<img src="https://github.com/twpayne.png" width=50 height=50>|https://github.com/twpayne/chezmoi|12090|
 |6|<img src="https://github.com/rook.png" width=50 height=50>|https://github.com/rook/rook|12043|
 |7|<img src="https://github.com/danluu.png" width=50 height=50>|https://github.com/danluu/post-mortems|11142|
-|8|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|7521|
+|8|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|7522|
 |9|<img src="https://github.com/ko-build.png" width=50 height=50>|https://github.com/ko-build/ko|7365|
 |10|<img src="https://github.com/project-chip.png" width=50 height=50>|https://github.com/project-chip/connectedhomeip|7118|
-|11|<img src="https://github.com/qdm12.png" width=50 height=50>|https://github.com/qdm12/gluetun|6588|
+|11|<img src="https://github.com/qdm12.png" width=50 height=50>|https://github.com/qdm12/gluetun|6589|
 |12|<img src="https://github.com/Lissy93.png" width=50 height=50>|https://github.com/Lissy93/awesome-privacy|6184|
-|13|<img src="https://github.com/shuaibiyy.png" width=50 height=50>|https://github.com/shuaibiyy/awesome-tf|5290|
+|13|<img src="https://github.com/shuaibiyy.png" width=50 height=50>|https://github.com/shuaibiyy/awesome-tf|5291|
 |14|<img src="https://github.com/prest.png" width=50 height=50>|https://github.com/prest/prest|4136|
-|15|<img src="https://github.com/google.png" width=50 height=50>|https://github.com/google/go-containerregistry|3006|
+|15|<img src="https://github.com/google.png" width=50 height=50>|https://github.com/google/go-containerregistry|3007|
 |16|<img src="https://github.com/x-motemen.png" width=50 height=50>|https://github.com/x-motemen/ghq|3003|
 |17|<img src="https://github.com/miguelbalboa.png" width=50 height=50>|https://github.com/miguelbalboa/rfid|2701|
 |18|<img src="https://github.com/megaease.png" width=50 height=50>|https://github.com/megaease/easeprobe|2041|
@@ -45,7 +45,7 @@
 |22|<img src="https://github.com/qdm12.png" width=50 height=50>|https://github.com/qdm12/ddns-updater|1418|
 |23|<img src="https://github.com/microsoft.png" width=50 height=50>|https://github.com/microsoft/Olive|1323|
 |24|<img src="https://github.com/nextcloud.png" width=50 height=50>|https://github.com/nextcloud/vm|1273|
-|25|<img src="https://github.com/fortran-lang.png" width=50 height=50>|https://github.com/fortran-lang/stdlib|1003|
+|25|<img src="https://github.com/fortran-lang.png" width=50 height=50>|https://github.com/fortran-lang/stdlib|1004|
 |26|<img src="https://github.com/latchset.png" width=50 height=50>|https://github.com/latchset/clevis|828|
 |27|<img src="https://github.com/mattn.png" width=50 height=50>|https://github.com/mattn/goveralls|780|
 |28|<img src="https://github.com/K-Phoen.png" width=50 height=50>|https://github.com/K-Phoen/grabana|651|
@@ -60,7 +60,7 @@
 |37|<img src="https://github.com/datanymizer.png" width=50 height=50>|https://github.com/datanymizer/datanymizer|496|
 |38|<img src="https://github.com/twilio-labs.png" width=50 height=50>|https://github.com/twilio-labs/paste|427|
 |39|<img src="https://github.com/K-Phoen.png" width=50 height=50>|https://github.com/K-Phoen/dark|419|
-|40|<img src="https://github.com/zigcc.png" width=50 height=50>|https://github.com/zigcc/awesome-zig|401|
+|40|<img src="https://github.com/zigcc.png" width=50 height=50>|https://github.com/zigcc/awesome-zig|402|
 |41|<img src="https://github.com/liquidz.png" width=50 height=50>|https://github.com/liquidz/antq|391|
 |42|<img src="https://github.com/textileio.png" width=50 height=50>|https://github.com/textileio/powergate|383|
 |43|<img src="https://github.com/tyru.png" width=50 height=50>|https://github.com/tyru/caw.vim|377|
@@ -76,7 +76,7 @@
 |53|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/percona-backup-mongodb|251|
 |54|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/percona-postgresql-operator|251|
 |55|<img src="https://github.com/go-shiori.png" width=50 height=50>|https://github.com/go-shiori/obelisk|243|
-|56|<img src="https://github.com/microsoft.png" width=50 height=50>|https://github.com/microsoft/onnxscript|239|
+|56|<img src="https://github.com/microsoft.png" width=50 height=50>|https://github.com/microsoft/onnxscript|240|
 |57|<img src="https://github.com/spring1843.png" width=50 height=50>|https://github.com/spring1843/go-dsa|236|
 |58|<img src="https://github.com/jellydn.png" width=50 height=50>|https://github.com/jellydn/next-app-starter|212|
 |59|<img src="https://github.com/north-road.png" width=50 height=50>|https://github.com/north-road/slyr|206|

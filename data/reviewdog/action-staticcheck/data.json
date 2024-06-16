@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/zeromicro/go-zero",
-      "stars": 27987
+      "stars": 27989
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
@@ -16,7 +16,7 @@
     },
     {
       "url": "https://github.com/golang-jwt/jwt",
-      "stars": 6609
+      "stars": 6611
     },
     {
       "url": "https://github.com/cloudwego/hertz",
@@ -48,7 +48,7 @@
     },
     {
       "url": "https://github.com/bytedance/mockey",
-      "stars": 546
+      "stars": 547
     },
     {
       "url": "https://github.com/gookit/config",

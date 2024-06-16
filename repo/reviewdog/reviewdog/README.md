@@ -4,24 +4,24 @@
 
 
 
-## [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/reviewdog/shieldsio.json)](https://github.com/haya14busa/github-used-by/repo/reviewdog/reviewdog)
+## [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/reviewdog/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/reviewdog)
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
 | 235 | 158 | 77 | 64 |
 
 ```md
-[![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/reviewdog/shieldsio.json)](https://github.com/haya14busa/github-used-by/repo/reviewdog/reviewdog)
+[![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/reviewdog/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/reviewdog)
 ```
 
 > [!CAUTION]
 > It uses dependents (Used-by) data from GitHub and usage data can be outdated.
 
-### Repos
+### Used by following repositories
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/FerretDB.png" width=50 height=50>|https://github.com/FerretDB/FerretDB|8669|
+|1|<img src="https://github.com/FerretDB.png" width=50 height=50>|https://github.com/FerretDB/FerretDB|8671|
 |2|<img src="https://github.com/go-reform.png" width=50 height=50>|https://github.com/go-reform/reform|1441|
 |3|<img src="https://github.com/elastic.png" width=50 height=50>|https://github.com/elastic/apm-server|1170|
 |4|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/mongodb_exporter|1116|

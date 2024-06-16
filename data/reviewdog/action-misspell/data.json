@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/supabase/supabase",
-      "stars": 67704
+      "stars": 67708
     },
     {
       "url": "https://github.com/onnx/onnx",
-      "stars": 17117
+      "stars": 17116
     },
     {
       "url": "https://github.com/ben-manes/caffeine",
-      "stars": 15397
+      "stars": 15398
     },
     {
       "url": "https://github.com/microsoft/onnxruntime",
@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/twpayne/chezmoi",
-      "stars": 12088
+      "stars": 12090
     },
     {
       "url": "https://github.com/rook/rook",
@@ -32,7 +32,7 @@
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7521
+      "stars": 7522
     },
     {
       "url": "https://github.com/ko-build/ko",
@@ -44,7 +44,7 @@
     },
     {
       "url": "https://github.com/qdm12/gluetun",
-      "stars": 6588
+      "stars": 6589
     },
     {
       "url": "https://github.com/Lissy93/awesome-privacy",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/shuaibiyy/awesome-tf",
-      "stars": 5290
+      "stars": 5291
     },
     {
       "url": "https://github.com/prest/prest",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/google/go-containerregistry",
-      "stars": 3006
+      "stars": 3007
     },
     {
       "url": "https://github.com/x-motemen/ghq",
@@ -100,7 +100,7 @@
     },
     {
       "url": "https://github.com/fortran-lang/stdlib",
-      "stars": 1003
+      "stars": 1004
     },
     {
       "url": "https://github.com/latchset/clevis",
@@ -160,7 +160,7 @@
     },
     {
       "url": "https://github.com/zigcc/awesome-zig",
-      "stars": 401
+      "stars": 402
     },
     {
       "url": "https://github.com/liquidz/antq",
@@ -224,7 +224,7 @@
     },
     {
       "url": "https://github.com/microsoft/onnxscript",
-      "stars": 239
+      "stars": 240
     },
     {
       "url": "https://github.com/spring1843/go-dsa",
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 2638,
-    "public": 2051,
-    "private": 587,
+    "total": 2639,
+    "public": 2053,
+    "private": 586,
     "more_than_zero_star": 771
   }
 }

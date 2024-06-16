@@ -1,0 +1,156 @@
+{
+  "owner": "reviewdog",
+  "repo": "action-tfsec",
+  "repos": [
+    {
+      "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
+      "stars": 1962
+    },
+    {
+      "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
+      "stars": 193
+    },
+    {
+      "url": "https://github.com/grafana/k8s-monitoring-helm",
+      "stars": 126
+    },
+    {
+      "url": "https://github.com/timoa/terraform-oci-vscode-server",
+      "stars": 26
+    },
+    {
+      "url": "https://github.com/rhythmictech/terraform-aws-secure-password",
+      "stars": 18
+    },
+    {
+      "url": "https://github.com/rhythmictech/terraform-aws-imagebuilder-pipeline",
+      "stars": 18
+    },
+    {
+      "url": "https://github.com/GrantBirki/k8s-discord",
+      "stars": 17
+    },
+    {
+      "url": "https://github.com/rallyware/terraform-argocd-aws-eks-cluster-bootstrap",
+      "stars": 16
+    },
+    {
+      "url": "https://github.com/sammcj/scripts",
+      "stars": 14
+    },
+    {
+      "url": "https://github.com/rribeiro1/terraform-aws-budget-alarms",
+      "stars": 13
+    },
+    {
+      "url": "https://github.com/rhythmictech/terraform-terraform-template",
+      "stars": 13
+    },
+    {
+      "url": "https://github.com/timoa/homelab",
+      "stars": 12
+    },
+    {
+      "url": "https://github.com/Vlaaaaaaad/terraform-aws-fargate-refinery",
+      "stars": 10
+    },
+    {
+      "url": "https://github.com/sammcj/smart_diskinfo",
+      "stars": 9
+    },
+    {
+      "url": "https://github.com/GrantBirki/errbot",
+      "stars": 9
+    },
+    {
+      "url": "https://github.com/liatrio/terraform-caf-azure",
+      "stars": 8
+    },
+    {
+      "url": "https://github.com/sammcj/zsh-bootstrap",
+      "stars": 8
+    },
+    {
+      "url": "https://github.com/rhythmictech/terraform-aws-okta-sso",
+      "stars": 8
+    },
+    {
+      "url": "https://github.com/GrantBirki/k8s-kong-terraform",
+      "stars": 8
+    },
+    {
+      "url": "https://github.com/rhythmictech/terraform-aws-cis-cloudwatch-monitors",
+      "stars": 8
+    },
+    {
+      "url": "https://github.com/rhythmictech/terraform-aws-backend",
+      "stars": 7
+    },
+    {
+      "url": "https://github.com/Azure-Terraform/terraform-helm-linkerd",
+      "stars": 7
+    },
+    {
+      "url": "https://github.com/rhythmictech/terraform-terraform-errorcheck",
+      "stars": 7
+    },
+    {
+      "url": "https://github.com/rhythmictech/terraform-aws-cloudtrail-logging",
+      "stars": 7
+    },
+    {
+      "url": "https://github.com/rhythmictech/terraform-aws-alb-ecs-task",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/rhythmictech/terraform-aws-ssm-patch-manager",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/rhythmictech/terraform-aws-nexus",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/jharmison-redhat/disconnected-openshift-testbed",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/sammcj/sqs-message-action",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/nuvibit/github-terraform-workflows",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/hgsgtk/tf-guardduty",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/rhythmictech/terraform-aws-efs-filesystem",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/rhythmictech/terraform-aws-elb-cognito-auth",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/rhythmictech/terraform-aws-1password-scim-bridge",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/rhythmictech/terraform-aws-eks-cluster",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/rhythmictech/terraform-aws-nessus-appliance",
+      "stars": 5
+    }
+  ],
+  "count": {
+    "total": 349,
+    "public": 237,
+    "private": 112,
+    "more_than_zero_star": 104
+  }
+}

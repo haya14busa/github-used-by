@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 68784
+      "stars": 68786
     },
     {
       "url": "https://github.com/go-gorm/gorm",
-      "stars": 35883
+      "stars": 35885
     },
     {
       "url": "https://github.com/gofiber/fiber",
-      "stars": 31911
+      "stars": 31914
     },
     {
       "url": "https://github.com/GoogleCloudPlatform/terraformer",
@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7521
+      "stars": 7522
     },
     {
       "url": "https://github.com/runatlantis/atlantis",
@@ -32,11 +32,11 @@
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 6052
+      "stars": 6053
     },
     {
       "url": "https://github.com/kyverno/kyverno",
-      "stars": 5261
+      "stars": 5262
     },
     {
       "url": "https://github.com/k8sgpt-ai/k8sgpt",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/go-gorm/gen",
-      "stars": 2124
+      "stars": 2125
     },
     {
       "url": "https://github.com/PeerDB-io/peerdb",

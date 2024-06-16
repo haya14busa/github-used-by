@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 68784
+      "stars": 68786
     },
     {
       "url": "https://github.com/ben-manes/caffeine",
-      "stars": 15397
+      "stars": 15398
     },
     {
       "url": "https://github.com/neondatabase/neon",
-      "stars": 13039
+      "stars": 13044
     },
     {
       "url": "https://github.com/semgrep/semgrep",
@@ -96,7 +96,7 @@
     },
     {
       "url": "https://github.com/nginxinc/nginx-gateway-fabric",
-      "stars": 394
+      "stars": 395
     },
     {
       "url": "https://github.com/k0sproject/k0sctl",
