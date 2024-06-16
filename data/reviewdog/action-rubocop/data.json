@@ -1,0 +1,276 @@
+{
+  "owner": "reviewdog",
+  "repo": "action-rubocop",
+  "repos": [
+    {
+      "url": "https://github.com/forem/forem",
+      "stars": 21682
+    },
+    {
+      "url": "https://github.com/activeadmin/activeadmin",
+      "stars": 9459
+    },
+    {
+      "url": "https://github.com/CartoDB/cartodb",
+      "stars": 2736
+    },
+    {
+      "url": "https://github.com/activeadmin/inherited_resources",
+      "stars": 2709
+    },
+    {
+      "url": "https://github.com/ytti/oxidized",
+      "stars": 2662
+    },
+    {
+      "url": "https://github.com/chromebrew/chromebrew",
+      "stars": 2265
+    },
+    {
+      "url": "https://github.com/otwcode/otwarchive",
+      "stars": 1281
+    },
+    {
+      "url": "https://github.com/k1LoW/awspec",
+      "stars": 1167
+    },
+    {
+      "url": "https://github.com/openfoodfoundation/openfoodnetwork",
+      "stars": 1079
+    },
+    {
+      "url": "https://github.com/activeadmin/arbre",
+      "stars": 754
+    },
+    {
+      "url": "https://github.com/zilverline/sequent",
+      "stars": 536
+    },
+    {
+      "url": "https://github.com/mysociety/alaveteli",
+      "stars": 385
+    },
+    {
+      "url": "https://github.com/galaxyproject/training-material",
+      "stars": 296
+    },
+    {
+      "url": "https://github.com/YusukeIwaki/puppeteer-ruby",
+      "stars": 274
+    },
+    {
+      "url": "https://github.com/Retrospring/retrospring",
+      "stars": 209
+    },
+    {
+      "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
+      "stars": 187
+    },
+    {
+      "url": "https://github.com/vmware/dod-compliance-and-automation",
+      "stars": 138
+    },
+    {
+      "url": "https://github.com/ytti/oxidized-web",
+      "stars": 118
+    },
+    {
+      "url": "https://github.com/hlascelles/que-scheduler",
+      "stars": 112
+    },
+    {
+      "url": "https://github.com/GetStream/stream-ruby",
+      "stars": 85
+    },
+    {
+      "url": "https://github.com/chanzuckerberg/czid-web",
+      "stars": 78
+    },
+    {
+      "url": "https://github.com/openHPI/codeocean",
+      "stars": 62
+    },
+    {
+      "url": "https://github.com/Unleash/unleash-client-ruby",
+      "stars": 58
+    },
+    {
+      "url": "https://github.com/Drieam/rspec-github",
+      "stars": 56
+    },
+    {
+      "url": "https://github.com/veuelive/veue",
+      "stars": 55
+    },
+    {
+      "url": "https://github.com/puzzle/puzzletime",
+      "stars": 44
+    },
+    {
+      "url": "https://github.com/gabriel-dehan/dyson-sphere-blueprints",
+      "stars": 40
+    },
+    {
+      "url": "https://github.com/machinio/solrb",
+      "stars": 39
+    },
+    {
+      "url": "https://github.com/discorb-lib/discorb",
+      "stars": 37
+    },
+    {
+      "url": "https://github.com/mysociety/whatdotheyknow-theme",
+      "stars": 30
+    },
+    {
+      "url": "https://github.com/GetStream/stream-chat-ruby",
+      "stars": 29
+    },
+    {
+      "url": "https://github.com/cloudfoundry/app-autoscaler-release",
+      "stars": 26
+    },
+    {
+      "url": "https://github.com/neinteractiveliterature/intercode",
+      "stars": 23
+    },
+    {
+      "url": "https://github.com/bitjourney/mato",
+      "stars": 22
+    },
+    {
+      "url": "https://github.com/mrsool/redis_hash_store",
+      "stars": 21
+    },
+    {
+      "url": "https://github.com/workato/workato-connector-sdk",
+      "stars": 21
+    },
+    {
+      "url": "https://github.com/oddcamp/mrml-rails",
+      "stars": 17
+    },
+    {
+      "url": "https://github.com/glowfic-constellation/glowfic",
+      "stars": 16
+    },
+    {
+      "url": "https://github.com/fog/fog-libvirt",
+      "stars": 16
+    },
+    {
+      "url": "https://github.com/skcc321/deploy_pin",
+      "stars": 15
+    },
+    {
+      "url": "https://github.com/RubyRaider/ruby_raider",
+      "stars": 14
+    },
+    {
+      "url": "https://github.com/thooams/ui_bibz",
+      "stars": 13
+    },
+    {
+      "url": "https://github.com/mihailpozarski/chilean-rutify",
+      "stars": 13
+    },
+    {
+      "url": "https://github.com/rwx-research/rspec-abq",
+      "stars": 12
+    },
+    {
+      "url": "https://github.com/vol1ura/Sat_9am_5km",
+      "stars": 12
+    },
+    {
+      "url": "https://github.com/ukazap/permisi",
+      "stars": 12
+    },
+    {
+      "url": "https://github.com/eScholarship/jschol",
+      "stars": 10
+    },
+    {
+      "url": "https://github.com/mainio/ratonvirus-clamby",
+      "stars": 10
+    },
+    {
+      "url": "https://github.com/Church-of-Evan/the-bishop",
+      "stars": 9
+    },
+    {
+      "url": "https://github.com/phac-nml/irida-next",
+      "stars": 8
+    },
+    {
+      "url": "https://github.com/mh-mobile/event_follow",
+      "stars": 8
+    },
+    {
+      "url": "https://github.com/Narnach/groupie",
+      "stars": 8
+    },
+    {
+      "url": "https://github.com/sunnyfounder/boxenn",
+      "stars": 7
+    },
+    {
+      "url": "https://github.com/momentohq/client-sdk-ruby",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/Strappazzon/www",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/ayarotsky/rack-shield",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/ytti/asetus",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/openHPI/codeharbor",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/goodscary/firstrubyfriend",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/SwedbankPay/swedbank-pay-design-guide-jekyll-theme",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/simonneutert/Joda",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/ibm-skills-network/sn_filterable",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/Giving-Coupons/giving-coupons",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/sevenc-nanashi/voicevox.rb",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/seasonedcc/croods-rails",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/openheritage/open-plaques-3",
+      "stars": 5
+    }
+  ],
+  "count": {
+    "total": 597,
+    "public": 452,
+    "private": 145,
+    "more_than_zero_star": 142
+  }
+}

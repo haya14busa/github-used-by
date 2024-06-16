@@ -1,0 +1,160 @@
+{
+  "owner": "reviewdog",
+  "repo": "reviewdog",
+  "repos": [
+    {
+      "url": "https://github.com/FerretDB/FerretDB",
+      "stars": 8669
+    },
+    {
+      "url": "https://github.com/go-reform/reform",
+      "stars": 1441
+    },
+    {
+      "url": "https://github.com/elastic/apm-server",
+      "stars": 1170
+    },
+    {
+      "url": "https://github.com/percona/mongodb_exporter",
+      "stars": 1116
+    },
+    {
+      "url": "https://github.com/percona/pmm",
+      "stars": 572
+    },
+    {
+      "url": "https://github.com/percona/proxysql_exporter",
+      "stars": 104
+    },
+    {
+      "url": "https://github.com/percona/everest",
+      "stars": 78
+    },
+    {
+      "url": "https://github.com/elastic/fleet-server",
+      "stars": 76
+    },
+    {
+      "url": "https://github.com/elastic/Machinebeat",
+      "stars": 70
+    },
+    {
+      "url": "https://github.com/mercari/go-emv-code",
+      "stars": 64
+    },
+    {
+      "url": "https://github.com/percona/mysqld_exporter",
+      "stars": 63
+    },
+    {
+      "url": "https://github.com/m-mizutani/goast",
+      "stars": 57
+    },
+    {
+      "url": "https://github.com/scorestack/scorestack",
+      "stars": 40
+    },
+    {
+      "url": "https://github.com/percona/pmm-managed",
+      "stars": 36
+    },
+    {
+      "url": "https://github.com/percona/pmm-agent",
+      "stars": 35
+    },
+    {
+      "url": "https://github.com/hatappi/gomodoro",
+      "stars": 24
+    },
+    {
+      "url": "https://github.com/percona/everest-operator",
+      "stars": 23
+    },
+    {
+      "url": "https://github.com/percona/promconfig",
+      "stars": 23
+    },
+    {
+      "url": "https://github.com/percona/percona-everest-backend",
+      "stars": 17
+    },
+    {
+      "url": "https://github.com/kazuminn/vulsbeat",
+      "stars": 17
+    },
+    {
+      "url": "https://github.com/SAP/sap-hana-compatibility-layer-for-mongodb-wire-protocol",
+      "stars": 14
+    },
+    {
+      "url": "https://github.com/percona/postgres_exporter",
+      "stars": 13
+    },
+    {
+      "url": "https://github.com/micnncim/bitbrew",
+      "stars": 11
+    },
+    {
+      "url": "https://github.com/percona/qan-api2",
+      "stars": 11
+    },
+    {
+      "url": "https://github.com/percona/pmm-admin",
+      "stars": 11
+    },
+    {
+      "url": "https://github.com/FerretDB/dance",
+      "stars": 11
+    },
+    {
+      "url": "https://github.com/tuxiedev/stocksbeat",
+      "stars": 9
+    },
+    {
+      "url": "https://github.com/jaakkoo/macoslogbeat",
+      "stars": 8
+    },
+    {
+      "url": "https://github.com/AlekSi/yubikey",
+      "stars": 8
+    },
+    {
+      "url": "https://github.com/percona/dbaas-operator",
+      "stars": 7
+    },
+    {
+      "url": "https://github.com/FerretDB/github-actions",
+      "stars": 7
+    },
+    {
+      "url": "https://github.com/stric-co/phishbeat",
+      "stars": 7
+    },
+    {
+      "url": "https://github.com/srvc/ery",
+      "stars": 7
+    },
+    {
+      "url": "https://github.com/percona/percona-everest-cli",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/shelmangroup/run-with-secrets",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/chennqqi/filebeat.nsq.output",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/eleven26/rds_exporter",
+      "stars": 5
+    }
+  ],
+  "count": {
+    "total": 235,
+    "public": 158,
+    "private": 77,
+    "more_than_zero_star": 64
+  }
+}
