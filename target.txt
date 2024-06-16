@@ -10,3 +10,14 @@ reviewdog/action-shfmt
 reviewdog/action-staticcheck
 reviewdog/action-misspell
 reviewdog/action-typos
+reviewdog/action-trivy
+reviewdog/action-tfsec
+reviewdog/action-hadolint
+reviewdog/action-flake8
+reviewdog/action-vint
+reviewdog/action-languagetool
+reviewdog/action-tflint
+reviewdog/action-ansiblelint
+reviewdog/action-brakeman
+reviewdog/action-stylelint
+reviewdog/action-detect-secrets
