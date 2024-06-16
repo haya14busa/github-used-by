@@ -1,0 +1,13 @@
+{{ $repos := (ds "repos") }}
+{{ $owner := .Env.OWNER }}
+
+## [{{$owner}}](https://github.com/{{$owner}})
+
+> [!CAUTION]
+> It uses dependents (Used-by) data from GitHub and usage data can be outdated.
+
+### Used by following repositories
+
+| # | Icon | URL | Stars |
+| -- | -- | -- | -- | {{ range $i, $r := $repos }}
+|{{add $i 1}}|<img src="{{regexp.Replace "/[^/]*$" ".png" $r.url}}" width=50 height=50>|{{$r.url}}|{{$r.stars}}|{{ end }}

@@ -23,6 +23,7 @@ jobs:
       - run: ./update_shieldsio_all.sh
       - run: ./update_repo_templates_all.sh
       - run: ./update_top_readme.sh
+      - run: ./update_owner_page_all.sh
       - name: Commit and Push
         run: |
           # https://github.com/actions/checkout?tab=readme-ov-file#push-a-commit-using-the-built-in-token
