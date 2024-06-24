@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "1=$1"
 DATA_FILE=$1
 MD_FILE="${DATA_FILE/data.json/README.md}"
 MD_FILE="${MD_FILE/data/repo}"
