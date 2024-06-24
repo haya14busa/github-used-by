@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 534
+      "stars": 535
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",

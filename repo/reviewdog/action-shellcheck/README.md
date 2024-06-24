@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 2772 | 1926 | 846 | 592 |
+| 2774 | 1927 | 847 | 591 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-shellcheck/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-shellcheck)
@@ -21,27 +21,27 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/netdata|69229|
-|2|<img src="https://github.com/wechaty.png" width=50 height=50>|https://github.com/wechaty/wechaty|19450|
-|3|<img src="https://github.com/onnx.png" width=50 height=50>|https://github.com/onnx/onnx|17152|
-|4|<img src="https://github.com/microsoft.png" width=50 height=50>|https://github.com/microsoft/onnxruntime|13312|
-|5|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|7541|
-|6|<img src="https://github.com/phpmyadmin.png" width=50 height=50>|https://github.com/phpmyadmin/phpmyadmin|7107|
-|7|<img src="https://github.com/Ralim.png" width=50 height=50>|https://github.com/Ralim/IronOS|6952|
-|8|<img src="https://github.com/openvinotoolkit.png" width=50 height=50>|https://github.com/openvinotoolkit/openvino|6255|
-|9|<img src="https://github.com/actions.png" width=50 height=50>|https://github.com/actions/actions-runner-controller|4380|
-|10|<img src="https://github.com/hfg-gmuend.png" width=50 height=50>|https://github.com/hfg-gmuend/openmoji|3827|
+|1|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/netdata|69248|
+|2|<img src="https://github.com/wechaty.png" width=50 height=50>|https://github.com/wechaty/wechaty|19459|
+|3|<img src="https://github.com/onnx.png" width=50 height=50>|https://github.com/onnx/onnx|17158|
+|4|<img src="https://github.com/microsoft.png" width=50 height=50>|https://github.com/microsoft/onnxruntime|13332|
+|5|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|7547|
+|6|<img src="https://github.com/phpmyadmin.png" width=50 height=50>|https://github.com/phpmyadmin/phpmyadmin|7108|
+|7|<img src="https://github.com/Ralim.png" width=50 height=50>|https://github.com/Ralim/IronOS|6953|
+|8|<img src="https://github.com/openvinotoolkit.png" width=50 height=50>|https://github.com/openvinotoolkit/openvino|6264|
+|9|<img src="https://github.com/actions.png" width=50 height=50>|https://github.com/actions/actions-runner-controller|4381|
+|10|<img src="https://github.com/hfg-gmuend.png" width=50 height=50>|https://github.com/hfg-gmuend/openmoji|3828|
 |11|<img src="https://github.com/stellargraph.png" width=50 height=50>|https://github.com/stellargraph/stellargraph|2916|
-|12|<img src="https://github.com/chromebrew.png" width=50 height=50>|https://github.com/chromebrew/chromebrew|2266|
+|12|<img src="https://github.com/chromebrew.png" width=50 height=50>|https://github.com/chromebrew/chromebrew|2268|
 |13|<img src="https://github.com/huan.png" width=50 height=50>|https://github.com/huan/docker-wechat|2228|
-|14|<img src="https://github.com/RichiH.png" width=50 height=50>|https://github.com/RichiH/vcsh|2164|
-|15|<img src="https://github.com/dotenv-linter.png" width=50 height=50>|https://github.com/dotenv-linter/dotenv-linter|1784|
-|16|<img src="https://github.com/wabarc.png" width=50 height=50>|https://github.com/wabarc/wayback|1692|
+|14|<img src="https://github.com/RichiH.png" width=50 height=50>|https://github.com/RichiH/vcsh|2166|
+|15|<img src="https://github.com/dotenv-linter.png" width=50 height=50>|https://github.com/dotenv-linter/dotenv-linter|1785|
+|16|<img src="https://github.com/wabarc.png" width=50 height=50>|https://github.com/wabarc/wayback|1693|
 |17|<img src="https://github.com/magma.png" width=50 height=50>|https://github.com/magma/magma|1656|
-|18|<img src="https://github.com/tj-actions.png" width=50 height=50>|https://github.com/tj-actions/changed-files|1589|
+|18|<img src="https://github.com/tj-actions.png" width=50 height=50>|https://github.com/tj-actions/changed-files|1590|
 |19|<img src="https://github.com/4paradigm.png" width=50 height=50>|https://github.com/4paradigm/OpenMLDB|1561|
-|20|<img src="https://github.com/microsoft.png" width=50 height=50>|https://github.com/microsoft/Olive|1330|
-|21|<img src="https://github.com/nextcloud.png" width=50 height=50>|https://github.com/nextcloud/vm|1275|
+|20|<img src="https://github.com/microsoft.png" width=50 height=50>|https://github.com/microsoft/Olive|1332|
+|21|<img src="https://github.com/nextcloud.png" width=50 height=50>|https://github.com/nextcloud/vm|1274|
 |22|<img src="https://github.com/mattn.png" width=50 height=50>|https://github.com/mattn/vim-lsp-settings|1258|
 |23|<img src="https://github.com/controlplaneio.png" width=50 height=50>|https://github.com/controlplaneio/kubesec|1181|
 |24|<img src="https://github.com/controlplaneio.png" width=50 height=50>|https://github.com/controlplaneio/simulator|898|
@@ -54,7 +54,7 @@
 |31|<img src="https://github.com/andyholmes.png" width=50 height=50>|https://github.com/andyholmes/valent|490|
 |32|<img src="https://github.com/devsecopsmaturitymodel.png" width=50 height=50>|https://github.com/devsecopsmaturitymodel/DevSecOps-MaturityModel|459|
 |33|<img src="https://github.com/openebs.png" width=50 height=50>|https://github.com/openebs/zfs-localpv|384|
-|34|<img src="https://github.com/ivan-hc.png" width=50 height=50>|https://github.com/ivan-hc/AM|354|
+|34|<img src="https://github.com/ivan-hc.png" width=50 height=50>|https://github.com/ivan-hc/AM|356|
 |35|<img src="https://github.com/whoan.png" width=50 height=50>|https://github.com/whoan/docker-build-with-cache-action|338|
 |36|<img src="https://github.com/opentibiabr.png" width=50 height=50>|https://github.com/opentibiabr/canary|336|
 |37|<img src="https://github.com/opentibiabr.png" width=50 height=50>|https://github.com/opentibiabr/otservbr-global-archived|333|
@@ -64,7 +64,7 @@
 |41|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/percona-backup-mongodb|252|
 |42|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/percona-postgresql-operator|251|
 |43|<img src="https://github.com/go-shiori.png" width=50 height=50>|https://github.com/go-shiori/obelisk|246|
-|44|<img src="https://github.com/microsoft.png" width=50 height=50>|https://github.com/microsoft/onnxscript|239|
+|44|<img src="https://github.com/microsoft.png" width=50 height=50>|https://github.com/microsoft/onnxscript|240|
 |45|<img src="https://github.com/openebs.png" width=50 height=50>|https://github.com/openebs/lvm-localpv|234|
 |46|<img src="https://github.com/bgruening.png" width=50 height=50>|https://github.com/bgruening/docker-galaxy-stable|224|
 |47|<img src="https://github.com/carpenike.png" width=50 height=50>|https://github.com/carpenike/k8s-gitops|222|
@@ -73,11 +73,11 @@
 |50|<img src="https://github.com/meiji163.png" width=50 height=50>|https://github.com/meiji163/gh-notify|190|
 |51|<img src="https://github.com/ros-tooling.png" width=50 height=50>|https://github.com/ros-tooling/cross_compile|184|
 |52|<img src="https://github.com/openebs-archive.png" width=50 height=50>|https://github.com/openebs-archive/maya|184|
-|53|<img src="https://github.com/openebs-archive.png" width=50 height=50>|https://github.com/openebs-archive/node-disk-manager|183|
-|54|<img src="https://github.com/hadolint.png" width=50 height=50>|https://github.com/hadolint/hadolint-action|182|
-|55|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/go.d.plugin|161|
+|53|<img src="https://github.com/hadolint.png" width=50 height=50>|https://github.com/hadolint/hadolint-action|183|
+|54|<img src="https://github.com/openebs-archive.png" width=50 height=50>|https://github.com/openebs-archive/node-disk-manager|183|
+|55|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/go.d.plugin|162|
 |56|<img src="https://github.com/hardbyte.png" width=50 height=50>|https://github.com/hardbyte/netchecks|154|
-|57|<img src="https://github.com/unfor19.png" width=50 height=50>|https://github.com/unfor19/bargs|153|
+|57|<img src="https://github.com/unfor19.png" width=50 height=50>|https://github.com/unfor19/bargs|154|
 |58|<img src="https://github.com/tj-actions.png" width=50 height=50>|https://github.com/tj-actions/verify-changed-files|148|
 |59|<img src="https://github.com/opentibiabr.png" width=50 height=50>|https://github.com/opentibiabr/otservbr-global|143|
 |60|<img src="https://github.com/openebs-archive.png" width=50 height=50>|https://github.com/openebs-archive/jiva|141|
@@ -88,12 +88,12 @@
 |65|<img src="https://github.com/raspbernetes.png" width=50 height=50>|https://github.com/raspbernetes/k8s-cluster-installation|113|
 |66|<img src="https://github.com/hlascelles.png" width=50 height=50>|https://github.com/hlascelles/que-scheduler|112|
 |67|<img src="https://github.com/phoenix-rtos.png" width=50 height=50>|https://github.com/phoenix-rtos/phoenix-rtos-kernel|111|
-|68|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/percona-server-mysql-operator|106|
-|69|<img src="https://github.com/rustdesk.png" width=50 height=50>|https://github.com/rustdesk/rustdesk-server-pro|104|
+|68|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/percona-server-mysql-operator|108|
+|69|<img src="https://github.com/rustdesk.png" width=50 height=50>|https://github.com/rustdesk/rustdesk-server-pro|106|
 |70|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/action-tflint|104|
 |71|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/action-suggester|100|
 |72|<img src="https://github.com/openebs-archive.png" width=50 height=50>|https://github.com/openebs-archive/cstor-operators|93|
-|73|<img src="https://github.com/kroxylicious.png" width=50 height=50>|https://github.com/kroxylicious/kroxylicious|88|
+|73|<img src="https://github.com/kroxylicious.png" width=50 height=50>|https://github.com/kroxylicious/kroxylicious|89|
 |74|<img src="https://github.com/yuroyoro.png" width=50 height=50>|https://github.com/yuroyoro/svm|87|
 |75|<img src="https://github.com/leosuncin.png" width=50 height=50>|https://github.com/leosuncin/nest-api-example|85|
 |76|<img src="https://github.com/tj-actions.png" width=50 height=50>|https://github.com/tj-actions/eslint-changed-files|80|

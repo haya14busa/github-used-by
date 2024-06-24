@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 69229
+      "stars": 69248
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 12941
+      "stars": 12942
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
@@ -16,11 +16,11 @@
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 5499
+      "stars": 5501
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 3049
+      "stars": 3052
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1784
+      "stars": 1785
     },
     {
       "url": "https://github.com/magma/magma",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/netdata/go.d.plugin",
-      "stars": 161
+      "stars": 162
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 1783,
+    "total": 1784,
     "public": 1271,
-    "private": 512,
-    "more_than_zero_star": 337
+    "private": 513,
+    "more_than_zero_star": 336
   }
 }

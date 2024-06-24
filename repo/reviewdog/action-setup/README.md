@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 2277 | 1614 | 663 | 517 |
+| 2283 | 1620 | 663 | 517 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-setup/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-setup)
@@ -21,44 +21,44 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/go-gorm.png" width=50 height=50>|https://github.com/go-gorm/gorm|35944|
-|2|<img src="https://github.com/carbon-language.png" width=50 height=50>|https://github.com/carbon-language/carbon-lang|32338|
-|3|<img src="https://github.com/tqdm.png" width=50 height=50>|https://github.com/tqdm/tqdm|27812|
-|4|<img src="https://github.com/matplotlib.png" width=50 height=50>|https://github.com/matplotlib/matplotlib|19581|
-|5|<img src="https://github.com/neovide.png" width=50 height=50>|https://github.com/neovide/neovide|12294|
-|6|<img src="https://github.com/mdn.png" width=50 height=50>|https://github.com/mdn/content|8941|
-|7|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|7541|
+|1|<img src="https://github.com/go-gorm.png" width=50 height=50>|https://github.com/go-gorm/gorm|35960|
+|2|<img src="https://github.com/carbon-language.png" width=50 height=50>|https://github.com/carbon-language/carbon-lang|32335|
+|3|<img src="https://github.com/tqdm.png" width=50 height=50>|https://github.com/tqdm/tqdm|27816|
+|4|<img src="https://github.com/matplotlib.png" width=50 height=50>|https://github.com/matplotlib/matplotlib|19585|
+|5|<img src="https://github.com/neovide.png" width=50 height=50>|https://github.com/neovide/neovide|12300|
+|6|<img src="https://github.com/mdn.png" width=50 height=50>|https://github.com/mdn/content|8942|
+|7|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|7547|
 |8|<img src="https://github.com/TheWidlarzGroup.png" width=50 height=50>|https://github.com/TheWidlarzGroup/react-native-video|7057|
-|9|<img src="https://github.com/mrousavy.png" width=50 height=50>|https://github.com/mrousavy/react-native-vision-camera|6853|
-|10|<img src="https://github.com/mrousavy.png" width=50 height=50>|https://github.com/mrousavy/react-native-mmkv|5463|
-|11|<img src="https://github.com/encoredev.png" width=50 height=50>|https://github.com/encoredev/encore|5033|
-|12|<img src="https://github.com/sezanzeb.png" width=50 height=50>|https://github.com/sezanzeb/input-remapper|3470|
+|9|<img src="https://github.com/mrousavy.png" width=50 height=50>|https://github.com/mrousavy/react-native-vision-camera|6864|
+|10|<img src="https://github.com/mrousavy.png" width=50 height=50>|https://github.com/mrousavy/react-native-mmkv|5466|
+|11|<img src="https://github.com/encoredev.png" width=50 height=50>|https://github.com/encoredev/encore|5036|
+|12|<img src="https://github.com/sezanzeb.png" width=50 height=50>|https://github.com/sezanzeb/input-remapper|3473|
 |13|<img src="https://github.com/nutsdb.png" width=50 height=50>|https://github.com/nutsdb/nutsdb|3318|
-|14|<img src="https://github.com/TagStudioDev.png" width=50 height=50>|https://github.com/TagStudioDev/TagStudio|2901|
-|15|<img src="https://github.com/dooboolab-community.png" width=50 height=50>|https://github.com/dooboolab-community/react-native-iap|2726|
-|16|<img src="https://github.com/holistics.png" width=50 height=50>|https://github.com/holistics/dbml|2505|
+|14|<img src="https://github.com/TagStudioDev.png" width=50 height=50>|https://github.com/TagStudioDev/TagStudio|2912|
+|15|<img src="https://github.com/dooboolab-community.png" width=50 height=50>|https://github.com/dooboolab-community/react-native-iap|2728|
+|16|<img src="https://github.com/holistics.png" width=50 height=50>|https://github.com/holistics/dbml|2508|
 |17|<img src="https://github.com/google.png" width=50 height=50>|https://github.com/google/exposure-notifications-server|2374|
-|18|<img src="https://github.com/obytes.png" width=50 height=50>|https://github.com/obytes/react-native-template-obytes|1847|
+|18|<img src="https://github.com/obytes.png" width=50 height=50>|https://github.com/obytes/react-native-template-obytes|1853|
 |19|<img src="https://github.com/keptn.png" width=50 height=50>|https://github.com/keptn/keptn|1797|
-|20|<img src="https://github.com/mdn.png" width=50 height=50>|https://github.com/mdn/translated-content|1638|
+|20|<img src="https://github.com/mdn.png" width=50 height=50>|https://github.com/mdn/translated-content|1640|
 |21|<img src="https://github.com/apache.png" width=50 height=50>|https://github.com/apache/incubator-seata-go|1500|
 |22|<img src="https://github.com/gwtproject.png" width=50 height=50>|https://github.com/gwtproject/gwt|1484|
-|23|<img src="https://github.com/lidatong.png" width=50 height=50>|https://github.com/lidatong/dataclasses-json|1329|
+|23|<img src="https://github.com/lidatong.png" width=50 height=50>|https://github.com/lidatong/dataclasses-json|1330|
 |24|<img src="https://github.com/sermant-io.png" width=50 height=50>|https://github.com/sermant-io/Sermant|1141|
-|25|<img src="https://github.com/mrousavy.png" width=50 height=50>|https://github.com/mrousavy/react-native-multithreading|1115|
-|26|<img src="https://github.com/wartremover.png" width=50 height=50>|https://github.com/wartremover/wartremover|1066|
+|25|<img src="https://github.com/mrousavy.png" width=50 height=50>|https://github.com/mrousavy/react-native-multithreading|1116|
+|26|<img src="https://github.com/wartremover.png" width=50 height=50>|https://github.com/wartremover/wartremover|1067|
 |27|<img src="https://github.com/pods-framework.png" width=50 height=50>|https://github.com/pods-framework/pods|1053|
-|28|<img src="https://github.com/yytypescript.png" width=50 height=50>|https://github.com/yytypescript/book|919|
+|28|<img src="https://github.com/yytypescript.png" width=50 height=50>|https://github.com/yytypescript/book|920|
 |29|<img src="https://github.com/h3poteto.png" width=50 height=50>|https://github.com/h3poteto/whalebird-desktop|888|
-|30|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/CircuitVerse|827|
-|31|<img src="https://github.com/grafana.png" width=50 height=50>|https://github.com/grafana/grafana-operator|814|
-|32|<img src="https://github.com/numandev1.png" width=50 height=50>|https://github.com/numandev1/react-native-compressor|812|
-|33|<img src="https://github.com/allegro.png" width=50 height=50>|https://github.com/allegro/hermes|800|
-|34|<img src="https://github.com/OSGeo.png" width=50 height=50>|https://github.com/OSGeo/grass|783|
+|30|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/CircuitVerse|828|
+|31|<img src="https://github.com/grafana.png" width=50 height=50>|https://github.com/grafana/grafana-operator|815|
+|32|<img src="https://github.com/numandev1.png" width=50 height=50>|https://github.com/numandev1/react-native-compressor|813|
+|33|<img src="https://github.com/allegro.png" width=50 height=50>|https://github.com/allegro/hermes|801|
+|34|<img src="https://github.com/OSGeo.png" width=50 height=50>|https://github.com/OSGeo/grass|784|
 |35|<img src="https://github.com/Javacord.png" width=50 height=50>|https://github.com/Javacord/Javacord|749|
 |36|<img src="https://github.com/vran-dev.png" width=50 height=50>|https://github.com/vran-dev/databasir|731|
-|37|<img src="https://github.com/arturo-lang.png" width=50 height=50>|https://github.com/arturo-lang/arturo|670|
-|38|<img src="https://github.com/markus-wa.png" width=50 height=50>|https://github.com/markus-wa/demoinfocs-golang|666|
+|37|<img src="https://github.com/arturo-lang.png" width=50 height=50>|https://github.com/arturo-lang/arturo|671|
+|38|<img src="https://github.com/markus-wa.png" width=50 height=50>|https://github.com/markus-wa/demoinfocs-golang|667|
 |39|<img src="https://github.com/geeksblabla.png" width=50 height=50>|https://github.com/geeksblabla/awesome-morocco|638|
 |40|<img src="https://github.com/margelo.png" width=50 height=50>|https://github.com/margelo/react-native-quick-crypto|636|
 |41|<img src="https://github.com/DroidKaigi.png" width=50 height=50>|https://github.com/DroidKaigi/conference-app-2023|633|
@@ -88,7 +88,7 @@
 |65|<img src="https://github.com/th0th.png" width=50 height=50>|https://github.com/th0th/poeticmetric|213|
 |66|<img src="https://github.com/toshimaru.png" width=50 height=50>|https://github.com/toshimaru/nyan|210|
 |67|<img src="https://github.com/sci-hub-p2p.png" width=50 height=50>|https://github.com/sci-hub-p2p/sci-hub-p2p|197|
-|68|<img src="https://github.com/alchemyplatform.png" width=50 height=50>|https://github.com/alchemyplatform/aa-sdk|193|
+|68|<img src="https://github.com/alchemyplatform.png" width=50 height=50>|https://github.com/alchemyplatform/aa-sdk|194|
 |69|<img src="https://github.com/Nextjs-ja-translation.png" width=50 height=50>|https://github.com/Nextjs-ja-translation/Nextjs-ja-translation-docs|159|
 |70|<img src="https://github.com/opentibiabr.png" width=50 height=50>|https://github.com/opentibiabr/otservbr-global|143|
 |71|<img src="https://github.com/blocknotes.png" width=50 height=50>|https://github.com/blocknotes/activeadmin_quill_editor|143|

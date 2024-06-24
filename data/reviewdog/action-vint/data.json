@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/preservim/nerdtree",
-      "stars": 19357
+      "stars": 19364
     },
     {
       "url": "https://github.com/vim-airline/vim-airline",
-      "stars": 17684
+      "stars": 17685
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
@@ -16,11 +16,11 @@
     },
     {
       "url": "https://github.com/preservim/tagbar",
-      "stars": 6077
+      "stars": 6079
     },
     {
       "url": "https://github.com/preservim/nerdcommenter",
-      "stars": 4942
+      "stars": 4943
     },
     {
       "url": "https://github.com/preservim/vim-markdown",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://github.com/prabirshrestha/vim-lsp",
-      "stars": 3043
+      "stars": 3045
     },
     {
       "url": "https://github.com/liuchengxu/space-vim",
@@ -48,7 +48,7 @@
     },
     {
       "url": "https://github.com/vim-airline/vim-airline-themes",
-      "stars": 2025
+      "stars": 2026
     },
     {
       "url": "https://github.com/liuchengxu/vista.vim",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://github.com/yutkat/dotfiles",
-      "stars": 707
+      "stars": 705
     },
     {
       "url": "https://github.com/lambdalisue/vim-gina",

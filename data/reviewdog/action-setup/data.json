@@ -4,31 +4,31 @@
   "repos": [
     {
       "url": "https://github.com/go-gorm/gorm",
-      "stars": 35944
+      "stars": 35960
     },
     {
       "url": "https://github.com/carbon-language/carbon-lang",
-      "stars": 32338
+      "stars": 32335
     },
     {
       "url": "https://github.com/tqdm/tqdm",
-      "stars": 27812
+      "stars": 27816
     },
     {
       "url": "https://github.com/matplotlib/matplotlib",
-      "stars": 19581
+      "stars": 19585
     },
     {
       "url": "https://github.com/neovide/neovide",
-      "stars": 12294
+      "stars": 12300
     },
     {
       "url": "https://github.com/mdn/content",
-      "stars": 8941
+      "stars": 8942
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7541
+      "stars": 7547
     },
     {
       "url": "https://github.com/TheWidlarzGroup/react-native-video",
@@ -36,19 +36,19 @@
     },
     {
       "url": "https://github.com/mrousavy/react-native-vision-camera",
-      "stars": 6853
+      "stars": 6864
     },
     {
       "url": "https://github.com/mrousavy/react-native-mmkv",
-      "stars": 5463
+      "stars": 5466
     },
     {
       "url": "https://github.com/encoredev/encore",
-      "stars": 5033
+      "stars": 5036
     },
     {
       "url": "https://github.com/sezanzeb/input-remapper",
-      "stars": 3470
+      "stars": 3473
     },
     {
       "url": "https://github.com/nutsdb/nutsdb",
@@ -56,15 +56,15 @@
     },
     {
       "url": "https://github.com/TagStudioDev/TagStudio",
-      "stars": 2901
+      "stars": 2912
     },
     {
       "url": "https://github.com/dooboolab-community/react-native-iap",
-      "stars": 2726
+      "stars": 2728
     },
     {
       "url": "https://github.com/holistics/dbml",
-      "stars": 2505
+      "stars": 2508
     },
     {
       "url": "https://github.com/google/exposure-notifications-server",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/obytes/react-native-template-obytes",
-      "stars": 1847
+      "stars": 1853
     },
     {
       "url": "https://github.com/keptn/keptn",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/mdn/translated-content",
-      "stars": 1638
+      "stars": 1640
     },
     {
       "url": "https://github.com/apache/incubator-seata-go",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/lidatong/dataclasses-json",
-      "stars": 1329
+      "stars": 1330
     },
     {
       "url": "https://github.com/sermant-io/Sermant",
@@ -100,11 +100,11 @@
     },
     {
       "url": "https://github.com/mrousavy/react-native-multithreading",
-      "stars": 1115
+      "stars": 1116
     },
     {
       "url": "https://github.com/wartremover/wartremover",
-      "stars": 1066
+      "stars": 1067
     },
     {
       "url": "https://github.com/pods-framework/pods",
@@ -112,7 +112,7 @@
     },
     {
       "url": "https://github.com/yytypescript/book",
-      "stars": 919
+      "stars": 920
     },
     {
       "url": "https://github.com/h3poteto/whalebird-desktop",
@@ -120,23 +120,23 @@
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 827
+      "stars": 828
     },
     {
       "url": "https://github.com/grafana/grafana-operator",
-      "stars": 814
+      "stars": 815
     },
     {
       "url": "https://github.com/numandev1/react-native-compressor",
-      "stars": 812
+      "stars": 813
     },
     {
       "url": "https://github.com/allegro/hermes",
-      "stars": 800
+      "stars": 801
     },
     {
       "url": "https://github.com/OSGeo/grass",
-      "stars": 783
+      "stars": 784
     },
     {
       "url": "https://github.com/Javacord/Javacord",
@@ -148,11 +148,11 @@
     },
     {
       "url": "https://github.com/arturo-lang/arturo",
-      "stars": 670
+      "stars": 671
     },
     {
       "url": "https://github.com/markus-wa/demoinfocs-golang",
-      "stars": 666
+      "stars": 667
     },
     {
       "url": "https://github.com/geeksblabla/awesome-morocco",
@@ -272,7 +272,7 @@
     },
     {
       "url": "https://github.com/alchemyplatform/aa-sdk",
-      "stars": 193
+      "stars": 194
     },
     {
       "url": "https://github.com/Nextjs-ja-translation/Nextjs-ja-translation-docs",
@@ -404,8 +404,8 @@
     }
   ],
   "count": {
-    "total": 2277,
-    "public": 1614,
+    "total": 2283,
+    "public": 1620,
     "private": 663,
     "more_than_zero_star": 517
   }

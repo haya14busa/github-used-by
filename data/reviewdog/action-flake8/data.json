@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 69229
+      "stars": 69248
     },
     {
       "url": "https://github.com/microsoft/onnxruntime",
-      "stars": 13312
+      "stars": 13332
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 5938
+      "stars": 5939
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 481
+      "stars": 483
     },
     {
       "url": "https://github.com/PersiaML/PERSIA",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 85
+      "stars": 86
     },
     {
       "url": "https://github.com/ehpor/hcipy",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
-      "stars": 75
+      "stars": 76
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",

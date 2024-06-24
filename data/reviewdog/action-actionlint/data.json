@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 69229
+      "stars": 69248
     },
     {
       "url": "https://github.com/ben-manes/caffeine",
-      "stars": 15426
+      "stars": 15432
     },
     {
       "url": "https://github.com/neondatabase/neon",
-      "stars": 13102
+      "stars": 13114
     },
     {
       "url": "https://github.com/semgrep/semgrep",
-      "stars": 10009
+      "stars": 10014
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/datahub-project/datahub",
-      "stars": 9399
+      "stars": 9405
     },
     {
       "url": "https://github.com/draios/sysdig",
@@ -36,23 +36,19 @@
     },
     {
       "url": "https://github.com/nginxinc/kubernetes-ingress",
-      "stars": 4568
+      "stars": 4572
     },
     {
       "url": "https://github.com/googleapis/google-cloud-go",
-      "stars": 3647
+      "stars": 3648
     },
     {
       "url": "https://github.com/x-motemen/ghq",
-      "stars": 3009
+      "stars": 3011
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
       "stars": 2710
-    },
-    {
-      "url": "https://github.com/prymitive/karma",
-      "stars": 2253
     },
     {
       "url": "https://github.com/nginxinc/nginx-prometheus-exporter",
@@ -64,7 +60,7 @@
     },
     {
       "url": "https://github.com/fluencelabs/nox",
-      "stars": 973
+      "stars": 972
     },
     {
       "url": "https://github.com/activeadmin/arbre",
@@ -91,16 +87,16 @@
       "stars": 399
     },
     {
+      "url": "https://github.com/nginxinc/nginx-gateway-fabric",
+      "stars": 398
+    },
+    {
       "url": "https://github.com/javierjulio/textarea-autosize",
       "stars": 397
     },
     {
-      "url": "https://github.com/nginxinc/nginx-gateway-fabric",
-      "stars": 396
-    },
-    {
       "url": "https://github.com/k0sproject/k0sctl",
-      "stars": 349
+      "stars": 350
     },
     {
       "url": "https://github.com/xapi-project/xen-api",
@@ -116,7 +112,7 @@
     },
     {
       "url": "https://github.com/nao1215/gup",
-      "stars": 293
+      "stars": 294
     },
     {
       "url": "https://github.com/activeadmin/demo.activeadmin.info",
@@ -152,7 +148,7 @@
     },
     {
       "url": "https://github.com/netdata/go.d.plugin",
-      "stars": 161
+      "stars": 162
     },
     {
       "url": "https://github.com/fluencelabs/aqua",
@@ -236,7 +232,7 @@
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 91
+      "stars": 92
     },
     {
       "url": "https://github.com/zigbee-alliance/distributed-compliance-ledger",
@@ -311,6 +307,10 @@
       "stars": 57
     },
     {
+      "url": "https://github.com/hoof-ai/hoof",
+      "stars": 53
+    },
+    {
       "url": "https://github.com/nginxinc/nginx-asg-sync",
       "stars": 53
     },
@@ -319,12 +319,12 @@
       "stars": 53
     },
     {
-      "url": "https://github.com/hoof-ai/hoof",
-      "stars": 52
-    },
-    {
       "url": "https://github.com/mesosphere/mindthegap",
       "stars": 51
+    },
+    {
+      "url": "https://github.com/confidential-containers/trustee",
+      "stars": 50
     },
     {
       "url": "https://github.com/cloudlatex-team/cloudlatex-vscode-extension",
@@ -341,10 +341,6 @@
     {
       "url": "https://github.com/shogo82148/actions-setup-mysql",
       "stars": 50
-    },
-    {
-      "url": "https://github.com/confidential-containers/trustee",
-      "stars": 49
     },
     {
       "url": "https://github.com/nginxinc/nginx-plus-go-client",
@@ -401,12 +397,16 @@
     {
       "url": "https://github.com/nao1215/mimixbox",
       "stars": 33
+    },
+    {
+      "url": "https://github.com/sksat/mc.yohane.su",
+      "stars": 33
     }
   ],
   "count": {
-    "total": 1716,
-    "public": 1223,
-    "private": 493,
-    "more_than_zero_star": 585
+    "total": 1721,
+    "public": 1227,
+    "private": 494,
+    "more_than_zero_star": 586
   }
 }

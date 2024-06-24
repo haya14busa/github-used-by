@@ -36,7 +36,7 @@
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 91
+      "stars": 92
     },
     {
       "url": "https://github.com/provectus/sak-kubeflow",
@@ -248,8 +248,8 @@
     }
   ],
   "count": {
-    "total": 578,
-    "public": 377,
+    "total": 579,
+    "public": 378,
     "private": 201,
     "more_than_zero_star": 155
   }

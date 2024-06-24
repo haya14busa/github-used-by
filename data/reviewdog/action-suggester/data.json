@@ -4,39 +4,39 @@
   "repos": [
     {
       "url": "https://github.com/neovim/neovim",
-      "stars": 79364
+      "stars": 79393
     },
     {
       "url": "https://github.com/starship/starship",
-      "stars": 41986
+      "stars": 42004
     },
     {
       "url": "https://github.com/svc-develop-team/so-vits-svc",
-      "stars": 24547
+      "stars": 24568
     },
     {
       "url": "https://github.com/OI-wiki/OI-wiki",
-      "stars": 19171
+      "stars": 19185
     },
     {
       "url": "https://github.com/slint-ui/slint",
-      "stars": 15782
+      "stars": 15815
     },
     {
       "url": "https://github.com/Mrs4s/go-cqhttp",
-      "stars": 10292
+      "stars": 10295
     },
     {
       "url": "https://github.com/optuna/optuna",
-      "stars": 10040
+      "stars": 10049
     },
     {
       "url": "https://github.com/CleverRaven/Cataclysm-DDA",
-      "stars": 9818
+      "stars": 9911
     },
     {
       "url": "https://github.com/openvinotoolkit/openvino",
-      "stars": 6255
+      "stars": 6264
     },
     {
       "url": "https://github.com/TuringLang/Turing.jl",
@@ -44,7 +44,7 @@
     },
     {
       "url": "https://github.com/JuliaPlots/Plots.jl",
-      "stars": 1812
+      "stars": 1811
     },
     {
       "url": "https://github.com/getkirby/kirby",
@@ -52,11 +52,11 @@
     },
     {
       "url": "https://github.com/leanprover-community/mathlib4",
-      "stars": 1135
+      "stars": 1141
     },
     {
       "url": "https://github.com/wartremover/wartremover",
-      "stars": 1066
+      "stars": 1067
     },
     {
       "url": "https://github.com/secure-software-engineering/phasar",
@@ -67,11 +67,11 @@
       "stars": 868
     },
     {
-      "url": "https://github.com/openblack/openblack",
-      "stars": 851
+      "url": "https://github.com/Kotlin-Android-Open-Source/MVI-Coroutines-Flow",
+      "stars": 853
     },
     {
-      "url": "https://github.com/Kotlin-Android-Open-Source/MVI-Coroutines-Flow",
+      "url": "https://github.com/openblack/openblack",
       "stars": 851
     },
     {
@@ -96,7 +96,7 @@
     },
     {
       "url": "https://github.com/ITensor/ITensors.jl",
-      "stars": 496
+      "stars": 497
     },
     {
       "url": "https://github.com/DroidKaigi/conference-app-2022",
@@ -136,7 +136,7 @@
     },
     {
       "url": "https://github.com/JuliaGaussianProcesses/KernelFunctions.jl",
-      "stars": 264
+      "stars": 265
     },
     {
       "url": "https://github.com/CUBRID/cubrid",
@@ -160,7 +160,7 @@
     },
     {
       "url": "https://github.com/TuringLang/AdvancedHMC.jl",
-      "stars": 221
+      "stars": 222
     },
     {
       "url": "https://github.com/iamed2/LibPQ.jl",
@@ -172,19 +172,19 @@
     },
     {
       "url": "https://github.com/pinnacle-comp/pinnacle",
-      "stars": 205
+      "stars": 206
+    },
+    {
+      "url": "https://github.com/hoc081098/GithubSearchKMM-Compose-SwiftUI",
+      "stars": 192
     },
     {
       "url": "https://github.com/TuringLang/Bijectors.jl",
       "stars": 191
     },
     {
-      "url": "https://github.com/hoc081098/GithubSearchKMM-Compose-SwiftUI",
-      "stars": 191
-    },
-    {
       "url": "https://github.com/SOZ-Faut-etre-Sub/SOZ-FiveM-Server",
-      "stars": 181
+      "stars": 182
     },
     {
       "url": "https://github.com/noseglasses/elf_diff",
@@ -256,7 +256,7 @@
     },
     {
       "url": "https://github.com/percona/percona-server-mysql-operator",
-      "stars": 106
+      "stars": 108
     },
     {
       "url": "https://github.com/arviz-devs/ArviZ.jl",
@@ -284,7 +284,7 @@
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 85
+      "stars": 86
     },
     {
       "url": "https://github.com/DeployGate/gradle-deploygate-plugin",
@@ -304,7 +304,7 @@
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
-      "stars": 75
+      "stars": 76
     },
     {
       "url": "https://github.com/petertrr/kotlin-multiplatform-diff",
@@ -379,12 +379,12 @@
       "stars": 50
     },
     {
-      "url": "https://github.com/JuliaDiff/ChainRulesTestUtils.jl",
+      "url": "https://github.com/microsoft/DataScienceProblems",
       "stars": 50
     },
     {
-      "url": "https://github.com/microsoft/DataScienceProblems",
-      "stars": 49
+      "url": "https://github.com/JuliaDiff/ChainRulesTestUtils.jl",
+      "stars": 50
     },
     {
       "url": "https://github.com/ITensor/ITensorTDVP.jl",
@@ -405,8 +405,8 @@
   ],
   "count": {
     "total": 1269,
-    "public": 948,
-    "private": 321,
+    "public": 947,
+    "private": 322,
     "more_than_zero_star": 401
   }
 }

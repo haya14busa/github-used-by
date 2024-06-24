@@ -21,18 +21,18 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/preservim.png" width=50 height=50>|https://github.com/preservim/nerdtree|19357|
-|2|<img src="https://github.com/vim-airline.png" width=50 height=50>|https://github.com/vim-airline/vim-airline|17684|
+|1|<img src="https://github.com/preservim.png" width=50 height=50>|https://github.com/preservim/nerdtree|19364|
+|2|<img src="https://github.com/vim-airline.png" width=50 height=50>|https://github.com/vim-airline/vim-airline|17685|
 |3|<img src="https://github.com/easymotion.png" width=50 height=50>|https://github.com/easymotion/vim-easymotion|7386|
-|4|<img src="https://github.com/preservim.png" width=50 height=50>|https://github.com/preservim/tagbar|6077|
-|5|<img src="https://github.com/preservim.png" width=50 height=50>|https://github.com/preservim/nerdcommenter|4942|
+|4|<img src="https://github.com/preservim.png" width=50 height=50>|https://github.com/preservim/tagbar|6079|
+|5|<img src="https://github.com/preservim.png" width=50 height=50>|https://github.com/preservim/nerdcommenter|4943|
 |6|<img src="https://github.com/preservim.png" width=50 height=50>|https://github.com/preservim/vim-markdown|4637|
-|7|<img src="https://github.com/prabirshrestha.png" width=50 height=50>|https://github.com/prabirshrestha/vim-lsp|3043|
+|7|<img src="https://github.com/prabirshrestha.png" width=50 height=50>|https://github.com/prabirshrestha/vim-lsp|3045|
 |8|<img src="https://github.com/liuchengxu.png" width=50 height=50>|https://github.com/liuchengxu/space-vim|2855|
 |9|<img src="https://github.com/preservim.png" width=50 height=50>|https://github.com/preservim/vimux|2189|
 |10|<img src="https://github.com/liuchengxu.png" width=50 height=50>|https://github.com/liuchengxu/vim-clap|2081|
 |11|<img src="https://github.com/Xuyuanp.png" width=50 height=50>|https://github.com/Xuyuanp/nerdtree-git-plugin|2077|
-|12|<img src="https://github.com/vim-airline.png" width=50 height=50>|https://github.com/vim-airline/vim-airline-themes|2025|
+|12|<img src="https://github.com/vim-airline.png" width=50 height=50>|https://github.com/vim-airline/vim-airline-themes|2026|
 |13|<img src="https://github.com/liuchengxu.png" width=50 height=50>|https://github.com/liuchengxu/vista.vim|1875|
 |14|<img src="https://github.com/OmniSharp.png" width=50 height=50>|https://github.com/OmniSharp/omnisharp-vim|1675|
 |15|<img src="https://github.com/kassio.png" width=50 height=50>|https://github.com/kassio/neoterm|1292|
@@ -41,7 +41,7 @@
 |18|<img src="https://github.com/whatyouhide.png" width=50 height=50>|https://github.com/whatyouhide/vim-gotham|1231|
 |19|<img src="https://github.com/artur-shaik.png" width=50 height=50>|https://github.com/artur-shaik/vim-javacomplete2|978|
 |20|<img src="https://github.com/prabirshrestha.png" width=50 height=50>|https://github.com/prabirshrestha/asyncomplete.vim|908|
-|21|<img src="https://github.com/yutkat.png" width=50 height=50>|https://github.com/yutkat/dotfiles|707|
+|21|<img src="https://github.com/yutkat.png" width=50 height=50>|https://github.com/yutkat/dotfiles|705|
 |22|<img src="https://github.com/lambdalisue.png" width=50 height=50>|https://github.com/lambdalisue/vim-gina|691|
 |23|<img src="https://github.com/vim-jp.png" width=50 height=50>|https://github.com/vim-jp/vital.vim|569|
 |24|<img src="https://github.com/tyru.png" width=50 height=50>|https://github.com/tyru/caw.vim|378|

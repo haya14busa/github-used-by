@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/forem/forem",
-      "stars": 21699
+      "stars": 21708
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2266
+      "stars": 2268
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
@@ -36,7 +36,7 @@
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1081
+      "stars": 1082
     },
     {
       "url": "https://github.com/activeadmin/arbre",
@@ -68,7 +68,7 @@
     },
     {
       "url": "https://github.com/vmware/dod-compliance-and-automation",
-      "stars": 138
+      "stars": 139
     },
     {
       "url": "https://github.com/ytti/oxidized-web",
@@ -108,7 +108,7 @@
     },
     {
       "url": "https://github.com/gabriel-dehan/dyson-sphere-blueprints",
-      "stars": 40
+      "stars": 41
     },
     {
       "url": "https://github.com/machinio/solrb",
@@ -268,8 +268,8 @@
     }
   ],
   "count": {
-    "total": 600,
-    "public": 454,
+    "total": 602,
+    "public": 456,
     "private": 146,
     "more_than_zero_star": 142
   }

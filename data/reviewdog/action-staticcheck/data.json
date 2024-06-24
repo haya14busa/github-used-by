@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/zeromicro/go-zero",
-      "stars": 28052
+      "stars": 28061
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7541
+      "stars": 7547
     },
     {
       "url": "https://github.com/cloudwego/kitex",
-      "stars": 6767
+      "stars": 6772
     },
     {
       "url": "https://github.com/golang-jwt/jwt",
-      "stars": 6631
+      "stars": 6637
     },
     {
       "url": "https://github.com/cloudwego/hertz",
-      "stars": 4847
+      "stars": 4851
     },
     {
       "url": "https://github.com/TarsCloud/TarsGo",
@@ -28,15 +28,15 @@
     },
     {
       "url": "https://github.com/kevwan/tproxy",
-      "stars": 3182
+      "stars": 3184
     },
     {
       "url": "https://github.com/x-motemen/ghq",
-      "stars": 3009
+      "stars": 3011
     },
     {
       "url": "https://github.com/gookit/goutil",
-      "stars": 1878
+      "stars": 1881
     },
     {
       "url": "https://github.com/shomali11/slacker",
@@ -44,11 +44,11 @@
     },
     {
       "url": "https://github.com/zeromicro/go-queue",
-      "stars": 676
+      "stars": 677
     },
     {
       "url": "https://github.com/bytedance/mockey",
-      "stars": 549
+      "stars": 550
     },
     {
       "url": "https://github.com/gookit/config",
@@ -64,11 +64,11 @@
     },
     {
       "url": "https://github.com/cloudwego/shmipc-go",
-      "stars": 383
+      "stars": 384
     },
     {
       "url": "https://github.com/gookit/gcli",
-      "stars": 362
+      "stars": 363
     },
     {
       "url": "https://github.com/gookit/slog",
@@ -120,7 +120,7 @@
     },
     {
       "url": "https://github.com/openconfig/gnmic",
-      "stars": 160
+      "stars": 161
     },
     {
       "url": "https://github.com/Songmu/horenso",
@@ -168,7 +168,7 @@
     },
     {
       "url": "https://github.com/cloudwego/cwgo",
-      "stars": 88
+      "stars": 89
     },
     {
       "url": "https://github.com/kevwan/stream",
@@ -212,7 +212,7 @@
     },
     {
       "url": "https://github.com/jlucaspains/go-rest-template",
-      "stars": 46
+      "stars": 47
     },
     {
       "url": "https://github.com/kevwan/go-zero",
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 672,
-    "public": 529,
+    "total": 674,
+    "public": 531,
     "private": 143,
-    "more_than_zero_star": 216
+    "more_than_zero_star": 218
   }
 }
