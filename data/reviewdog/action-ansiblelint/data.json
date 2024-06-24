@@ -11,16 +11,16 @@
       "stars": 77
     },
     {
+      "url": "https://github.com/TerrorSquad/ansible-post-installation",
+      "stars": 15
+    },
+    {
       "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
       "stars": 14
     },
     {
-      "url": "https://github.com/TerrorSquad/ansible-post-installation",
-      "stars": 13
-    },
-    {
       "url": "https://github.com/idiv-biodiversity/ansible-role-lmod",
-      "stars": 13
+      "stars": 14
     },
     {
       "url": "https://github.com/galaxyproject/ansible-postgresql-objects",

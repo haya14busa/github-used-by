@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 531
+      "stars": 534
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -12,11 +12,11 @@
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
-      "stars": 124
+      "stars": 125
     },
     {
       "url": "https://github.com/reviewdog/action-suggester",
-      "stars": 99
+      "stars": 100
     },
     {
       "url": "https://github.com/Shemnei/punktf",
@@ -28,11 +28,11 @@
     },
     {
       "url": "https://github.com/jonathanmorley/asdf-pnpm",
-      "stars": 59
+      "stars": 60
     },
     {
       "url": "https://github.com/lure-sh/lure-repo",
-      "stars": 50
+      "stars": 51
     },
     {
       "url": "https://github.com/sksat/compose-cd",
@@ -40,19 +40,19 @@
     },
     {
       "url": "https://github.com/franzs/fritzbox_upload_certificate",
-      "stars": 37
+      "stars": 38
+    },
+    {
+      "url": "https://github.com/EPMatt/reviewdog-action-prettier",
+      "stars": 19
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-tsc",
       "stars": 19
     },
     {
-      "url": "https://github.com/EPMatt/reviewdog-action-prettier",
-      "stars": 18
-    },
-    {
       "url": "https://github.com/mongolyy/reviewdog-action-biome",
-      "stars": 17
+      "stars": 18
     },
     {
       "url": "https://github.com/aerospike/aerospike-server-enterprise.docker",

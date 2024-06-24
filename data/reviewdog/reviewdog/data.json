@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/FerretDB/FerretDB",
-      "stars": 8671
+      "stars": 8693
     },
     {
       "url": "https://github.com/go-reform/reform",
@@ -12,15 +12,15 @@
     },
     {
       "url": "https://github.com/elastic/apm-server",
-      "stars": 1170
+      "stars": 1175
     },
     {
       "url": "https://github.com/percona/mongodb_exporter",
-      "stars": 1116
+      "stars": 1122
     },
     {
       "url": "https://github.com/percona/pmm",
-      "stars": 572
+      "stars": 574
     },
     {
       "url": "https://github.com/percona/proxysql_exporter",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://github.com/percona/everest",
-      "stars": 78
+      "stars": 81
     },
     {
       "url": "https://github.com/elastic/fleet-server",
@@ -39,12 +39,12 @@
       "stars": 70
     },
     {
-      "url": "https://github.com/mercari/go-emv-code",
+      "url": "https://github.com/percona/mysqld_exporter",
       "stars": 64
     },
     {
-      "url": "https://github.com/percona/mysqld_exporter",
-      "stars": 63
+      "url": "https://github.com/mercari/go-emv-code",
+      "stars": 64
     },
     {
       "url": "https://github.com/m-mizutani/goast",
@@ -152,8 +152,8 @@
     }
   ],
   "count": {
-    "total": 235,
-    "public": 158,
+    "total": 236,
+    "public": 159,
     "private": 77,
     "more_than_zero_star": 64
   }

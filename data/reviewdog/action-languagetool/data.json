@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7522
+      "stars": 7541
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7383
+      "stars": 7386
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1475
+      "stars": 1478
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
@@ -20,19 +20,19 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 828
+      "stars": 829
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 824
+      "stars": 827
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 398
+      "stars": 400
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 287
+      "stars": 296
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -47,12 +47,12 @@
       "stars": 142
     },
     {
-      "url": "https://github.com/CircuitVerse/Interactive-Book",
+      "url": "https://github.com/grafana/k8s-monitoring-helm",
       "stars": 132
     },
     {
-      "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 126
+      "url": "https://github.com/CircuitVerse/Interactive-Book",
+      "stars": 132
     },
     {
       "url": "https://github.com/mszostok/version",
@@ -83,16 +83,16 @@
       "stars": 55
     },
     {
+      "url": "https://github.com/shopware/docs",
+      "stars": 47
+    },
+    {
       "url": "https://github.com/stackabletech/spark-k8s-operator",
       "stars": 47
     },
     {
-      "url": "https://github.com/shopware/docs",
-      "stars": 46
-    },
-    {
       "url": "https://github.com/stackabletech/trino-operator",
-      "stars": 44
+      "stars": 46
     },
     {
       "url": "https://github.com/GStones/moke-kit",
@@ -120,7 +120,7 @@
     },
     {
       "url": "https://github.com/stackabletech/zookeeper-operator",
-      "stars": 25
+      "stars": 26
     },
     {
       "url": "https://github.com/jeertmans/rpdf",
@@ -135,11 +135,11 @@
       "stars": 24
     },
     {
-      "url": "https://github.com/stackabletech/kafka-operator",
-      "stars": 22
+      "url": "https://github.com/pkosiec/website",
+      "stars": 23
     },
     {
-      "url": "https://github.com/pkosiec/website",
+      "url": "https://github.com/stackabletech/kafka-operator",
       "stars": 22
     },
     {
@@ -151,12 +151,12 @@
       "stars": 19
     },
     {
-      "url": "https://github.com/stackabletech/airflow-operator",
+      "url": "https://github.com/stackabletech/hive-operator",
       "stars": 17
     },
     {
-      "url": "https://github.com/stackabletech/hive-operator",
-      "stars": 16
+      "url": "https://github.com/stackabletech/airflow-operator",
+      "stars": 17
     },
     {
       "url": "https://github.com/stackabletech/opa-operator",
@@ -261,8 +261,8 @@
   ],
   "count": {
     "total": 347,
-    "public": 235,
-    "private": 112,
+    "public": 234,
+    "private": 113,
     "more_than_zero_star": 109
   }
 }

@@ -4,39 +4,39 @@
   "repos": [
     {
       "url": "https://github.com/zeromicro/go-zero",
-      "stars": 27989
+      "stars": 28052
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7522
+      "stars": 7541
     },
     {
       "url": "https://github.com/cloudwego/kitex",
-      "stars": 6753
+      "stars": 6767
     },
     {
       "url": "https://github.com/golang-jwt/jwt",
-      "stars": 6611
+      "stars": 6631
     },
     {
       "url": "https://github.com/cloudwego/hertz",
-      "stars": 4829
+      "stars": 4847
     },
     {
       "url": "https://github.com/TarsCloud/TarsGo",
-      "stars": 3301
+      "stars": 3302
     },
     {
       "url": "https://github.com/kevwan/tproxy",
-      "stars": 3181
+      "stars": 3182
     },
     {
       "url": "https://github.com/x-motemen/ghq",
-      "stars": 3003
+      "stars": 3009
     },
     {
       "url": "https://github.com/gookit/goutil",
-      "stars": 1871
+      "stars": 1878
     },
     {
       "url": "https://github.com/shomali11/slacker",
@@ -44,31 +44,31 @@
     },
     {
       "url": "https://github.com/zeromicro/go-queue",
-      "stars": 674
+      "stars": 676
     },
     {
       "url": "https://github.com/bytedance/mockey",
-      "stars": 547
+      "stars": 549
     },
     {
       "url": "https://github.com/gookit/config",
-      "stars": 524
+      "stars": 527
     },
     {
       "url": "https://github.com/Snowflake-Labs/terraform-provider-snowflake",
-      "stars": 507
+      "stars": 508
     },
     {
       "url": "https://github.com/gookit/event",
-      "stars": 493
+      "stars": 495
     },
     {
       "url": "https://github.com/cloudwego/shmipc-go",
-      "stars": 382
+      "stars": 383
     },
     {
       "url": "https://github.com/gookit/gcli",
-      "stars": 363
+      "stars": 362
     },
     {
       "url": "https://github.com/gookit/slog",
@@ -76,11 +76,11 @@
     },
     {
       "url": "https://github.com/cloudwego/kitex-examples",
-      "stars": 346
+      "stars": 345
     },
     {
       "url": "https://github.com/arana-db/arana",
-      "stars": 284
+      "stars": 287
     },
     {
       "url": "https://github.com/chenquan/diskusage",
@@ -100,7 +100,7 @@
     },
     {
       "url": "https://github.com/Songmu/tagpr",
-      "stars": 200
+      "stars": 201
     },
     {
       "url": "https://github.com/cloudwego/hertz-examples",
@@ -112,7 +112,7 @@
     },
     {
       "url": "https://github.com/kevwan/mapreduce",
-      "stars": 164
+      "stars": 165
     },
     {
       "url": "https://github.com/Songmu/ecschedule",
@@ -120,7 +120,7 @@
     },
     {
       "url": "https://github.com/openconfig/gnmic",
-      "stars": 157
+      "stars": 160
     },
     {
       "url": "https://github.com/Songmu/horenso",
@@ -167,16 +167,16 @@
       "stars": 92
     },
     {
-      "url": "https://github.com/kevwan/stream",
-      "stars": 89
+      "url": "https://github.com/cloudwego/cwgo",
+      "stars": 88
     },
     {
-      "url": "https://github.com/cloudwego/cwgo",
-      "stars": 86
+      "url": "https://github.com/kevwan/stream",
+      "stars": 88
     },
     {
       "url": "https://github.com/cloudwego/fastpb",
-      "stars": 83
+      "stars": 84
     },
     {
       "url": "https://github.com/gookit/ini",
@@ -188,7 +188,7 @@
     },
     {
       "url": "https://github.com/go-gorm/opentelemetry",
-      "stars": 75
+      "stars": 76
     },
     {
       "url": "https://github.com/Ouyangan/go-zero-annotation",
@@ -287,12 +287,12 @@
       "stars": 22
     },
     {
-      "url": "https://github.com/bogosj/tesla",
+      "url": "https://github.com/golang-jwt/jwe",
       "stars": 22
     },
     {
-      "url": "https://github.com/golang-jwt/jwe",
-      "stars": 21
+      "url": "https://github.com/bogosj/tesla",
+      "stars": 22
     },
     {
       "url": "https://github.com/kitex-contrib/registry-etcd",
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 668,
-    "public": 527,
-    "private": 141,
-    "more_than_zero_star": 215
+    "total": 672,
+    "public": 529,
+    "private": 143,
+    "more_than_zero_star": 216
   }
 }

@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 68786
+      "stars": 69229
     },
     {
       "url": "https://github.com/microsoft/onnxruntime",
-      "stars": 13234
+      "stars": 13312
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 5922
+      "stars": 5938
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -20,27 +20,27 @@
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 541
+      "stars": 543
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
-      "stars": 500
+      "stars": 501
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 479
+      "stars": 481
     },
     {
       "url": "https://github.com/PersiaML/PERSIA",
-      "stars": 387
+      "stars": 388
     },
     {
       "url": "https://github.com/PAhelper/PhoenixAdult.bundle",
-      "stars": 353
+      "stars": 352
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
-      "stars": 155
+      "stars": 158
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
@@ -56,27 +56,27 @@
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 83
+      "stars": 85
     },
     {
       "url": "https://github.com/ehpor/hcipy",
-      "stars": 82
+      "stars": 83
+    },
+    {
+      "url": "https://github.com/PlasmaControl/DESC",
+      "stars": 75
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
       "stars": 74
     },
     {
-      "url": "https://github.com/PlasmaControl/DESC",
-      "stars": 74
-    },
-    {
       "url": "https://github.com/LFPy/LFPy",
-      "stars": 66
+      "stars": 67
     },
     {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
-      "stars": 54
+      "stars": 55
     },
     {
       "url": "https://github.com/ydb-platform/nbs",
@@ -87,16 +87,16 @@
       "stars": 47
     },
     {
+      "url": "https://github.com/stackabletech/trino-operator",
+      "stars": 46
+    },
+    {
       "url": "https://github.com/ut-issl/c2a-core",
       "stars": 46
     },
     {
-      "url": "https://github.com/stackabletech/trino-operator",
-      "stars": 44
-    },
-    {
       "url": "https://github.com/ThePornDatabase/scrapers",
-      "stars": 40
+      "stars": 41
     },
     {
       "url": "https://github.com/f0uriest/quadax",
@@ -108,7 +108,7 @@
     },
     {
       "url": "https://github.com/stackabletech/zookeeper-operator",
-      "stars": 25
+      "stars": 26
     },
     {
       "url": "https://github.com/stackabletech/superset-operator",
@@ -132,7 +132,11 @@
     },
     {
       "url": "https://github.com/ZPascal/grafana_api_sdk",
-      "stars": 18
+      "stars": 19
+    },
+    {
+      "url": "https://github.com/stackabletech/hive-operator",
+      "stars": 17
     },
     {
       "url": "https://github.com/stackabletech/airflow-operator",
@@ -141,10 +145,6 @@
     {
       "url": "https://github.com/danishi/dynamodb-csv",
       "stars": 17
-    },
-    {
-      "url": "https://github.com/stackabletech/hive-operator",
-      "stars": 16
     },
     {
       "url": "https://github.com/rickstaa/ros-gazebo-gym",
@@ -180,7 +180,7 @@
     },
     {
       "url": "https://github.com/rickstaa/stable-gym",
-      "stars": 11
+      "stars": 12
     },
     {
       "url": "https://github.com/ccdc-opensource/dash",
@@ -264,9 +264,9 @@
     }
   ],
   "count": {
-    "total": 400,
+    "total": 401,
     "public": 309,
-    "private": 91,
+    "private": 92,
     "more_than_zero_star": 122
   }
 }
