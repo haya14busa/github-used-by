@@ -9,11 +9,6 @@ on:
     branches:
       - fix-script
 
-permissions:
-  contents:
-    - read
-    - write
-
 jobs:
   update:
     runs-on: ubuntu-latest
