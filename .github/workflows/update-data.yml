@@ -22,7 +22,7 @@ jobs:
       - uses: aquaproj/aqua-installer@v0.6.0
         with:
           aqua_version: v2.29.0
-      - run: ./update.sh
+      # - run: ./update.sh
       - run: ./update_shieldsio_all.sh
       - run: ./update_repo_templates_all.sh
       - run: ./update_top_readme.sh
