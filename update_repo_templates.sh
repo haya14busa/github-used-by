@@ -5,5 +5,5 @@ MD_FILE="${MD_FILE/data/repo}"
 MD_DIR="${MD_FILE/README.md/}"
 
 mkdir -p "${MD_DIR}"
-echo "Proceccing ${DATE_FILE}"
+echo "Proceccing ${DATA_FILE}"
 gomplate -f tmpls/repo.tmpl -d repo="${DATA_FILE}" > "${MD_FILE}"
