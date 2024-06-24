@@ -7,4 +7,5 @@ MD_DIR="${MD_FILE/README.md/}"
 
 mkdir -p "${MD_DIR}"
 echo "Proceccing DATA_FILE=${DATA_FILE}"
-gomplate -f tmpls/repo.tmpl -d repo="${DATA_FILE}" > "${MD_FILE}"
+gomplate -v
+gomplate -f tmpls/repo.tmpl -d repo="${DATA_FILE}" # > "${MD_FILE}"
