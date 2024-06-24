@@ -10,7 +10,9 @@ on:
       - fix-script
 
 permissions:
-  contents: write
+  contents:
+    - read
+    - write
 
 jobs:
   update:
