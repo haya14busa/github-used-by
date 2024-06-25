@@ -1,7 +1,14 @@
 {{ $repos := (ds "repos") }}
 {{ $owner := .Env.OWNER }}
+{{ $shieldio_img := (printf "https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/%s/shieldsio.json" $owner) }}
+{{ $used_by_url := (print "https://github.com/haya14busa/github-used-by/tree/main/repo/" $owner) }}
+{{ $shield_badge := (printf "[![Used-by counter](%s)](%s)" $shieldio_img $used_by_url) }}
 
-## [{{$owner}}](https://github.com/{{$owner}})
+## [{{$owner}}](https://github.com/{{$owner}}) {{$shield_badge}}
+
+```md
+{{$shield_badge}}
+```
 
 > [!CAUTION]
 > It uses dependents (Used-by) data from GitHub and usage data can be outdated.

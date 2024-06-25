@@ -1,7 +1,14 @@
 
 
 
-## [reviewdog](https://github.com/reviewdog)
+
+
+
+## [reviewdog](https://github.com/reviewdog) [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog)
+
+```md
+[![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog)
+```
 
 > [!CAUTION]
 > It uses dependents (Used-by) data from GitHub and usage data can be outdated.
