@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/FerretDB/FerretDB",
-      "stars": 8704
+      "stars": 8712
     },
     {
       "url": "https://github.com/go-reform/reform",
@@ -12,15 +12,15 @@
     },
     {
       "url": "https://github.com/elastic/apm-server",
-      "stars": 1175
+      "stars": 1174
     },
     {
       "url": "https://github.com/percona/mongodb_exporter",
-      "stars": 1124
+      "stars": 1127
     },
     {
       "url": "https://github.com/percona/pmm",
-      "stars": 575
+      "stars": 578
     },
     {
       "url": "https://github.com/percona/proxysql_exporter",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://github.com/percona/everest",
-      "stars": 81
+      "stars": 84
     },
     {
       "url": "https://github.com/elastic/fleet-server",
@@ -144,7 +144,7 @@
     },
     {
       "url": "https://github.com/chennqqi/filebeat.nsq.output",
-      "stars": 5
+      "stars": 6
     },
     {
       "url": "https://github.com/eleven26/rds_exporter",
@@ -152,9 +152,9 @@
     }
   ],
   "count": {
-    "total": 236,
+    "total": 237,
     "public": 159,
-    "private": 77,
+    "private": 78,
     "more_than_zero_star": 64
   }
 }

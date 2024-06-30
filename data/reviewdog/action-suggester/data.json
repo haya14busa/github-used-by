@@ -4,55 +4,55 @@
   "repos": [
     {
       "url": "https://github.com/neovim/neovim",
-      "stars": 79393
+      "stars": 79545
     },
     {
       "url": "https://github.com/starship/starship",
-      "stars": 42004
+      "stars": 42082
     },
     {
       "url": "https://github.com/svc-develop-team/so-vits-svc",
-      "stars": 24568
+      "stars": 24622
     },
     {
       "url": "https://github.com/OI-wiki/OI-wiki",
-      "stars": 19185
+      "stars": 19254
     },
     {
       "url": "https://github.com/slint-ui/slint",
-      "stars": 15815
+      "stars": 15880
     },
     {
       "url": "https://github.com/Mrs4s/go-cqhttp",
-      "stars": 10295
+      "stars": 10310
     },
     {
       "url": "https://github.com/optuna/optuna",
-      "stars": 10049
+      "stars": 10091
     },
     {
       "url": "https://github.com/CleverRaven/Cataclysm-DDA",
-      "stars": 9911
+      "stars": 9937
     },
     {
       "url": "https://github.com/openvinotoolkit/openvino",
-      "stars": 6264
+      "stars": 6293
     },
     {
       "url": "https://github.com/TuringLang/Turing.jl",
-      "stars": 1994
+      "stars": 2001
     },
     {
       "url": "https://github.com/JuliaPlots/Plots.jl",
-      "stars": 1811
+      "stars": 1813
     },
     {
       "url": "https://github.com/getkirby/kirby",
-      "stars": 1228
+      "stars": 1230
     },
     {
       "url": "https://github.com/leanprover-community/mathlib4",
-      "stars": 1141
+      "stars": 1156
     },
     {
       "url": "https://github.com/wartremover/wartremover",
@@ -60,23 +60,23 @@
     },
     {
       "url": "https://github.com/secure-software-engineering/phasar",
-      "stars": 915
+      "stars": 916
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
-      "stars": 868
+      "stars": 869
+    },
+    {
+      "url": "https://github.com/openblack/openblack",
+      "stars": 853
     },
     {
       "url": "https://github.com/Kotlin-Android-Open-Source/MVI-Coroutines-Flow",
       "stars": 853
     },
     {
-      "url": "https://github.com/openblack/openblack",
-      "stars": 851
-    },
-    {
       "url": "https://github.com/gugod/App-perlbrew",
-      "stars": 715
+      "stars": 716
     },
     {
       "url": "https://github.com/tensorflow/io",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://github.com/DroidKaigi/conference-app-2021",
-      "stars": 642
+      "stars": 641
     },
     {
       "url": "https://github.com/bangumi/server",
@@ -92,27 +92,27 @@
     },
     {
       "url": "https://github.com/percona/percona-xtradb-cluster-operator",
-      "stars": 508
+      "stars": 509
     },
     {
       "url": "https://github.com/ITensor/ITensors.jl",
-      "stars": 497
+      "stars": 498
     },
     {
       "url": "https://github.com/DroidKaigi/conference-app-2022",
-      "stars": 491
+      "stars": 490
     },
     {
       "url": "https://github.com/JuliaDiff/ChainRules.jl",
-      "stars": 422
+      "stars": 423
     },
     {
       "url": "https://github.com/EnzymeAD/Enzyme.jl",
-      "stars": 421
+      "stars": 422
     },
     {
       "url": "https://github.com/JuliaStats/MixedModels.jl",
-      "stars": 401
+      "stars": 402
     },
     {
       "url": "https://github.com/JuliaManifolds/Manifolds.jl",
@@ -120,19 +120,19 @@
     },
     {
       "url": "https://github.com/percona/percona-server-mongodb-operator",
-      "stars": 309
+      "stars": 310
     },
     {
       "url": "https://github.com/JuliaManifolds/Manopt.jl",
-      "stars": 300
+      "stars": 301
     },
     {
       "url": "https://github.com/NREL-Sienna/PowerSystems.jl",
-      "stars": 297
+      "stars": 299
     },
     {
       "url": "https://github.com/NREL-Sienna/PowerSimulations.jl",
-      "stars": 269
+      "stars": 270
     },
     {
       "url": "https://github.com/JuliaGaussianProcesses/KernelFunctions.jl",
@@ -144,7 +144,7 @@
     },
     {
       "url": "https://github.com/Xilinx/mlir-aie",
-      "stars": 254
+      "stars": 257
     },
     {
       "url": "https://github.com/percona/percona-backup-mongodb",
@@ -152,7 +152,7 @@
     },
     {
       "url": "https://github.com/percona/percona-postgresql-operator",
-      "stars": 251
+      "stars": 252
     },
     {
       "url": "https://github.com/JuliaDiff/ChainRulesCore.jl",
@@ -168,19 +168,19 @@
     },
     {
       "url": "https://github.com/JuliaGaussianProcesses/AbstractGPs.jl",
-      "stars": 209
+      "stars": 210
     },
     {
       "url": "https://github.com/pinnacle-comp/pinnacle",
-      "stars": 206
+      "stars": 209
     },
     {
       "url": "https://github.com/hoc081098/GithubSearchKMM-Compose-SwiftUI",
-      "stars": 192
+      "stars": 198
     },
     {
       "url": "https://github.com/TuringLang/Bijectors.jl",
-      "stars": 191
+      "stars": 193
     },
     {
       "url": "https://github.com/SOZ-Faut-etre-Sub/SOZ-FiveM-Server",
@@ -192,15 +192,15 @@
     },
     {
       "url": "https://github.com/hoc081098/WeatherApp_MVI_sample",
-      "stars": 168
+      "stars": 169
     },
     {
       "url": "https://github.com/philips-software/amp-embedded-infra-lib",
-      "stars": 164
+      "stars": 165
     },
     {
       "url": "https://github.com/NREL-Sienna/PowerSimulationsDynamics.jl",
-      "stars": 163
+      "stars": 164
     },
     {
       "url": "https://github.com/denoland/manual",
@@ -247,16 +247,16 @@
       "stars": 117
     },
     {
-      "url": "https://github.com/JuliaTrustworthyAI/CounterfactualExplanations.jl",
-      "stars": 114
-    },
-    {
       "url": "https://github.com/JuliaGraphs/MultilayerGraphs.jl",
-      "stars": 114
+      "stars": 115
     },
     {
       "url": "https://github.com/percona/percona-server-mysql-operator",
-      "stars": 108
+      "stars": 115
+    },
+    {
+      "url": "https://github.com/JuliaTrustworthyAI/CounterfactualExplanations.jl",
+      "stars": 114
     },
     {
       "url": "https://github.com/arviz-devs/ArviZ.jl",
@@ -264,7 +264,7 @@
     },
     {
       "url": "https://github.com/HelgeGehring/femwell",
-      "stars": 97
+      "stars": 98
     },
     {
       "url": "https://github.com/unode/polypomo",
@@ -284,7 +284,7 @@
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 86
+      "stars": 88
     },
     {
       "url": "https://github.com/DeployGate/gradle-deploygate-plugin",
@@ -319,16 +319,16 @@
       "stars": 72
     },
     {
+      "url": "https://github.com/TuringLang/AbstractMCMC.jl",
+      "stars": 71
+    },
+    {
       "url": "https://github.com/Xilinx/mlir-air",
       "stars": 70
     },
     {
-      "url": "https://github.com/TuringLang/AbstractMCMC.jl",
-      "stars": 70
-    },
-    {
       "url": "https://github.com/TuringLang/TuringGLM.jl",
-      "stars": 69
+      "stars": 70
     },
     {
       "url": "https://github.com/shyim/danger-php",
@@ -343,12 +343,12 @@
       "stars": 67
     },
     {
-      "url": "https://github.com/Chemellia/AtomicGraphNets.jl",
+      "url": "https://github.com/reviewdog/action-setup",
       "stars": 61
     },
     {
-      "url": "https://github.com/reviewdog/action-setup",
-      "stars": 60
+      "url": "https://github.com/Chemellia/AtomicGraphNets.jl",
+      "stars": 61
     },
     {
       "url": "https://github.com/JuliaTesting/Mocking.jl",
@@ -357,6 +357,10 @@
     {
       "url": "https://github.com/TuringLang/AdvancedPS.jl",
       "stars": 55
+    },
+    {
+      "url": "https://github.com/poppingmoon/aria",
+      "stars": 52
     },
     {
       "url": "https://github.com/getkirby/cli",
@@ -388,15 +392,11 @@
     },
     {
       "url": "https://github.com/ITensor/ITensorTDVP.jl",
-      "stars": 48
+      "stars": 49
     },
     {
       "url": "https://github.com/JuliaCloud/AWSS3.jl",
       "stars": 48
-    },
-    {
-      "url": "https://github.com/poppingmoon/aria",
-      "stars": 46
     },
     {
       "url": "https://github.com/abema/compose-impression-tracker",
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 1269,
-    "public": 947,
-    "private": 322,
+    "total": 1272,
+    "public": 948,
+    "private": 324,
     "more_than_zero_star": 401
   }
 }

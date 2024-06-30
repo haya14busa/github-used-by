@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/forem/forem",
-      "stars": 21708
+      "stars": 21729
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9461
+      "stars": 9464
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
@@ -20,15 +20,15 @@
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 2667
+      "stars": 2677
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2268
+      "stars": 2269
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1289
+      "stars": 1294
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -36,19 +36,19 @@
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1082
+      "stars": 1086
     },
     {
       "url": "https://github.com/activeadmin/arbre",
-      "stars": 755
+      "stars": 756
     },
     {
       "url": "https://github.com/zilverline/sequent",
-      "stars": 536
+      "stars": 537
     },
     {
       "url": "https://github.com/mysociety/alaveteli",
-      "stars": 386
+      "stars": 385
     },
     {
       "url": "https://github.com/galaxyproject/training-material",
@@ -56,11 +56,11 @@
     },
     {
       "url": "https://github.com/YusukeIwaki/puppeteer-ruby",
-      "stars": 274
+      "stars": 275
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 210
+      "stars": 212
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
@@ -103,12 +103,12 @@
       "stars": 55
     },
     {
-      "url": "https://github.com/puzzle/puzzletime",
-      "stars": 44
+      "url": "https://github.com/gabriel-dehan/dyson-sphere-blueprints",
+      "stars": 46
     },
     {
-      "url": "https://github.com/gabriel-dehan/dyson-sphere-blueprints",
-      "stars": 41
+      "url": "https://github.com/puzzle/puzzletime",
+      "stars": 44
     },
     {
       "url": "https://github.com/machinio/solrb",
@@ -139,11 +139,11 @@
       "stars": 22
     },
     {
-      "url": "https://github.com/mrsool/redis_hash_store",
-      "stars": 21
+      "url": "https://github.com/workato/workato-connector-sdk",
+      "stars": 22
     },
     {
-      "url": "https://github.com/workato/workato-connector-sdk",
+      "url": "https://github.com/mrsool/redis_hash_store",
       "stars": 21
     },
     {
@@ -268,9 +268,9 @@
     }
   ],
   "count": {
-    "total": 602,
-    "public": 456,
-    "private": 146,
-    "more_than_zero_star": 142
+    "total": 605,
+    "public": 457,
+    "private": 148,
+    "more_than_zero_star": 143
   }
 }

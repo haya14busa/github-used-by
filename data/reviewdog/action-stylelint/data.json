@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/Tokyo-Metro-Gov/covid19",
-      "stars": 6262
+      "stars": 6265
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2160
+      "stars": 2165
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
-      "stars": 1161
+      "stars": 1164
     },
     {
       "url": "https://github.com/h3poteto/whalebird-desktop",
-      "stars": 888
+      "stars": 889
     },
     {
       "url": "https://github.com/th0th/poeticmetric",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 210
+      "stars": 212
     },
     {
       "url": "https://github.com/modx-pro/miniShop2",
@@ -55,6 +55,10 @@
       "stars": 40
     },
     {
+      "url": "https://github.com/DepSpy/depspy",
+      "stars": 33
+    },
+    {
       "url": "https://github.com/WPMedia/arc-themes-blocks",
       "stars": 33
     },
@@ -65,10 +69,6 @@
     {
       "url": "https://github.com/codeforjapan/StudyAtHome",
       "stars": 31
-    },
-    {
-      "url": "https://github.com/DepSpy/depspy",
-      "stars": 30
     },
     {
       "url": "https://github.com/nordcloud/GNUI",
@@ -163,6 +163,10 @@
       "stars": 7
     },
     {
+      "url": "https://github.com/kenjinote/kablog",
+      "stars": 7
+    },
+    {
       "url": "https://github.com/ta1m1kam/shimane-covid19",
       "stars": 7
     },
@@ -172,10 +176,6 @@
     },
     {
       "url": "https://github.com/thunder/select2",
-      "stars": 6
-    },
-    {
-      "url": "https://github.com/kenjinote/kablog",
       "stars": 6
     },
     {
@@ -208,8 +208,8 @@
     }
   ],
   "count": {
-    "total": 452,
-    "public": 351,
+    "total": 453,
+    "public": 352,
     "private": 101,
     "more_than_zero_star": 97
   }

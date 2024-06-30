@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 452 | 351 | 101 | 97 |
+| 453 | 352 | 101 | 97 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-stylelint/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-stylelint)
@@ -21,12 +21,12 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/Tokyo-Metro-Gov.png" width=50 height=50>|https://github.com/Tokyo-Metro-Gov/covid19|6262|
-|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2160|
-|3|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-css|1161|
-|4|<img src="https://github.com/h3poteto.png" width=50 height=50>|https://github.com/h3poteto/whalebird-desktop|888|
+|1|<img src="https://github.com/Tokyo-Metro-Gov.png" width=50 height=50>|https://github.com/Tokyo-Metro-Gov/covid19|6265|
+|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2165|
+|3|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-css|1164|
+|4|<img src="https://github.com/h3poteto.png" width=50 height=50>|https://github.com/h3poteto/whalebird-desktop|889|
 |5|<img src="https://github.com/th0th.png" width=50 height=50>|https://github.com/th0th/poeticmetric|213|
-|6|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|210|
+|6|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|212|
 |7|<img src="https://github.com/modx-pro.png" width=50 height=50>|https://github.com/modx-pro/miniShop2|149|
 |8|<img src="https://github.com/haya14busa.png" width=50 height=50>|https://github.com/haya14busa/github-action-brandings|133|
 |9|<img src="https://github.com/10up.png" width=50 height=50>|https://github.com/10up/10up-experience|128|
@@ -34,10 +34,10 @@
 |11|<img src="https://github.com/nordcloud.png" width=50 height=50>|https://github.com/nordcloud/pat-frontend-template|58|
 |12|<img src="https://github.com/stop-covid19-hyogo.png" width=50 height=50>|https://github.com/stop-covid19-hyogo/covid19|54|
 |13|<img src="https://github.com/a01sa01to.png" width=50 height=50>|https://github.com/a01sa01to/covid19-ibaraki|40|
-|14|<img src="https://github.com/WPMedia.png" width=50 height=50>|https://github.com/WPMedia/arc-themes-blocks|33|
-|15|<img src="https://github.com/gdg-fukushima.png" width=50 height=50>|https://github.com/gdg-fukushima/covid19|32|
-|16|<img src="https://github.com/codeforjapan.png" width=50 height=50>|https://github.com/codeforjapan/StudyAtHome|31|
-|17|<img src="https://github.com/DepSpy.png" width=50 height=50>|https://github.com/DepSpy/depspy|30|
+|14|<img src="https://github.com/DepSpy.png" width=50 height=50>|https://github.com/DepSpy/depspy|33|
+|15|<img src="https://github.com/WPMedia.png" width=50 height=50>|https://github.com/WPMedia/arc-themes-blocks|33|
+|16|<img src="https://github.com/gdg-fukushima.png" width=50 height=50>|https://github.com/gdg-fukushima/covid19|32|
+|17|<img src="https://github.com/codeforjapan.png" width=50 height=50>|https://github.com/codeforjapan/StudyAtHome|31|
 |18|<img src="https://github.com/nordcloud.png" width=50 height=50>|https://github.com/nordcloud/GNUI|30|
 |19|<img src="https://github.com/Code-for-OKINAWA.png" width=50 height=50>|https://github.com/Code-for-OKINAWA/covid19|29|
 |20|<img src="https://github.com/nomunomu0504.png" width=50 height=50>|https://github.com/nomunomu0504/covid19|28|
@@ -61,10 +61,10 @@
 |38|<img src="https://github.com/adobecom.png" width=50 height=50>|https://github.com/adobecom/dc|7|
 |39|<img src="https://github.com/chiefpansancolt.png" width=50 height=50>|https://github.com/chiefpansancolt/simplecov-material|7|
 |40|<img src="https://github.com/arkirchner.png" width=50 height=50>|https://github.com/arkirchner/resourcer|7|
-|41|<img src="https://github.com/ta1m1kam.png" width=50 height=50>|https://github.com/ta1m1kam/shimane-covid19|7|
-|42|<img src="https://github.com/harrialeksi.png" width=50 height=50>|https://github.com/harrialeksi/poetic_metric|6|
-|43|<img src="https://github.com/thunder.png" width=50 height=50>|https://github.com/thunder/select2|6|
-|44|<img src="https://github.com/kenjinote.png" width=50 height=50>|https://github.com/kenjinote/kablog|6|
+|41|<img src="https://github.com/kenjinote.png" width=50 height=50>|https://github.com/kenjinote/kablog|7|
+|42|<img src="https://github.com/ta1m1kam.png" width=50 height=50>|https://github.com/ta1m1kam/shimane-covid19|7|
+|43|<img src="https://github.com/harrialeksi.png" width=50 height=50>|https://github.com/harrialeksi/poetic_metric|6|
+|44|<img src="https://github.com/thunder.png" width=50 height=50>|https://github.com/thunder/select2|6|
 |45|<img src="https://github.com/kazuomatz.png" width=50 height=50>|https://github.com/kazuomatz/covid19|6|
 |46|<img src="https://github.com/yamaserif.png" width=50 height=50>|https://github.com/yamaserif/covid19|6|
 |47|<img src="https://github.com/CodeForNagasaki.png" width=50 height=50>|https://github.com/CodeForNagasaki/covid19|6|

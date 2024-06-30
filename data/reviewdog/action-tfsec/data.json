@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
-      "stars": 1979
+      "stars": 1986
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -12,7 +12,7 @@
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 132
+      "stars": 133
     },
     {
       "url": "https://github.com/timoa/terraform-oci-vscode-server",
@@ -107,6 +107,10 @@
       "stars": 6
     },
     {
+      "url": "https://github.com/rhythmictech/terraform-aws-elb-cognito-auth",
+      "stars": 6
+    },
+    {
       "url": "https://github.com/rhythmictech/terraform-aws-nexus",
       "stars": 6
     },
@@ -128,10 +132,6 @@
     },
     {
       "url": "https://github.com/rhythmictech/terraform-aws-efs-filesystem",
-      "stars": 5
-    },
-    {
-      "url": "https://github.com/rhythmictech/terraform-aws-elb-cognito-auth",
       "stars": 5
     },
     {

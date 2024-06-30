@@ -4,27 +4,27 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 69248
+      "stars": 69369
     },
     {
       "url": "https://github.com/microsoft/onnxruntime",
-      "stars": 13332
+      "stars": 13410
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 5939
+      "stars": 5947
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
-      "stars": 868
+      "stars": 869
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 543
+      "stars": 546
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
-      "stars": 501
+      "stars": 502
     },
     {
       "url": "https://github.com/simpeg/simpeg",
@@ -52,11 +52,11 @@
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
-      "stars": 90
+      "stars": 91
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 86
+      "stars": 88
     },
     {
       "url": "https://github.com/ehpor/hcipy",
@@ -68,7 +68,7 @@
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
-      "stars": 74
+      "stars": 75
     },
     {
       "url": "https://github.com/LFPy/LFPy",
@@ -135,20 +135,20 @@
       "stars": 19
     },
     {
-      "url": "https://github.com/stackabletech/hive-operator",
-      "stars": 17
+      "url": "https://github.com/stackabletech/airflow-operator",
+      "stars": 18
     },
     {
-      "url": "https://github.com/stackabletech/airflow-operator",
+      "url": "https://github.com/rickstaa/ros-gazebo-gym",
+      "stars": 18
+    },
+    {
+      "url": "https://github.com/stackabletech/hive-operator",
       "stars": 17
     },
     {
       "url": "https://github.com/danishi/dynamodb-csv",
       "stars": 17
-    },
-    {
-      "url": "https://github.com/rickstaa/ros-gazebo-gym",
-      "stars": 16
     },
     {
       "url": "https://github.com/nnsnodnb/kalyke",
@@ -157,6 +157,10 @@
     {
       "url": "https://github.com/nnsnodnb/django-ios-storekit",
       "stars": 16
+    },
+    {
+      "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
+      "stars": 15
     },
     {
       "url": "https://github.com/stackabletech/opa-operator",
@@ -168,10 +172,6 @@
     },
     {
       "url": "https://github.com/stackabletech/hbase-operator",
-      "stars": 14
-    },
-    {
-      "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
       "stars": 14
     },
     {
@@ -240,6 +240,10 @@
     },
     {
       "url": "https://github.com/Police-Data-Accessibility-Project/data-source-identification",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/f0uriest/orthax",
       "stars": 5
     },
     {

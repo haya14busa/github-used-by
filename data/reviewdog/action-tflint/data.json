@@ -4,11 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1656
+      "stars": 1658
+    },
+    {
+      "url": "https://github.com/cloudposse/atmos",
+      "stars": 636
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
-      "stars": 533
+      "stars": 534
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
@@ -24,11 +28,11 @@
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 132
+      "stars": 133
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 120
+      "stars": 122
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
@@ -36,7 +40,7 @@
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 92
+      "stars": 93
     },
     {
       "url": "https://github.com/provectus/sak-kubeflow",
@@ -191,11 +195,19 @@
       "stars": 6
     },
     {
+      "url": "https://github.com/jkrilov/NiceGuiTest",
+      "stars": 6
+    },
+    {
       "url": "https://github.com/rhythmictech/terraform-aws-alb-ecs-task",
       "stars": 6
     },
     {
       "url": "https://github.com/rhythmictech/terraform-aws-ssm-patch-manager",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/rhythmictech/terraform-aws-elb-cognito-auth",
       "stars": 6
     },
     {
@@ -208,10 +220,6 @@
     },
     {
       "url": "https://github.com/clouddrove/terraform-azure-sentinel",
-      "stars": 5
-    },
-    {
-      "url": "https://github.com/jkrilov/NiceGuiTest",
       "stars": 5
     },
     {
@@ -231,10 +239,6 @@
       "stars": 5
     },
     {
-      "url": "https://github.com/rhythmictech/terraform-aws-elb-cognito-auth",
-      "stars": 5
-    },
-    {
       "url": "https://github.com/rhythmictech/terraform-aws-1password-scim-bridge",
       "stars": 5
     },
@@ -248,9 +252,9 @@
     }
   ],
   "count": {
-    "total": 579,
-    "public": 378,
+    "total": 580,
+    "public": 379,
     "private": 201,
-    "more_than_zero_star": 155
+    "more_than_zero_star": 156
   }
 }

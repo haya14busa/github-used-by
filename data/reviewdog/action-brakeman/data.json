@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/pglombardo/PasswordPusher",
-      "stars": 1770
+      "stars": 1774
     },
     {
       "url": "https://github.com/chanzuckerberg/czid-web",
@@ -36,9 +36,9 @@
     }
   ],
   "count": {
-    "total": 101,
+    "total": 102,
     "public": 70,
-    "private": 31,
+    "private": 32,
     "more_than_zero_star": 20
   }
 }

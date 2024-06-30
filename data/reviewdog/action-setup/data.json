@@ -4,75 +4,75 @@
   "repos": [
     {
       "url": "https://github.com/go-gorm/gorm",
-      "stars": 35960
+      "stars": 36010
     },
     {
       "url": "https://github.com/carbon-language/carbon-lang",
-      "stars": 32335
+      "stars": 32319
     },
     {
       "url": "https://github.com/tqdm/tqdm",
-      "stars": 27816
+      "stars": 27846
     },
     {
       "url": "https://github.com/matplotlib/matplotlib",
-      "stars": 19585
+      "stars": 19617
     },
     {
       "url": "https://github.com/neovide/neovide",
-      "stars": 12300
+      "stars": 12337
     },
     {
       "url": "https://github.com/mdn/content",
-      "stars": 8942
+      "stars": 8954
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7547
+      "stars": 7572
     },
     {
       "url": "https://github.com/TheWidlarzGroup/react-native-video",
-      "stars": 7057
+      "stars": 7066
     },
     {
       "url": "https://github.com/mrousavy/react-native-vision-camera",
-      "stars": 6864
+      "stars": 6893
     },
     {
       "url": "https://github.com/mrousavy/react-native-mmkv",
-      "stars": 5466
+      "stars": 5487
     },
     {
       "url": "https://github.com/encoredev/encore",
-      "stars": 5036
+      "stars": 5105
     },
     {
       "url": "https://github.com/sezanzeb/input-remapper",
-      "stars": 3473
+      "stars": 3490
     },
     {
       "url": "https://github.com/nutsdb/nutsdb",
-      "stars": 3318
+      "stars": 3314
     },
     {
       "url": "https://github.com/TagStudioDev/TagStudio",
-      "stars": 2912
+      "stars": 2969
     },
     {
       "url": "https://github.com/dooboolab-community/react-native-iap",
-      "stars": 2728
+      "stars": 2733
     },
     {
       "url": "https://github.com/holistics/dbml",
-      "stars": 2508
+      "stars": 2515
     },
     {
       "url": "https://github.com/google/exposure-notifications-server",
-      "stars": 2374
+      "stars": 2375
     },
     {
       "url": "https://github.com/obytes/react-native-template-obytes",
-      "stars": 1853
+      "stars": 1877
     },
     {
       "url": "https://github.com/keptn/keptn",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/mdn/translated-content",
-      "stars": 1640
+      "stars": 1642
     },
     {
       "url": "https://github.com/apache/incubator-seata-go",
@@ -88,19 +88,19 @@
     },
     {
       "url": "https://github.com/gwtproject/gwt",
-      "stars": 1484
+      "stars": 1485
     },
     {
       "url": "https://github.com/lidatong/dataclasses-json",
-      "stars": 1330
+      "stars": 1334
     },
     {
       "url": "https://github.com/sermant-io/Sermant",
-      "stars": 1141
+      "stars": 1140
     },
     {
       "url": "https://github.com/mrousavy/react-native-multithreading",
-      "stars": 1116
+      "stars": 1117
     },
     {
       "url": "https://github.com/wartremover/wartremover",
@@ -116,19 +116,19 @@
     },
     {
       "url": "https://github.com/h3poteto/whalebird-desktop",
-      "stars": 888
+      "stars": 889
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 828
-    },
-    {
-      "url": "https://github.com/grafana/grafana-operator",
-      "stars": 815
+      "stars": 830
     },
     {
       "url": "https://github.com/numandev1/react-native-compressor",
-      "stars": 813
+      "stars": 818
+    },
+    {
+      "url": "https://github.com/grafana/grafana-operator",
+      "stars": 817
     },
     {
       "url": "https://github.com/allegro/hermes",
@@ -136,11 +136,11 @@
     },
     {
       "url": "https://github.com/OSGeo/grass",
-      "stars": 784
+      "stars": 788
     },
     {
       "url": "https://github.com/Javacord/Javacord",
-      "stars": 749
+      "stars": 750
     },
     {
       "url": "https://github.com/vran-dev/databasir",
@@ -148,27 +148,27 @@
     },
     {
       "url": "https://github.com/arturo-lang/arturo",
-      "stars": 671
+      "stars": 673
     },
     {
       "url": "https://github.com/markus-wa/demoinfocs-golang",
-      "stars": 667
+      "stars": 668
     },
     {
       "url": "https://github.com/geeksblabla/awesome-morocco",
-      "stars": 638
+      "stars": 641
     },
     {
       "url": "https://github.com/margelo/react-native-quick-crypto",
-      "stars": 636
+      "stars": 635
     },
     {
       "url": "https://github.com/DroidKaigi/conference-app-2023",
-      "stars": 633
+      "stars": 632
     },
     {
       "url": "https://github.com/mrousavy/Colorwaver",
-      "stars": 621
+      "stars": 622
     },
     {
       "url": "https://github.com/facebook/openbmc",
@@ -176,19 +176,19 @@
     },
     {
       "url": "https://github.com/casperdcl/git-fame",
-      "stars": 613
+      "stars": 616
     },
     {
       "url": "https://github.com/dotnet/dotnet-monitor",
-      "stars": 612
+      "stars": 613
+    },
+    {
+      "url": "https://github.com/mrousavy/react-native-fast-tflite",
+      "stars": 589
     },
     {
       "url": "https://github.com/triggermesh/triggermesh",
       "stars": 585
-    },
-    {
-      "url": "https://github.com/mrousavy/react-native-fast-tflite",
-      "stars": 583
     },
     {
       "url": "https://github.com/zeromake/docker-debug",
@@ -196,7 +196,7 @@
     },
     {
       "url": "https://github.com/comictagger/comictagger",
-      "stars": 514
+      "stars": 520
     },
     {
       "url": "https://github.com/GetStream/stream-django",
@@ -207,12 +207,12 @@
       "stars": 448
     },
     {
-      "url": "https://github.com/yasinkacmaz/jetflix",
-      "stars": 380
+      "url": "https://github.com/mattwebbio/orbital-sync",
+      "stars": 379
     },
     {
-      "url": "https://github.com/mattwebbio/orbital-sync",
-      "stars": 375
+      "url": "https://github.com/yasinkacmaz/jetflix",
+      "stars": 379
     },
     {
       "url": "https://github.com/iterative/shtab",
@@ -224,15 +224,15 @@
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 336
+      "stars": 338
     },
     {
       "url": "https://github.com/margelo/react-native-bignumber",
-      "stars": 335
+      "stars": 336
     },
     {
       "url": "https://github.com/razorpay/go-financial",
-      "stars": 305
+      "stars": 306
     },
     {
       "url": "https://github.com/galaxyproject/training-material",
@@ -248,7 +248,7 @@
     },
     {
       "url": "https://github.com/h3poteto/megalodon",
-      "stars": 241
+      "stars": 242
     },
     {
       "url": "https://github.com/google/exposure-notifications-verification-server",
@@ -272,7 +272,7 @@
     },
     {
       "url": "https://github.com/alchemyplatform/aa-sdk",
-      "stars": 194
+      "stars": 195
     },
     {
       "url": "https://github.com/Nextjs-ja-translation/Nextjs-ja-translation-docs",
@@ -292,23 +292,23 @@
     },
     {
       "url": "https://github.com/TremblingV5/DouTok",
-      "stars": 135
+      "stars": 138
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 132
+      "stars": 133
     },
     {
       "url": "https://github.com/AsPJT/PAX_SAPIENTICA",
-      "stars": 125
+      "stars": 126
     },
     {
       "url": "https://github.com/h3poteto/fedistar",
-      "stars": 121
+      "stars": 122
     },
     {
       "url": "https://github.com/toshimaru/RailsTwitterClone",
-      "stars": 120
+      "stars": 119
     },
     {
       "url": "https://github.com/mrousavy/react-native-jsi-library-template",
@@ -360,11 +360,11 @@
     },
     {
       "url": "https://github.com/mrousavy/vision-camera-resize-plugin",
-      "stars": 75
+      "stars": 76
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
-      "stars": 74
+      "stars": 75
     },
     {
       "url": "https://github.com/herp-inc/engineering-careers",
@@ -392,7 +392,7 @@
     },
     {
       "url": "https://github.com/Anvil-Dev/AnvilCraft",
-      "stars": 58
+      "stars": 60
     },
     {
       "url": "https://github.com/uzzu/dotenv-gradle",
@@ -400,13 +400,13 @@
     },
     {
       "url": "https://github.com/blocknotes/prawn-html",
-      "stars": 56
+      "stars": 57
     }
   ],
   "count": {
-    "total": 2283,
-    "public": 1620,
-    "private": 663,
-    "more_than_zero_star": 517
+    "total": 2299,
+    "public": 1632,
+    "private": 667,
+    "more_than_zero_star": 519
   }
 }

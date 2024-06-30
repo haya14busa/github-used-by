@@ -4,35 +4,35 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7547
+      "stars": 7572
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7386
+      "stars": 7388
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1478
+      "stars": 1482
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
       "stars": 1113
     },
     {
+      "url": "https://github.com/CircuitVerse/CircuitVerse",
+      "stars": 830
+    },
+    {
       "url": "https://github.com/latchset/clevis",
       "stars": 829
     },
     {
-      "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 828
-    },
-    {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 401
+      "stars": 405
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 298
+      "stars": 312
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -44,15 +44,15 @@
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
-      "stars": 142
+      "stars": 143
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 132
+      "stars": 133
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
-      "stars": 132
+      "stars": 131
     },
     {
       "url": "https://github.com/mszostok/version",
@@ -72,11 +72,15 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 75
+      "stars": 76
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
       "stars": 63
+    },
+    {
+      "url": "https://github.com/GStones/moke-kit",
+      "stars": 59
     },
     {
       "url": "https://github.com/codewars/docs",
@@ -93,10 +97,6 @@
     {
       "url": "https://github.com/stackabletech/trino-operator",
       "stars": 46
-    },
-    {
-      "url": "https://github.com/GStones/moke-kit",
-      "stars": 39
     },
     {
       "url": "https://github.com/stackabletech/hdfs-operator",
@@ -151,11 +151,11 @@
       "stars": 19
     },
     {
-      "url": "https://github.com/stackabletech/hive-operator",
-      "stars": 17
+      "url": "https://github.com/stackabletech/airflow-operator",
+      "stars": 18
     },
     {
-      "url": "https://github.com/stackabletech/airflow-operator",
+      "url": "https://github.com/stackabletech/hive-operator",
       "stars": 17
     },
     {
@@ -175,11 +175,11 @@
       "stars": 14
     },
     {
-      "url": "https://github.com/vipulgupta2048/talkswith2048",
-      "stars": 12
+      "url": "https://github.com/hp-net/homebridge-nibe",
+      "stars": 13
     },
     {
-      "url": "https://github.com/hp-net/homebridge-nibe",
+      "url": "https://github.com/vipulgupta2048/talkswith2048",
       "stars": 12
     },
     {
@@ -260,8 +260,8 @@
     }
   ],
   "count": {
-    "total": 347,
-    "public": 234,
+    "total": 348,
+    "public": 235,
     "private": 113,
     "more_than_zero_star": 109
   }
