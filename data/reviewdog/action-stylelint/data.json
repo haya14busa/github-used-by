@@ -8,11 +8,11 @@
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2165
+      "stars": 2167
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
-      "stars": 1164
+      "stars": 1165
     },
     {
       "url": "https://github.com/h3poteto/whalebird-desktop",
@@ -36,7 +36,7 @@
     },
     {
       "url": "https://github.com/10up/10up-experience",
-      "stars": 128
+      "stars": 129
     },
     {
       "url": "https://github.com/department-of-veterans-affairs/va.gov-cms",
@@ -55,11 +55,11 @@
       "stars": 40
     },
     {
-      "url": "https://github.com/DepSpy/depspy",
-      "stars": 33
+      "url": "https://github.com/WPMedia/arc-themes-blocks",
+      "stars": 34
     },
     {
-      "url": "https://github.com/WPMedia/arc-themes-blocks",
+      "url": "https://github.com/DepSpy/depspy",
       "stars": 33
     },
     {
@@ -167,10 +167,6 @@
       "stars": 7
     },
     {
-      "url": "https://github.com/ta1m1kam/shimane-covid19",
-      "stars": 7
-    },
-    {
       "url": "https://github.com/harrialeksi/poetic_metric",
       "stars": 6
     },
@@ -208,9 +204,9 @@
     }
   ],
   "count": {
-    "total": 453,
-    "public": 352,
-    "private": 101,
-    "more_than_zero_star": 97
+    "total": 454,
+    "public": 351,
+    "private": 103,
+    "more_than_zero_star": 96
   }
 }

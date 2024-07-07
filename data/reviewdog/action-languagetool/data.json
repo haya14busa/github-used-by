@@ -4,35 +4,35 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7572
+      "stars": 7585
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7388
+      "stars": 7396
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1482
+      "stars": 1485
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
       "stars": 1113
     },
     {
-      "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 830
+      "url": "https://github.com/latchset/clevis",
+      "stars": 836
     },
     {
-      "url": "https://github.com/latchset/clevis",
-      "stars": 829
+      "url": "https://github.com/CircuitVerse/CircuitVerse",
+      "stars": 833
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 405
+      "stars": 408
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 312
+      "stars": 316
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -48,7 +48,7 @@
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 133
+      "stars": 136
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
@@ -136,7 +136,7 @@
     },
     {
       "url": "https://github.com/pkosiec/website",
-      "stars": 23
+      "stars": 24
     },
     {
       "url": "https://github.com/stackabletech/kafka-operator",
@@ -260,9 +260,9 @@
     }
   ],
   "count": {
-    "total": 348,
-    "public": 235,
+    "total": 351,
+    "public": 238,
     "private": 113,
-    "more_than_zero_star": 109
+    "more_than_zero_star": 110
   }
 }

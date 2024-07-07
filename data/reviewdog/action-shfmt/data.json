@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 537
+      "stars": 541
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -12,11 +12,15 @@
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
-      "stars": 125
+      "stars": 127
     },
     {
       "url": "https://github.com/reviewdog/action-suggester",
       "stars": 101
+    },
+    {
+      "url": "https://github.com/jiro4989/setup-nim-action",
+      "stars": 98
     },
     {
       "url": "https://github.com/Shemnei/punktf",
@@ -24,23 +28,27 @@
     },
     {
       "url": "https://github.com/yu-iskw/action-sqlfluff",
-      "stars": 64
+      "stars": 65
     },
     {
       "url": "https://github.com/jonathanmorley/asdf-pnpm",
-      "stars": 60
+      "stars": 62
     },
     {
       "url": "https://github.com/lure-sh/lure-repo",
-      "stars": 50
+      "stars": 51
+    },
+    {
+      "url": "https://github.com/franzs/fritzbox_upload_certificate",
+      "stars": 39
     },
     {
       "url": "https://github.com/sksat/compose-cd",
       "stars": 39
     },
     {
-      "url": "https://github.com/franzs/fritzbox_upload_certificate",
-      "stars": 38
+      "url": "https://github.com/mongolyy/reviewdog-action-biome",
+      "stars": 19
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-prettier",
@@ -49,10 +57,6 @@
     {
       "url": "https://github.com/EPMatt/reviewdog-action-tsc",
       "stars": 19
-    },
-    {
-      "url": "https://github.com/mongolyy/reviewdog-action-biome",
-      "stars": 18
     },
     {
       "url": "https://github.com/aerospike/aerospike-server-enterprise.docker",
@@ -68,9 +72,9 @@
     }
   ],
   "count": {
-    "total": 139,
-    "public": 77,
+    "total": 140,
+    "public": 78,
     "private": 62,
-    "more_than_zero_star": 34
+    "more_than_zero_star": 35
   }
 }

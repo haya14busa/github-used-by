@@ -4,51 +4,51 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 69369
+      "stars": 69457
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 12955
+      "stars": 12970
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 6077
+      "stars": 6093
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 5511
+      "stars": 5527
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 3065
+      "stars": 3081
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
-      "stars": 2919
+      "stars": 2920
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1785
+      "stars": 1784
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1658
+      "stars": 1661
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1482
+      "stars": 1485
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1184
+      "stars": 1185
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 882
+      "stars": 883
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 732
+      "stars": 735
     },
     {
       "url": "https://github.com/K-Phoen/dark",
@@ -56,11 +56,11 @@
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 338
+      "stars": 341
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
-      "stars": 295
+      "stars": 296
     },
     {
       "url": "https://github.com/KCarretto/paragon",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/netdata/go.d.plugin",
-      "stars": 162
+      "stars": 161
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -112,7 +112,7 @@
     },
     {
       "url": "https://github.com/LFPy/LFPy",
-      "stars": 67
+      "stars": 68
     },
     {
       "url": "https://github.com/srz-zumix/iutest",
@@ -171,16 +171,16 @@
       "stars": 35
     },
     {
+      "url": "https://github.com/prefeitura-rio/pipelines",
+      "stars": 33
+    },
+    {
       "url": "https://github.com/stackabletech/hdfs-operator",
       "stars": 31
     },
     {
       "url": "https://github.com/basedosdados/pipelines",
       "stars": 30
-    },
-    {
-      "url": "https://github.com/prefeitura-rio/pipelines",
-      "stars": 29
     },
     {
       "url": "https://github.com/EdgeGallery/helm-charts",
@@ -219,11 +219,11 @@
       "stars": 21
     },
     {
-      "url": "https://github.com/tuxpeople/docker-podsync",
-      "stars": 20
+      "url": "https://github.com/dbelyaev/action-checkstyle",
+      "stars": 21
     },
     {
-      "url": "https://github.com/dbelyaev/action-checkstyle",
+      "url": "https://github.com/tuxpeople/docker-podsync",
       "stars": 20
     },
     {
@@ -231,11 +231,11 @@
       "stars": 19
     },
     {
-      "url": "https://github.com/reviewdog/action-staticcheck",
-      "stars": 19
+      "url": "https://github.com/stackabletech/airflow-operator",
+      "stars": 18
     },
     {
-      "url": "https://github.com/stackabletech/airflow-operator",
+      "url": "https://github.com/reviewdog/action-staticcheck",
       "stars": 18
     },
     {
@@ -367,6 +367,10 @@
       "stars": 9
     },
     {
+      "url": "https://github.com/mrtousif/youtube-clone",
+      "stars": 9
+    },
+    {
       "url": "https://github.com/timoa/chrome-tab-rotate-server",
       "stars": 9
     },
@@ -397,16 +401,12 @@
     {
       "url": "https://github.com/sammcj/zsh-bootstrap",
       "stars": 8
-    },
-    {
-      "url": "https://github.com/stackabletech/spark-operator",
-      "stars": 8
     }
   ],
   "count": {
-    "total": 1788,
-    "public": 1273,
-    "private": 515,
-    "more_than_zero_star": 337
+    "total": 1793,
+    "public": 1272,
+    "private": 521,
+    "more_than_zero_star": 338
   }
 }

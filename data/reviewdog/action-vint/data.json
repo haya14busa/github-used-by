@@ -4,63 +4,63 @@
   "repos": [
     {
       "url": "https://github.com/preservim/nerdtree",
-      "stars": 19374
+      "stars": 19388
     },
     {
       "url": "https://github.com/vim-airline/vim-airline",
-      "stars": 17688
+      "stars": 17687
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7388
+      "stars": 7396
     },
     {
       "url": "https://github.com/preservim/tagbar",
-      "stars": 6083
+      "stars": 6087
     },
     {
       "url": "https://github.com/preservim/nerdcommenter",
-      "stars": 4947
+      "stars": 4948
     },
     {
       "url": "https://github.com/preservim/vim-markdown",
-      "stars": 4637
+      "stars": 4639
     },
     {
       "url": "https://github.com/prabirshrestha/vim-lsp",
-      "stars": 3050
+      "stars": 3055
     },
     {
       "url": "https://github.com/liuchengxu/space-vim",
-      "stars": 2854
+      "stars": 2852
     },
     {
       "url": "https://github.com/preservim/vimux",
       "stars": 2189
     },
     {
-      "url": "https://github.com/liuchengxu/vim-clap",
-      "stars": 2082
+      "url": "https://github.com/Xuyuanp/nerdtree-git-plugin",
+      "stars": 2081
     },
     {
-      "url": "https://github.com/Xuyuanp/nerdtree-git-plugin",
-      "stars": 2078
+      "url": "https://github.com/liuchengxu/vim-clap",
+      "stars": 2080
     },
     {
       "url": "https://github.com/vim-airline/vim-airline-themes",
-      "stars": 2029
+      "stars": 2031
     },
     {
       "url": "https://github.com/liuchengxu/vista.vim",
-      "stars": 1878
+      "stars": 1879
     },
     {
       "url": "https://github.com/OmniSharp/omnisharp-vim",
-      "stars": 1677
+      "stars": 1676
     },
     {
       "url": "https://github.com/kassio/neoterm",
-      "stars": 1292
+      "stars": 1293
     },
     {
       "url": "https://github.com/mattn/vim-lsp-settings",
@@ -72,11 +72,11 @@
     },
     {
       "url": "https://github.com/whatyouhide/vim-gotham",
-      "stars": 1232
+      "stars": 1231
     },
     {
       "url": "https://github.com/artur-shaik/vim-javacomplete2",
-      "stars": 978
+      "stars": 977
     },
     {
       "url": "https://github.com/prabirshrestha/asyncomplete.vim",
@@ -84,19 +84,19 @@
     },
     {
       "url": "https://github.com/yutkat/dotfiles",
-      "stars": 709
+      "stars": 713
     },
     {
       "url": "https://github.com/lambdalisue/vim-gina",
-      "stars": 692
+      "stars": 691
     },
     {
       "url": "https://github.com/vim-jp/vital.vim",
-      "stars": 570
+      "stars": 569
     },
     {
       "url": "https://github.com/tyru/caw.vim",
-      "stars": 378
+      "stars": 377
     },
     {
       "url": "https://github.com/haya14busa/vim-asterisk",
@@ -104,47 +104,47 @@
     },
     {
       "url": "https://github.com/ledger/vim-ledger",
-      "stars": 365
+      "stars": 364
     },
     {
       "url": "https://github.com/tani/vim-jetpack",
-      "stars": 314
+      "stars": 313
     },
     {
       "url": "https://github.com/jeanguyomarch/eovim",
-      "stars": 193
+      "stars": 192
     },
     {
       "url": "https://github.com/lambdalisue/vim-nerdfont",
-      "stars": 142
-    },
-    {
-      "url": "https://github.com/lambdalisue/vim-glyph-palette",
-      "stars": 126
+      "stars": 141
     },
     {
       "url": "https://github.com/ilyachur/cmake4vim",
       "stars": 125
     },
     {
+      "url": "https://github.com/lambdalisue/vim-glyph-palette",
+      "stars": 125
+    },
+    {
       "url": "https://github.com/preservim/vim-textobj-quote",
-      "stars": 120
+      "stars": 119
     },
     {
       "url": "https://github.com/yasukotelin/shirotelin",
-      "stars": 92
+      "stars": 91
     },
     {
       "url": "https://github.com/lambdalisue/vim-fern-git-status",
-      "stars": 86
+      "stars": 85
     },
     {
       "url": "https://github.com/prabirshrestha/quickpick.vim",
-      "stars": 78
+      "stars": 77
     },
     {
       "url": "https://github.com/lambdalisue/vim-reword",
-      "stars": 45
+      "stars": 44
     },
     {
       "url": "https://github.com/tridactyl/vim-tridactyl",
@@ -155,12 +155,12 @@
       "stars": 31
     },
     {
-      "url": "https://github.com/prabirshrestha/callbag.vim",
+      "url": "https://github.com/lambdalisue/vital-Whisky",
       "stars": 27
     },
     {
-      "url": "https://github.com/lambdalisue/vital-Whisky",
-      "stars": 27
+      "url": "https://github.com/prabirshrestha/callbag.vim",
+      "stars": 26
     },
     {
       "url": "https://github.com/jtdowney/vimux-cargo",
@@ -213,8 +213,8 @@
   ],
   "count": {
     "total": 357,
-    "public": 291,
-    "private": 66,
+    "public": 290,
+    "private": 67,
     "more_than_zero_star": 82
   }
 }

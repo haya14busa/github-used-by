@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/4paradigm/OpenMLDB",
-      "stars": 1562
+      "stars": 1566
     },
     {
       "url": "https://github.com/PyPtt/PyPtt",
@@ -104,8 +104,8 @@
     }
   ],
   "count": {
-    "total": 303,
-    "public": 164,
+    "total": 304,
+    "public": 165,
     "private": 139,
     "more_than_zero_star": 66
   }
