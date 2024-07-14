@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 454 | 351 | 103 | 96 |
+| 456 | 353 | 103 | 97 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-stylelint/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-stylelint)
@@ -22,14 +22,14 @@
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
 |1|<img src="https://github.com/Tokyo-Metro-Gov.png" width=50 height=50>|https://github.com/Tokyo-Metro-Gov/covid19|6265|
-|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2167|
-|3|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-css|1165|
+|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2172|
+|3|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-css|1169|
 |4|<img src="https://github.com/h3poteto.png" width=50 height=50>|https://github.com/h3poteto/whalebird-desktop|889|
-|5|<img src="https://github.com/th0th.png" width=50 height=50>|https://github.com/th0th/poeticmetric|213|
-|6|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|212|
+|5|<img src="https://github.com/th0th.png" width=50 height=50>|https://github.com/th0th/poeticmetric|221|
+|6|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|213|
 |7|<img src="https://github.com/modx-pro.png" width=50 height=50>|https://github.com/modx-pro/miniShop2|149|
 |8|<img src="https://github.com/haya14busa.png" width=50 height=50>|https://github.com/haya14busa/github-action-brandings|133|
-|9|<img src="https://github.com/10up.png" width=50 height=50>|https://github.com/10up/10up-experience|129|
+|9|<img src="https://github.com/10up.png" width=50 height=50>|https://github.com/10up/10up-experience|127|
 |10|<img src="https://github.com/department-of-veterans-affairs.png" width=50 height=50>|https://github.com/department-of-veterans-affairs/va.gov-cms|79|
 |11|<img src="https://github.com/nordcloud.png" width=50 height=50>|https://github.com/nordcloud/pat-frontend-template|58|
 |12|<img src="https://github.com/stop-covid19-hyogo.png" width=50 height=50>|https://github.com/stop-covid19-hyogo/covid19|54|

@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7585
+      "stars": 7608
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7396
+      "stars": 7400
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1485
+      "stars": 1490
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 836
+      "stars": 837
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
@@ -28,11 +28,11 @@
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 408
+      "stars": 411
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 316
+      "stars": 320
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -40,15 +40,15 @@
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
-      "stars": 150
+      "stars": 151
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
-      "stars": 143
+      "stars": 144
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 136
+      "stars": 142
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/mszostok/version",
-      "stars": 92
+      "stars": 93
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
@@ -91,19 +91,19 @@
       "stars": 47
     },
     {
+      "url": "https://github.com/stackabletech/trino-operator",
+      "stars": 47
+    },
+    {
       "url": "https://github.com/stackabletech/spark-k8s-operator",
       "stars": 47
     },
     {
-      "url": "https://github.com/stackabletech/trino-operator",
-      "stars": 46
+      "url": "https://github.com/Together-Java/ModernJava",
+      "stars": 32
     },
     {
       "url": "https://github.com/stackabletech/hdfs-operator",
-      "stars": 31
-    },
-    {
-      "url": "https://github.com/Together-Java/ModernJava",
       "stars": 31
     },
     {
@@ -123,15 +123,15 @@
       "stars": 26
     },
     {
+      "url": "https://github.com/stackabletech/nifi-operator",
+      "stars": 25
+    },
+    {
       "url": "https://github.com/jeertmans/rpdf",
       "stars": 25
     },
     {
       "url": "https://github.com/stackabletech/superset-operator",
-      "stars": 24
-    },
-    {
-      "url": "https://github.com/stackabletech/nifi-operator",
       "stars": 24
     },
     {
@@ -147,12 +147,12 @@
       "stars": 21
     },
     {
-      "url": "https://github.com/TheNeikos/type_description",
+      "url": "https://github.com/stackabletech/airflow-operator",
       "stars": 19
     },
     {
-      "url": "https://github.com/stackabletech/airflow-operator",
-      "stars": 18
+      "url": "https://github.com/TheNeikos/type_description",
+      "stars": 19
     },
     {
       "url": "https://github.com/stackabletech/hive-operator",
@@ -260,9 +260,9 @@
     }
   ],
   "count": {
-    "total": 351,
-    "public": 238,
+    "total": 354,
+    "public": 241,
     "private": 113,
-    "more_than_zero_star": 110
+    "more_than_zero_star": 112
   }
 }

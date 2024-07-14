@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 541
+      "stars": 543
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -12,7 +12,7 @@
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
-      "stars": 127
+      "stars": 129
     },
     {
       "url": "https://github.com/reviewdog/action-suggester",
@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/jiro4989/setup-nim-action",
-      "stars": 98
+      "stars": 100
     },
     {
       "url": "https://github.com/Shemnei/punktf",
@@ -65,6 +65,10 @@
     {
       "url": "https://github.com/knative/actions",
       "stars": 11
+    },
+    {
+      "url": "https://github.com/UmbrellaDocs/action-linkspector",
+      "stars": 5
     },
     {
       "url": "https://github.com/btkostner/jumar",

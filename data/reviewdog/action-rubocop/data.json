@@ -4,31 +4,31 @@
   "repos": [
     {
       "url": "https://github.com/forem/forem",
-      "stars": 21737
+      "stars": 21752
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9464
+      "stars": 9469
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2740
+      "stars": 2741
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
-      "stars": 2710
+      "stars": 2708
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 2683
+      "stars": 2693
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2270
+      "stars": 2272
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1301
+      "stars": 1306
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -36,7 +36,7 @@
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1086
+      "stars": 1087
     },
     {
       "url": "https://github.com/activeadmin/arbre",
@@ -48,7 +48,7 @@
     },
     {
       "url": "https://github.com/mysociety/alaveteli",
-      "stars": 386
+      "stars": 385
     },
     {
       "url": "https://github.com/galaxyproject/training-material",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 212
+      "stars": 213
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/ytti/oxidized-web",
-      "stars": 118
+      "stars": 119
     },
     {
       "url": "https://github.com/hlascelles/que-scheduler",
@@ -88,7 +88,7 @@
     },
     {
       "url": "https://github.com/openHPI/codeocean",
-      "stars": 62
+      "stars": 63
     },
     {
       "url": "https://github.com/Unleash/unleash-client-ruby",
@@ -116,7 +116,7 @@
     },
     {
       "url": "https://github.com/discorb-lib/discorb",
-      "stars": 37
+      "stars": 36
     },
     {
       "url": "https://github.com/mysociety/whatdotheyknow-theme",
@@ -151,11 +151,11 @@
       "stars": 17
     },
     {
-      "url": "https://github.com/glowfic-constellation/glowfic",
-      "stars": 16
+      "url": "https://github.com/fog/fog-libvirt",
+      "stars": 17
     },
     {
-      "url": "https://github.com/fog/fog-libvirt",
+      "url": "https://github.com/glowfic-constellation/glowfic",
       "stars": 16
     },
     {
@@ -268,9 +268,9 @@
     }
   ],
   "count": {
-    "total": 606,
-    "public": 458,
+    "total": 607,
+    "public": 459,
     "private": 148,
-    "more_than_zero_star": 146
+    "more_than_zero_star": 147
   }
 }

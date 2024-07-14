@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/FerretDB/FerretDB",
-      "stars": 8721
+      "stars": 8781
     },
     {
       "url": "https://github.com/go-reform/reform",
-      "stars": 1443
+      "stars": 1442
     },
     {
       "url": "https://github.com/elastic/apm-server",
-      "stars": 1173
+      "stars": 1198
     },
     {
       "url": "https://github.com/percona/mongodb_exporter",
-      "stars": 1130
+      "stars": 1138
     },
     {
       "url": "https://github.com/percona/pmm",
-      "stars": 578
+      "stars": 583
     },
     {
       "url": "https://github.com/percona/proxysql_exporter",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://github.com/percona/everest",
-      "stars": 89
+      "stars": 92
     },
     {
       "url": "https://github.com/elastic/fleet-server",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/percona/mysqld_exporter",
-      "stars": 64
+      "stars": 65
     },
     {
       "url": "https://github.com/mercari/go-emv-code",
@@ -48,7 +48,7 @@
     },
     {
       "url": "https://github.com/m-mizutani/goast",
-      "stars": 57
+      "stars": 58
     },
     {
       "url": "https://github.com/scorestack/scorestack",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/percona/promconfig",
-      "stars": 23
+      "stars": 22
     },
     {
       "url": "https://github.com/percona/percona-everest-backend",

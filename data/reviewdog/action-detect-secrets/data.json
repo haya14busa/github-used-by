@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/4paradigm/OpenMLDB",
-      "stars": 1566
+      "stars": 1570
     },
     {
       "url": "https://github.com/PyPtt/PyPtt",
-      "stars": 684
+      "stars": 686
     },
     {
       "url": "https://github.com/jackpocket/android-scratchoff",
-      "stars": 448
+      "stars": 449
     },
     {
       "url": "https://github.com/stackabletech/operator-rs",
-      "stars": 110
+      "stars": 111
     },
     {
       "url": "https://github.com/piotr-yuxuan/closeable-map",
@@ -105,8 +105,8 @@
   ],
   "count": {
     "total": 304,
-    "public": 165,
-    "private": 139,
+    "public": 164,
+    "private": 140,
     "more_than_zero_star": 66
   }
 }

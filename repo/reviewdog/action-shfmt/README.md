@@ -21,11 +21,11 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/sourcegraph.png" width=50 height=50>|https://github.com/sourcegraph/zoekt|541|
+|1|<img src="https://github.com/sourcegraph.png" width=50 height=50>|https://github.com/sourcegraph/zoekt|543|
 |2|<img src="https://github.com/aerospike.png" width=50 height=50>|https://github.com/aerospike/aerospike-server.docker|140|
-|3|<img src="https://github.com/CrowdStrike.png" width=50 height=50>|https://github.com/CrowdStrike/falcon-scripts|127|
+|3|<img src="https://github.com/CrowdStrike.png" width=50 height=50>|https://github.com/CrowdStrike/falcon-scripts|129|
 |4|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/action-suggester|101|
-|5|<img src="https://github.com/jiro4989.png" width=50 height=50>|https://github.com/jiro4989/setup-nim-action|98|
+|5|<img src="https://github.com/jiro4989.png" width=50 height=50>|https://github.com/jiro4989/setup-nim-action|100|
 |6|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|76|
 |7|<img src="https://github.com/yu-iskw.png" width=50 height=50>|https://github.com/yu-iskw/action-sqlfluff|65|
 |8|<img src="https://github.com/jonathanmorley.png" width=50 height=50>|https://github.com/jonathanmorley/asdf-pnpm|62|
@@ -37,4 +37,5 @@
 |14|<img src="https://github.com/EPMatt.png" width=50 height=50>|https://github.com/EPMatt/reviewdog-action-tsc|19|
 |15|<img src="https://github.com/aerospike.png" width=50 height=50>|https://github.com/aerospike/aerospike-server-enterprise.docker|15|
 |16|<img src="https://github.com/knative.png" width=50 height=50>|https://github.com/knative/actions|11|
-|17|<img src="https://github.com/btkostner.png" width=50 height=50>|https://github.com/btkostner/jumar|5|
+|17|<img src="https://github.com/UmbrellaDocs.png" width=50 height=50>|https://github.com/UmbrellaDocs/action-linkspector|5|
+|18|<img src="https://github.com/btkostner.png" width=50 height=50>|https://github.com/btkostner/jumar|5|

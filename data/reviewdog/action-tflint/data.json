@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1661
+      "stars": 1663
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 637
+      "stars": 643
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
-      "stars": 534
+      "stars": 535
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 458
+      "stars": 466
     },
     {
       "url": "https://github.com/chainguard-dev/bincapz",
-      "stars": 380
+      "stars": 382
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -28,19 +28,19 @@
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 136
+      "stars": 142
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 122
+      "stars": 124
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
-      "stars": 113
+      "stars": 114
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 95
+      "stars": 98
     },
     {
       "url": "https://github.com/provectus/sak-kubeflow",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/slalombuild/terraform-atmos-accelerator",
-      "stars": 38
+      "stars": 39
     },
     {
       "url": "https://github.com/clouddrove/terraform-aws-sftp",
@@ -83,12 +83,12 @@
       "stars": 18
     },
     {
-      "url": "https://github.com/rallyware/terraform-argocd-aws-eks-cluster-bootstrap",
+      "url": "https://github.com/SweetOps/terraform-google-storage-bucket",
       "stars": 16
     },
     {
-      "url": "https://github.com/SweetOps/terraform-google-storage-bucket",
-      "stars": 16
+      "url": "https://github.com/rallyware/terraform-argocd-aws-eks-cluster-bootstrap",
+      "stars": 15
     },
     {
       "url": "https://github.com/sammcj/scripts",
@@ -96,7 +96,7 @@
     },
     {
       "url": "https://github.com/rhythmictech/terraform-terraform-template",
-      "stars": 13
+      "stars": 14
     },
     {
       "url": "https://github.com/timoa/homelab",
@@ -253,8 +253,8 @@
   ],
   "count": {
     "total": 581,
-    "public": 380,
-    "private": 201,
-    "more_than_zero_star": 156
+    "public": 377,
+    "private": 204,
+    "more_than_zero_star": 161
   }
 }
