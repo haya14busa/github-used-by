@@ -21,23 +21,23 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/FerretDB.png" width=50 height=50>|https://github.com/FerretDB/FerretDB|8781|
+|1|<img src="https://github.com/FerretDB.png" width=50 height=50>|https://github.com/FerretDB/FerretDB|8813|
 |2|<img src="https://github.com/go-reform.png" width=50 height=50>|https://github.com/go-reform/reform|1442|
 |3|<img src="https://github.com/elastic.png" width=50 height=50>|https://github.com/elastic/apm-server|1198|
-|4|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/mongodb_exporter|1138|
-|5|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/pmm|583|
+|4|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/mongodb_exporter|1141|
+|5|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/pmm|587|
 |6|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/proxysql_exporter|105|
-|7|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/everest|92|
-|8|<img src="https://github.com/elastic.png" width=50 height=50>|https://github.com/elastic/fleet-server|76|
-|9|<img src="https://github.com/elastic.png" width=50 height=50>|https://github.com/elastic/Machinebeat|70|
+|7|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/everest|93|
+|8|<img src="https://github.com/elastic.png" width=50 height=50>|https://github.com/elastic/fleet-server|78|
+|9|<img src="https://github.com/elastic.png" width=50 height=50>|https://github.com/elastic/Machinebeat|71|
 |10|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/mysqld_exporter|65|
 |11|<img src="https://github.com/mercari.png" width=50 height=50>|https://github.com/mercari/go-emv-code|64|
 |12|<img src="https://github.com/m-mizutani.png" width=50 height=50>|https://github.com/m-mizutani/goast|58|
 |13|<img src="https://github.com/scorestack.png" width=50 height=50>|https://github.com/scorestack/scorestack|40|
 |14|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/pmm-managed|36|
 |15|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/pmm-agent|35|
-|16|<img src="https://github.com/hatappi.png" width=50 height=50>|https://github.com/hatappi/gomodoro|24|
-|17|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/everest-operator|23|
+|16|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/everest-operator|25|
+|17|<img src="https://github.com/hatappi.png" width=50 height=50>|https://github.com/hatappi/gomodoro|24|
 |18|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/promconfig|22|
 |19|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/percona-everest-backend|17|
 |20|<img src="https://github.com/kazuminn.png" width=50 height=50>|https://github.com/kazuminn/vulsbeat|17|

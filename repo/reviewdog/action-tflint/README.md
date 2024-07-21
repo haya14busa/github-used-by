@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 581 | 377 | 204 | 161 |
+| 585 | 380 | 205 | 161 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-tflint/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-tflint)
@@ -22,15 +22,15 @@
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
 |1|<img src="https://github.com/magma.png" width=50 height=50>|https://github.com/magma/magma|1663|
-|2|<img src="https://github.com/cloudposse.png" width=50 height=50>|https://github.com/cloudposse/atmos|643|
-|3|<img src="https://github.com/aztfmod.png" width=50 height=50>|https://github.com/aztfmod/terraform-azurerm-caf|535|
-|4|<img src="https://github.com/xunholy.png" width=50 height=50>|https://github.com/xunholy/k8s-gitops|466|
-|5|<img src="https://github.com/chainguard-dev.png" width=50 height=50>|https://github.com/chainguard-dev/bincapz|382|
+|2|<img src="https://github.com/cloudposse.png" width=50 height=50>|https://github.com/cloudposse/atmos|650|
+|3|<img src="https://github.com/aztfmod.png" width=50 height=50>|https://github.com/aztfmod/terraform-azurerm-caf|538|
+|4|<img src="https://github.com/xunholy.png" width=50 height=50>|https://github.com/xunholy/k8s-gitops|467|
+|5|<img src="https://github.com/chainguard-dev.png" width=50 height=50>|https://github.com/chainguard-dev/bincapz|387|
 |6|<img src="https://github.com/TechToSpeech.png" width=50 height=50>|https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress|192|
-|7|<img src="https://github.com/grafana.png" width=50 height=50>|https://github.com/grafana/k8s-monitoring-helm|142|
-|8|<img src="https://github.com/gruberdev.png" width=50 height=50>|https://github.com/gruberdev/homelab|124|
+|7|<img src="https://github.com/grafana.png" width=50 height=50>|https://github.com/grafana/k8s-monitoring-helm|145|
+|8|<img src="https://github.com/gruberdev.png" width=50 height=50>|https://github.com/gruberdev/homelab|125|
 |9|<img src="https://github.com/raspbernetes.png" width=50 height=50>|https://github.com/raspbernetes/k8s-cluster-installation|114|
-|10|<img src="https://github.com/octo-sts.png" width=50 height=50>|https://github.com/octo-sts/app|98|
+|10|<img src="https://github.com/octo-sts.png" width=50 height=50>|https://github.com/octo-sts/app|99|
 |11|<img src="https://github.com/provectus.png" width=50 height=50>|https://github.com/provectus/sak-kubeflow|62|
 |12|<img src="https://github.com/GiganticMinecraft.png" width=50 height=50>|https://github.com/GiganticMinecraft/seichi_infra|51|
 |13|<img src="https://github.com/slalombuild.png" width=50 height=50>|https://github.com/slalombuild/terraform-atmos-accelerator|39|
@@ -50,11 +50,11 @@
 |27|<img src="https://github.com/Vlaaaaaaad.png" width=50 height=50>|https://github.com/Vlaaaaaaad/terraform-aws-fargate-refinery|10|
 |28|<img src="https://github.com/Bobirmirzo.png" width=50 height=50>|https://github.com/Bobirmirzo/infra-ci-cd|10|
 |29|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/smart_diskinfo|9|
-|30|<img src="https://github.com/bmbferreira.png" width=50 height=50>|https://github.com/bmbferreira/awesome-terraform-pipeline|9|
-|31|<img src="https://github.com/provectus.png" width=50 height=50>|https://github.com/provectus/sak-incubator|9|
-|32|<img src="https://github.com/ironpeakservices.png" width=50 height=50>|https://github.com/ironpeakservices/infrastructure|9|
-|33|<img src="https://github.com/liatrio.png" width=50 height=50>|https://github.com/liatrio/terraform-caf-azure|8|
-|34|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/zsh-bootstrap|8|
+|30|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/zsh-bootstrap|9|
+|31|<img src="https://github.com/bmbferreira.png" width=50 height=50>|https://github.com/bmbferreira/awesome-terraform-pipeline|9|
+|32|<img src="https://github.com/provectus.png" width=50 height=50>|https://github.com/provectus/sak-incubator|9|
+|33|<img src="https://github.com/ironpeakservices.png" width=50 height=50>|https://github.com/ironpeakservices/infrastructure|9|
+|34|<img src="https://github.com/liatrio.png" width=50 height=50>|https://github.com/liatrio/terraform-caf-azure|8|
 |35|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-okta-sso|8|
 |36|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-cis-cloudwatch-monitors|8|
 |37|<img src="https://github.com/chainguard-dev.png" width=50 height=50>|https://github.com/chainguard-dev/kontext|7|

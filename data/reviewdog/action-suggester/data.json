@@ -4,55 +4,55 @@
   "repos": [
     {
       "url": "https://github.com/neovim/neovim",
-      "stars": 80076
+      "stars": 80229
     },
     {
       "url": "https://github.com/starship/starship",
-      "stars": 43098
+      "stars": 43238
     },
     {
       "url": "https://github.com/svc-develop-team/so-vits-svc",
-      "stars": 24765
+      "stars": 24849
     },
     {
       "url": "https://github.com/OI-wiki/OI-wiki",
-      "stars": 19484
+      "stars": 19744
     },
     {
       "url": "https://github.com/slint-ui/slint",
-      "stars": 16148
+      "stars": 16248
     },
     {
       "url": "https://github.com/Mrs4s/go-cqhttp",
-      "stars": 10319
+      "stars": 10321
     },
     {
       "url": "https://github.com/optuna/optuna",
-      "stars": 10196
+      "stars": 10227
     },
     {
       "url": "https://github.com/CleverRaven/Cataclysm-DDA",
-      "stars": 9969
+      "stars": 9983
     },
     {
       "url": "https://github.com/openvinotoolkit/openvino",
-      "stars": 6459
+      "stars": 6522
     },
     {
       "url": "https://github.com/TuringLang/Turing.jl",
-      "stars": 2004
+      "stars": 2005
     },
     {
       "url": "https://github.com/JuliaPlots/Plots.jl",
-      "stars": 1817
+      "stars": 1818
     },
     {
       "url": "https://github.com/getkirby/kirby",
-      "stars": 1238
+      "stars": 1241
     },
     {
       "url": "https://github.com/leanprover-community/mathlib4",
-      "stars": 1189
+      "stars": 1207
     },
     {
       "url": "https://github.com/wartremover/wartremover",
@@ -60,23 +60,23 @@
     },
     {
       "url": "https://github.com/secure-software-engineering/phasar",
-      "stars": 920
+      "stars": 921
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
-      "stars": 870
+      "stars": 872
     },
     {
       "url": "https://github.com/openblack/openblack",
-      "stars": 865
+      "stars": 868
     },
     {
       "url": "https://github.com/Kotlin-Android-Open-Source/MVI-Coroutines-Flow",
-      "stars": 856
+      "stars": 861
     },
     {
       "url": "https://github.com/gugod/App-perlbrew",
-      "stars": 718
+      "stars": 719
     },
     {
       "url": "https://github.com/tensorflow/io",
@@ -88,7 +88,7 @@
     },
     {
       "url": "https://github.com/bangumi/server",
-      "stars": 574
+      "stars": 575
     },
     {
       "url": "https://github.com/percona/percona-xtradb-cluster-operator",
@@ -96,19 +96,19 @@
     },
     {
       "url": "https://github.com/ITensor/ITensors.jl",
-      "stars": 505
+      "stars": 510
     },
     {
       "url": "https://github.com/DroidKaigi/conference-app-2022",
       "stars": 489
     },
     {
-      "url": "https://github.com/JuliaDiff/ChainRules.jl",
-      "stars": 426
+      "url": "https://github.com/EnzymeAD/Enzyme.jl",
+      "stars": 428
     },
     {
-      "url": "https://github.com/EnzymeAD/Enzyme.jl",
-      "stars": 423
+      "url": "https://github.com/JuliaDiff/ChainRules.jl",
+      "stars": 428
     },
     {
       "url": "https://github.com/JuliaStats/MixedModels.jl",
@@ -116,23 +116,23 @@
     },
     {
       "url": "https://github.com/JuliaManifolds/Manifolds.jl",
-      "stars": 361
+      "stars": 362
     },
     {
       "url": "https://github.com/percona/percona-server-mongodb-operator",
-      "stars": 312
+      "stars": 314
     },
     {
       "url": "https://github.com/JuliaManifolds/Manopt.jl",
-      "stars": 303
+      "stars": 305
     },
     {
       "url": "https://github.com/NREL-Sienna/PowerSystems.jl",
-      "stars": 301
+      "stars": 302
     },
     {
       "url": "https://github.com/NREL-Sienna/PowerSimulations.jl",
-      "stars": 272
+      "stars": 273
     },
     {
       "url": "https://github.com/JuliaGaussianProcesses/KernelFunctions.jl",
@@ -140,15 +140,15 @@
     },
     {
       "url": "https://github.com/Xilinx/mlir-aie",
-      "stars": 261
+      "stars": 262
     },
     {
       "url": "https://github.com/CUBRID/cubrid",
-      "stars": 260
+      "stars": 261
     },
     {
       "url": "https://github.com/percona/percona-backup-mongodb",
-      "stars": 254
+      "stars": 255
     },
     {
       "url": "https://github.com/percona/percona-postgresql-operator",
@@ -164,27 +164,27 @@
     },
     {
       "url": "https://github.com/pinnacle-comp/pinnacle",
-      "stars": 217
+      "stars": 220
     },
     {
       "url": "https://github.com/JuliaGaussianProcesses/AbstractGPs.jl",
-      "stars": 215
+      "stars": 216
     },
     {
       "url": "https://github.com/JuliaDatabases/LibPQ.jl",
-      "stars": 214
+      "stars": 215
     },
     {
       "url": "https://github.com/hoc081098/GithubSearchKMM-Compose-SwiftUI",
-      "stars": 200
+      "stars": 203
     },
     {
       "url": "https://github.com/TuringLang/Bijectors.jl",
-      "stars": 197
+      "stars": 199
     },
     {
       "url": "https://github.com/philips-software/amp-embedded-infra-lib",
-      "stars": 187
+      "stars": 188
     },
     {
       "url": "https://github.com/SOZ-Faut-etre-Sub/SOZ-FiveM-Server",
@@ -196,11 +196,11 @@
     },
     {
       "url": "https://github.com/hoc081098/WeatherApp_MVI_sample",
-      "stars": 169
+      "stars": 168
     },
     {
       "url": "https://github.com/NREL-Sienna/PowerSimulationsDynamics.jl",
-      "stars": 165
+      "stars": 166
     },
     {
       "url": "https://github.com/denoland/manual",
@@ -208,18 +208,18 @@
     },
     {
       "url": "https://github.com/JuliaCloud/AWS.jl",
-      "stars": 159
+      "stars": 160
     },
     {
       "url": "https://github.com/TuringLang/DynamicPPL.jl",
-      "stars": 153
-    },
-    {
-      "url": "https://github.com/getkirby/kql",
-      "stars": 141
+      "stars": 154
     },
     {
       "url": "https://github.com/GTorlai/PastaQ.jl",
+      "stars": 142
+    },
+    {
+      "url": "https://github.com/getkirby/kql",
       "stars": 141
     },
     {
@@ -228,42 +228,46 @@
     },
     {
       "url": "https://github.com/JuliaTrustworthyAI/ConformalPrediction.jl",
-      "stars": 135
+      "stars": 136
     },
     {
       "url": "https://github.com/pystra/pystra",
-      "stars": 133
+      "stars": 134
+    },
+    {
+      "url": "https://github.com/boozook/playdate",
+      "stars": 124
     },
     {
       "url": "https://github.com/invenia/NamedDims.jl",
       "stars": 121
     },
     {
-      "url": "https://github.com/boozook/playdate",
+      "url": "https://github.com/hoc081098/Refresh-Token-Sample",
       "stars": 120
     },
     {
-      "url": "https://github.com/hoc081098/Refresh-Token-Sample",
-      "stars": 119
+      "url": "https://github.com/JuliaGraphs/MultilayerGraphs.jl",
+      "stars": 118
     },
     {
       "url": "https://github.com/percona/percona-server-mysql-operator",
-      "stars": 117
-    },
-    {
-      "url": "https://github.com/JuliaGraphs/MultilayerGraphs.jl",
-      "stars": 115
+      "stars": 118
     },
     {
       "url": "https://github.com/JuliaTrustworthyAI/CounterfactualExplanations.jl",
-      "stars": 114
+      "stars": 115
     },
     {
       "url": "https://github.com/arviz-devs/ArviZ.jl",
-      "stars": 104
+      "stars": 105
     },
     {
       "url": "https://github.com/HelgeGehring/femwell",
+      "stars": 102
+    },
+    {
+      "url": "https://github.com/f0uriest/interpax",
       "stars": 100
     },
     {
@@ -273,10 +277,6 @@
     {
       "url": "https://github.com/unode/polypomo",
       "stars": 97
-    },
-    {
-      "url": "https://github.com/f0uriest/interpax",
-      "stars": 95
     },
     {
       "url": "https://github.com/JuliaOptimalTransport/OptimalTransport.jl",
@@ -292,14 +292,14 @@
     },
     {
       "url": "https://github.com/philips-software/amp-devcontainer",
-      "stars": 81
-    },
-    {
-      "url": "https://github.com/CliMA/ClimaCore.jl",
-      "stars": 79
+      "stars": 82
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
+      "stars": 80
+    },
+    {
+      "url": "https://github.com/CliMA/ClimaCore.jl",
       "stars": 79
     },
     {
@@ -320,7 +320,7 @@
     },
     {
       "url": "https://github.com/lukasbestle/kirby-versions",
-      "stars": 73
+      "stars": 74
     },
     {
       "url": "https://github.com/JuliaGaussianProcesses/ParameterHandling.jl",
@@ -352,11 +352,11 @@
     },
     {
       "url": "https://github.com/JuliaTesting/Mocking.jl",
-      "stars": 59
+      "stars": 60
     },
     {
       "url": "https://github.com/poppingmoon/aria",
-      "stars": 57
+      "stars": 58
     },
     {
       "url": "https://github.com/TuringLang/AdvancedPS.jl",
@@ -399,13 +399,13 @@
       "stars": 48
     },
     {
-      "url": "https://github.com/abema/compose-impression-tracker",
+      "url": "https://github.com/Argonne-National-Laboratory/Checkpointing.jl",
       "stars": 46
     }
   ],
   "count": {
-    "total": 1282,
-    "public": 956,
+    "total": 1285,
+    "public": 959,
     "private": 326,
     "more_than_zero_star": 402
   }

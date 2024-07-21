@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
-      "stars": 2014
+      "stars": 2038
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -12,7 +12,7 @@
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 142
+      "stars": 145
     },
     {
       "url": "https://github.com/timoa/terraform-oci-vscode-server",
@@ -59,15 +59,15 @@
       "stars": 9
     },
     {
+      "url": "https://github.com/sammcj/zsh-bootstrap",
+      "stars": 9
+    },
+    {
       "url": "https://github.com/GrantBirki/errbot",
       "stars": 9
     },
     {
       "url": "https://github.com/liatrio/terraform-caf-azure",
-      "stars": 8
-    },
-    {
-      "url": "https://github.com/sammcj/zsh-bootstrap",
       "stars": 8
     },
     {
@@ -148,9 +148,9 @@
     }
   ],
   "count": {
-    "total": 349,
-    "public": 234,
-    "private": 115,
+    "total": 351,
+    "public": 235,
+    "private": 116,
     "more_than_zero_star": 104
   }
 }

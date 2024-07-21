@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/galaxyproject/ansible-postgresql",
-      "stars": 117
+      "stars": 118
     },
     {
       "url": "https://github.com/galaxyproject/ansible-slurm",
@@ -52,8 +52,8 @@
     }
   ],
   "count": {
-    "total": 120,
-    "public": 98,
+    "total": 122,
+    "public": 100,
     "private": 22,
     "more_than_zero_star": 47
   }

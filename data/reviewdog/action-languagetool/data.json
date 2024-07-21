@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7608
+      "stars": 7621
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7400
+      "stars": 7402
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1490
+      "stars": 1493
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 837
+      "stars": 841
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
@@ -28,11 +28,11 @@
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 411
+      "stars": 418
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 320
+      "stars": 326
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -43,12 +43,12 @@
       "stars": 151
     },
     {
-      "url": "https://github.com/leandro-lugaresi/hub",
-      "stars": 144
+      "url": "https://github.com/grafana/k8s-monitoring-helm",
+      "stars": 145
     },
     {
-      "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 142
+      "url": "https://github.com/leandro-lugaresi/hub",
+      "stars": 144
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 76
+      "stars": 78
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/GStones/moke-kit",
-      "stars": 59
+      "stars": 60
     },
     {
       "url": "https://github.com/codewars/docs",
@@ -88,30 +88,30 @@
     },
     {
       "url": "https://github.com/shopware/docs",
-      "stars": 47
+      "stars": 48
+    },
+    {
+      "url": "https://github.com/stackabletech/spark-k8s-operator",
+      "stars": 48
     },
     {
       "url": "https://github.com/stackabletech/trino-operator",
       "stars": 47
     },
     {
-      "url": "https://github.com/stackabletech/spark-k8s-operator",
-      "stars": 47
-    },
-    {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 32
+      "stars": 33
     },
     {
       "url": "https://github.com/stackabletech/hdfs-operator",
-      "stars": 31
-    },
-    {
-      "url": "https://github.com/jeertmans/untex",
-      "stars": 28
+      "stars": 32
     },
     {
       "url": "https://github.com/ZeroAssumptions/aide-de-camp",
+      "stars": 29
+    },
+    {
+      "url": "https://github.com/jeertmans/untex",
       "stars": 28
     },
     {
@@ -124,7 +124,7 @@
     },
     {
       "url": "https://github.com/stackabletech/nifi-operator",
-      "stars": 25
+      "stars": 26
     },
     {
       "url": "https://github.com/jeertmans/rpdf",
@@ -183,12 +183,12 @@
       "stars": 12
     },
     {
-      "url": "https://github.com/stackabletech/druid-operator",
+      "url": "https://github.com/stackabletech/secret-operator",
       "stars": 10
     },
     {
-      "url": "https://github.com/stackabletech/secret-operator",
-      "stars": 9
+      "url": "https://github.com/stackabletech/druid-operator",
+      "stars": 10
     },
     {
       "url": "https://github.com/latchset/tang-operator",
@@ -260,9 +260,9 @@
     }
   ],
   "count": {
-    "total": 354,
-    "public": 241,
+    "total": 356,
+    "public": 243,
     "private": 113,
-    "more_than_zero_star": 112
+    "more_than_zero_star": 113
   }
 }

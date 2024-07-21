@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 543
+      "stars": 548
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -12,19 +12,19 @@
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
-      "stars": 129
+      "stars": 130
     },
     {
       "url": "https://github.com/reviewdog/action-suggester",
-      "stars": 101
+      "stars": 102
     },
     {
       "url": "https://github.com/jiro4989/setup-nim-action",
-      "stars": 100
+      "stars": 101
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 76
+      "stars": 78
     },
     {
       "url": "https://github.com/yu-iskw/action-sqlfluff",
@@ -39,20 +39,20 @@
       "stars": 51
     },
     {
+      "url": "https://github.com/sksat/compose-cd",
+      "stars": 41
+    },
+    {
       "url": "https://github.com/franzs/fritzbox_upload_certificate",
       "stars": 39
     },
     {
-      "url": "https://github.com/sksat/compose-cd",
-      "stars": 39
-    },
-    {
       "url": "https://github.com/mongolyy/reviewdog-action-biome",
-      "stars": 19
+      "stars": 21
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-prettier",
-      "stars": 19
+      "stars": 21
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-tsc",

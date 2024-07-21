@@ -8,19 +8,19 @@
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 643
+      "stars": 650
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
-      "stars": 535
+      "stars": 538
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 466
+      "stars": 467
     },
     {
       "url": "https://github.com/chainguard-dev/bincapz",
-      "stars": 382
+      "stars": 387
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -28,11 +28,11 @@
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 142
+      "stars": 145
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 124
+      "stars": 125
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 98
+      "stars": 99
     },
     {
       "url": "https://github.com/provectus/sak-kubeflow",
@@ -119,6 +119,10 @@
       "stars": 9
     },
     {
+      "url": "https://github.com/sammcj/zsh-bootstrap",
+      "stars": 9
+    },
+    {
       "url": "https://github.com/bmbferreira/awesome-terraform-pipeline",
       "stars": 9
     },
@@ -132,10 +136,6 @@
     },
     {
       "url": "https://github.com/liatrio/terraform-caf-azure",
-      "stars": 8
-    },
-    {
-      "url": "https://github.com/sammcj/zsh-bootstrap",
       "stars": 8
     },
     {
@@ -252,9 +252,9 @@
     }
   ],
   "count": {
-    "total": 581,
-    "public": 377,
-    "private": 204,
+    "total": 585,
+    "public": 380,
+    "private": 205,
     "more_than_zero_star": 161
   }
 }
