@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1663
+      "stars": 1664
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 650
+      "stars": 658
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
-      "stars": 538
+      "stars": 543
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 467
+      "stars": 469
     },
     {
       "url": "https://github.com/chainguard-dev/bincapz",
-      "stars": 387
+      "stars": 392
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -28,11 +28,11 @@
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 145
+      "stars": 148
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 125
+      "stars": 127
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
@@ -40,11 +40,11 @@
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 99
+      "stars": 101
     },
     {
       "url": "https://github.com/provectus/sak-kubeflow",
-      "stars": 62
+      "stars": 63
     },
     {
       "url": "https://github.com/GiganticMinecraft/seichi_infra",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/slalombuild/terraform-atmos-accelerator",
-      "stars": 39
+      "stars": 41
     },
     {
       "url": "https://github.com/clouddrove/terraform-aws-sftp",
@@ -253,8 +253,8 @@
   ],
   "count": {
     "total": 585,
-    "public": 380,
-    "private": 205,
+    "public": 379,
+    "private": 206,
     "more_than_zero_star": 161
   }
 }

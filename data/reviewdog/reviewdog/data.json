@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/FerretDB/FerretDB",
-      "stars": 8813
+      "stars": 8826
     },
     {
       "url": "https://github.com/go-reform/reform",
@@ -12,15 +12,15 @@
     },
     {
       "url": "https://github.com/elastic/apm-server",
-      "stars": 1198
+      "stars": 1199
     },
     {
       "url": "https://github.com/percona/mongodb_exporter",
-      "stars": 1141
+      "stars": 1142
     },
     {
       "url": "https://github.com/percona/pmm",
-      "stars": 587
+      "stars": 585
     },
     {
       "url": "https://github.com/percona/proxysql_exporter",
@@ -28,15 +28,15 @@
     },
     {
       "url": "https://github.com/percona/everest",
-      "stars": 93
+      "stars": 94
     },
     {
       "url": "https://github.com/elastic/fleet-server",
-      "stars": 78
+      "stars": 79
     },
     {
       "url": "https://github.com/elastic/Machinebeat",
-      "stars": 71
+      "stars": 72
     },
     {
       "url": "https://github.com/percona/mysqld_exporter",
@@ -115,10 +115,6 @@
       "stars": 8
     },
     {
-      "url": "https://github.com/AlekSi/yubikey",
-      "stars": 8
-    },
-    {
       "url": "https://github.com/percona/dbaas-operator",
       "stars": 7
     },
@@ -148,9 +144,9 @@
     }
   ],
   "count": {
-    "total": 237,
+    "total": 239,
     "public": 157,
-    "private": 80,
-    "more_than_zero_star": 63
+    "private": 82,
+    "more_than_zero_star": 62
   }
 }

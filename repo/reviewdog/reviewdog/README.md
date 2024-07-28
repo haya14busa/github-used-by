@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 237 | 157 | 80 | 63 |
+| 239 | 157 | 82 | 62 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/reviewdog/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/reviewdog)
@@ -21,15 +21,15 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/FerretDB.png" width=50 height=50>|https://github.com/FerretDB/FerretDB|8813|
+|1|<img src="https://github.com/FerretDB.png" width=50 height=50>|https://github.com/FerretDB/FerretDB|8826|
 |2|<img src="https://github.com/go-reform.png" width=50 height=50>|https://github.com/go-reform/reform|1442|
-|3|<img src="https://github.com/elastic.png" width=50 height=50>|https://github.com/elastic/apm-server|1198|
-|4|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/mongodb_exporter|1141|
-|5|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/pmm|587|
+|3|<img src="https://github.com/elastic.png" width=50 height=50>|https://github.com/elastic/apm-server|1199|
+|4|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/mongodb_exporter|1142|
+|5|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/pmm|585|
 |6|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/proxysql_exporter|105|
-|7|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/everest|93|
-|8|<img src="https://github.com/elastic.png" width=50 height=50>|https://github.com/elastic/fleet-server|78|
-|9|<img src="https://github.com/elastic.png" width=50 height=50>|https://github.com/elastic/Machinebeat|71|
+|7|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/everest|94|
+|8|<img src="https://github.com/elastic.png" width=50 height=50>|https://github.com/elastic/fleet-server|79|
+|9|<img src="https://github.com/elastic.png" width=50 height=50>|https://github.com/elastic/Machinebeat|72|
 |10|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/mysqld_exporter|65|
 |11|<img src="https://github.com/mercari.png" width=50 height=50>|https://github.com/mercari/go-emv-code|64|
 |12|<img src="https://github.com/m-mizutani.png" width=50 height=50>|https://github.com/m-mizutani/goast|58|
@@ -49,11 +49,10 @@
 |26|<img src="https://github.com/FerretDB.png" width=50 height=50>|https://github.com/FerretDB/dance|11|
 |27|<img src="https://github.com/tuxiedev.png" width=50 height=50>|https://github.com/tuxiedev/stocksbeat|9|
 |28|<img src="https://github.com/jaakkoo.png" width=50 height=50>|https://github.com/jaakkoo/macoslogbeat|8|
-|29|<img src="https://github.com/AlekSi.png" width=50 height=50>|https://github.com/AlekSi/yubikey|8|
-|30|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/dbaas-operator|7|
-|31|<img src="https://github.com/FerretDB.png" width=50 height=50>|https://github.com/FerretDB/github-actions|7|
-|32|<img src="https://github.com/stric-co.png" width=50 height=50>|https://github.com/stric-co/phishbeat|7|
-|33|<img src="https://github.com/srvc.png" width=50 height=50>|https://github.com/srvc/ery|7|
-|34|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/percona-everest-cli|6|
-|35|<img src="https://github.com/shelmangroup.png" width=50 height=50>|https://github.com/shelmangroup/run-with-secrets|6|
-|36|<img src="https://github.com/chennqqi.png" width=50 height=50>|https://github.com/chennqqi/filebeat.nsq.output|6|
+|29|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/dbaas-operator|7|
+|30|<img src="https://github.com/FerretDB.png" width=50 height=50>|https://github.com/FerretDB/github-actions|7|
+|31|<img src="https://github.com/stric-co.png" width=50 height=50>|https://github.com/stric-co/phishbeat|7|
+|32|<img src="https://github.com/srvc.png" width=50 height=50>|https://github.com/srvc/ery|7|
+|33|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/percona-everest-cli|6|
+|34|<img src="https://github.com/shelmangroup.png" width=50 height=50>|https://github.com/shelmangroup/run-with-secrets|6|
+|35|<img src="https://github.com/chennqqi.png" width=50 height=50>|https://github.com/chennqqi/filebeat.nsq.output|6|

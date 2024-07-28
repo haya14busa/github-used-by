@@ -4,63 +4,63 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 69690
+      "stars": 69769
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13001
+      "stars": 13014
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 6120
+      "stars": 6136
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 5556
+      "stars": 5565
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 3121
+      "stars": 3134
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
-      "stars": 2924
+      "stars": 2923
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1792
+      "stars": 1795
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1663
+      "stars": 1664
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1493
+      "stars": 1494
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1186
+      "stars": 1188
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 891
+      "stars": 892
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 738
+      "stars": 739
     },
     {
       "url": "https://github.com/K-Phoen/dark",
-      "stars": 421
+      "stars": 422
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 342
+      "stars": 343
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
-      "stars": 300
+      "stars": 301
     },
     {
       "url": "https://github.com/KCarretto/paragon",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/openstack-exporter/openstack-exporter",
-      "stars": 199
+      "stars": 201
     },
     {
       "url": "https://github.com/raspbernetes/multi-arch-images",
@@ -100,7 +100,7 @@
     },
     {
       "url": "https://github.com/haya14busa/action-bumpr",
-      "stars": 80
+      "stars": 81
     },
     {
       "url": "https://github.com/ktsaou/netdata",
@@ -144,10 +144,14 @@
     },
     {
       "url": "https://github.com/stackabletech/spark-k8s-operator",
-      "stars": 48
+      "stars": 49
     },
     {
       "url": "https://github.com/haya14busa/action-update-semver",
+      "stars": 48
+    },
+    {
+      "url": "https://github.com/jiro4989/build-deb-action",
       "stars": 48
     },
     {
@@ -155,24 +159,20 @@
       "stars": 47
     },
     {
-      "url": "https://github.com/jiro4989/build-deb-action",
-      "stars": 47
-    },
-    {
       "url": "https://github.com/rickstaa/action-black",
       "stars": 37
     },
     {
-      "url": "https://github.com/reviewdog/action-languagetool",
+      "url": "https://github.com/prefeitura-rio/pipelines",
       "stars": 36
     },
     {
-      "url": "https://github.com/prefeitura-rio/pipelines",
-      "stars": 35
+      "url": "https://github.com/truecharts/containers",
+      "stars": 36
     },
     {
-      "url": "https://github.com/truecharts/containers",
-      "stars": 35
+      "url": "https://github.com/reviewdog/action-languagetool",
+      "stars": 36
     },
     {
       "url": "https://github.com/stackabletech/hdfs-operator",
@@ -181,6 +181,10 @@
     {
       "url": "https://github.com/basedosdados/pipelines",
       "stars": 31
+    },
+    {
+      "url": "https://github.com/stackabletech/nifi-operator",
+      "stars": 27
     },
     {
       "url": "https://github.com/Drakkar-Software/Triangular-Arbitrage",
@@ -192,10 +196,6 @@
     },
     {
       "url": "https://github.com/stackabletech/zookeeper-operator",
-      "stars": 26
-    },
-    {
-      "url": "https://github.com/stackabletech/nifi-operator",
       "stars": 26
     },
     {
@@ -227,6 +227,10 @@
       "stars": 20
     },
     {
+      "url": "https://github.com/stackabletech/hive-operator",
+      "stars": 19
+    },
+    {
       "url": "https://github.com/stackabletech/airflow-operator",
       "stars": 19
     },
@@ -243,10 +247,6 @@
       "stars": 18
     },
     {
-      "url": "https://github.com/stackabletech/hive-operator",
-      "stars": 17
-    },
-    {
       "url": "https://github.com/Drakkar-Software/OctoBot-Script",
       "stars": 17
     },
@@ -256,7 +256,7 @@
     },
     {
       "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
-      "stars": 15
+      "stars": 16
     },
     {
       "url": "https://github.com/aerospike/aerospike-server-enterprise.docker",
@@ -339,6 +339,10 @@
       "stars": 10
     },
     {
+      "url": "https://github.com/timoa/chrome-tab-rotate-server",
+      "stars": 10
+    },
+    {
       "url": "https://github.com/netdata/ebpf-co-re",
       "stars": 10
     },
@@ -379,10 +383,6 @@
       "stars": 9
     },
     {
-      "url": "https://github.com/timoa/chrome-tab-rotate-server",
-      "stars": 9
-    },
-    {
       "url": "https://github.com/vbouchaud/nfs-client-provisioner",
       "stars": 9
     },
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 1803,
-    "public": 1277,
-    "private": 526,
+    "total": 1807,
+    "public": 1278,
+    "private": 529,
     "more_than_zero_star": 340
   }
 }

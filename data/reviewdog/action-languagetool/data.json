@@ -4,39 +4,39 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7621
+      "stars": 7632
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7402
+      "stars": 7403
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1493
+      "stars": 1494
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1113
+      "stars": 1114
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 841
+      "stars": 852
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 833
+      "stars": 834
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 418
+      "stars": 419
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 326
+      "stars": 332
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
-      "stars": 176
+      "stars": 177
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
@@ -44,11 +44,11 @@
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 145
+      "stars": 148
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
-      "stars": 144
+      "stars": 145
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/mszostok/version",
-      "stars": 93
+      "stars": 94
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
@@ -84,14 +84,14 @@
     },
     {
       "url": "https://github.com/codewars/docs",
-      "stars": 55
-    },
-    {
-      "url": "https://github.com/shopware/docs",
-      "stars": 48
+      "stars": 56
     },
     {
       "url": "https://github.com/stackabletech/spark-k8s-operator",
+      "stars": 49
+    },
+    {
+      "url": "https://github.com/shopware/docs",
       "stars": 48
     },
     {
@@ -115,15 +115,15 @@
       "stars": 28
     },
     {
+      "url": "https://github.com/stackabletech/nifi-operator",
+      "stars": 27
+    },
+    {
       "url": "https://github.com/ADE-Scheduler/ADE-Scheduler",
       "stars": 27
     },
     {
       "url": "https://github.com/stackabletech/zookeeper-operator",
-      "stars": 26
-    },
-    {
-      "url": "https://github.com/stackabletech/nifi-operator",
       "stars": 26
     },
     {
@@ -147,16 +147,16 @@
       "stars": 21
     },
     {
+      "url": "https://github.com/stackabletech/hive-operator",
+      "stars": 19
+    },
+    {
       "url": "https://github.com/stackabletech/airflow-operator",
       "stars": 19
     },
     {
       "url": "https://github.com/TheNeikos/type_description",
       "stars": 19
-    },
-    {
-      "url": "https://github.com/stackabletech/hive-operator",
-      "stars": 17
     },
     {
       "url": "https://github.com/stackabletech/opa-operator",

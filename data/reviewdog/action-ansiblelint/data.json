@@ -4,18 +4,18 @@
   "repos": [
     {
       "url": "https://github.com/galaxyproject/ansible-postgresql",
-      "stars": 118
+      "stars": 119
     },
     {
       "url": "https://github.com/galaxyproject/ansible-slurm",
-      "stars": 79
-    },
-    {
-      "url": "https://github.com/TerrorSquad/ansible-post-installation",
-      "stars": 15
+      "stars": 80
     },
     {
       "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
+      "stars": 16
+    },
+    {
+      "url": "https://github.com/TerrorSquad/ansible-post-installation",
       "stars": 15
     },
     {
@@ -53,8 +53,8 @@
   ],
   "count": {
     "total": 122,
-    "public": 100,
-    "private": 22,
+    "public": 99,
+    "private": 23,
     "more_than_zero_star": 47
   }
 }

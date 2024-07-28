@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 548
+      "stars": 551
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -12,7 +12,7 @@
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
-      "stars": 130
+      "stars": 131
     },
     {
       "url": "https://github.com/reviewdog/action-suggester",
@@ -32,7 +32,7 @@
     },
     {
       "url": "https://github.com/jonathanmorley/asdf-pnpm",
-      "stars": 62
+      "stars": 63
     },
     {
       "url": "https://github.com/lure-sh/lure-repo",

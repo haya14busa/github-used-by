@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 69690
+      "stars": 69769
     },
     {
       "url": "https://github.com/microsoft/onnxruntime",
-      "stars": 13646
+      "stars": 13695
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 5999
+      "stars": 6011
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
-      "stars": 872
+      "stars": 873
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 556
+      "stars": 560
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
@@ -32,11 +32,11 @@
     },
     {
       "url": "https://github.com/PersiaML/PERSIA",
-      "stars": 391
+      "stars": 392
     },
     {
       "url": "https://github.com/PAhelper/PhoenixAdult.bundle",
-      "stars": 354
+      "stars": 356
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
@@ -48,27 +48,27 @@
     },
     {
       "url": "https://github.com/TrangPham/django-admin-confirm",
-      "stars": 125
+      "stars": 126
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 100
+      "stars": 103
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
-      "stars": 92
+      "stars": 96
     },
     {
       "url": "https://github.com/ehpor/hcipy",
-      "stars": 84
+      "stars": 85
+    },
+    {
+      "url": "https://github.com/fdintino/pillow-avif-plugin",
+      "stars": 80
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
       "stars": 80
-    },
-    {
-      "url": "https://github.com/fdintino/pillow-avif-plugin",
-      "stars": 78
     },
     {
       "url": "https://github.com/LFPy/LFPy",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://github.com/stackabletech/spark-k8s-operator",
-      "stars": 48
+      "stars": 49
     },
     {
       "url": "https://github.com/stackabletech/trino-operator",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/ut-issl/c2a-core",
-      "stars": 46
+      "stars": 47
     },
     {
       "url": "https://github.com/ThePornDatabase/scrapers",
@@ -107,16 +107,20 @@
       "stars": 32
     },
     {
-      "url": "https://github.com/stackabletech/zookeeper-operator",
-      "stars": 26
+      "url": "https://github.com/stackabletech/nifi-operator",
+      "stars": 27
     },
     {
-      "url": "https://github.com/stackabletech/nifi-operator",
+      "url": "https://github.com/stackabletech/zookeeper-operator",
       "stars": 26
     },
     {
       "url": "https://github.com/stackabletech/superset-operator",
       "stars": 24
+    },
+    {
+      "url": "https://github.com/rickstaa/ros-gazebo-gym",
+      "stars": 22
     },
     {
       "url": "https://github.com/stackabletech/kafka-operator",
@@ -131,12 +135,12 @@
       "stars": 21
     },
     {
-      "url": "https://github.com/rickstaa/ros-gazebo-gym",
-      "stars": 20
+      "url": "https://github.com/ZPascal/grafana_api_sdk",
+      "stars": 21
     },
     {
-      "url": "https://github.com/ZPascal/grafana_api_sdk",
-      "stars": 20
+      "url": "https://github.com/stackabletech/hive-operator",
+      "stars": 19
     },
     {
       "url": "https://github.com/stackabletech/airflow-operator",
@@ -144,11 +148,11 @@
     },
     {
       "url": "https://github.com/danishi/dynamodb-csv",
-      "stars": 18
+      "stars": 19
     },
     {
-      "url": "https://github.com/stackabletech/hive-operator",
-      "stars": 17
+      "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
+      "stars": 16
     },
     {
       "url": "https://github.com/nnsnodnb/kalyke",
@@ -157,10 +161,6 @@
     {
       "url": "https://github.com/nnsnodnb/django-ios-storekit",
       "stars": 16
-    },
-    {
-      "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
-      "stars": 15
     },
     {
       "url": "https://github.com/stackabletech/opa-operator",
@@ -264,9 +264,9 @@
     }
   ],
   "count": {
-    "total": 405,
-    "public": 312,
-    "private": 93,
-    "more_than_zero_star": 126
+    "total": 407,
+    "public": 313,
+    "private": 94,
+    "more_than_zero_star": 127
   }
 }
