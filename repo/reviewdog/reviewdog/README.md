@@ -21,15 +21,15 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/FerretDB.png" width=50 height=50>|https://github.com/FerretDB/FerretDB|8826|
+|1|<img src="https://github.com/FerretDB.png" width=50 height=50>|https://github.com/FerretDB/FerretDB|8853|
 |2|<img src="https://github.com/go-reform.png" width=50 height=50>|https://github.com/go-reform/reform|1442|
-|3|<img src="https://github.com/elastic.png" width=50 height=50>|https://github.com/elastic/apm-server|1199|
-|4|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/mongodb_exporter|1142|
-|5|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/pmm|585|
+|3|<img src="https://github.com/elastic.png" width=50 height=50>|https://github.com/elastic/apm-server|1205|
+|4|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/mongodb_exporter|1146|
+|5|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/pmm|587|
 |6|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/proxysql_exporter|105|
-|7|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/everest|94|
+|7|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/everest|100|
 |8|<img src="https://github.com/elastic.png" width=50 height=50>|https://github.com/elastic/fleet-server|79|
-|9|<img src="https://github.com/elastic.png" width=50 height=50>|https://github.com/elastic/Machinebeat|72|
+|9|<img src="https://github.com/elastic.png" width=50 height=50>|https://github.com/elastic/Machinebeat|73|
 |10|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/mysqld_exporter|65|
 |11|<img src="https://github.com/mercari.png" width=50 height=50>|https://github.com/mercari/go-emv-code|64|
 |12|<img src="https://github.com/m-mizutani.png" width=50 height=50>|https://github.com/m-mizutani/goast|58|

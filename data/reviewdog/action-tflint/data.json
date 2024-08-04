@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1664
+      "stars": 1667
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 658
+      "stars": 667
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
@@ -16,11 +16,11 @@
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 469
+      "stars": 470
     },
     {
       "url": "https://github.com/chainguard-dev/bincapz",
-      "stars": 392
+      "stars": 393
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -28,11 +28,11 @@
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 148
+      "stars": 151
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 127
+      "stars": 131
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
@@ -40,11 +40,11 @@
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 101
+      "stars": 102
     },
     {
       "url": "https://github.com/provectus/sak-kubeflow",
-      "stars": 63
+      "stars": 64
     },
     {
       "url": "https://github.com/GiganticMinecraft/seichi_infra",
@@ -52,11 +52,11 @@
     },
     {
       "url": "https://github.com/slalombuild/terraform-atmos-accelerator",
-      "stars": 41
+      "stars": 42
     },
     {
       "url": "https://github.com/clouddrove/terraform-aws-sftp",
-      "stars": 34
+      "stars": 35
     },
     {
       "url": "https://github.com/MatthiasScholz/cos",
@@ -75,11 +75,11 @@
       "stars": 20
     },
     {
-      "url": "https://github.com/rhythmictech/terraform-aws-secure-password",
-      "stars": 18
+      "url": "https://github.com/rhythmictech/terraform-aws-imagebuilder-pipeline",
+      "stars": 19
     },
     {
-      "url": "https://github.com/rhythmictech/terraform-aws-imagebuilder-pipeline",
+      "url": "https://github.com/rhythmictech/terraform-aws-secure-password",
       "stars": 18
     },
     {
@@ -151,6 +151,10 @@
       "stars": 7
     },
     {
+      "url": "https://github.com/jkrilov/NiceGuiTest",
+      "stars": 7
+    },
+    {
       "url": "https://github.com/rhythmictech/terraform-aws-backend",
       "stars": 7
     },
@@ -195,7 +199,7 @@
       "stars": 6
     },
     {
-      "url": "https://github.com/jkrilov/NiceGuiTest",
+      "url": "https://github.com/clouddrove/terraform-azure-sentinel",
       "stars": 6
     },
     {
@@ -216,10 +220,6 @@
     },
     {
       "url": "https://github.com/piiano/vault-deployments",
-      "stars": 5
-    },
-    {
-      "url": "https://github.com/clouddrove/terraform-azure-sentinel",
       "stars": 5
     },
     {
@@ -252,9 +252,9 @@
     }
   ],
   "count": {
-    "total": 585,
-    "public": 379,
-    "private": 206,
-    "more_than_zero_star": 161
+    "total": 586,
+    "public": 377,
+    "private": 209,
+    "more_than_zero_star": 160
   }
 }

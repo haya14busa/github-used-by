@@ -21,17 +21,17 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/4paradigm.png" width=50 height=50>|https://github.com/4paradigm/OpenMLDB|1575|
-|2|<img src="https://github.com/PyPtt.png" width=50 height=50>|https://github.com/PyPtt/PyPtt|687|
+|1|<img src="https://github.com/4paradigm.png" width=50 height=50>|https://github.com/4paradigm/OpenMLDB|1579|
+|2|<img src="https://github.com/PyPtt.png" width=50 height=50>|https://github.com/PyPtt/PyPtt|689|
 |3|<img src="https://github.com/jackpocket.png" width=50 height=50>|https://github.com/jackpocket/android-scratchoff|449|
-|4|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/operator-rs|113|
+|4|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/operator-rs|115|
 |5|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/closeable-map|58|
 |6|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/malli-cli|52|
 |7|<img src="https://github.com/bitmark-inc.png" width=50 height=50>|https://github.com/bitmark-inc/feralfile-app|40|
 |8|<img src="https://github.com/bitjourney.png" width=50 height=50>|https://github.com/bitjourney/react-simple-image|29|
 |9|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/dove|27|
 |10|<img src="https://github.com/bitjourney.png" width=50 height=50>|https://github.com/bitjourney/mato|22|
-|11|<img src="https://github.com/adam-rms.png" width=50 height=50>|https://github.com/adam-rms/adam-rms|18|
+|11|<img src="https://github.com/adam-rms.png" width=50 height=50>|https://github.com/adam-rms/adam-rms|17|
 |12|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/docker-images|15|
 |13|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/scripts|14|
 |14|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/nabab|13|

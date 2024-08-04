@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 69769
+      "stars": 69863
     },
     {
       "url": "https://github.com/microsoft/onnxruntime",
-      "stars": 13695
+      "stars": 13743
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 6011
+      "stars": 6022
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 560
+      "stars": 568
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 491
+      "stars": 493
     },
     {
       "url": "https://github.com/PersiaML/PERSIA",
@@ -36,15 +36,15 @@
     },
     {
       "url": "https://github.com/PAhelper/PhoenixAdult.bundle",
-      "stars": 356
+      "stars": 357
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
-      "stars": 165
+      "stars": 166
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
-      "stars": 137
+      "stars": 139
     },
     {
       "url": "https://github.com/TrangPham/django-admin-confirm",
@@ -52,11 +52,11 @@
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 103
+      "stars": 105
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
-      "stars": 96
+      "stars": 97
     },
     {
       "url": "https://github.com/ehpor/hcipy",
@@ -64,11 +64,11 @@
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
-      "stars": 80
+      "stars": 81
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
-      "stars": 80
+      "stars": 81
     },
     {
       "url": "https://github.com/LFPy/LFPy",
@@ -87,11 +87,11 @@
       "stars": 49
     },
     {
-      "url": "https://github.com/stackabletech/trino-operator",
-      "stars": 47
+      "url": "https://github.com/ut-issl/c2a-core",
+      "stars": 49
     },
     {
-      "url": "https://github.com/ut-issl/c2a-core",
+      "url": "https://github.com/stackabletech/trino-operator",
       "stars": 47
     },
     {
@@ -104,7 +104,7 @@
     },
     {
       "url": "https://github.com/stackabletech/hdfs-operator",
-      "stars": 32
+      "stars": 34
     },
     {
       "url": "https://github.com/stackabletech/nifi-operator",
@@ -127,15 +127,15 @@
       "stars": 22
     },
     {
+      "url": "https://github.com/ZPascal/grafana_api_sdk",
+      "stars": 22
+    },
+    {
       "url": "https://github.com/DirtyRacer1337/PhoenixAdult.bundle",
       "stars": 22
     },
     {
       "url": "https://github.com/comorment/containers",
-      "stars": 21
-    },
-    {
-      "url": "https://github.com/ZPascal/grafana_api_sdk",
       "stars": 21
     },
     {
@@ -175,6 +175,10 @@
       "stars": 14
     },
     {
+      "url": "https://github.com/arkedge/c2a-core",
+      "stars": 12
+    },
+    {
       "url": "https://github.com/rickstaa/panda-gazebo",
       "stars": 12
     },
@@ -183,7 +187,7 @@
       "stars": 12
     },
     {
-      "url": "https://github.com/arkedge/c2a-core",
+      "url": "https://github.com/stackabletech/secret-operator",
       "stars": 11
     },
     {
@@ -193,10 +197,6 @@
     {
       "url": "https://github.com/istellartech/GELATO",
       "stars": 11
-    },
-    {
-      "url": "https://github.com/stackabletech/secret-operator",
-      "stars": 10
     },
     {
       "url": "https://github.com/stackabletech/druid-operator",
@@ -264,9 +264,9 @@
     }
   ],
   "count": {
-    "total": 407,
+    "total": 408,
     "public": 313,
-    "private": 94,
+    "private": 95,
     "more_than_zero_star": 127
   }
 }

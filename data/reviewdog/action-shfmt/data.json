@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 551
+      "stars": 553
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
-      "stars": 140
+      "stars": 139
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
-      "stars": 131
+      "stars": 133
     },
     {
       "url": "https://github.com/reviewdog/action-suggester",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 78
+      "stars": 79
     },
     {
       "url": "https://github.com/yu-iskw/action-sqlfluff",
@@ -32,7 +32,7 @@
     },
     {
       "url": "https://github.com/jonathanmorley/asdf-pnpm",
-      "stars": 63
+      "stars": 64
     },
     {
       "url": "https://github.com/lure-sh/lure-repo",
@@ -48,11 +48,11 @@
     },
     {
       "url": "https://github.com/mongolyy/reviewdog-action-biome",
-      "stars": 21
+      "stars": 22
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-prettier",
-      "stars": 21
+      "stars": 22
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-tsc",

@@ -4,51 +4,51 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 69769
+      "stars": 69863
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13014
+      "stars": 13035
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 6136
+      "stars": 6145
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 5565
+      "stars": 5585
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 3134
+      "stars": 3151
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
-      "stars": 2923
+      "stars": 2924
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1795
+      "stars": 1799
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1664
+      "stars": 1667
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1494
+      "stars": 1497
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1188
+      "stars": 1191
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 892
+      "stars": 897
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 739
+      "stars": 745
     },
     {
       "url": "https://github.com/K-Phoen/dark",
@@ -56,11 +56,11 @@
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 343
+      "stars": 346
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
-      "stars": 301
+      "stars": 302
     },
     {
       "url": "https://github.com/KCarretto/paragon",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
-      "stars": 140
+      "stars": 139
     },
     {
       "url": "https://github.com/filipowm/BooGi",
@@ -100,7 +100,7 @@
     },
     {
       "url": "https://github.com/haya14busa/action-bumpr",
-      "stars": 81
+      "stars": 82
     },
     {
       "url": "https://github.com/ktsaou/netdata",
@@ -123,16 +123,16 @@
       "stars": 65
     },
     {
-      "url": "https://github.com/agilepathway/label-checker",
-      "stars": 63
-    },
-    {
       "url": "https://github.com/kscarlett/nginx-log-generator",
       "stars": 62
     },
     {
+      "url": "https://github.com/agilepathway/label-checker",
+      "stars": 61
+    },
+    {
       "url": "https://github.com/netdata/kernel-collector",
-      "stars": 60
+      "stars": 61
     },
     {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
@@ -159,6 +159,10 @@
       "stars": 47
     },
     {
+      "url": "https://github.com/truecharts/containers",
+      "stars": 37
+    },
+    {
       "url": "https://github.com/rickstaa/action-black",
       "stars": 37
     },
@@ -167,16 +171,12 @@
       "stars": 36
     },
     {
-      "url": "https://github.com/truecharts/containers",
-      "stars": 36
-    },
-    {
       "url": "https://github.com/reviewdog/action-languagetool",
       "stars": 36
     },
     {
       "url": "https://github.com/stackabletech/hdfs-operator",
-      "stars": 32
+      "stars": 34
     },
     {
       "url": "https://github.com/basedosdados/pipelines",
@@ -207,6 +207,10 @@
       "stars": 24
     },
     {
+      "url": "https://github.com/tuxpeople/docker-podsync",
+      "stars": 22
+    },
+    {
       "url": "https://github.com/stackabletech/kafka-operator",
       "stars": 22
     },
@@ -223,7 +227,7 @@
       "stars": 21
     },
     {
-      "url": "https://github.com/tuxpeople/docker-podsync",
+      "url": "https://github.com/chronosphereio/calyptia-vivo",
       "stars": 20
     },
     {
@@ -232,10 +236,6 @@
     },
     {
       "url": "https://github.com/stackabletech/airflow-operator",
-      "stars": 19
-    },
-    {
-      "url": "https://github.com/chronosphereio/calyptia-vivo",
       "stars": 19
     },
     {
@@ -303,11 +303,19 @@
       "stars": 12
     },
     {
+      "url": "https://github.com/stackabletech/secret-operator",
+      "stars": 11
+    },
+    {
       "url": "https://github.com/ccdc-opensource/dash",
       "stars": 11
     },
     {
       "url": "https://github.com/timoa/nodejs-encryption-api-example",
+      "stars": 11
+    },
+    {
+      "url": "https://github.com/netdata/ebpf-co-re",
       "stars": 11
     },
     {
@@ -327,11 +335,11 @@
       "stars": 10
     },
     {
-      "url": "https://github.com/stackabletech/secret-operator",
+      "url": "https://github.com/stackabletech/druid-operator",
       "stars": 10
     },
     {
-      "url": "https://github.com/stackabletech/druid-operator",
+      "url": "https://github.com/timoa/secure-go-backend-clean-architecture",
       "stars": 10
     },
     {
@@ -340,10 +348,6 @@
     },
     {
       "url": "https://github.com/timoa/chrome-tab-rotate-server",
-      "stars": 10
-    },
-    {
-      "url": "https://github.com/netdata/ebpf-co-re",
       "stars": 10
     },
     {
@@ -364,10 +368,6 @@
     },
     {
       "url": "https://github.com/sammcj/smart_diskinfo",
-      "stars": 9
-    },
-    {
-      "url": "https://github.com/timoa/secure-go-backend-clean-architecture",
       "stars": 9
     },
     {
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 1807,
-    "public": 1278,
-    "private": 529,
+    "total": 1809,
+    "public": 1279,
+    "private": 530,
     "more_than_zero_star": 340
   }
 }
