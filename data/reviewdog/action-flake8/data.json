@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 69863
+      "stars": 69961
     },
     {
       "url": "https://github.com/microsoft/onnxruntime",
-      "stars": 13743
+      "stars": 13822
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 6022
+      "stars": 6035
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 568
+      "stars": 571
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 493
+      "stars": 494
     },
     {
       "url": "https://github.com/PersiaML/PERSIA",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
-      "stars": 166
+      "stars": 167
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
@@ -48,31 +48,31 @@
     },
     {
       "url": "https://github.com/TrangPham/django-admin-confirm",
-      "stars": 126
+      "stars": 127
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 105
+      "stars": 106
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
-      "stars": 97
+      "stars": 98
     },
     {
       "url": "https://github.com/ehpor/hcipy",
       "stars": 85
     },
     {
+      "url": "https://github.com/PlasmaControl/DESC",
+      "stars": 84
+    },
+    {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
       "stars": 81
     },
     {
-      "url": "https://github.com/PlasmaControl/DESC",
-      "stars": 81
-    },
-    {
       "url": "https://github.com/LFPy/LFPy",
-      "stars": 68
+      "stars": 69
     },
     {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
@@ -80,6 +80,10 @@
     },
     {
       "url": "https://github.com/ydb-platform/nbs",
+      "stars": 51
+    },
+    {
+      "url": "https://github.com/ut-issl/c2a-core",
       "stars": 50
     },
     {
@@ -87,12 +91,8 @@
       "stars": 49
     },
     {
-      "url": "https://github.com/ut-issl/c2a-core",
-      "stars": 49
-    },
-    {
       "url": "https://github.com/stackabletech/trino-operator",
-      "stars": 47
+      "stars": 48
     },
     {
       "url": "https://github.com/ThePornDatabase/scrapers",
@@ -104,7 +104,7 @@
     },
     {
       "url": "https://github.com/stackabletech/hdfs-operator",
-      "stars": 34
+      "stars": 35
     },
     {
       "url": "https://github.com/stackabletech/nifi-operator",
@@ -116,6 +116,10 @@
     },
     {
       "url": "https://github.com/stackabletech/superset-operator",
+      "stars": 25
+    },
+    {
+      "url": "https://github.com/ZPascal/grafana_api_sdk",
       "stars": 24
     },
     {
@@ -124,10 +128,6 @@
     },
     {
       "url": "https://github.com/stackabletech/kafka-operator",
-      "stars": 22
-    },
-    {
-      "url": "https://github.com/ZPascal/grafana_api_sdk",
       "stars": 22
     },
     {
@@ -140,7 +140,7 @@
     },
     {
       "url": "https://github.com/stackabletech/hive-operator",
-      "stars": 19
+      "stars": 20
     },
     {
       "url": "https://github.com/stackabletech/airflow-operator",
@@ -152,11 +152,11 @@
     },
     {
       "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
-      "stars": 16
+      "stars": 17
     },
     {
       "url": "https://github.com/nnsnodnb/kalyke",
-      "stars": 16
+      "stars": 17
     },
     {
       "url": "https://github.com/nnsnodnb/django-ios-storekit",
@@ -219,6 +219,10 @@
       "stars": 7
     },
     {
+      "url": "https://github.com/ccdc-opensource/science-paper-rf-machine-learned-scoring-2022",
+      "stars": 7
+    },
+    {
       "url": "https://github.com/LFPy/LFPykit",
       "stars": 7
     },
@@ -232,10 +236,6 @@
     },
     {
       "url": "https://github.com/stackabletech/stackable-cockpit",
-      "stars": 6
-    },
-    {
-      "url": "https://github.com/ccdc-opensource/science-paper-rf-machine-learned-scoring-2022",
       "stars": 6
     },
     {

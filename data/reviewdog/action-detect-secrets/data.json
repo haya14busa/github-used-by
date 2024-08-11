@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/4paradigm/OpenMLDB",
-      "stars": 1579
+      "stars": 1578
     },
     {
       "url": "https://github.com/PyPtt/PyPtt",
@@ -59,11 +59,11 @@
       "stars": 13
     },
     {
-      "url": "https://github.com/sammcj/smart_diskinfo",
-      "stars": 9
+      "url": "https://github.com/sammcj/zsh-bootstrap",
+      "stars": 10
     },
     {
-      "url": "https://github.com/sammcj/zsh-bootstrap",
+      "url": "https://github.com/sammcj/smart_diskinfo",
       "stars": 9
     },
     {
@@ -104,8 +104,8 @@
     }
   ],
   "count": {
-    "total": 304,
-    "public": 164,
+    "total": 306,
+    "public": 166,
     "private": 140,
     "more_than_zero_star": 66
   }

@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
-      "stars": 2071
+      "stars": 2087
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -12,7 +12,7 @@
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 151
+      "stars": 156
     },
     {
       "url": "https://github.com/timoa/terraform-oci-vscode-server",
@@ -51,15 +51,15 @@
       "stars": 12
     },
     {
+      "url": "https://github.com/sammcj/zsh-bootstrap",
+      "stars": 10
+    },
+    {
       "url": "https://github.com/Vlaaaaaaad/terraform-aws-fargate-refinery",
       "stars": 10
     },
     {
       "url": "https://github.com/sammcj/smart_diskinfo",
-      "stars": 9
-    },
-    {
-      "url": "https://github.com/sammcj/zsh-bootstrap",
       "stars": 9
     },
     {

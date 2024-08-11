@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1667
+      "stars": 1669
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 667
+      "stars": 681
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
-      "stars": 543
+      "stars": 546
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 470
+      "stars": 473
     },
     {
       "url": "https://github.com/chainguard-dev/bincapz",
-      "stars": 393
+      "stars": 395
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -28,11 +28,11 @@
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 151
+      "stars": 156
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 131
+      "stars": 134
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 102
+      "stars": 105
     },
     {
       "url": "https://github.com/provectus/sak-kubeflow",
@@ -103,6 +103,10 @@
       "stars": 12
     },
     {
+      "url": "https://github.com/sammcj/zsh-bootstrap",
+      "stars": 10
+    },
+    {
       "url": "https://github.com/ExpediaGroup/github-webhook-proxy",
       "stars": 10
     },
@@ -116,10 +120,6 @@
     },
     {
       "url": "https://github.com/sammcj/smart_diskinfo",
-      "stars": 9
-    },
-    {
-      "url": "https://github.com/sammcj/zsh-bootstrap",
       "stars": 9
     },
     {
@@ -252,9 +252,9 @@
     }
   ],
   "count": {
-    "total": 586,
+    "total": 587,
     "public": 377,
-    "private": 209,
+    "private": 210,
     "more_than_zero_star": 160
   }
 }

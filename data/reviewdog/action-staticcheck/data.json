@@ -4,31 +4,31 @@
   "repos": [
     {
       "url": "https://github.com/zeromicro/go-zero",
-      "stars": 28530
+      "stars": 28597
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7647
+      "stars": 7667
     },
     {
       "url": "https://github.com/cloudwego/kitex",
-      "stars": 6842
+      "stars": 6856
     },
     {
       "url": "https://github.com/golang-jwt/jwt",
-      "stars": 6790
+      "stars": 6830
     },
     {
       "url": "https://github.com/cloudwego/hertz",
-      "stars": 4928
+      "stars": 4944
     },
     {
       "url": "https://github.com/TarsCloud/TarsGo",
-      "stars": 3310
+      "stars": 3312
     },
     {
       "url": "https://github.com/kevwan/tproxy",
-      "stars": 3202
+      "stars": 3210
     },
     {
       "url": "https://github.com/x-motemen/ghq",
@@ -36,7 +36,7 @@
     },
     {
       "url": "https://github.com/gookit/goutil",
-      "stars": 1913
+      "stars": 1920
     },
     {
       "url": "https://github.com/shomali11/slacker",
@@ -44,35 +44,35 @@
     },
     {
       "url": "https://github.com/zeromicro/go-queue",
-      "stars": 694
+      "stars": 696
     },
     {
       "url": "https://github.com/bytedance/mockey",
-      "stars": 594
+      "stars": 601
     },
     {
       "url": "https://github.com/gookit/config",
-      "stars": 533
+      "stars": 532
     },
     {
       "url": "https://github.com/Snowflake-Labs/terraform-provider-snowflake",
-      "stars": 516
+      "stars": 517
     },
     {
       "url": "https://github.com/gookit/event",
-      "stars": 501
-    },
-    {
-      "url": "https://github.com/cloudwego/shmipc-go",
-      "stars": 390
-    },
-    {
-      "url": "https://github.com/gookit/slog",
-      "stars": 373
+      "stars": 503
     },
     {
       "url": "https://github.com/cloudwego/goref",
-      "stars": 363
+      "stars": 404
+    },
+    {
+      "url": "https://github.com/cloudwego/shmipc-go",
+      "stars": 392
+    },
+    {
+      "url": "https://github.com/gookit/slog",
+      "stars": 374
     },
     {
       "url": "https://github.com/gookit/gcli",
@@ -80,15 +80,15 @@
     },
     {
       "url": "https://github.com/cloudwego/kitex-examples",
-      "stars": 351
+      "stars": 350
     },
     {
       "url": "https://github.com/arana-db/arana",
-      "stars": 289
+      "stars": 290
     },
     {
       "url": "https://github.com/chenquan/diskusage",
-      "stars": 265
+      "stars": 267
     },
     {
       "url": "https://github.com/karimra/gnmic",
@@ -104,11 +104,11 @@
     },
     {
       "url": "https://github.com/cloudwego/hertz-examples",
-      "stars": 208
+      "stars": 210
     },
     {
       "url": "https://github.com/Songmu/tagpr",
-      "stars": 202
+      "stars": 203
     },
     {
       "url": "https://github.com/gookit/cache",
@@ -116,11 +116,11 @@
     },
     {
       "url": "https://github.com/Songmu/ecschedule",
-      "stars": 167
+      "stars": 168
     },
     {
       "url": "https://github.com/openconfig/gnmic",
-      "stars": 167
+      "stars": 168
     },
     {
       "url": "https://github.com/kevwan/mapreduce",
@@ -128,7 +128,7 @@
     },
     {
       "url": "https://github.com/cunicu/cunicu",
-      "stars": 155
+      "stars": 157
     },
     {
       "url": "https://github.com/Songmu/horenso",
@@ -136,7 +136,7 @@
     },
     {
       "url": "https://github.com/x-motemen/blogsync",
-      "stars": 149
+      "stars": 150
     },
     {
       "url": "https://github.com/gookit/filter",
@@ -156,7 +156,7 @@
     },
     {
       "url": "https://github.com/cloudwego/frugal",
-      "stars": 108
+      "stars": 109
     },
     {
       "url": "https://github.com/Songmu/gocredits",
@@ -172,7 +172,7 @@
     },
     {
       "url": "https://github.com/cloudwego/cwgo",
-      "stars": 93
+      "stars": 94
     },
     {
       "url": "https://github.com/Songmu/goxz",
@@ -180,7 +180,7 @@
     },
     {
       "url": "https://github.com/kevwan/stream",
-      "stars": 90
+      "stars": 91
     },
     {
       "url": "https://github.com/cloudwego/fastpb",
@@ -188,14 +188,14 @@
     },
     {
       "url": "https://github.com/go-gorm/opentelemetry",
-      "stars": 84
-    },
-    {
-      "url": "https://github.com/gookit/ini",
-      "stars": 83
+      "stars": 85
     },
     {
       "url": "https://github.com/catatsuy/notify_slack",
+      "stars": 85
+    },
+    {
+      "url": "https://github.com/gookit/ini",
       "stars": 83
     },
     {
@@ -208,7 +208,7 @@
     },
     {
       "url": "https://github.com/jlucaspains/go-rest-template",
-      "stars": 69
+      "stars": 68
     },
     {
       "url": "https://github.com/Songmu/make2help",
@@ -224,7 +224,7 @@
     },
     {
       "url": "https://github.com/moke-game/platform",
-      "stars": 60
+      "stars": 62
     },
     {
       "url": "https://github.com/johnmanjiro13/gh-bump",
@@ -247,12 +247,12 @@
       "stars": 36
     },
     {
-      "url": "https://github.com/hertz-contrib/websocket",
+      "url": "https://github.com/slack-io/slacker",
       "stars": 35
     },
     {
-      "url": "https://github.com/slack-io/slacker",
-      "stars": 34
+      "url": "https://github.com/hertz-contrib/websocket",
+      "stars": 35
     },
     {
       "url": "https://github.com/kitex-contrib/xds",
@@ -404,8 +404,8 @@
     }
   ],
   "count": {
-    "total": 684,
-    "public": 539,
+    "total": 686,
+    "public": 541,
     "private": 145,
     "more_than_zero_star": 223
   }

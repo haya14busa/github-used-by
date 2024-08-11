@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 304 | 164 | 140 | 66 |
+| 306 | 166 | 140 | 66 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-detect-secrets/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-detect-secrets)
@@ -21,7 +21,7 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/4paradigm.png" width=50 height=50>|https://github.com/4paradigm/OpenMLDB|1579|
+|1|<img src="https://github.com/4paradigm.png" width=50 height=50>|https://github.com/4paradigm/OpenMLDB|1578|
 |2|<img src="https://github.com/PyPtt.png" width=50 height=50>|https://github.com/PyPtt/PyPtt|689|
 |3|<img src="https://github.com/jackpocket.png" width=50 height=50>|https://github.com/jackpocket/android-scratchoff|449|
 |4|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/operator-rs|115|
@@ -35,8 +35,8 @@
 |12|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/docker-images|15|
 |13|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/scripts|14|
 |14|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/nabab|13|
-|15|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/smart_diskinfo|9|
-|16|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/zsh-bootstrap|9|
+|15|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/zsh-bootstrap|10|
+|16|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/smart_diskinfo|9|
 |17|<img src="https://github.com/Badger-Finance.png" width=50 height=50>|https://github.com/Badger-Finance/v2-ui|9|
 |18|<img src="https://github.com/adam-rms.png" width=50 height=50>|https://github.com/adam-rms/app-v2|7|
 |19|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/slava|6|

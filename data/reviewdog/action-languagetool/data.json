@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7647
+      "stars": 7667
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7407
+      "stars": 7413
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1497
+      "stars": 1500
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1114
+      "stars": 1115
     },
     {
       "url": "https://github.com/latchset/clevis",
@@ -24,27 +24,27 @@
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 834
+      "stars": 837
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 420
+      "stars": 422
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 337
+      "stars": 345
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
       "stars": 177
     },
     {
-      "url": "https://github.com/jeertmans/languagetool-rust",
-      "stars": 152
+      "url": "https://github.com/grafana/k8s-monitoring-helm",
+      "stars": 156
     },
     {
-      "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 151
+      "url": "https://github.com/jeertmans/languagetool-rust",
+      "stars": 152
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
-      "stars": 131
+      "stars": 132
     },
     {
       "url": "https://github.com/mszostok/version",
@@ -67,12 +67,12 @@
       "stars": 82
     },
     {
-      "url": "https://github.com/capactio/capact",
+      "url": "https://github.com/Shemnei/punktf",
       "stars": 80
     },
     {
-      "url": "https://github.com/Shemnei/punktf",
-      "stars": 79
+      "url": "https://github.com/capactio/capact",
+      "stars": 80
     },
     {
       "url": "https://github.com/GStones/moke-kit",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://github.com/codewars/docs",
-      "stars": 56
+      "stars": 55
     },
     {
       "url": "https://github.com/stackabletech/spark-k8s-operator",
@@ -96,19 +96,19 @@
     },
     {
       "url": "https://github.com/stackabletech/trino-operator",
-      "stars": 47
+      "stars": 48
     },
     {
       "url": "https://github.com/stackabletech/hdfs-operator",
-      "stars": 34
+      "stars": 35
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 33
+      "stars": 32
     },
     {
       "url": "https://github.com/ZeroAssumptions/aide-de-camp",
-      "stars": 29
+      "stars": 30
     },
     {
       "url": "https://github.com/jeertmans/untex",
@@ -131,12 +131,12 @@
       "stars": 26
     },
     {
-      "url": "https://github.com/jeertmans/rpdf",
+      "url": "https://github.com/stackabletech/superset-operator",
       "stars": 25
     },
     {
-      "url": "https://github.com/stackabletech/superset-operator",
-      "stars": 24
+      "url": "https://github.com/jeertmans/rpdf",
+      "stars": 25
     },
     {
       "url": "https://github.com/stackabletech/kafka-operator",
@@ -148,7 +148,7 @@
     },
     {
       "url": "https://github.com/stackabletech/hive-operator",
-      "stars": 19
+      "stars": 20
     },
     {
       "url": "https://github.com/stackabletech/airflow-operator",
@@ -211,6 +211,10 @@
       "stars": 7
     },
     {
+      "url": "https://github.com/jeertmans/manim-tutorial",
+      "stars": 7
+    },
+    {
       "url": "https://github.com/VikeSec/CTF-Infrastructure",
       "stars": 7
     },
@@ -220,10 +224,6 @@
     },
     {
       "url": "https://github.com/helpwave/helpwave",
-      "stars": 6
-    },
-    {
-      "url": "https://github.com/jeertmans/manim-tutorial",
       "stars": 6
     },
     {

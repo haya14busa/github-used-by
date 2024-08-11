@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 553
+      "stars": 556
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
-      "stars": 139
+      "stars": 141
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
-      "stars": 133
+      "stars": 135
     },
     {
       "url": "https://github.com/reviewdog/action-suggester",
@@ -24,11 +24,11 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 79
+      "stars": 80
     },
     {
       "url": "https://github.com/yu-iskw/action-sqlfluff",
-      "stars": 65
+      "stars": 66
     },
     {
       "url": "https://github.com/jonathanmorley/asdf-pnpm",
@@ -36,7 +36,7 @@
     },
     {
       "url": "https://github.com/lure-sh/lure-repo",
-      "stars": 51
+      "stars": 52
     },
     {
       "url": "https://github.com/sksat/compose-cd",
@@ -68,7 +68,7 @@
     },
     {
       "url": "https://github.com/UmbrellaDocs/action-linkspector",
-      "stars": 5
+      "stars": 6
     },
     {
       "url": "https://github.com/btkostner/jumar",
@@ -76,8 +76,8 @@
     }
   ],
   "count": {
-    "total": 140,
-    "public": 78,
+    "total": 141,
+    "public": 79,
     "private": 62,
     "more_than_zero_star": 35
   }
