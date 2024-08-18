@@ -4,35 +4,35 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7667
+      "stars": 7685
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7413
+      "stars": 7416
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1500
+      "stars": 1501
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1115
+      "stars": 1116
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 858
+      "stars": 862
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 837
+      "stars": 838
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 422
+      "stars": 425
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 345
+      "stars": 350
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -40,19 +40,19 @@
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 156
+      "stars": 159
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
-      "stars": 152
+      "stars": 153
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
-      "stars": 145
+      "stars": 146
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
-      "stars": 132
+      "stars": 133
     },
     {
       "url": "https://github.com/mszostok/version",
@@ -75,16 +75,16 @@
       "stars": 80
     },
     {
+      "url": "https://github.com/agilepathway/label-checker",
+      "stars": 70
+    },
+    {
       "url": "https://github.com/GStones/moke-kit",
       "stars": 63
     },
     {
-      "url": "https://github.com/agilepathway/label-checker",
-      "stars": 61
-    },
-    {
       "url": "https://github.com/codewars/docs",
-      "stars": 55
+      "stars": 56
     },
     {
       "url": "https://github.com/stackabletech/spark-k8s-operator",
@@ -104,7 +104,7 @@
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 32
+      "stars": 31
     },
     {
       "url": "https://github.com/ZeroAssumptions/aide-de-camp",
@@ -127,15 +127,15 @@
       "stars": 26
     },
     {
+      "url": "https://github.com/jeertmans/rpdf",
+      "stars": 26
+    },
+    {
       "url": "https://github.com/pkosiec/website",
       "stars": 26
     },
     {
       "url": "https://github.com/stackabletech/superset-operator",
-      "stars": 25
-    },
-    {
-      "url": "https://github.com/jeertmans/rpdf",
       "stars": 25
     },
     {

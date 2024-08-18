@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/galaxyproject/ansible-postgresql",
-      "stars": 120
+      "stars": 121
     },
     {
       "url": "https://github.com/galaxyproject/ansible-slurm",
-      "stars": 81
+      "stars": 82
     },
     {
       "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
@@ -43,6 +43,10 @@
       "stars": 6
     },
     {
+      "url": "https://github.com/timoa/cdkit.ansible",
+      "stars": 5
+    },
+    {
       "url": "https://github.com/idiv-biodiversity/ansible-role-systemd-timesyncd",
       "stars": 5
     },
@@ -53,8 +57,8 @@
   ],
   "count": {
     "total": 122,
-    "public": 99,
-    "private": 23,
+    "public": 98,
+    "private": 24,
     "more_than_zero_star": 47
   }
 }

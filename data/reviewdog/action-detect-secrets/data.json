@@ -8,7 +8,7 @@
     },
     {
       "url": "https://github.com/PyPtt/PyPtt",
-      "stars": 689
+      "stars": 690
     },
     {
       "url": "https://github.com/jackpocket/android-scratchoff",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://github.com/bitmark-inc/feralfile-app",
-      "stars": 40
+      "stars": 41
     },
     {
       "url": "https://github.com/bitjourney/react-simple-image",
@@ -44,15 +44,15 @@
     },
     {
       "url": "https://github.com/adam-rms/adam-rms",
-      "stars": 17
+      "stars": 18
+    },
+    {
+      "url": "https://github.com/sammcj/scripts",
+      "stars": 15
     },
     {
       "url": "https://github.com/stackabletech/docker-images",
       "stars": 15
-    },
-    {
-      "url": "https://github.com/sammcj/scripts",
-      "stars": 14
     },
     {
       "url": "https://github.com/piotr-yuxuan/nabab",
@@ -83,6 +83,10 @@
       "stars": 6
     },
     {
+      "url": "https://github.com/stackabletech/druid-opa-authorizer",
+      "stars": 6
+    },
+    {
       "url": "https://github.com/bitjourney/ts_assets-rails",
       "stars": 5
     },
@@ -97,16 +101,12 @@
     {
       "url": "https://github.com/sammcj/sqs-message-action",
       "stars": 5
-    },
-    {
-      "url": "https://github.com/stackabletech/druid-opa-authorizer",
-      "stars": 5
     }
   ],
   "count": {
-    "total": 306,
-    "public": 166,
-    "private": 140,
-    "more_than_zero_star": 66
+    "total": 308,
+    "public": 167,
+    "private": 141,
+    "more_than_zero_star": 67
   }
 }

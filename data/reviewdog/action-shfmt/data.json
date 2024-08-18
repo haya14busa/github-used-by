@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 556
+      "stars": 560
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -12,7 +12,7 @@
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
-      "stars": 135
+      "stars": 136
     },
     {
       "url": "https://github.com/reviewdog/action-suggester",
@@ -44,7 +44,7 @@
     },
     {
       "url": "https://github.com/franzs/fritzbox_upload_certificate",
-      "stars": 39
+      "stars": 40
     },
     {
       "url": "https://github.com/mongolyy/reviewdog-action-biome",
@@ -68,7 +68,7 @@
     },
     {
       "url": "https://github.com/UmbrellaDocs/action-linkspector",
-      "stars": 6
+      "stars": 7
     },
     {
       "url": "https://github.com/btkostner/jumar",
@@ -76,9 +76,9 @@
     }
   ],
   "count": {
-    "total": 141,
-    "public": 79,
+    "total": 142,
+    "public": 80,
     "private": 62,
-    "more_than_zero_star": 35
+    "more_than_zero_star": 36
   }
 }

@@ -4,35 +4,35 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1669
+      "stars": 1668
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 681
+      "stars": 685
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
-      "stars": 546
+      "stars": 549
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 473
+      "stars": 474
     },
     {
       "url": "https://github.com/chainguard-dev/bincapz",
-      "stars": 395
+      "stars": 400
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
-      "stars": 192
+      "stars": 193
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 156
+      "stars": 159
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 134
+      "stars": 136
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/slalombuild/terraform-atmos-accelerator",
-      "stars": 42
+      "stars": 43
     },
     {
       "url": "https://github.com/clouddrove/terraform-aws-sftp",
@@ -63,12 +63,12 @@
       "stars": 34
     },
     {
-      "url": "https://github.com/timoa/terraform-oci-vscode-server",
+      "url": "https://github.com/cloudposse/github-actions-workflows",
       "stars": 26
     },
     {
-      "url": "https://github.com/cloudposse/github-actions-workflows",
-      "stars": 25
+      "url": "https://github.com/timoa/terraform-oci-vscode-server",
+      "stars": 26
     },
     {
       "url": "https://github.com/liatrio/lead-terraform",
@@ -83,16 +83,16 @@
       "stars": 18
     },
     {
+      "url": "https://github.com/rallyware/terraform-argocd-aws-eks-cluster-bootstrap",
+      "stars": 16
+    },
+    {
       "url": "https://github.com/SweetOps/terraform-google-storage-bucket",
       "stars": 16
     },
     {
-      "url": "https://github.com/rallyware/terraform-argocd-aws-eks-cluster-bootstrap",
-      "stars": 15
-    },
-    {
       "url": "https://github.com/sammcj/scripts",
-      "stars": 14
+      "stars": 15
     },
     {
       "url": "https://github.com/rhythmictech/terraform-terraform-template",
@@ -179,6 +179,10 @@
       "stars": 7
     },
     {
+      "url": "https://github.com/rhythmictech/terraform-aws-ssm-patch-manager",
+      "stars": 7
+    },
+    {
       "url": "https://github.com/scribd/terraform-aws-recycle-eks",
       "stars": 7
     },
@@ -204,10 +208,6 @@
     },
     {
       "url": "https://github.com/rhythmictech/terraform-aws-alb-ecs-task",
-      "stars": 6
-    },
-    {
-      "url": "https://github.com/rhythmictech/terraform-aws-ssm-patch-manager",
       "stars": 6
     },
     {
@@ -253,8 +253,8 @@
   ],
   "count": {
     "total": 587,
-    "public": 377,
-    "private": 210,
+    "public": 376,
+    "private": 211,
     "more_than_zero_star": 160
   }
 }
