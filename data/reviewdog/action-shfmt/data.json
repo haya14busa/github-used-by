@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 560
+      "stars": 564
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -12,19 +12,23 @@
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
-      "stars": 136
+      "stars": 137
+    },
+    {
+      "url": "https://github.com/jiro4989/setup-nim-action",
+      "stars": 102
     },
     {
       "url": "https://github.com/reviewdog/action-suggester",
       "stars": 102
     },
     {
-      "url": "https://github.com/jiro4989/setup-nim-action",
-      "stars": 101
+      "url": "https://github.com/Shemnei/punktf",
+      "stars": 81
     },
     {
-      "url": "https://github.com/Shemnei/punktf",
-      "stars": 80
+      "url": "https://github.com/aaronhurt/zfs-replicate",
+      "stars": 67
     },
     {
       "url": "https://github.com/yu-iskw/action-sqlfluff",
@@ -68,7 +72,7 @@
     },
     {
       "url": "https://github.com/UmbrellaDocs/action-linkspector",
-      "stars": 7
+      "stars": 8
     },
     {
       "url": "https://github.com/btkostner/jumar",
@@ -76,9 +80,9 @@
     }
   ],
   "count": {
-    "total": 142,
-    "public": 80,
+    "total": 145,
+    "public": 83,
     "private": 62,
-    "more_than_zero_star": 36
+    "more_than_zero_star": 38
   }
 }

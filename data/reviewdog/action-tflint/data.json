@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1668
+      "stars": 1670
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 685
+      "stars": 697
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
-      "stars": 549
+      "stars": 551
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
@@ -20,19 +20,19 @@
     },
     {
       "url": "https://github.com/chainguard-dev/bincapz",
-      "stars": 400
+      "stars": 401
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
-      "stars": 193
+      "stars": 194
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 159
+      "stars": 161
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 136
+      "stars": 139
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 105
+      "stars": 106
     },
     {
       "url": "https://github.com/provectus/sak-kubeflow",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://github.com/rallyware/terraform-argocd-aws-eks-cluster-bootstrap",
-      "stars": 16
+      "stars": 17
     },
     {
       "url": "https://github.com/SweetOps/terraform-google-storage-bucket",
@@ -207,6 +207,10 @@
       "stars": 6
     },
     {
+      "url": "https://github.com/nuvibit/github-terraform-workflows",
+      "stars": 6
+    },
+    {
       "url": "https://github.com/rhythmictech/terraform-aws-alb-ecs-task",
       "stars": 6
     },
@@ -224,10 +228,6 @@
     },
     {
       "url": "https://github.com/sammcj/sqs-message-action",
-      "stars": 5
-    },
-    {
-      "url": "https://github.com/nuvibit/github-terraform-workflows",
       "stars": 5
     },
     {
@@ -252,9 +252,9 @@
     }
   ],
   "count": {
-    "total": 587,
-    "public": 376,
+    "total": 591,
+    "public": 380,
     "private": 211,
-    "more_than_zero_star": 160
+    "more_than_zero_star": 161
   }
 }

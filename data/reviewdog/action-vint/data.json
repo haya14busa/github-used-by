@@ -4,79 +4,79 @@
   "repos": [
     {
       "url": "https://github.com/SpaceVim/SpaceVim",
-      "stars": 20191
+      "stars": 20201
     },
     {
       "url": "https://github.com/preservim/nerdtree",
-      "stars": 19486
+      "stars": 19499
     },
     {
       "url": "https://github.com/vim-airline/vim-airline",
-      "stars": 17723
+      "stars": 17728
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7416
+      "stars": 7419
     },
     {
       "url": "https://github.com/preservim/tagbar",
-      "stars": 6103
+      "stars": 6107
     },
     {
       "url": "https://github.com/preservim/nerdcommenter",
-      "stars": 4960
+      "stars": 4964
     },
     {
       "url": "https://github.com/preservim/vim-markdown",
-      "stars": 4659
+      "stars": 4665
     },
     {
       "url": "https://github.com/prabirshrestha/vim-lsp",
-      "stars": 3083
+      "stars": 3088
     },
     {
       "url": "https://github.com/liuchengxu/space-vim",
-      "stars": 2851
+      "stars": 2850
     },
     {
       "url": "https://github.com/preservim/vimux",
-      "stars": 2196
+      "stars": 2197
     },
     {
       "url": "https://github.com/liuchengxu/vim-clap",
-      "stars": 2097
+      "stars": 2098
     },
     {
       "url": "https://github.com/Xuyuanp/nerdtree-git-plugin",
-      "stars": 2080
+      "stars": 2081
     },
     {
       "url": "https://github.com/vim-airline/vim-airline-themes",
-      "stars": 2040
+      "stars": 2041
     },
     {
       "url": "https://github.com/liuchengxu/vista.vim",
-      "stars": 1879
+      "stars": 1880
     },
     {
       "url": "https://github.com/OmniSharp/omnisharp-vim",
-      "stars": 1682
+      "stars": 1689
     },
     {
       "url": "https://github.com/kassio/neoterm",
-      "stars": 1297
+      "stars": 1299
     },
     {
       "url": "https://github.com/mattn/vim-lsp-settings",
-      "stars": 1272
+      "stars": 1275
     },
     {
       "url": "https://github.com/lambdalisue/vim-fern",
-      "stars": 1263
+      "stars": 1262
     },
     {
       "url": "https://github.com/whatyouhide/vim-gotham",
-      "stars": 1242
+      "stars": 1241
     },
     {
       "url": "https://github.com/artur-shaik/vim-javacomplete2",
@@ -84,11 +84,11 @@
     },
     {
       "url": "https://github.com/prabirshrestha/asyncomplete.vim",
-      "stars": 918
+      "stars": 921
     },
     {
       "url": "https://github.com/yutkat/dotfiles",
-      "stars": 729
+      "stars": 730
     },
     {
       "url": "https://github.com/lambdalisue/vim-gina",
@@ -96,7 +96,7 @@
     },
     {
       "url": "https://github.com/vim-jp/vital.vim",
-      "stars": 570
+      "stars": 571
     },
     {
       "url": "https://github.com/tyru/caw.vim",
@@ -104,15 +104,15 @@
     },
     {
       "url": "https://github.com/haya14busa/vim-asterisk",
-      "stars": 376
+      "stars": 377
     },
     {
       "url": "https://github.com/ledger/vim-ledger",
-      "stars": 369
+      "stars": 370
     },
     {
       "url": "https://github.com/tani/vim-jetpack",
-      "stars": 314
+      "stars": 315
     },
     {
       "url": "https://github.com/jeanguyomarch/eovim",
@@ -128,7 +128,7 @@
     },
     {
       "url": "https://github.com/lambdalisue/vim-glyph-palette",
-      "stars": 126
+      "stars": 127
     },
     {
       "url": "https://github.com/preservim/vim-textobj-quote",
@@ -151,12 +151,12 @@
       "stars": 44
     },
     {
-      "url": "https://github.com/tridactyl/vim-tridactyl",
-      "stars": 32
+      "url": "https://github.com/vim-pandoc/vim-markdownfootnotes",
+      "stars": 34
     },
     {
-      "url": "https://github.com/vim-pandoc/vim-markdownfootnotes",
-      "stars": 31
+      "url": "https://github.com/tridactyl/vim-tridactyl",
+      "stars": 32
     },
     {
       "url": "https://github.com/prabirshrestha/callbag.vim",
@@ -217,8 +217,8 @@
   ],
   "count": {
     "total": 360,
-    "public": 293,
-    "private": 67,
-    "more_than_zero_star": 85
+    "public": 292,
+    "private": 68,
+    "more_than_zero_star": 84
   }
 }

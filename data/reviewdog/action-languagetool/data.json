@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7685
+      "stars": 7706
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7416
+      "stars": 7419
     },
     {
       "url": "https://github.com/vdaas/vald",
@@ -16,23 +16,23 @@
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1116
+      "stars": 1117
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 862
+      "stars": 867
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 838
+      "stars": 840
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 425
+      "stars": 429
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 350
+      "stars": 356
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 159
+      "stars": 161
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
@@ -68,7 +68,7 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 80
+      "stars": 81
     },
     {
       "url": "https://github.com/capactio/capact",
@@ -76,7 +76,7 @@
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
-      "stars": 70
+      "stars": 72
     },
     {
       "url": "https://github.com/GStones/moke-kit",
@@ -88,7 +88,7 @@
     },
     {
       "url": "https://github.com/stackabletech/spark-k8s-operator",
-      "stars": 49
+      "stars": 50
     },
     {
       "url": "https://github.com/shopware/docs",
@@ -100,22 +100,22 @@
     },
     {
       "url": "https://github.com/stackabletech/hdfs-operator",
-      "stars": 35
+      "stars": 36
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 31
+      "stars": 32
     },
     {
       "url": "https://github.com/ZeroAssumptions/aide-de-camp",
       "stars": 30
     },
     {
-      "url": "https://github.com/jeertmans/untex",
+      "url": "https://github.com/stackabletech/nifi-operator",
       "stars": 28
     },
     {
-      "url": "https://github.com/stackabletech/nifi-operator",
+      "url": "https://github.com/jeertmans/untex",
       "stars": 27
     },
     {
@@ -140,19 +140,19 @@
     },
     {
       "url": "https://github.com/stackabletech/kafka-operator",
-      "stars": 22
+      "stars": 23
+    },
+    {
+      "url": "https://github.com/stackabletech/hive-operator",
+      "stars": 21
+    },
+    {
+      "url": "https://github.com/stackabletech/airflow-operator",
+      "stars": 21
     },
     {
       "url": "https://github.com/nownabe/go-bqloader",
       "stars": 21
-    },
-    {
-      "url": "https://github.com/stackabletech/hive-operator",
-      "stars": 20
-    },
-    {
-      "url": "https://github.com/stackabletech/airflow-operator",
-      "stars": 19
     },
     {
       "url": "https://github.com/TheNeikos/type_description",
@@ -260,9 +260,9 @@
     }
   ],
   "count": {
-    "total": 356,
-    "public": 243,
+    "total": 357,
+    "public": 244,
     "private": 113,
-    "more_than_zero_star": 113
+    "more_than_zero_star": 114
   }
 }
