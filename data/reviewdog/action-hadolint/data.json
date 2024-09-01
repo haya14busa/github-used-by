@@ -4,59 +4,59 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 70207
+      "stars": 70273
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13081
+      "stars": 13102
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 6185
+      "stars": 6200
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 5641
+      "stars": 5665
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 3192
+      "stars": 3205
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
-      "stars": 2925
+      "stars": 2931
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1806
+      "stars": 1808
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1670
+      "stars": 1668
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1501
+      "stars": 1503
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1201
+      "stars": 1204
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 908
+      "stars": 914
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 754
+      "stars": 755
     },
     {
       "url": "https://github.com/K-Phoen/dark",
-      "stars": 424
+      "stars": 425
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 352
+      "stars": 354
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/KCarretto/paragon",
-      "stars": 292
+      "stars": 291
     },
     {
       "url": "https://github.com/bgruening/docker-galaxy-stable",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/netdata/go.d.plugin",
-      "stars": 161
+      "stars": 162
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -107,23 +107,23 @@
       "stars": 77
     },
     {
+      "url": "https://github.com/LFPy/LFPy",
+      "stars": 74
+    },
+    {
+      "url": "https://github.com/agilepathway/label-checker",
+      "stars": 73
+    },
+    {
       "url": "https://github.com/rickstaa/action-create-tag",
       "stars": 72
     },
     {
-      "url": "https://github.com/agilepathway/label-checker",
-      "stars": 72
-    },
-    {
-      "url": "https://github.com/LFPy/LFPy",
-      "stars": 71
+      "url": "https://github.com/netdata/community",
+      "stars": 66
     },
     {
       "url": "https://github.com/srz-zumix/iutest",
-      "stars": 65
-    },
-    {
-      "url": "https://github.com/netdata/community",
       "stars": 65
     },
     {
@@ -139,12 +139,12 @@
       "stars": 57
     },
     {
-      "url": "https://github.com/HopopOps/k8s-ldap-auth",
+      "url": "https://github.com/stackabletech/spark-k8s-operator",
       "stars": 51
     },
     {
-      "url": "https://github.com/stackabletech/spark-k8s-operator",
-      "stars": 50
+      "url": "https://github.com/HopopOps/k8s-ldap-auth",
+      "stars": 51
     },
     {
       "url": "https://github.com/stackabletech/trino-operator",
@@ -163,6 +163,10 @@
       "stars": 38
     },
     {
+      "url": "https://github.com/stackabletech/hdfs-operator",
+      "stars": 37
+    },
+    {
       "url": "https://github.com/rickstaa/action-black",
       "stars": 37
     },
@@ -175,16 +179,12 @@
       "stars": 36
     },
     {
-      "url": "https://github.com/stackabletech/hdfs-operator",
-      "stars": 36
+      "url": "https://github.com/Drakkar-Software/Triangular-Arbitrage",
+      "stars": 32
     },
     {
       "url": "https://github.com/basedosdados/pipelines",
       "stars": 32
-    },
-    {
-      "url": "https://github.com/Drakkar-Software/Triangular-Arbitrage",
-      "stars": 29
     },
     {
       "url": "https://github.com/stackabletech/nifi-operator",
@@ -255,12 +255,12 @@
       "stars": 17
     },
     {
-      "url": "https://github.com/reviewdog/action-depup",
+      "url": "https://github.com/stackabletech/docker-images",
       "stars": 17
     },
     {
-      "url": "https://github.com/stackabletech/docker-images",
-      "stars": 16
+      "url": "https://github.com/reviewdog/action-depup",
+      "stars": 17
     },
     {
       "url": "https://github.com/Arduino-CI/action",
@@ -405,8 +405,8 @@
   ],
   "count": {
     "total": 1818,
-    "public": 1284,
-    "private": 534,
-    "more_than_zero_star": 344
+    "public": 1283,
+    "private": 535,
+    "more_than_zero_star": 345
   }
 }

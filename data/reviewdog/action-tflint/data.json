@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1670
+      "stars": 1668
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 697
+      "stars": 706
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
@@ -16,11 +16,11 @@
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 474
+      "stars": 475
     },
     {
       "url": "https://github.com/chainguard-dev/bincapz",
-      "stars": 401
+      "stars": 404
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -28,11 +28,11 @@
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 161
+      "stars": 164
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 139
+      "stars": 142
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 106
+      "stars": 107
     },
     {
       "url": "https://github.com/provectus/sak-kubeflow",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/slalombuild/terraform-atmos-accelerator",
-      "stars": 43
+      "stars": 45
     },
     {
       "url": "https://github.com/clouddrove/terraform-aws-sftp",
@@ -63,11 +63,11 @@
       "stars": 34
     },
     {
-      "url": "https://github.com/cloudposse/github-actions-workflows",
-      "stars": 26
+      "url": "https://github.com/timoa/terraform-oci-vscode-server",
+      "stars": 27
     },
     {
-      "url": "https://github.com/timoa/terraform-oci-vscode-server",
+      "url": "https://github.com/cloudposse/github-actions-workflows",
       "stars": 26
     },
     {
@@ -252,9 +252,9 @@
     }
   ],
   "count": {
-    "total": 591,
-    "public": 380,
-    "private": 211,
-    "more_than_zero_star": 161
+    "total": 595,
+    "public": 381,
+    "private": 214,
+    "more_than_zero_star": 162
   }
 }

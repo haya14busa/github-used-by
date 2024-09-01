@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
-      "stars": 2124
+      "stars": 2146
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -12,11 +12,11 @@
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 161
+      "stars": 164
     },
     {
       "url": "https://github.com/timoa/terraform-oci-vscode-server",
-      "stars": 26
+      "stars": 27
     },
     {
       "url": "https://github.com/rhythmictech/terraform-aws-imagebuilder-pipeline",
@@ -148,9 +148,9 @@
     }
   ],
   "count": {
-    "total": 352,
-    "public": 235,
-    "private": 117,
-    "more_than_zero_star": 103
+    "total": 354,
+    "public": 234,
+    "private": 120,
+    "more_than_zero_star": 101
   }
 }
