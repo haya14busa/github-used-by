@@ -8,19 +8,19 @@
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2207
+      "stars": 2210
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
-      "stars": 1181
+      "stars": 1182
     },
     {
       "url": "https://github.com/h3poteto/whalebird-desktop",
-      "stars": 895
+      "stars": 897
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 239
+      "stars": 240
     },
     {
       "url": "https://github.com/th0th/poeticmetric",
@@ -55,11 +55,11 @@
       "stars": 40
     },
     {
-      "url": "https://github.com/DepSpy/depspy",
-      "stars": 34
+      "url": "https://github.com/WPMedia/arc-themes-blocks",
+      "stars": 35
     },
     {
-      "url": "https://github.com/WPMedia/arc-themes-blocks",
+      "url": "https://github.com/DepSpy/depspy",
       "stars": 34
     },
     {
@@ -204,8 +204,8 @@
     }
   ],
   "count": {
-    "total": 462,
-    "public": 354,
+    "total": 463,
+    "public": 355,
     "private": 108,
     "more_than_zero_star": 97
   }

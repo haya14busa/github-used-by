@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1668
+      "stars": 1670
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 706
+      "stars": 713
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
@@ -16,7 +16,7 @@
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 475
+      "stars": 476
     },
     {
       "url": "https://github.com/chainguard-dev/bincapz",
@@ -28,11 +28,11 @@
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 164
+      "stars": 171
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 142
+      "stars": 144
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
@@ -63,12 +63,12 @@
       "stars": 34
     },
     {
-      "url": "https://github.com/timoa/terraform-oci-vscode-server",
+      "url": "https://github.com/cloudposse/github-actions-workflows",
       "stars": 27
     },
     {
-      "url": "https://github.com/cloudposse/github-actions-workflows",
-      "stars": 26
+      "url": "https://github.com/timoa/terraform-oci-vscode-server",
+      "stars": 27
     },
     {
       "url": "https://github.com/liatrio/lead-terraform",
@@ -139,6 +139,10 @@
       "stars": 8
     },
     {
+      "url": "https://github.com/fluent/fluent-bit-ci",
+      "stars": 8
+    },
+    {
       "url": "https://github.com/rhythmictech/terraform-aws-okta-sso",
       "stars": 8
     },
@@ -164,10 +168,6 @@
     },
     {
       "url": "https://github.com/VikeSec/CTF-Infrastructure",
-      "stars": 7
-    },
-    {
-      "url": "https://github.com/fluent/fluent-bit-ci",
       "stars": 7
     },
     {
@@ -227,6 +227,10 @@
       "stars": 5
     },
     {
+      "url": "https://github.com/chainguard-dev/terraform-infra-common",
+      "stars": 5
+    },
+    {
       "url": "https://github.com/sammcj/sqs-message-action",
       "stars": 5
     },
@@ -252,9 +256,9 @@
     }
   ],
   "count": {
-    "total": 595,
-    "public": 381,
-    "private": 214,
+    "total": 596,
+    "public": 379,
+    "private": 217,
     "more_than_zero_star": 162
   }
 }

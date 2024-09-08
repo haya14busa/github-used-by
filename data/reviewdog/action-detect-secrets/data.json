@@ -8,15 +8,11 @@
     },
     {
       "url": "https://github.com/PyPtt/PyPtt",
-      "stars": 691
+      "stars": 692
     },
     {
       "url": "https://github.com/jackpocket/android-scratchoff",
       "stars": 450
-    },
-    {
-      "url": "https://github.com/stackabletech/operator-rs",
-      "stars": 116
     },
     {
       "url": "https://github.com/piotr-yuxuan/closeable-map",
@@ -45,10 +41,6 @@
     {
       "url": "https://github.com/adam-rms/adam-rms",
       "stars": 18
-    },
-    {
-      "url": "https://github.com/stackabletech/docker-images",
-      "stars": 17
     },
     {
       "url": "https://github.com/sammcj/scripts",
@@ -104,9 +96,9 @@
     }
   ],
   "count": {
-    "total": 308,
-    "public": 167,
-    "private": 141,
-    "more_than_zero_star": 68
+    "total": 309,
+    "public": 166,
+    "private": 143,
+    "more_than_zero_star": 67
   }
 }

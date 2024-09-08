@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/galaxyproject/ansible-postgresql",
-      "stars": 121
+      "stars": 122
     },
     {
       "url": "https://github.com/galaxyproject/ansible-slurm",

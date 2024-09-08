@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7746
+      "stars": 7769
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7427
+      "stars": 7434
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1503
+      "stars": 1506
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
@@ -20,19 +20,19 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 872
+      "stars": 878
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 841
+      "stars": 842
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 430
+      "stars": 434
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 367
+      "stars": 383
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 164
+      "stars": 171
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/shopware/docs",
-      "stars": 48
+      "stars": 49
     },
     {
       "url": "https://github.com/stackabletech/trino-operator",
@@ -243,10 +243,6 @@
       "stars": 5
     },
     {
-      "url": "https://github.com/stackabletech/operator-templating",
-      "stars": 5
-    },
-    {
       "url": "https://github.com/margau/bahn.day",
       "stars": 5
     },
@@ -264,9 +260,9 @@
     }
   ],
   "count": {
-    "total": 359,
+    "total": 360,
     "public": 246,
-    "private": 113,
-    "more_than_zero_star": 116
+    "private": 114,
+    "more_than_zero_star": 115
   }
 }

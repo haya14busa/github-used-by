@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 359 | 246 | 113 | 116 |
+| 360 | 246 | 114 | 115 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-languagetool/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-languagetool)
@@ -21,16 +21,16 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|7746|
-|2|<img src="https://github.com/easymotion.png" width=50 height=50>|https://github.com/easymotion/vim-easymotion|7427|
-|3|<img src="https://github.com/vdaas.png" width=50 height=50>|https://github.com/vdaas/vald|1503|
+|1|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|7769|
+|2|<img src="https://github.com/easymotion.png" width=50 height=50>|https://github.com/easymotion/vim-easymotion|7434|
+|3|<img src="https://github.com/vdaas.png" width=50 height=50>|https://github.com/vdaas/vald|1506|
 |4|<img src="https://github.com/markuspoerschke.png" width=50 height=50>|https://github.com/markuspoerschke/iCal|1117|
-|5|<img src="https://github.com/latchset.png" width=50 height=50>|https://github.com/latchset/clevis|872|
-|6|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/CircuitVerse|841|
-|7|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/manim-slides|430|
-|8|<img src="https://github.com/swiftwave-org.png" width=50 height=50>|https://github.com/swiftwave-org/swiftwave|367|
+|5|<img src="https://github.com/latchset.png" width=50 height=50>|https://github.com/latchset/clevis|878|
+|6|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/CircuitVerse|842|
+|7|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/manim-slides|434|
+|8|<img src="https://github.com/swiftwave-org.png" width=50 height=50>|https://github.com/swiftwave-org/swiftwave|383|
 |9|<img src="https://github.com/openhab.png" width=50 height=50>|https://github.com/openhab/openhab-google-assistant|177|
-|10|<img src="https://github.com/grafana.png" width=50 height=50>|https://github.com/grafana/k8s-monitoring-helm|164|
+|10|<img src="https://github.com/grafana.png" width=50 height=50>|https://github.com/grafana/k8s-monitoring-helm|171|
 |11|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/languagetool-rust|153|
 |12|<img src="https://github.com/leandro-lugaresi.png" width=50 height=50>|https://github.com/leandro-lugaresi/hub|146|
 |13|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/Interactive-Book|133|
@@ -43,7 +43,7 @@
 |20|<img src="https://github.com/GStones.png" width=50 height=50>|https://github.com/GStones/moke-kit|64|
 |21|<img src="https://github.com/codewars.png" width=50 height=50>|https://github.com/codewars/docs|56|
 |22|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/spark-k8s-operator|51|
-|23|<img src="https://github.com/shopware.png" width=50 height=50>|https://github.com/shopware/docs|48|
+|23|<img src="https://github.com/shopware.png" width=50 height=50>|https://github.com/shopware/docs|49|
 |24|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/trino-operator|48|
 |25|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/hdfs-operator|37|
 |26|<img src="https://github.com/Together-Java.png" width=50 height=50>|https://github.com/Together-Java/ModernJava|32|
@@ -81,8 +81,7 @@
 |58|<img src="https://github.com/will-fong.png" width=50 height=50>|https://github.com/will-fong/data-science|6|
 |59|<img src="https://github.com/capactio.png" width=50 height=50>|https://github.com/capactio/website|6|
 |60|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/DiffeRT|5|
-|61|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/operator-templating|5|
-|62|<img src="https://github.com/margau.png" width=50 height=50>|https://github.com/margau/bahn.day|5|
-|63|<img src="https://github.com/stakater.png" width=50 height=50>|https://github.com/stakater/employee-handbook|5|
-|64|<img src="https://github.com/fission.png" width=50 height=50>|https://github.com/fission/fission.io|5|
-|65|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/Blog|5|
+|61|<img src="https://github.com/margau.png" width=50 height=50>|https://github.com/margau/bahn.day|5|
+|62|<img src="https://github.com/stakater.png" width=50 height=50>|https://github.com/stakater/employee-handbook|5|
+|63|<img src="https://github.com/fission.png" width=50 height=50>|https://github.com/fission/fission.io|5|
+|64|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/Blog|5|
