@@ -4,35 +4,35 @@
   "repos": [
     {
       "url": "https://github.com/forem/forem",
-      "stars": 21881
+      "stars": 21891
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9483
+      "stars": 9480
     },
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 9096
-    },
-    {
-      "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2745
+      "stars": 9137
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 2735
+      "stars": 2745
+    },
+    {
+      "url": "https://github.com/CartoDB/cartodb",
+      "stars": 2744
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
-      "stars": 2706
+      "stars": 2705
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2298
+      "stars": 2304
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1346
+      "stars": 1350
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -40,11 +40,11 @@
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1101
+      "stars": 1102
     },
     {
       "url": "https://github.com/activeadmin/arbre",
-      "stars": 762
+      "stars": 761
     },
     {
       "url": "https://github.com/zilverline/sequent",
@@ -56,11 +56,11 @@
     },
     {
       "url": "https://github.com/galaxyproject/training-material",
-      "stars": 303
+      "stars": 304
     },
     {
       "url": "https://github.com/YusukeIwaki/puppeteer-ruby",
-      "stars": 280
+      "stars": 284
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/vmware/dod-compliance-and-automation",
-      "stars": 145
+      "stars": 146
     },
     {
       "url": "https://github.com/ytti/oxidized-web",
@@ -107,11 +107,11 @@
       "stars": 55
     },
     {
-      "url": "https://github.com/puzzle/puzzletime",
-      "stars": 46
+      "url": "https://github.com/gabriel-dehan/dyson-sphere-blueprints",
+      "stars": 47
     },
     {
-      "url": "https://github.com/gabriel-dehan/dyson-sphere-blueprints",
+      "url": "https://github.com/puzzle/puzzletime",
       "stars": 46
     },
     {
@@ -195,12 +195,12 @@
       "stars": 10
     },
     {
-      "url": "https://github.com/Church-of-Evan/the-bishop",
+      "url": "https://github.com/mainio/ratonvirus-clamby",
       "stars": 10
     },
     {
-      "url": "https://github.com/mainio/ratonvirus-clamby",
-      "stars": 10
+      "url": "https://github.com/Church-of-Evan/the-bishop",
+      "stars": 9
     },
     {
       "url": "https://github.com/phac-nml/irida-next",
@@ -272,9 +272,9 @@
     }
   ],
   "count": {
-    "total": 629,
+    "total": 630,
     "public": 466,
-    "private": 163,
-    "more_than_zero_star": 154
+    "private": 164,
+    "more_than_zero_star": 156
   }
 }

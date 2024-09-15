@@ -4,43 +4,43 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7769
+      "stars": 7782
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7434
+      "stars": 7440
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1506
+      "stars": 1508
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1117
+      "stars": 1118
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 878
+      "stars": 885
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 842
+      "stars": 843
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 434
+      "stars": 436
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 383
-    },
-    {
-      "url": "https://github.com/openhab/openhab-google-assistant",
-      "stars": 177
+      "stars": 392
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 171
+      "stars": 176
+    },
+    {
+      "url": "https://github.com/openhab/openhab-google-assistant",
+      "stars": 175
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
-      "stars": 133
+      "stars": 134
     },
     {
       "url": "https://github.com/mszostok/version",
@@ -96,11 +96,11 @@
     },
     {
       "url": "https://github.com/stackabletech/trino-operator",
-      "stars": 48
+      "stars": 49
     },
     {
       "url": "https://github.com/stackabletech/hdfs-operator",
-      "stars": 37
+      "stars": 38
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
@@ -111,11 +111,11 @@
       "stars": 30
     },
     {
-      "url": "https://github.com/stackabletech/nifi-operator",
-      "stars": 28
+      "url": "https://github.com/jeertmans/rpdf",
+      "stars": 29
     },
     {
-      "url": "https://github.com/jeertmans/rpdf",
+      "url": "https://github.com/stackabletech/nifi-operator",
       "stars": 28
     },
     {
@@ -260,9 +260,9 @@
     }
   ],
   "count": {
-    "total": 360,
+    "total": 362,
     "public": 246,
-    "private": 114,
+    "private": 116,
     "more_than_zero_star": 115
   }
 }

@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 582
+      "stars": 587
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
@@ -36,7 +36,7 @@
     },
     {
       "url": "https://github.com/jonathanmorley/asdf-pnpm",
-      "stars": 64
+      "stars": 65
     },
     {
       "url": "https://github.com/lure-sh/lure-repo",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/mongolyy/reviewdog-action-biome",
-      "stars": 25
+      "stars": 26
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-prettier",
@@ -76,7 +76,7 @@
     },
     {
       "url": "https://github.com/reviewdog/action-ast-grep",
-      "stars": 6
+      "stars": 7
     },
     {
       "url": "https://github.com/btkostner/jumar",

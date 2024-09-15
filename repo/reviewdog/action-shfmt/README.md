@@ -21,7 +21,7 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/sourcegraph.png" width=50 height=50>|https://github.com/sourcegraph/zoekt|582|
+|1|<img src="https://github.com/sourcegraph.png" width=50 height=50>|https://github.com/sourcegraph/zoekt|587|
 |2|<img src="https://github.com/CrowdStrike.png" width=50 height=50>|https://github.com/CrowdStrike/falcon-scripts|142|
 |3|<img src="https://github.com/aerospike.png" width=50 height=50>|https://github.com/aerospike/aerospike-server.docker|141|
 |4|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/action-suggester|103|
@@ -29,15 +29,15 @@
 |6|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|81|
 |7|<img src="https://github.com/aaronhurt.png" width=50 height=50>|https://github.com/aaronhurt/zfs-replicate|68|
 |8|<img src="https://github.com/yu-iskw.png" width=50 height=50>|https://github.com/yu-iskw/action-sqlfluff|67|
-|9|<img src="https://github.com/jonathanmorley.png" width=50 height=50>|https://github.com/jonathanmorley/asdf-pnpm|64|
+|9|<img src="https://github.com/jonathanmorley.png" width=50 height=50>|https://github.com/jonathanmorley/asdf-pnpm|65|
 |10|<img src="https://github.com/lure-sh.png" width=50 height=50>|https://github.com/lure-sh/lure-repo|52|
 |11|<img src="https://github.com/sksat.png" width=50 height=50>|https://github.com/sksat/compose-cd|41|
 |12|<img src="https://github.com/franzs.png" width=50 height=50>|https://github.com/franzs/fritzbox_upload_certificate|40|
-|13|<img src="https://github.com/mongolyy.png" width=50 height=50>|https://github.com/mongolyy/reviewdog-action-biome|25|
+|13|<img src="https://github.com/mongolyy.png" width=50 height=50>|https://github.com/mongolyy/reviewdog-action-biome|26|
 |14|<img src="https://github.com/EPMatt.png" width=50 height=50>|https://github.com/EPMatt/reviewdog-action-prettier|23|
 |15|<img src="https://github.com/EPMatt.png" width=50 height=50>|https://github.com/EPMatt/reviewdog-action-tsc|19|
 |16|<img src="https://github.com/aerospike.png" width=50 height=50>|https://github.com/aerospike/aerospike-server-enterprise.docker|15|
 |17|<img src="https://github.com/knative.png" width=50 height=50>|https://github.com/knative/actions|11|
 |18|<img src="https://github.com/UmbrellaDocs.png" width=50 height=50>|https://github.com/UmbrellaDocs/action-linkspector|8|
-|19|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/action-ast-grep|6|
+|19|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/action-ast-grep|7|
 |20|<img src="https://github.com/btkostner.png" width=50 height=50>|https://github.com/btkostner/jumar|5|

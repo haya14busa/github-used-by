@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 70339
+      "stars": 70420
     },
     {
       "url": "https://github.com/microsoft/onnxruntime",
-      "stars": 14057
+      "stars": 14104
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 6094
+      "stars": 6105
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
-      "stars": 873
+      "stars": 872
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 589
+      "stars": 592
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
@@ -36,11 +36,11 @@
     },
     {
       "url": "https://github.com/PAhelper/PhoenixAdult.bundle",
-      "stars": 355
+      "stars": 356
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
-      "stars": 168
+      "stars": 171
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
@@ -56,15 +56,15 @@
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
-      "stars": 98
-    },
-    {
-      "url": "https://github.com/ehpor/hcipy",
-      "stars": 88
+      "stars": 99
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
-      "stars": 87
+      "stars": 89
+    },
+    {
+      "url": "https://github.com/ehpor/hcipy",
+      "stars": 89
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/stackabletech/trino-operator",
-      "stars": 48
+      "stars": 49
     },
     {
       "url": "https://github.com/ThePornDatabase/scrapers",
@@ -104,22 +104,22 @@
     },
     {
       "url": "https://github.com/stackabletech/hdfs-operator",
-      "stars": 37
+      "stars": 38
     },
     {
       "url": "https://github.com/Open-Model-Initiative/OMI-Data-Pipeline",
-      "stars": 31
+      "stars": 32
     },
     {
       "url": "https://github.com/stackabletech/nifi-operator",
       "stars": 28
     },
     {
-      "url": "https://github.com/stackabletech/zookeeper-operator",
-      "stars": 26
+      "url": "https://github.com/rickstaa/ros-gazebo-gym",
+      "stars": 27
     },
     {
-      "url": "https://github.com/rickstaa/ros-gazebo-gym",
+      "url": "https://github.com/stackabletech/zookeeper-operator",
       "stars": 26
     },
     {
@@ -167,11 +167,11 @@
       "stars": 16
     },
     {
-      "url": "https://github.com/stackabletech/opa-operator",
-      "stars": 15
+      "url": "https://github.com/nnsnodnb/django-ios-storekit",
+      "stars": 16
     },
     {
-      "url": "https://github.com/nnsnodnb/django-ios-storekit",
+      "url": "https://github.com/stackabletech/opa-operator",
       "stars": 15
     },
     {
@@ -184,7 +184,7 @@
     },
     {
       "url": "https://github.com/rickstaa/panda-gazebo",
-      "stars": 12
+      "stars": 13
     },
     {
       "url": "https://github.com/rickstaa/stable-gym",
@@ -204,10 +204,6 @@
     },
     {
       "url": "https://github.com/stackabletech/druid-operator",
-      "stars": 10
-    },
-    {
-      "url": "https://github.com/aces/Loris-MRI",
       "stars": 10
     },
     {
@@ -261,8 +257,8 @@
   ],
   "count": {
     "total": 410,
-    "public": 312,
-    "private": 98,
-    "more_than_zero_star": 130
+    "public": 310,
+    "private": 100,
+    "more_than_zero_star": 129
   }
 }
