@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/4paradigm/OpenMLDB",
-      "stars": 1581
+      "stars": 1580
     },
     {
       "url": "https://github.com/PyPtt/PyPtt",
-      "stars": 692
+      "stars": 693
     },
     {
       "url": "https://github.com/jackpocket/android-scratchoff",
@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/piotr-yuxuan/malli-cli",
-      "stars": 52
+      "stars": 53
     },
     {
       "url": "https://github.com/bitmark-inc/feralfile-app",
@@ -96,9 +96,9 @@
     }
   ],
   "count": {
-    "total": 309,
+    "total": 310,
     "public": 166,
-    "private": 143,
+    "private": 144,
     "more_than_zero_star": 68
   }
 }

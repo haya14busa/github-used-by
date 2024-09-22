@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 70420
+      "stars": 70520
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13134
+      "stars": 13148
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 6218
+      "stars": 6229
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 5730
+      "stars": 5738
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 3233
+      "stars": 3253
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
@@ -28,11 +28,11 @@
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1812
+      "stars": 1814
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1670
+      "stars": 1671
     },
     {
       "url": "https://github.com/vdaas/vald",
@@ -40,23 +40,23 @@
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1210
+      "stars": 1213
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 919
+      "stars": 922
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 761
+      "stars": 760
     },
     {
       "url": "https://github.com/K-Phoen/dark",
-      "stars": 426
+      "stars": 428
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 360
+      "stars": 362
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/openstack-exporter/openstack-exporter",
-      "stars": 206
+      "stars": 207
     },
     {
       "url": "https://github.com/raspbernetes/multi-arch-images",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/dadrus/heimdall",
-      "stars": 113
+      "stars": 114
     },
     {
       "url": "https://github.com/timoa/app-stores-prometheus-exporter",
@@ -143,11 +143,11 @@
       "stars": 58
     },
     {
-      "url": "https://github.com/stackabletech/spark-k8s-operator",
-      "stars": 51
+      "url": "https://github.com/HopopOps/k8s-ldap-auth",
+      "stars": 52
     },
     {
-      "url": "https://github.com/HopopOps/k8s-ldap-auth",
+      "url": "https://github.com/stackabletech/spark-k8s-operator",
       "stars": 51
     },
     {
@@ -163,12 +163,12 @@
       "stars": 48
     },
     {
-      "url": "https://github.com/reviewdog/action-languagetool",
+      "url": "https://github.com/truecharts/containers",
       "stars": 39
     },
     {
-      "url": "https://github.com/truecharts/containers",
-      "stars": 38
+      "url": "https://github.com/reviewdog/action-languagetool",
+      "stars": 39
     },
     {
       "url": "https://github.com/stackabletech/hdfs-operator",
@@ -203,16 +203,16 @@
       "stars": 26
     },
     {
+      "url": "https://github.com/stackabletech/superset-operator",
+      "stars": 26
+    },
+    {
       "url": "https://github.com/program-world-labs/DDDGo",
       "stars": 26
     },
     {
-      "url": "https://github.com/stackabletech/superset-operator",
-      "stars": 25
-    },
-    {
       "url": "https://github.com/stackabletech/kafka-operator",
-      "stars": 23
+      "stars": 24
     },
     {
       "url": "https://github.com/comorment/containers",
@@ -239,16 +239,16 @@
       "stars": 21
     },
     {
+      "url": "https://github.com/reviewdog/action-template",
+      "stars": 21
+    },
+    {
       "url": "https://github.com/chronosphereio/calyptia-vivo",
       "stars": 20
     },
     {
-      "url": "https://github.com/reviewdog/action-template",
-      "stars": 20
-    },
-    {
       "url": "https://github.com/Drakkar-Software/OctoBot-Script",
-      "stars": 18
+      "stars": 19
     },
     {
       "url": "https://github.com/reviewdog/action-staticcheck",
@@ -323,6 +323,10 @@
       "stars": 11
     },
     {
+      "url": "https://github.com/vbouchaud/nfs-client-provisioner",
+      "stars": 11
+    },
+    {
       "url": "https://github.com/ironpeakservices/iron-chart-hugo",
       "stars": 11
     },
@@ -375,6 +379,10 @@
       "stars": 10
     },
     {
+      "url": "https://github.com/basedosdados/queries-basedosdados",
+      "stars": 9
+    },
+    {
       "url": "https://github.com/sammcj/smart_diskinfo",
       "stars": 9
     },
@@ -387,26 +395,18 @@
       "stars": 9
     },
     {
-      "url": "https://github.com/vbouchaud/nfs-client-provisioner",
-      "stars": 9
+      "url": "https://github.com/open-amt-cloud-toolkit/console",
+      "stars": 8
     },
     {
       "url": "https://github.com/srz-zumix/docker-googletest",
       "stars": 8
-    },
-    {
-      "url": "https://github.com/basedosdados/queries-basedosdados",
-      "stars": 8
-    },
-    {
-      "url": "https://github.com/basedosdados/backend",
-      "stars": 8
     }
   ],
   "count": {
-    "total": 1831,
-    "public": 1287,
-    "private": 544,
+    "total": 1836,
+    "public": 1290,
+    "private": 546,
     "more_than_zero_star": 347
   }
 }
