@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 593
+      "stars": 600
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
@@ -16,7 +16,7 @@
     },
     {
       "url": "https://github.com/reviewdog/action-suggester",
-      "stars": 105
+      "stars": 106
     },
     {
       "url": "https://github.com/jiro4989/setup-nim-action",
@@ -24,19 +24,19 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 81
+      "stars": 82
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
-      "stars": 70
+      "stars": 71
+    },
+    {
+      "url": "https://github.com/jonathanmorley/asdf-pnpm",
+      "stars": 67
     },
     {
       "url": "https://github.com/yu-iskw/action-sqlfluff",
       "stars": 67
-    },
-    {
-      "url": "https://github.com/jonathanmorley/asdf-pnpm",
-      "stars": 66
     },
     {
       "url": "https://github.com/lure-sh/lure-repo",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/mongolyy/reviewdog-action-biome",
-      "stars": 27
+      "stars": 28
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-prettier",
@@ -84,8 +84,8 @@
     }
   ],
   "count": {
-    "total": 146,
-    "public": 84,
+    "total": 148,
+    "public": 86,
     "private": 62,
     "more_than_zero_star": 39
   }

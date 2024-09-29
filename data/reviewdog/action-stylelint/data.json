@@ -8,23 +8,23 @@
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2215
+      "stars": 2213
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
-      "stars": 1188
+      "stars": 1191
     },
     {
       "url": "https://github.com/h3poteto/whalebird-desktop",
-      "stars": 900
+      "stars": 901
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 243
+      "stars": 244
     },
     {
       "url": "https://github.com/th0th/poeticmetric",
-      "stars": 229
+      "stars": 230
     },
     {
       "url": "https://github.com/modx-pro/miniShop2",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/a01sa01to/covid19-ibaraki",
-      "stars": 40
+      "stars": 41
     },
     {
       "url": "https://github.com/WPMedia/arc-themes-blocks",
@@ -96,7 +96,7 @@
     },
     {
       "url": "https://github.com/Lipoic/Lipoic-Frontend",
-      "stars": 18
+      "stars": 19
     },
     {
       "url": "https://github.com/glowfic-constellation/glowfic",
@@ -205,8 +205,8 @@
   ],
   "count": {
     "total": 463,
-    "public": 353,
-    "private": 110,
-    "more_than_zero_star": 95
+    "public": 352,
+    "private": 111,
+    "more_than_zero_star": 94
   }
 }

@@ -4,59 +4,59 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 70520
+      "stars": 70657
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13148
+      "stars": 13156
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 6229
+      "stars": 6243
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 5738
+      "stars": 5770
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 3253
+      "stars": 3270
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
-      "stars": 2934
+      "stars": 2936
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1814
+      "stars": 1815
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1671
+      "stars": 1672
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1508
+      "stars": 1510
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1213
+      "stars": 1214
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 922
+      "stars": 925
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 760
+      "stars": 763
     },
     {
       "url": "https://github.com/K-Phoen/dark",
-      "stars": 428
+      "stars": 427
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 362
+      "stars": 363
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/dadrus/heimdall",
-      "stars": 114
+      "stars": 117
     },
     {
       "url": "https://github.com/timoa/app-stores-prometheus-exporter",
@@ -140,7 +140,7 @@
     },
     {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
-      "stars": 58
+      "stars": 59
     },
     {
       "url": "https://github.com/HopopOps/k8s-ldap-auth",
@@ -156,7 +156,7 @@
     },
     {
       "url": "https://github.com/haya14busa/action-update-semver",
-      "stars": 48
+      "stars": 49
     },
     {
       "url": "https://github.com/jiro4989/build-deb-action",
@@ -184,7 +184,7 @@
     },
     {
       "url": "https://github.com/Drakkar-Software/Triangular-Arbitrage",
-      "stars": 33
+      "stars": 35
     },
     {
       "url": "https://github.com/basedosdados/pipelines",
@@ -192,7 +192,7 @@
     },
     {
       "url": "https://github.com/stackabletech/nifi-operator",
-      "stars": 28
+      "stars": 30
     },
     {
       "url": "https://github.com/EdgeGallery/helm-charts",
@@ -211,11 +211,15 @@
       "stars": 26
     },
     {
+      "url": "https://github.com/comorment/containers",
+      "stars": 24
+    },
+    {
       "url": "https://github.com/stackabletech/kafka-operator",
       "stars": 24
     },
     {
-      "url": "https://github.com/comorment/containers",
+      "url": "https://github.com/stackabletech/airflow-operator",
       "stars": 22
     },
     {
@@ -223,19 +227,15 @@
       "stars": 22
     },
     {
-      "url": "https://github.com/dbelyaev/action-checkstyle",
-      "stars": 22
-    },
-    {
       "url": "https://github.com/stackabletech/hive-operator",
       "stars": 21
     },
     {
-      "url": "https://github.com/stackabletech/airflow-operator",
+      "url": "https://github.com/arkedge/hubhook",
       "stars": 21
     },
     {
-      "url": "https://github.com/arkedge/hubhook",
+      "url": "https://github.com/dbelyaev/action-checkstyle",
       "stars": 21
     },
     {
@@ -255,11 +255,11 @@
       "stars": 18
     },
     {
-      "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
-      "stars": 17
+      "url": "https://github.com/reviewdog/action-depup",
+      "stars": 18
     },
     {
-      "url": "https://github.com/reviewdog/action-depup",
+      "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
       "stars": 17
     },
     {
@@ -295,16 +295,16 @@
       "stars": 13
     },
     {
+      "url": "https://github.com/AnchorFree/ssl-watch",
+      "stars": 12
+    },
+    {
       "url": "https://github.com/vk26/action-fasterer",
       "stars": 12
     },
     {
       "url": "https://github.com/sksat/kuso-subdomain-adder",
       "stars": 12
-    },
-    {
-      "url": "https://github.com/AnchorFree/ssl-watch",
-      "stars": 11
     },
     {
       "url": "https://github.com/stackabletech/secret-operator",
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 1836,
-    "public": 1290,
-    "private": 546,
-    "more_than_zero_star": 347
+    "total": 1849,
+    "public": 1301,
+    "private": 548,
+    "more_than_zero_star": 351
   }
 }
