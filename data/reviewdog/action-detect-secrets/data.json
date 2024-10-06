@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/4paradigm/OpenMLDB",
-      "stars": 1581
+      "stars": 1584
     },
     {
       "url": "https://github.com/PyPtt/PyPtt",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/bitmark-inc/feralfile-app",
-      "stars": 42
+      "stars": 43
     },
     {
       "url": "https://github.com/bitjourney/react-simple-image",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/adam-rms/adam-rms",
-      "stars": 18
+      "stars": 19
     },
     {
       "url": "https://github.com/sammcj/scripts",
@@ -96,8 +96,8 @@
     }
   ],
   "count": {
-    "total": 310,
-    "public": 166,
+    "total": 311,
+    "public": 167,
     "private": 144,
     "more_than_zero_star": 68
   }

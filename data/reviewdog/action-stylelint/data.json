@@ -8,19 +8,19 @@
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2213
+      "stars": 2217
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
-      "stars": 1191
+      "stars": 1194
     },
     {
       "url": "https://github.com/h3poteto/whalebird-desktop",
-      "stars": 901
+      "stars": 898
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 244
+      "stars": 246
     },
     {
       "url": "https://github.com/th0th/poeticmetric",
@@ -32,11 +32,11 @@
     },
     {
       "url": "https://github.com/haya14busa/github-action-brandings",
-      "stars": 138
+      "stars": 139
     },
     {
       "url": "https://github.com/10up/10up-experience",
-      "stars": 130
+      "stars": 129
     },
     {
       "url": "https://github.com/department-of-veterans-affairs/va.gov-cms",
@@ -167,6 +167,10 @@
       "stars": 6
     },
     {
+      "url": "https://github.com/btkostner/jumar",
+      "stars": 6
+    },
+    {
       "url": "https://github.com/thunder/select2",
       "stars": 6
     },
@@ -191,10 +195,6 @@
       "stars": 5
     },
     {
-      "url": "https://github.com/btkostner/jumar",
-      "stars": 5
-    },
-    {
       "url": "https://github.com/danskernesdigitalebibliotek/dpl-react",
       "stars": 5
     },
@@ -204,8 +204,8 @@
     }
   ],
   "count": {
-    "total": 463,
-    "public": 352,
+    "total": 464,
+    "public": 353,
     "private": 111,
     "more_than_zero_star": 94
   }

@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1672
+      "stars": 1673
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 721
+      "stars": 728
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 407
+      "stars": 408
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -28,15 +28,15 @@
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 182
+      "stars": 186
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 151
+      "stars": 152
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 115
+      "stars": 126
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/slalombuild/terraform-atmos-accelerator",
-      "stars": 45
+      "stars": 46
     },
     {
       "url": "https://github.com/clouddrove/terraform-aws-sftp",
@@ -135,6 +135,14 @@
       "stars": 9
     },
     {
+      "url": "https://github.com/chainguard-dev/terraform-infra-common",
+      "stars": 8
+    },
+    {
+      "url": "https://github.com/chainguard-dev/kontext",
+      "stars": 8
+    },
+    {
       "url": "https://github.com/liatrio/terraform-caf-azure",
       "stars": 8
     },
@@ -153,14 +161,6 @@
     {
       "url": "https://github.com/rhythmictech/terraform-aws-cis-cloudwatch-monitors",
       "stars": 8
-    },
-    {
-      "url": "https://github.com/chainguard-dev/terraform-infra-common",
-      "stars": 7
-    },
-    {
-      "url": "https://github.com/chainguard-dev/kontext",
-      "stars": 7
     },
     {
       "url": "https://github.com/jkrilov/NiceGuiTest",
@@ -231,6 +231,10 @@
       "stars": 5
     },
     {
+      "url": "https://github.com/ldcorentin/aws-terratest-localstack",
+      "stars": 5
+    },
+    {
       "url": "https://github.com/sammcj/sqs-message-action",
       "stars": 5
     },
@@ -260,9 +264,9 @@
     }
   ],
   "count": {
-    "total": 601,
-    "public": 378,
-    "private": 223,
-    "more_than_zero_star": 162
+    "total": 606,
+    "public": 382,
+    "private": 224,
+    "more_than_zero_star": 164
   }
 }

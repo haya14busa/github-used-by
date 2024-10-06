@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/pglombardo/PasswordPusher",
-      "stars": 2016
+      "stars": 2022
     },
     {
       "url": "https://github.com/tricknotes/starseeker",
@@ -13,6 +13,10 @@
     {
       "url": "https://github.com/chanzuckerberg/czid-web",
       "stars": 78
+    },
+    {
+      "url": "https://github.com/openHPI/codeocean",
+      "stars": 64
     },
     {
       "url": "https://github.com/veuelive/veue",
@@ -40,9 +44,9 @@
     }
   ],
   "count": {
-    "total": 105,
-    "public": 72,
+    "total": 106,
+    "public": 73,
     "private": 33,
-    "more_than_zero_star": 21
+    "more_than_zero_star": 22
   }
 }

@@ -4,47 +4,47 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7836
+      "stars": 7859
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7455
+      "stars": 7465
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1510
+      "stars": 1515
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1120
+      "stars": 1122
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 901
+      "stars": 908
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 850
+      "stars": 851
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 439
+      "stars": 444
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 411
+      "stars": 416
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 182
+      "stars": 186
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
-      "stars": 175
+      "stars": 174
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
-      "stars": 155
+      "stars": 156
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/mszostok/version",
-      "stars": 95
+      "stars": 97
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/GStones/moke-kit",
-      "stars": 64
+      "stars": 65
     },
     {
       "url": "https://github.com/codewars/docs",
@@ -159,11 +159,11 @@
       "stars": 19
     },
     {
-      "url": "https://github.com/stackabletech/opa-operator",
-      "stars": 15
+      "url": "https://github.com/hp-net/homebridge-nibe",
+      "stars": 16
     },
     {
-      "url": "https://github.com/hp-net/homebridge-nibe",
+      "url": "https://github.com/stackabletech/opa-operator",
       "stars": 15
     },
     {
@@ -260,8 +260,8 @@
     }
   ],
   "count": {
-    "total": 362,
-    "public": 246,
+    "total": 363,
+    "public": 247,
     "private": 116,
     "more_than_zero_star": 115
   }

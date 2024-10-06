@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 600
+      "stars": 682
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
-      "stars": 144
+      "stars": 145
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
-      "stars": 141
+      "stars": 142
     },
     {
       "url": "https://github.com/reviewdog/action-suggester",
@@ -31,11 +31,11 @@
       "stars": 71
     },
     {
-      "url": "https://github.com/jonathanmorley/asdf-pnpm",
-      "stars": 67
+      "url": "https://github.com/yu-iskw/action-sqlfluff",
+      "stars": 68
     },
     {
-      "url": "https://github.com/yu-iskw/action-sqlfluff",
+      "url": "https://github.com/jonathanmorley/asdf-pnpm",
       "stars": 67
     },
     {
@@ -44,11 +44,11 @@
     },
     {
       "url": "https://github.com/sksat/compose-cd",
-      "stars": 42
+      "stars": 43
     },
     {
       "url": "https://github.com/franzs/fritzbox_upload_certificate",
-      "stars": 40
+      "stars": 41
     },
     {
       "url": "https://github.com/mongolyy/reviewdog-action-biome",
@@ -80,12 +80,12 @@
     },
     {
       "url": "https://github.com/btkostner/jumar",
-      "stars": 5
+      "stars": 6
     }
   ],
   "count": {
-    "total": 148,
-    "public": 86,
+    "total": 152,
+    "public": 90,
     "private": 62,
     "more_than_zero_star": 39
   }

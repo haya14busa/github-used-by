@@ -4,15 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
-      "stars": 2232
+      "stars": 2256
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
       "stars": 194
-    },
-    {
-      "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 182
     },
     {
       "url": "https://github.com/timoa/terraform-oci-vscode-server",
@@ -23,12 +19,12 @@
       "stars": 19
     },
     {
-      "url": "https://github.com/rhythmictech/terraform-aws-secure-password",
+      "url": "https://github.com/GrantBirki/k8s-discord",
       "stars": 18
     },
     {
-      "url": "https://github.com/GrantBirki/k8s-discord",
-      "stars": 17
+      "url": "https://github.com/rhythmictech/terraform-aws-secure-password",
+      "stars": 18
     },
     {
       "url": "https://github.com/rallyware/terraform-argocd-aws-eks-cluster-bootstrap",
@@ -152,9 +148,9 @@
     }
   ],
   "count": {
-    "total": 356,
-    "public": 235,
-    "private": 121,
+    "total": 358,
+    "public": 236,
+    "private": 122,
     "more_than_zero_star": 103
   }
 }

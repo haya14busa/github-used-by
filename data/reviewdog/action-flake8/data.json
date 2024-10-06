@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 70656
+      "stars": 71259
     },
     {
       "url": "https://github.com/microsoft/onnxruntime",
-      "stars": 14217
+      "stars": 14255
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 6137
+      "stars": 6350
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -20,15 +20,15 @@
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 593
+      "stars": 594
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
-      "stars": 509
+      "stars": 510
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 501
+      "stars": 506
     },
     {
       "url": "https://github.com/PersiaML/PERSIA",
@@ -36,11 +36,11 @@
     },
     {
       "url": "https://github.com/PAhelper/PhoenixAdult.bundle",
-      "stars": 356
+      "stars": 357
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
-      "stars": 176
+      "stars": 178
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
@@ -59,16 +59,16 @@
       "stars": 100
     },
     {
-      "url": "https://github.com/ehpor/hcipy",
-      "stars": 90
+      "url": "https://github.com/PlasmaControl/DESC",
+      "stars": 94
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
-      "stars": 89
+      "stars": 90
     },
     {
-      "url": "https://github.com/PlasmaControl/DESC",
-      "stars": 89
+      "url": "https://github.com/ehpor/hcipy",
+      "stars": 90
     },
     {
       "url": "https://github.com/LFPy/LFPy",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/ydb-platform/nbs",
-      "stars": 53
+      "stars": 54
     },
     {
       "url": "https://github.com/stackabletech/spark-k8s-operator",
@@ -256,9 +256,9 @@
     }
   ],
   "count": {
-    "total": 414,
-    "public": 314,
-    "private": 100,
-    "more_than_zero_star": 130
+    "total": 415,
+    "public": 311,
+    "private": 104,
+    "more_than_zero_star": 128
   }
 }

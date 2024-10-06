@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 362 | 246 | 116 | 115 |
+| 363 | 247 | 116 | 115 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-languagetool/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-languagetool)
@@ -21,26 +21,26 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|7836|
-|2|<img src="https://github.com/easymotion.png" width=50 height=50>|https://github.com/easymotion/vim-easymotion|7455|
-|3|<img src="https://github.com/vdaas.png" width=50 height=50>|https://github.com/vdaas/vald|1510|
-|4|<img src="https://github.com/markuspoerschke.png" width=50 height=50>|https://github.com/markuspoerschke/iCal|1120|
-|5|<img src="https://github.com/latchset.png" width=50 height=50>|https://github.com/latchset/clevis|901|
-|6|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/CircuitVerse|850|
-|7|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/manim-slides|439|
-|8|<img src="https://github.com/swiftwave-org.png" width=50 height=50>|https://github.com/swiftwave-org/swiftwave|411|
-|9|<img src="https://github.com/grafana.png" width=50 height=50>|https://github.com/grafana/k8s-monitoring-helm|182|
-|10|<img src="https://github.com/openhab.png" width=50 height=50>|https://github.com/openhab/openhab-google-assistant|175|
-|11|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/languagetool-rust|155|
+|1|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|7859|
+|2|<img src="https://github.com/easymotion.png" width=50 height=50>|https://github.com/easymotion/vim-easymotion|7465|
+|3|<img src="https://github.com/vdaas.png" width=50 height=50>|https://github.com/vdaas/vald|1515|
+|4|<img src="https://github.com/markuspoerschke.png" width=50 height=50>|https://github.com/markuspoerschke/iCal|1122|
+|5|<img src="https://github.com/latchset.png" width=50 height=50>|https://github.com/latchset/clevis|908|
+|6|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/CircuitVerse|851|
+|7|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/manim-slides|444|
+|8|<img src="https://github.com/swiftwave-org.png" width=50 height=50>|https://github.com/swiftwave-org/swiftwave|416|
+|9|<img src="https://github.com/grafana.png" width=50 height=50>|https://github.com/grafana/k8s-monitoring-helm|186|
+|10|<img src="https://github.com/openhab.png" width=50 height=50>|https://github.com/openhab/openhab-google-assistant|174|
+|11|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/languagetool-rust|156|
 |12|<img src="https://github.com/leandro-lugaresi.png" width=50 height=50>|https://github.com/leandro-lugaresi/hub|146|
 |13|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/Interactive-Book|137|
-|14|<img src="https://github.com/mszostok.png" width=50 height=50>|https://github.com/mszostok/version|95|
+|14|<img src="https://github.com/mszostok.png" width=50 height=50>|https://github.com/mszostok/version|97|
 |15|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/CircuitVerseDocs|87|
 |16|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|82|
 |17|<img src="https://github.com/pheature-flags.png" width=50 height=50>|https://github.com/pheature-flags/pheature-flags|82|
 |18|<img src="https://github.com/capactio.png" width=50 height=50>|https://github.com/capactio/capact|80|
 |19|<img src="https://github.com/agilepathway.png" width=50 height=50>|https://github.com/agilepathway/label-checker|73|
-|20|<img src="https://github.com/GStones.png" width=50 height=50>|https://github.com/GStones/moke-kit|64|
+|20|<img src="https://github.com/GStones.png" width=50 height=50>|https://github.com/GStones/moke-kit|65|
 |21|<img src="https://github.com/codewars.png" width=50 height=50>|https://github.com/codewars/docs|56|
 |22|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/spark-k8s-operator|51|
 |23|<img src="https://github.com/shopware.png" width=50 height=50>|https://github.com/shopware/docs|50|
@@ -60,8 +60,8 @@
 |37|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/hive-operator|21|
 |38|<img src="https://github.com/nownabe.png" width=50 height=50>|https://github.com/nownabe/go-bqloader|21|
 |39|<img src="https://github.com/TheNeikos.png" width=50 height=50>|https://github.com/TheNeikos/type_description|19|
-|40|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/opa-operator|15|
-|41|<img src="https://github.com/hp-net.png" width=50 height=50>|https://github.com/hp-net/homebridge-nibe|15|
+|40|<img src="https://github.com/hp-net.png" width=50 height=50>|https://github.com/hp-net/homebridge-nibe|16|
+|41|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/opa-operator|15|
 |42|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/hbase-operator|14|
 |43|<img src="https://github.com/hashbite.png" width=50 height=50>|https://github.com/hashbite/gatsby-mdx-suite|14|
 |44|<img src="https://github.com/leveeml.png" width=50 height=50>|https://github.com/leveeml/rabbids|14|
