@@ -4,43 +4,43 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7859
+      "stars": 7876
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7465
+      "stars": 7471
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1515
+      "stars": 1517
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1122
+      "stars": 1123
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 908
+      "stars": 916
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 851
+      "stars": 856
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 444
+      "stars": 452
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 416
+      "stars": 421
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 186
+      "stars": 191
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
-      "stars": 174
+      "stars": 173
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
@@ -60,15 +60,15 @@
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
-      "stars": 87
+      "stars": 86
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 82
+      "stars": 83
     },
     {
       "url": "https://github.com/pheature-flags/pheature-flags",
-      "stars": 82
+      "stars": 81
     },
     {
       "url": "https://github.com/capactio/capact",
@@ -76,11 +76,11 @@
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
-      "stars": 73
+      "stars": 74
     },
     {
       "url": "https://github.com/GStones/moke-kit",
-      "stars": 65
+      "stars": 66
     },
     {
       "url": "https://github.com/codewars/docs",
@@ -88,7 +88,7 @@
     },
     {
       "url": "https://github.com/stackabletech/spark-k8s-operator",
-      "stars": 51
+      "stars": 52
     },
     {
       "url": "https://github.com/shopware/docs",
@@ -96,11 +96,15 @@
     },
     {
       "url": "https://github.com/stackabletech/trino-operator",
-      "stars": 49
+      "stars": 50
+    },
+    {
+      "url": "https://github.com/Valerioageno/tuono",
+      "stars": 40
     },
     {
       "url": "https://github.com/stackabletech/hdfs-operator",
-      "stars": 38
+      "stars": 40
     },
     {
       "url": "https://github.com/jeertmans/rpdf",
@@ -119,15 +123,15 @@
       "stars": 29
     },
     {
-      "url": "https://github.com/jeertmans/untex",
-      "stars": 27
-    },
-    {
       "url": "https://github.com/ADE-Scheduler/ADE-Scheduler",
-      "stars": 27
+      "stars": 28
     },
     {
       "url": "https://github.com/pkosiec/website",
+      "stars": 28
+    },
+    {
+      "url": "https://github.com/jeertmans/untex",
       "stars": 27
     },
     {
@@ -163,12 +167,12 @@
       "stars": 16
     },
     {
-      "url": "https://github.com/stackabletech/opa-operator",
+      "url": "https://github.com/stackabletech/hbase-operator",
       "stars": 15
     },
     {
-      "url": "https://github.com/stackabletech/hbase-operator",
-      "stars": 14
+      "url": "https://github.com/stackabletech/opa-operator",
+      "stars": 15
     },
     {
       "url": "https://github.com/hashbite/gatsby-mdx-suite",
@@ -189,10 +193,6 @@
     {
       "url": "https://github.com/stackabletech/druid-operator",
       "stars": 10
-    },
-    {
-      "url": "https://github.com/latchset/tang-operator",
-      "stars": 8
     },
     {
       "url": "https://github.com/stackabletech/commons-operator",
@@ -260,9 +260,9 @@
     }
   ],
   "count": {
-    "total": 363,
-    "public": 247,
-    "private": 116,
+    "total": 366,
+    "public": 248,
+    "private": 118,
     "more_than_zero_star": 115
   }
 }

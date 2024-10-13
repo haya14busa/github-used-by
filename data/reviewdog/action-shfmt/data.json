@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 682
+      "stars": 695
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
-      "stars": 145
+      "stars": 146
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -20,11 +20,11 @@
     },
     {
       "url": "https://github.com/jiro4989/setup-nim-action",
-      "stars": 104
+      "stars": 105
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 82
+      "stars": 83
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
@@ -32,7 +32,7 @@
     },
     {
       "url": "https://github.com/yu-iskw/action-sqlfluff",
-      "stars": 68
+      "stars": 69
     },
     {
       "url": "https://github.com/jonathanmorley/asdf-pnpm",
@@ -48,11 +48,11 @@
     },
     {
       "url": "https://github.com/franzs/fritzbox_upload_certificate",
-      "stars": 41
+      "stars": 42
     },
     {
       "url": "https://github.com/mongolyy/reviewdog-action-biome",
-      "stars": 28
+      "stars": 32
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-prettier",
@@ -67,12 +67,12 @@
       "stars": 15
     },
     {
-      "url": "https://github.com/knative/actions",
+      "url": "https://github.com/UmbrellaDocs/action-linkspector",
       "stars": 11
     },
     {
-      "url": "https://github.com/UmbrellaDocs/action-linkspector",
-      "stars": 8
+      "url": "https://github.com/knative/actions",
+      "stars": 11
     },
     {
       "url": "https://github.com/reviewdog/action-ast-grep",
@@ -84,9 +84,9 @@
     }
   ],
   "count": {
-    "total": 152,
+    "total": 154,
     "public": 90,
-    "private": 62,
+    "private": 64,
     "more_than_zero_star": 39
   }
 }

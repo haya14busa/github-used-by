@@ -4,35 +4,35 @@
   "repos": [
     {
       "url": "https://github.com/forem/forem",
-      "stars": 21932
+      "stars": 21941
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9484
+      "stars": 9486
     },
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 9239
+      "stars": 9269
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 2775
+      "stars": 2784
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2750
+      "stars": 2753
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
-      "stars": 2702
+      "stars": 2703
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2313
+      "stars": 2318
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1367
+      "stars": 1371
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1108
+      "stars": 1110
     },
     {
       "url": "https://github.com/activeadmin/arbre",
@@ -60,15 +60,15 @@
     },
     {
       "url": "https://github.com/YusukeIwaki/puppeteer-ruby",
-      "stars": 288
+      "stars": 289
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 246
+      "stars": 247
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
-      "stars": 197
+      "stars": 196
     },
     {
       "url": "https://github.com/vmware/dod-compliance-and-automation",
@@ -88,7 +88,7 @@
     },
     {
       "url": "https://github.com/chanzuckerberg/czid-web",
-      "stars": 78
+      "stars": 79
     },
     {
       "url": "https://github.com/openHPI/codeocean",
@@ -151,6 +151,10 @@
       "stars": 22
     },
     {
+      "url": "https://github.com/skcc321/deploy_pin",
+      "stars": 20
+    },
+    {
       "url": "https://github.com/oddcamp/mrml-rails",
       "stars": 17
     },
@@ -165,10 +169,6 @@
     {
       "url": "https://github.com/fog/fog-libvirt",
       "stars": 16
-    },
-    {
-      "url": "https://github.com/skcc321/deploy_pin",
-      "stars": 15
     },
     {
       "url": "https://github.com/vol1ura/Sat_9am_5km",
@@ -272,8 +272,8 @@
     }
   ],
   "count": {
-    "total": 632,
-    "public": 465,
+    "total": 635,
+    "public": 468,
     "private": 167,
     "more_than_zero_star": 154
   }

@@ -4,51 +4,51 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 71258
+      "stars": 71452
     },
     {
       "url": "https://github.com/go-gorm/gorm",
-      "stars": 36671
+      "stars": 36726
     },
     {
       "url": "https://github.com/gofiber/fiber",
-      "stars": 33426
+      "stars": 33532
     },
     {
       "url": "https://github.com/GoogleCloudPlatform/terraformer",
-      "stars": 12507
+      "stars": 12535
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7859
+      "stars": 7876
     },
     {
       "url": "https://github.com/runatlantis/atlantis",
-      "stars": 7739
+      "stars": 7750
     },
     {
       "url": "https://github.com/aceld/zinx",
-      "stars": 7046
+      "stars": 7050
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 6258
+      "stars": 6267
     },
     {
       "url": "https://github.com/k8sgpt-ai/k8sgpt",
-      "stars": 5680
+      "stars": 5746
     },
     {
       "url": "https://github.com/kyverno/kyverno",
-      "stars": 5612
+      "stars": 5635
     },
     {
       "url": "https://github.com/mosn/mosn",
-      "stars": 4440
+      "stars": 4445
     },
     {
       "url": "https://github.com/jinzhu/now",
-      "stars": 4430
+      "stars": 4434
     },
     {
       "url": "https://github.com/monitoror/monitoror",
@@ -56,35 +56,35 @@
     },
     {
       "url": "https://github.com/k1LoW/tbls",
-      "stars": 3435
+      "stars": 3441
     },
     {
       "url": "https://github.com/nutsdb/nutsdb",
-      "stars": 3377
+      "stars": 3381
     },
     {
       "url": "https://github.com/TarsCloud/TarsGo",
-      "stars": 3317
+      "stars": 3318
     },
     {
       "url": "https://github.com/go-gorm/gen",
-      "stars": 2233
+      "stars": 2239
     },
     {
       "url": "https://github.com/PeerDB-io/peerdb",
-      "stars": 2176
+      "stars": 2184
     },
     {
       "url": "https://github.com/denisenkom/go-mssqldb",
-      "stars": 1816
+      "stars": 1817
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1673
+      "stars": 1675
     },
     {
       "url": "https://github.com/iotexproject/iotex-core",
-      "stars": 1548
+      "stars": 1547
     },
     {
       "url": "https://github.com/algorand/go-algorand",
@@ -92,35 +92,35 @@
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1217
+      "stars": 1220
     },
     {
       "url": "https://github.com/cch123/elasticsql",
-      "stars": 1167
+      "stars": 1169
     },
     {
       "url": "https://github.com/mosn/holmes",
-      "stars": 1075
+      "stars": 1074
     },
     {
       "url": "https://github.com/pipe-cd/pipecd",
-      "stars": 1068
+      "stars": 1070
     },
     {
       "url": "https://github.com/controlplaneio/simulator",
-      "stars": 929
+      "stars": 930
     },
     {
       "url": "https://github.com/caddyserver/xcaddy",
-      "stars": 909
+      "stars": 914
     },
     {
       "url": "https://github.com/lindell/multi-gitter",
-      "stars": 869
+      "stars": 872
     },
     {
       "url": "https://github.com/kyoh86/richgo",
-      "stars": 848
+      "stars": 849
     },
     {
       "url": "https://github.com/denverdino/aliyungo",
@@ -128,11 +128,11 @@
     },
     {
       "url": "https://github.com/bridgecrewio/yor",
-      "stars": 819
+      "stars": 822
     },
     {
       "url": "https://github.com/ikawaha/kagome",
-      "stars": 818
+      "stars": 822
     },
     {
       "url": "https://github.com/mattn/goveralls",
@@ -140,27 +140,27 @@
     },
     {
       "url": "https://github.com/AleksK1NG/Go-Clean-Architecture-REST-API",
-      "stars": 779
+      "stars": 782
     },
     {
       "url": "https://github.com/MakeContributions/DSA",
-      "stars": 718
+      "stars": 724
     },
     {
       "url": "https://github.com/K-Phoen/grabana",
-      "stars": 683
+      "stars": 684
     },
     {
       "url": "https://github.com/DataDog/dd-trace-go",
-      "stars": 653
+      "stars": 656
     },
     {
       "url": "https://github.com/vdjagilev/nmap-formatter",
-      "stars": 644
+      "stars": 645
     },
     {
       "url": "https://github.com/percona/pmm",
-      "stars": 625
+      "stars": 629
     },
     {
       "url": "https://github.com/mercari/tfnotify",
@@ -180,27 +180,31 @@
     },
     {
       "url": "https://github.com/indeedeng/iwf",
-      "stars": 522
+      "stars": 523
     },
     {
       "url": "https://github.com/go-zookeeper/zk",
-      "stars": 509
+      "stars": 510
+    },
+    {
+      "url": "https://github.com/controlplaneio/kubectl-kubesec",
+      "stars": 508
     },
     {
       "url": "https://github.com/rsocket/rsocket-go",
       "stars": 507
     },
     {
-      "url": "https://github.com/controlplaneio/kubectl-kubesec",
-      "stars": 507
-    },
-    {
       "url": "https://github.com/Kava-Labs/kava",
-      "stars": 444
+      "stars": 447
     },
     {
       "url": "https://github.com/evryfs/github-actions-runner-operator",
       "stars": 430
+    },
+    {
+      "url": "https://github.com/k1LoW/runn",
+      "stars": 429
     },
     {
       "url": "https://github.com/K-Phoen/dark",
@@ -211,36 +215,36 @@
       "stars": 426
     },
     {
-      "url": "https://github.com/k1LoW/runn",
-      "stars": 425
-    },
-    {
       "url": "https://github.com/ybkuroki/go-webapp-sample",
       "stars": 418
     },
     {
       "url": "https://github.com/gofiber/boilerplate",
-      "stars": 410
+      "stars": 412
     },
     {
       "url": "https://github.com/gofiber/swagger",
-      "stars": 408
+      "stars": 410
+    },
+    {
+      "url": "https://github.com/things-go/go-socks5",
+      "stars": 396
     },
     {
       "url": "https://github.com/gofiber/jwt",
       "stars": 394
     },
     {
-      "url": "https://github.com/things-go/go-socks5",
-      "stars": 394
-    },
-    {
       "url": "https://github.com/iotaledger/goshimmer",
-      "stars": 388
+      "stars": 387
     },
     {
       "url": "https://github.com/controlplaneio/netassert",
       "stars": 368
+    },
+    {
+      "url": "https://github.com/intigriti/misconfig-mapper",
+      "stars": 365
     },
     {
       "url": "https://github.com/morikuni/failure",
@@ -251,20 +255,16 @@
       "stars": 357
     },
     {
-      "url": "https://github.com/intigriti/misconfig-mapper",
-      "stars": 341
-    },
-    {
       "url": "https://github.com/k1LoW/octocov",
       "stars": 341
     },
     {
       "url": "https://github.com/nao1215/gup",
-      "stars": 332
+      "stars": 334
     },
     {
       "url": "https://github.com/haproxytech/dataplaneapi",
-      "stars": 325
+      "stars": 326
     },
     {
       "url": "https://github.com/mercury2269/sqsmover",
@@ -279,16 +279,16 @@
       "stars": 309
     },
     {
+      "url": "https://github.com/isindir/sops-secrets-operator",
+      "stars": 307
+    },
+    {
       "url": "https://github.com/zoncoen/scenarigo",
-      "stars": 306
+      "stars": 307
     },
     {
       "url": "https://github.com/efectn/go-orm-benchmarks",
-      "stars": 305
-    },
-    {
-      "url": "https://github.com/isindir/sops-secrets-operator",
-      "stars": 303
+      "stars": 306
     },
     {
       "url": "https://github.com/chanzuckerberg/fogg",
@@ -308,7 +308,7 @@
     },
     {
       "url": "https://github.com/microsoft/go-mssqldb",
-      "stars": 283
+      "stars": 285
     },
     {
       "url": "https://github.com/Percona-Lab/mysql_random_data_load",
@@ -316,15 +316,19 @@
     },
     {
       "url": "https://github.com/aws/aws-xray-sdk-go",
-      "stars": 276
+      "stars": 277
     },
     {
       "url": "https://github.com/gofiber/storage",
-      "stars": 268
+      "stars": 270
     },
     {
       "url": "https://github.com/percona/percona-backup-mongodb",
-      "stars": 263
+      "stars": 264
+    },
+    {
+      "url": "https://github.com/brittonhayes/pillager",
+      "stars": 237
     },
     {
       "url": "https://github.com/gonetx/httpit",
@@ -332,19 +336,15 @@
     },
     {
       "url": "https://github.com/AleksK1NG/Go-gRPC-RabbitMQ-microservice",
-      "stars": 227
+      "stars": 228
     },
     {
       "url": "https://github.com/gopinath-langote/1build",
       "stars": 226
     },
     {
-      "url": "https://github.com/brittonhayes/pillager",
-      "stars": 222
-    },
-    {
       "url": "https://github.com/gofiber/contrib",
-      "stars": 218
+      "stars": 220
     },
     {
       "url": "https://github.com/controlplaneio/badrobot",
@@ -356,7 +356,7 @@
     },
     {
       "url": "https://github.com/grafana/xk6",
-      "stars": 210
+      "stars": 211
     },
     {
       "url": "https://github.com/openstack-exporter/openstack-exporter",
@@ -364,11 +364,11 @@
     },
     {
       "url": "https://github.com/hazcod/ransomwhere",
-      "stars": 203
+      "stars": 204
     },
     {
       "url": "https://github.com/AleksK1NG/Go-CQRS-Kafka-gRPC-Microservices",
-      "stars": 203
+      "stars": 204
     },
     {
       "url": "https://github.com/shogo82148/go-sql-proxy",
@@ -376,7 +376,7 @@
     },
     {
       "url": "https://github.com/micnncim/kubectl-reap",
-      "stars": 197
+      "stars": 198
     },
     {
       "url": "https://github.com/budougumi0617/go_todo_app",
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 4248,
-    "public": 3310,
-    "private": 938,
-    "more_than_zero_star": 1168
+    "total": 4266,
+    "public": 3316,
+    "private": 950,
+    "more_than_zero_star": 1172
   }
 }
