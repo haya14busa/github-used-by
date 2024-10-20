@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
-      "stars": 2277
+      "stars": 2291
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
-      "stars": 195
+      "stars": 196
     },
     {
       "url": "https://github.com/timoa/terraform-oci-vscode-server",
@@ -59,6 +59,10 @@
       "stars": 9
     },
     {
+      "url": "https://github.com/GrantBirki/k8s-kong-terraform",
+      "stars": 9
+    },
+    {
       "url": "https://github.com/GrantBirki/errbot",
       "stars": 9
     },
@@ -68,10 +72,6 @@
     },
     {
       "url": "https://github.com/rhythmictech/terraform-aws-okta-sso",
-      "stars": 8
-    },
-    {
-      "url": "https://github.com/GrantBirki/k8s-kong-terraform",
       "stars": 8
     },
     {
@@ -149,8 +149,8 @@
   ],
   "count": {
     "total": 360,
-    "public": 238,
-    "private": 122,
-    "more_than_zero_star": 103
+    "public": 237,
+    "private": 123,
+    "more_than_zero_star": 102
   }
 }

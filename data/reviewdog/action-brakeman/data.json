@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/pglombardo/PasswordPusher",
-      "stars": 2038
+      "stars": 2047
     },
     {
       "url": "https://github.com/tricknotes/starseeker",
@@ -39,14 +39,18 @@
       "stars": 9
     },
     {
+      "url": "https://github.com/openHPI/codeharbor",
+      "stars": 6
+    },
+    {
       "url": "https://github.com/linkvan/linkvan-api",
       "stars": 6
     }
   ],
   "count": {
-    "total": 106,
-    "public": 73,
+    "total": 108,
+    "public": 75,
     "private": 33,
-    "more_than_zero_star": 22
+    "more_than_zero_star": 24
   }
 }

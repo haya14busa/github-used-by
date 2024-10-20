@@ -4,39 +4,39 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7876
+      "stars": 7889
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7471
+      "stars": 7478
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1517
+      "stars": 1524
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1123
+      "stars": 1125
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 916
+      "stars": 919
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 856
+      "stars": 863
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 452
+      "stars": 460
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 421
+      "stars": 426
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 191
+      "stars": 202
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -56,15 +56,15 @@
     },
     {
       "url": "https://github.com/mszostok/version",
-      "stars": 97
+      "stars": 98
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
-      "stars": 86
+      "stars": 87
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 83
+      "stars": 85
     },
     {
       "url": "https://github.com/pheature-flags/pheature-flags",
@@ -80,27 +80,27 @@
     },
     {
       "url": "https://github.com/GStones/moke-kit",
-      "stars": 66
+      "stars": 67
     },
     {
       "url": "https://github.com/codewars/docs",
-      "stars": 56
+      "stars": 57
     },
     {
       "url": "https://github.com/stackabletech/spark-k8s-operator",
-      "stars": 52
+      "stars": 53
+    },
+    {
+      "url": "https://github.com/stackabletech/trino-operator",
+      "stars": 51
     },
     {
       "url": "https://github.com/shopware/docs",
       "stars": 50
     },
     {
-      "url": "https://github.com/stackabletech/trino-operator",
-      "stars": 50
-    },
-    {
       "url": "https://github.com/Valerioageno/tuono",
-      "stars": 40
+      "stars": 42
     },
     {
       "url": "https://github.com/stackabletech/hdfs-operator",
@@ -135,11 +135,11 @@
       "stars": 27
     },
     {
-      "url": "https://github.com/stackabletech/zookeeper-operator",
-      "stars": 26
+      "url": "https://github.com/stackabletech/superset-operator",
+      "stars": 27
     },
     {
-      "url": "https://github.com/stackabletech/superset-operator",
+      "url": "https://github.com/stackabletech/zookeeper-operator",
       "stars": 26
     },
     {
@@ -195,6 +195,10 @@
       "stars": 10
     },
     {
+      "url": "https://github.com/jeertmans/manim-tutorial",
+      "stars": 9
+    },
+    {
       "url": "https://github.com/stackabletech/commons-operator",
       "stars": 8
     },
@@ -204,10 +208,6 @@
     },
     {
       "url": "https://github.com/phoenix-rtos/phoenix-rtos-doc",
-      "stars": 8
-    },
-    {
-      "url": "https://github.com/jeertmans/manim-tutorial",
       "stars": 8
     },
     {
@@ -260,9 +260,9 @@
     }
   ],
   "count": {
-    "total": 366,
-    "public": 248,
-    "private": 118,
+    "total": 371,
+    "public": 249,
+    "private": 122,
     "more_than_zero_star": 115
   }
 }
