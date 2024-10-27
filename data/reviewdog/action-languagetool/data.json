@@ -4,39 +4,39 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7889
+      "stars": 7900
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7478
+      "stars": 7487
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1524
+      "stars": 1525
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1125
+      "stars": 1126
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 919
+      "stars": 923
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 863
+      "stars": 866
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 460
+      "stars": 465
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 426
+      "stars": 434
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 202
+      "stars": 207
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -44,7 +44,7 @@
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
-      "stars": 156
+      "stars": 157
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/mszostok/version",
-      "stars": 98
+      "stars": 100
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 85
+      "stars": 86
     },
     {
       "url": "https://github.com/pheature-flags/pheature-flags",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/stackabletech/trino-operator",
-      "stars": 51
+      "stars": 52
     },
     {
       "url": "https://github.com/shopware/docs",
@@ -123,6 +123,10 @@
       "stars": 29
     },
     {
+      "url": "https://github.com/stackabletech/superset-operator",
+      "stars": 28
+    },
+    {
       "url": "https://github.com/ADE-Scheduler/ADE-Scheduler",
       "stars": 28
     },
@@ -132,10 +136,6 @@
     },
     {
       "url": "https://github.com/jeertmans/untex",
-      "stars": 27
-    },
-    {
-      "url": "https://github.com/stackabletech/superset-operator",
       "stars": 27
     },
     {
@@ -260,9 +260,9 @@
     }
   ],
   "count": {
-    "total": 371,
+    "total": 373,
     "public": 249,
-    "private": 122,
+    "private": 124,
     "more_than_zero_star": 115
   }
 }

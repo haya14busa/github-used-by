@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 703
+      "stars": 712
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
-      "stars": 147
+      "stars": 149
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 85
+      "stars": 86
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
@@ -44,7 +44,7 @@
     },
     {
       "url": "https://github.com/sksat/compose-cd",
-      "stars": 43
+      "stars": 44
     },
     {
       "url": "https://github.com/franzs/fritzbox_upload_certificate",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/mongolyy/reviewdog-action-biome",
-      "stars": 33
+      "stars": 34
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-prettier",
@@ -68,7 +68,7 @@
     },
     {
       "url": "https://github.com/UmbrellaDocs/action-linkspector",
-      "stars": 11
+      "stars": 12
     },
     {
       "url": "https://github.com/knative/actions",

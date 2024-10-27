@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 418 | 313 | 105 | 129 |
+| 419 | 314 | 105 | 129 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-flake8/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-flake8)
@@ -21,36 +21,36 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/netdata|71555|
-|2|<img src="https://github.com/microsoft.png" width=50 height=50>|https://github.com/microsoft/onnxruntime|14466|
-|3|<img src="https://github.com/bndr.png" width=50 height=50>|https://github.com/bndr/pipreqs|6404|
+|1|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/netdata|71683|
+|2|<img src="https://github.com/microsoft.png" width=50 height=50>|https://github.com/microsoft/onnxruntime|14551|
+|3|<img src="https://github.com/bndr.png" width=50 height=50>|https://github.com/bndr/pipreqs|6451|
 |4|<img src="https://github.com/BaguaSys.png" width=50 height=50>|https://github.com/BaguaSys/bagua|874|
-|5|<img src="https://github.com/tradingstrategy-ai.png" width=50 height=50>|https://github.com/tradingstrategy-ai/web3-ethereum-defi|597|
-|6|<img src="https://github.com/pnuckowski.png" width=50 height=50>|https://github.com/pnuckowski/aioresponses|511|
-|7|<img src="https://github.com/simpeg.png" width=50 height=50>|https://github.com/simpeg/simpeg|509|
-|8|<img src="https://github.com/PersiaML.png" width=50 height=50>|https://github.com/PersiaML/PERSIA|394|
+|5|<img src="https://github.com/tradingstrategy-ai.png" width=50 height=50>|https://github.com/tradingstrategy-ai/web3-ethereum-defi|603|
+|6|<img src="https://github.com/pnuckowski.png" width=50 height=50>|https://github.com/pnuckowski/aioresponses|513|
+|7|<img src="https://github.com/simpeg.png" width=50 height=50>|https://github.com/simpeg/simpeg|511|
+|8|<img src="https://github.com/PersiaML.png" width=50 height=50>|https://github.com/PersiaML/PERSIA|396|
 |9|<img src="https://github.com/PAhelper.png" width=50 height=50>|https://github.com/PAhelper/PhoenixAdult.bundle|357|
 |10|<img src="https://github.com/ThePornDatabase.png" width=50 height=50>|https://github.com/ThePornDatabase/ThePornDB.bundle|179|
-|11|<img src="https://github.com/libcgroup.png" width=50 height=50>|https://github.com/libcgroup/libcgroup|150|
-|12|<img src="https://github.com/TrangPham.png" width=50 height=50>|https://github.com/TrangPham/django-admin-confirm|128|
-|13|<img src="https://github.com/f0uriest.png" width=50 height=50>|https://github.com/f0uriest/interpax|121|
-|14|<img src="https://github.com/mangdangroboticsclub.png" width=50 height=50>|https://github.com/mangdangroboticsclub/mini_pupper_ros|102|
-|15|<img src="https://github.com/PlasmaControl.png" width=50 height=50>|https://github.com/PlasmaControl/DESC|94|
+|11|<img src="https://github.com/libcgroup.png" width=50 height=50>|https://github.com/libcgroup/libcgroup|151|
+|12|<img src="https://github.com/TrangPham.png" width=50 height=50>|https://github.com/TrangPham/django-admin-confirm|129|
+|13|<img src="https://github.com/f0uriest.png" width=50 height=50>|https://github.com/f0uriest/interpax|123|
+|14|<img src="https://github.com/mangdangroboticsclub.png" width=50 height=50>|https://github.com/mangdangroboticsclub/mini_pupper_ros|103|
+|15|<img src="https://github.com/PlasmaControl.png" width=50 height=50>|https://github.com/PlasmaControl/DESC|95|
 |16|<img src="https://github.com/ehpor.png" width=50 height=50>|https://github.com/ehpor/hcipy|91|
 |17|<img src="https://github.com/fdintino.png" width=50 height=50>|https://github.com/fdintino/pillow-avif-plugin|90|
 |18|<img src="https://github.com/LFPy.png" width=50 height=50>|https://github.com/LFPy/LFPy|74|
 |19|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/csd-python-api-scripts|60|
-|20|<img src="https://github.com/ydb-platform.png" width=50 height=50>|https://github.com/ydb-platform/nbs|56|
+|20|<img src="https://github.com/ydb-platform.png" width=50 height=50>|https://github.com/ydb-platform/nbs|58|
 |21|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/spark-k8s-operator|53|
-|22|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/trino-operator|51|
+|22|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/trino-operator|52|
 |23|<img src="https://github.com/ThePornDatabase.png" width=50 height=50>|https://github.com/ThePornDatabase/scrapers|51|
 |24|<img src="https://github.com/ut-issl.png" width=50 height=50>|https://github.com/ut-issl/c2a-core|51|
-|25|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/hdfs-operator|40|
-|26|<img src="https://github.com/f0uriest.png" width=50 height=50>|https://github.com/f0uriest/quadax|38|
+|25|<img src="https://github.com/f0uriest.png" width=50 height=50>|https://github.com/f0uriest/quadax|41|
+|26|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/hdfs-operator|40|
 |27|<img src="https://github.com/Open-Model-Initiative.png" width=50 height=50>|https://github.com/Open-Model-Initiative/OMI-Data-Pipeline|32|
 |28|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/nifi-operator|30|
 |29|<img src="https://github.com/rickstaa.png" width=50 height=50>|https://github.com/rickstaa/ros-gazebo-gym|29|
-|30|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/superset-operator|27|
+|30|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/superset-operator|28|
 |31|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/zookeeper-operator|26|
 |32|<img src="https://github.com/comorment.png" width=50 height=50>|https://github.com/comorment/containers|26|
 |33|<img src="https://github.com/ZPascal.png" width=50 height=50>|https://github.com/ZPascal/grafana_api_sdk|26|

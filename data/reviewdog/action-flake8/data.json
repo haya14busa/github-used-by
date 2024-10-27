@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 71555
+      "stars": 71683
     },
     {
       "url": "https://github.com/microsoft/onnxruntime",
-      "stars": 14466
+      "stars": 14551
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 6404
+      "stars": 6451
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -20,19 +20,19 @@
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 597
+      "stars": 603
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
-      "stars": 511
+      "stars": 513
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 509
+      "stars": 511
     },
     {
       "url": "https://github.com/PersiaML/PERSIA",
-      "stars": 394
+      "stars": 396
     },
     {
       "url": "https://github.com/PAhelper/PhoenixAdult.bundle",
@@ -44,23 +44,23 @@
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
-      "stars": 150
+      "stars": 151
     },
     {
       "url": "https://github.com/TrangPham/django-admin-confirm",
-      "stars": 128
+      "stars": 129
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 121
+      "stars": 123
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
-      "stars": 102
+      "stars": 103
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
-      "stars": 94
+      "stars": 95
     },
     {
       "url": "https://github.com/ehpor/hcipy",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/ydb-platform/nbs",
-      "stars": 56
+      "stars": 58
     },
     {
       "url": "https://github.com/stackabletech/spark-k8s-operator",
@@ -88,7 +88,7 @@
     },
     {
       "url": "https://github.com/stackabletech/trino-operator",
-      "stars": 51
+      "stars": 52
     },
     {
       "url": "https://github.com/ThePornDatabase/scrapers",
@@ -99,12 +99,12 @@
       "stars": 51
     },
     {
-      "url": "https://github.com/stackabletech/hdfs-operator",
-      "stars": 40
+      "url": "https://github.com/f0uriest/quadax",
+      "stars": 41
     },
     {
-      "url": "https://github.com/f0uriest/quadax",
-      "stars": 38
+      "url": "https://github.com/stackabletech/hdfs-operator",
+      "stars": 40
     },
     {
       "url": "https://github.com/Open-Model-Initiative/OMI-Data-Pipeline",
@@ -120,7 +120,7 @@
     },
     {
       "url": "https://github.com/stackabletech/superset-operator",
-      "stars": 27
+      "stars": 28
     },
     {
       "url": "https://github.com/stackabletech/zookeeper-operator",
@@ -260,8 +260,8 @@
     }
   ],
   "count": {
-    "total": 418,
-    "public": 313,
+    "total": 419,
+    "public": 314,
     "private": 105,
     "more_than_zero_star": 129
   }

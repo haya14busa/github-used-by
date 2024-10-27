@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 611 | 384 | 227 | 164 |
+| 615 | 388 | 227 | 164 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-tflint/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-tflint)
@@ -21,18 +21,18 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/magma.png" width=50 height=50>|https://github.com/magma/magma|1678|
-|2|<img src="https://github.com/cloudposse.png" width=50 height=50>|https://github.com/cloudposse/atmos|749|
+|1|<img src="https://github.com/magma.png" width=50 height=50>|https://github.com/magma/magma|1680|
+|2|<img src="https://github.com/cloudposse.png" width=50 height=50>|https://github.com/cloudposse/atmos|759|
 |3|<img src="https://github.com/aztfmod.png" width=50 height=50>|https://github.com/aztfmod/terraform-azurerm-caf|555|
-|4|<img src="https://github.com/xunholy.png" width=50 height=50>|https://github.com/xunholy/k8s-gitops|494|
-|5|<img src="https://github.com/chainguard-dev.png" width=50 height=50>|https://github.com/chainguard-dev/malcontent|415|
-|6|<img src="https://github.com/grafana.png" width=50 height=50>|https://github.com/grafana/k8s-monitoring-helm|202|
+|4|<img src="https://github.com/xunholy.png" width=50 height=50>|https://github.com/xunholy/k8s-gitops|499|
+|5|<img src="https://github.com/chainguard-dev.png" width=50 height=50>|https://github.com/chainguard-dev/malcontent|419|
+|6|<img src="https://github.com/grafana.png" width=50 height=50>|https://github.com/grafana/k8s-monitoring-helm|207|
 |7|<img src="https://github.com/TechToSpeech.png" width=50 height=50>|https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress|196|
-|8|<img src="https://github.com/gruberdev.png" width=50 height=50>|https://github.com/gruberdev/homelab|158|
-|9|<img src="https://github.com/octo-sts.png" width=50 height=50>|https://github.com/octo-sts/app|133|
+|8|<img src="https://github.com/gruberdev.png" width=50 height=50>|https://github.com/gruberdev/homelab|160|
+|9|<img src="https://github.com/octo-sts.png" width=50 height=50>|https://github.com/octo-sts/app|134|
 |10|<img src="https://github.com/raspbernetes.png" width=50 height=50>|https://github.com/raspbernetes/k8s-cluster-installation|114|
 |11|<img src="https://github.com/provectus.png" width=50 height=50>|https://github.com/provectus/sak-kubeflow|64|
-|12|<img src="https://github.com/GiganticMinecraft.png" width=50 height=50>|https://github.com/GiganticMinecraft/seichi_infra|52|
+|12|<img src="https://github.com/GiganticMinecraft.png" width=50 height=50>|https://github.com/GiganticMinecraft/seichi_infra|53|
 |13|<img src="https://github.com/slalombuild.png" width=50 height=50>|https://github.com/slalombuild/terraform-atmos-accelerator|46|
 |14|<img src="https://github.com/clouddrove.png" width=50 height=50>|https://github.com/clouddrove/terraform-aws-sftp|35|
 |15|<img src="https://github.com/MatthiasScholz.png" width=50 height=50>|https://github.com/MatthiasScholz/cos|34|
@@ -46,8 +46,8 @@
 |23|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/scripts|15|
 |24|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-terraform-template|14|
 |25|<img src="https://github.com/timoa.png" width=50 height=50>|https://github.com/timoa/homelab|12|
-|26|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/zsh-bootstrap|10|
-|27|<img src="https://github.com/ExpediaGroup.png" width=50 height=50>|https://github.com/ExpediaGroup/github-webhook-proxy|10|
+|26|<img src="https://github.com/ExpediaGroup.png" width=50 height=50>|https://github.com/ExpediaGroup/github-webhook-proxy|11|
+|27|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/zsh-bootstrap|10|
 |28|<img src="https://github.com/Vlaaaaaaad.png" width=50 height=50>|https://github.com/Vlaaaaaaad/terraform-aws-fargate-refinery|10|
 |29|<img src="https://github.com/Bobirmirzo.png" width=50 height=50>|https://github.com/Bobirmirzo/infra-ci-cd|10|
 |30|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/smart_diskinfo|9|
@@ -61,15 +61,15 @@
 |38|<img src="https://github.com/fluent.png" width=50 height=50>|https://github.com/fluent/fluent-bit-ci|8|
 |39|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-okta-sso|8|
 |40|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-cis-cloudwatch-monitors|8|
-|41|<img src="https://github.com/jkrilov.png" width=50 height=50>|https://github.com/jkrilov/NiceGuiTest|7|
-|42|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-backend|7|
-|43|<img src="https://github.com/VikeSec.png" width=50 height=50>|https://github.com/VikeSec/CTF-Infrastructure|7|
-|44|<img src="https://github.com/Azure-Terraform.png" width=50 height=50>|https://github.com/Azure-Terraform/terraform-helm-linkerd|7|
-|45|<img src="https://github.com/yhzz.png" width=50 height=50>|https://github.com/yhzz/gihyo-terraform-sample|7|
-|46|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-ssm-patch-manager|7|
-|47|<img src="https://github.com/scribd.png" width=50 height=50>|https://github.com/scribd/terraform-aws-recycle-eks|7|
-|48|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-terraform-errorcheck|7|
-|49|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-cloudtrail-logging|7|
+|41|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-cloudtrail-logging|8|
+|42|<img src="https://github.com/jkrilov.png" width=50 height=50>|https://github.com/jkrilov/NiceGuiTest|7|
+|43|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-backend|7|
+|44|<img src="https://github.com/VikeSec.png" width=50 height=50>|https://github.com/VikeSec/CTF-Infrastructure|7|
+|45|<img src="https://github.com/Azure-Terraform.png" width=50 height=50>|https://github.com/Azure-Terraform/terraform-helm-linkerd|7|
+|46|<img src="https://github.com/yhzz.png" width=50 height=50>|https://github.com/yhzz/gihyo-terraform-sample|7|
+|47|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-ssm-patch-manager|7|
+|48|<img src="https://github.com/scribd.png" width=50 height=50>|https://github.com/scribd/terraform-aws-recycle-eks|7|
+|49|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-terraform-errorcheck|7|
 |50|<img src="https://github.com/SweetOps.png" width=50 height=50>|https://github.com/SweetOps/terraform-google-service-account|7|
 |51|<img src="https://github.com/DFE-Digital.png" width=50 height=50>|https://github.com/DFE-Digital/teaching-record-system|6|
 |52|<img src="https://github.com/clouddrove.png" width=50 height=50>|https://github.com/clouddrove/terraform-azure-sentinel|6|

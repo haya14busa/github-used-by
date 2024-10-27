@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1678
+      "stars": 1680
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 749
+      "stars": 759
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
@@ -16,15 +16,15 @@
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 494
+      "stars": 499
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 415
+      "stars": 419
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 202
+      "stars": 207
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -32,11 +32,11 @@
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 158
+      "stars": 160
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 133
+      "stars": 134
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
@@ -48,7 +48,7 @@
     },
     {
       "url": "https://github.com/GiganticMinecraft/seichi_infra",
-      "stars": 52
+      "stars": 53
     },
     {
       "url": "https://github.com/slalombuild/terraform-atmos-accelerator",
@@ -103,11 +103,11 @@
       "stars": 12
     },
     {
-      "url": "https://github.com/sammcj/zsh-bootstrap",
-      "stars": 10
+      "url": "https://github.com/ExpediaGroup/github-webhook-proxy",
+      "stars": 11
     },
     {
-      "url": "https://github.com/ExpediaGroup/github-webhook-proxy",
+      "url": "https://github.com/sammcj/zsh-bootstrap",
       "stars": 10
     },
     {
@@ -163,6 +163,10 @@
       "stars": 8
     },
     {
+      "url": "https://github.com/rhythmictech/terraform-aws-cloudtrail-logging",
+      "stars": 8
+    },
+    {
       "url": "https://github.com/jkrilov/NiceGuiTest",
       "stars": 7
     },
@@ -192,10 +196,6 @@
     },
     {
       "url": "https://github.com/rhythmictech/terraform-terraform-errorcheck",
-      "stars": 7
-    },
-    {
-      "url": "https://github.com/rhythmictech/terraform-aws-cloudtrail-logging",
       "stars": 7
     },
     {
@@ -264,8 +264,8 @@
     }
   ],
   "count": {
-    "total": 611,
-    "public": 384,
+    "total": 615,
+    "public": 388,
     "private": 227,
     "more_than_zero_star": 164
   }

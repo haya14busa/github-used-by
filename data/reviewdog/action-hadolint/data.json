@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 71555
+      "stars": 71683
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13203
+      "stars": 13218
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 6274
+      "stars": 6291
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 5817
+      "stars": 5825
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 3323
+      "stars": 3343
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
@@ -28,31 +28,31 @@
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1825
+      "stars": 1830
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1678
+      "stars": 1680
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1524
+      "stars": 1525
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1225
+      "stars": 1229
     },
     {
       "url": "https://github.com/truecharts/public",
-      "stars": 1139
+      "stars": 1143
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 940
+      "stars": 1016
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 773
+      "stars": 774
     },
     {
       "url": "https://github.com/K-Phoen/dark",
@@ -60,11 +60,11 @@
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 372
+      "stars": 374
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
-      "stars": 308
+      "stars": 309
     },
     {
       "url": "https://github.com/KCarretto/paragon",
@@ -72,11 +72,11 @@
     },
     {
       "url": "https://github.com/bgruening/docker-galaxy-stable",
-      "stars": 225
+      "stars": 226
     },
     {
       "url": "https://github.com/openstack-exporter/openstack-exporter",
-      "stars": 208
+      "stars": 209
     },
     {
       "url": "https://github.com/raspbernetes/multi-arch-images",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://github.com/netdata/go.d.plugin",
-      "stars": 164
+      "stars": 163
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/dadrus/heimdall",
-      "stars": 127
+      "stars": 130
     },
     {
       "url": "https://github.com/filipowm/BooGi",
@@ -151,12 +151,12 @@
       "stars": 53
     },
     {
-      "url": "https://github.com/HopopOps/k8s-ldap-auth",
+      "url": "https://github.com/stackabletech/trino-operator",
       "stars": 52
     },
     {
-      "url": "https://github.com/stackabletech/trino-operator",
-      "stars": 51
+      "url": "https://github.com/HopopOps/k8s-ldap-auth",
+      "stars": 52
     },
     {
       "url": "https://github.com/haya14busa/action-update-semver",
@@ -168,7 +168,7 @@
     },
     {
       "url": "https://github.com/Drakkar-Software/Triangular-Arbitrage",
-      "stars": 43
+      "stars": 47
     },
     {
       "url": "https://github.com/stackabletech/hdfs-operator",
@@ -196,7 +196,7 @@
     },
     {
       "url": "https://github.com/stackabletech/superset-operator",
-      "stars": 27
+      "stars": 28
     },
     {
       "url": "https://github.com/EdgeGallery/helm-charts",
@@ -383,6 +383,10 @@
       "stars": 9
     },
     {
+      "url": "https://github.com/basedosdados/backend",
+      "stars": 9
+    },
+    {
       "url": "https://github.com/sammcj/smart_diskinfo",
       "stars": 9
     },
@@ -397,16 +401,12 @@
     {
       "url": "https://github.com/srz-zumix/docker-googletest",
       "stars": 8
-    },
-    {
-      "url": "https://github.com/basedosdados/backend",
-      "stars": 8
     }
   ],
   "count": {
-    "total": 1871,
-    "public": 1304,
-    "private": 567,
-    "more_than_zero_star": 351
+    "total": 1878,
+    "public": 1310,
+    "private": 568,
+    "more_than_zero_star": 352
   }
 }
