@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/forem/forem",
-      "stars": 21975
+      "stars": 21981
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9494
+      "stars": 9496
     },
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 9346
+      "stars": 9376
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 2794
+      "stars": 2797
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
@@ -28,27 +28,27 @@
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2329
+      "stars": 2330
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1382
+      "stars": 1388
     },
     {
       "url": "https://github.com/k1LoW/awspec",
-      "stars": 1172
+      "stars": 1173
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1113
+      "stars": 1114
     },
     {
       "url": "https://github.com/activeadmin/arbre",
-      "stars": 764
+      "stars": 766
     },
     {
       "url": "https://github.com/zilverline/sequent",
-      "stars": 542
+      "stars": 541
     },
     {
       "url": "https://github.com/mysociety/alaveteli",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 253
+      "stars": 255
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
@@ -272,8 +272,8 @@
     }
   ],
   "count": {
-    "total": 644,
-    "public": 475,
+    "total": 645,
+    "public": 476,
     "private": 169,
     "more_than_zero_star": 157
   }

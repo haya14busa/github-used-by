@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 71683
+      "stars": 71776
     },
     {
       "url": "https://github.com/microsoft/onnxruntime",
-      "stars": 14551
+      "stars": 14598
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 6451
+      "stars": 6657
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -20,15 +20,15 @@
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 603
+      "stars": 606
+    },
+    {
+      "url": "https://github.com/simpeg/simpeg",
+      "stars": 513
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
       "stars": 513
-    },
-    {
-      "url": "https://github.com/simpeg/simpeg",
-      "stars": 511
     },
     {
       "url": "https://github.com/PersiaML/PERSIA",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
-      "stars": 179
+      "stars": 180
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
@@ -52,15 +52,15 @@
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 123
+      "stars": 128
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
-      "stars": 103
+      "stars": 104
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
-      "stars": 95
+      "stars": 96
     },
     {
       "url": "https://github.com/ehpor/hcipy",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/LFPy/LFPy",
-      "stars": 74
+      "stars": 75
     },
     {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
@@ -83,14 +83,6 @@
       "stars": 58
     },
     {
-      "url": "https://github.com/stackabletech/spark-k8s-operator",
-      "stars": 53
-    },
-    {
-      "url": "https://github.com/stackabletech/trino-operator",
-      "stars": 52
-    },
-    {
       "url": "https://github.com/ThePornDatabase/scrapers",
       "stars": 51
     },
@@ -99,32 +91,20 @@
       "stars": 51
     },
     {
-      "url": "https://github.com/f0uriest/quadax",
-      "stars": 41
+      "url": "https://github.com/oracle/adaptivemm",
+      "stars": 46
     },
     {
-      "url": "https://github.com/stackabletech/hdfs-operator",
-      "stars": 40
+      "url": "https://github.com/f0uriest/quadax",
+      "stars": 42
     },
     {
       "url": "https://github.com/Open-Model-Initiative/OMI-Data-Pipeline",
       "stars": 32
     },
     {
-      "url": "https://github.com/stackabletech/nifi-operator",
-      "stars": 30
-    },
-    {
       "url": "https://github.com/rickstaa/ros-gazebo-gym",
       "stars": 29
-    },
-    {
-      "url": "https://github.com/stackabletech/superset-operator",
-      "stars": 28
-    },
-    {
-      "url": "https://github.com/stackabletech/zookeeper-operator",
-      "stars": 26
     },
     {
       "url": "https://github.com/comorment/containers",
@@ -135,20 +115,8 @@
       "stars": 26
     },
     {
-      "url": "https://github.com/stackabletech/kafka-operator",
-      "stars": 24
-    },
-    {
-      "url": "https://github.com/stackabletech/airflow-operator",
-      "stars": 22
-    },
-    {
       "url": "https://github.com/DirtyRacer1337/PhoenixAdult.bundle",
       "stars": 22
-    },
-    {
-      "url": "https://github.com/stackabletech/hive-operator",
-      "stars": 21
     },
     {
       "url": "https://github.com/danishi/dynamodb-csv",
@@ -168,14 +136,6 @@
     },
     {
       "url": "https://github.com/mikhailprivalov/l2",
-      "stars": 16
-    },
-    {
-      "url": "https://github.com/stackabletech/hbase-operator",
-      "stars": 15
-    },
-    {
-      "url": "https://github.com/stackabletech/opa-operator",
       "stars": 15
     },
     {
@@ -191,10 +151,6 @@
       "stars": 12
     },
     {
-      "url": "https://github.com/stackabletech/secret-operator",
-      "stars": 11
-    },
-    {
       "url": "https://github.com/ccdc-opensource/dash",
       "stars": 11
     },
@@ -203,20 +159,12 @@
       "stars": 11
     },
     {
-      "url": "https://github.com/stackabletech/druid-operator",
-      "stars": 10
-    },
-    {
-      "url": "https://github.com/stackabletech/commons-operator",
+      "url": "https://github.com/f0uriest/orthax",
       "stars": 8
     },
     {
       "url": "https://github.com/stackabletech/spark-operator",
       "stars": 8
-    },
-    {
-      "url": "https://github.com/f0uriest/orthax",
-      "stars": 7
     },
     {
       "url": "https://github.com/BedrockStreaming/hsdo",
@@ -229,10 +177,6 @@
     {
       "url": "https://github.com/LFPy/LFPykit",
       "stars": 7
-    },
-    {
-      "url": "https://github.com/stackabletech/listener-operator",
-      "stars": 6
     },
     {
       "url": "https://github.com/rickstaa/stable-learning-control",
@@ -260,9 +204,9 @@
     }
   ],
   "count": {
-    "total": 419,
-    "public": 314,
-    "private": 105,
-    "more_than_zero_star": 129
+    "total": 422,
+    "public": 300,
+    "private": 122,
+    "more_than_zero_star": 113
   }
 }

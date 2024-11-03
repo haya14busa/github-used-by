@@ -3,12 +3,16 @@
   "repo": "action-shfmt",
   "repos": [
     {
+      "url": "https://github.com/ChrisTitusTech/linutil",
+      "stars": 2696
+    },
+    {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 712
+      "stars": 726
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
-      "stars": 149
+      "stars": 152
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -28,7 +32,7 @@
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
-      "stars": 71
+      "stars": 72
     },
     {
       "url": "https://github.com/yu-iskw/action-sqlfluff",
@@ -48,7 +52,7 @@
     },
     {
       "url": "https://github.com/franzs/fritzbox_upload_certificate",
-      "stars": 42
+      "stars": 43
     },
     {
       "url": "https://github.com/mongolyy/reviewdog-action-biome",
@@ -60,7 +64,7 @@
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-tsc",
-      "stars": 19
+      "stars": 20
     },
     {
       "url": "https://github.com/aerospike/aerospike-server-enterprise.docker",
@@ -68,7 +72,7 @@
     },
     {
       "url": "https://github.com/UmbrellaDocs/action-linkspector",
-      "stars": 12
+      "stars": 13
     },
     {
       "url": "https://github.com/knative/actions",
@@ -84,9 +88,9 @@
     }
   ],
   "count": {
-    "total": 159,
-    "public": 90,
+    "total": 162,
+    "public": 93,
     "private": 69,
-    "more_than_zero_star": 39
+    "more_than_zero_star": 41
   }
 }

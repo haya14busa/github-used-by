@@ -4,39 +4,39 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7900
+      "stars": 7921
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7487
+      "stars": 7497
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1525
+      "stars": 1529
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1126
+      "stars": 1128
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 923
+      "stars": 926
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 866
+      "stars": 868
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 465
+      "stars": 471
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 434
+      "stars": 442
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 207
+      "stars": 211
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -80,19 +80,11 @@
     },
     {
       "url": "https://github.com/GStones/moke-kit",
-      "stars": 67
+      "stars": 69
     },
     {
       "url": "https://github.com/codewars/docs",
       "stars": 57
-    },
-    {
-      "url": "https://github.com/stackabletech/spark-k8s-operator",
-      "stars": 53
-    },
-    {
-      "url": "https://github.com/stackabletech/trino-operator",
-      "stars": 52
     },
     {
       "url": "https://github.com/shopware/docs",
@@ -100,11 +92,7 @@
     },
     {
       "url": "https://github.com/Valerioageno/tuono",
-      "stars": 42
-    },
-    {
-      "url": "https://github.com/stackabletech/hdfs-operator",
-      "stars": 40
+      "stars": 43
     },
     {
       "url": "https://github.com/jeertmans/rpdf",
@@ -112,19 +100,11 @@
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 33
-    },
-    {
-      "url": "https://github.com/stackabletech/nifi-operator",
-      "stars": 30
+      "stars": 34
     },
     {
       "url": "https://github.com/ZeroAssumptions/aide-de-camp",
       "stars": 29
-    },
-    {
-      "url": "https://github.com/stackabletech/superset-operator",
-      "stars": 28
     },
     {
       "url": "https://github.com/ADE-Scheduler/ADE-Scheduler",
@@ -139,22 +119,6 @@
       "stars": 27
     },
     {
-      "url": "https://github.com/stackabletech/zookeeper-operator",
-      "stars": 26
-    },
-    {
-      "url": "https://github.com/stackabletech/kafka-operator",
-      "stars": 24
-    },
-    {
-      "url": "https://github.com/stackabletech/airflow-operator",
-      "stars": 22
-    },
-    {
-      "url": "https://github.com/stackabletech/hive-operator",
-      "stars": 21
-    },
-    {
       "url": "https://github.com/nownabe/go-bqloader",
       "stars": 21
     },
@@ -165,14 +129,6 @@
     {
       "url": "https://github.com/hp-net/homebridge-nibe",
       "stars": 16
-    },
-    {
-      "url": "https://github.com/stackabletech/hbase-operator",
-      "stars": 15
-    },
-    {
-      "url": "https://github.com/stackabletech/opa-operator",
-      "stars": 15
     },
     {
       "url": "https://github.com/hashbite/gatsby-mdx-suite",
@@ -187,20 +143,8 @@
       "stars": 12
     },
     {
-      "url": "https://github.com/stackabletech/secret-operator",
-      "stars": 11
-    },
-    {
-      "url": "https://github.com/stackabletech/druid-operator",
-      "stars": 10
-    },
-    {
       "url": "https://github.com/jeertmans/manim-tutorial",
       "stars": 9
-    },
-    {
-      "url": "https://github.com/stackabletech/commons-operator",
-      "stars": 8
     },
     {
       "url": "https://github.com/kubeshop/botkube-docs",
@@ -209,6 +153,10 @@
     {
       "url": "https://github.com/phoenix-rtos/phoenix-rtos-doc",
       "stars": 8
+    },
+    {
+      "url": "https://github.com/liftwizard/liftwizard",
+      "stars": 7
     },
     {
       "url": "https://github.com/chocolatey/boxstarter.org",
@@ -224,10 +172,6 @@
     },
     {
       "url": "https://github.com/jeertmans/DiffeRT",
-      "stars": 6
-    },
-    {
-      "url": "https://github.com/stackabletech/listener-operator",
       "stars": 6
     },
     {
@@ -260,9 +204,9 @@
     }
   ],
   "count": {
-    "total": 373,
-    "public": 249,
-    "private": 124,
-    "more_than_zero_star": 115
+    "total": 374,
+    "public": 232,
+    "private": 142,
+    "more_than_zero_star": 98
   }
 }

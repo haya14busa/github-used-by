@@ -3,10 +3,6 @@
   "repo": "action-brakeman",
   "repos": [
     {
-      "url": "https://github.com/pglombardo/PasswordPusher",
-      "stars": 2047
-    },
-    {
       "url": "https://github.com/tricknotes/starseeker",
       "stars": 81
     },
@@ -24,7 +20,7 @@
     },
     {
       "url": "https://github.com/rubyforgood/Flaredown",
-      "stars": 39
+      "stars": 40
     },
     {
       "url": "https://github.com/sokusekiya/sokuseki",
@@ -48,9 +44,9 @@
     }
   ],
   "count": {
-    "total": 108,
-    "public": 75,
-    "private": 33,
-    "more_than_zero_star": 24
+    "total": 109,
+    "public": 74,
+    "private": 35,
+    "more_than_zero_star": 23
   }
 }
