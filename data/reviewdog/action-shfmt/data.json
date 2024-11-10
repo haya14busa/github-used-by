@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 2696
+      "stars": 2741
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 726
+      "stars": 729
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
-      "stars": 152
+      "stars": 154
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 86
+      "stars": 88
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/jonathanmorley/asdf-pnpm",
-      "stars": 67
+      "stars": 68
     },
     {
       "url": "https://github.com/lure-sh/lure-repo",
@@ -48,7 +48,7 @@
     },
     {
       "url": "https://github.com/sksat/compose-cd",
-      "stars": 44
+      "stars": 45
     },
     {
       "url": "https://github.com/franzs/fritzbox_upload_certificate",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/mongolyy/reviewdog-action-biome",
-      "stars": 34
+      "stars": 35
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-prettier",
@@ -83,13 +83,17 @@
       "stars": 7
     },
     {
+      "url": "https://github.com/helpermethod/up",
+      "stars": 7
+    },
+    {
       "url": "https://github.com/btkostner/jumar",
       "stars": 6
     }
   ],
   "count": {
-    "total": 162,
-    "public": 93,
+    "total": 163,
+    "public": 94,
     "private": 69,
     "more_than_zero_star": 41
   }

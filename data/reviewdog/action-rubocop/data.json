@@ -4,35 +4,35 @@
   "repos": [
     {
       "url": "https://github.com/forem/forem",
-      "stars": 21981
+      "stars": 21983
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9496
+      "stars": 9504
     },
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 9376
+      "stars": 9411
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 2797
+      "stars": 2798
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2754
+      "stars": 2755
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
-      "stars": 2702
+      "stars": 2703
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2330
+      "stars": 2331
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1388
+      "stars": 1396
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -40,11 +40,11 @@
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1114
+      "stars": 1117
     },
     {
       "url": "https://github.com/activeadmin/arbre",
-      "stars": 766
+      "stars": 767
     },
     {
       "url": "https://github.com/zilverline/sequent",
@@ -55,16 +55,12 @@
       "stars": 389
     },
     {
-      "url": "https://github.com/galaxyproject/training-material",
-      "stars": 306
-    },
-    {
       "url": "https://github.com/YusukeIwaki/puppeteer-ruby",
       "stars": 289
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 255
+      "stars": 260
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
@@ -72,7 +68,7 @@
     },
     {
       "url": "https://github.com/vmware/dod-compliance-and-automation",
-      "stars": 150
+      "stars": 151
     },
     {
       "url": "https://github.com/ytti/oxidized-web",
@@ -272,9 +268,9 @@
     }
   ],
   "count": {
-    "total": 645,
-    "public": 476,
-    "private": 169,
-    "more_than_zero_star": 157
+    "total": 648,
+    "public": 478,
+    "private": 170,
+    "more_than_zero_star": 156
   }
 }

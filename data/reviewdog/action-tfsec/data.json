@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
-      "stars": 2337
+      "stars": 2355
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -59,16 +59,16 @@
       "stars": 9
     },
     {
+      "url": "https://github.com/liatrio/terraform-caf-azure",
+      "stars": 9
+    },
+    {
       "url": "https://github.com/GrantBirki/k8s-kong-terraform",
       "stars": 9
     },
     {
       "url": "https://github.com/GrantBirki/errbot",
       "stars": 9
-    },
-    {
-      "url": "https://github.com/liatrio/terraform-caf-azure",
-      "stars": 8
     },
     {
       "url": "https://github.com/rhythmictech/terraform-aws-okta-sso",
@@ -87,6 +87,10 @@
       "stars": 7
     },
     {
+      "url": "https://github.com/nuvibit/github-terraform-workflows",
+      "stars": 7
+    },
+    {
       "url": "https://github.com/Azure-Terraform/terraform-helm-linkerd",
       "stars": 7
     },
@@ -97,10 +101,6 @@
     {
       "url": "https://github.com/rhythmictech/terraform-terraform-errorcheck",
       "stars": 7
-    },
-    {
-      "url": "https://github.com/nuvibit/github-terraform-workflows",
-      "stars": 6
     },
     {
       "url": "https://github.com/rhythmictech/terraform-aws-alb-ecs-task",

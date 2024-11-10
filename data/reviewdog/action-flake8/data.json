@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 71776
+      "stars": 71959
     },
     {
       "url": "https://github.com/microsoft/onnxruntime",
-      "stars": 14598
+      "stars": 14658
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 6657
+      "stars": 6700
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
-      "stars": 874
+      "stars": 875
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 606
+      "stars": 608
     },
     {
       "url": "https://github.com/simpeg/simpeg",
@@ -36,23 +36,23 @@
     },
     {
       "url": "https://github.com/PAhelper/PhoenixAdult.bundle",
-      "stars": 357
+      "stars": 359
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
-      "stars": 180
+      "stars": 181
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
       "stars": 151
     },
     {
-      "url": "https://github.com/TrangPham/django-admin-confirm",
-      "stars": 129
+      "url": "https://github.com/f0uriest/interpax",
+      "stars": 132
     },
     {
-      "url": "https://github.com/f0uriest/interpax",
-      "stars": 128
+      "url": "https://github.com/TrangPham/django-admin-confirm",
+      "stars": 129
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
@@ -60,11 +60,11 @@
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
-      "stars": 96
+      "stars": 97
     },
     {
       "url": "https://github.com/ehpor/hcipy",
-      "stars": 91
+      "stars": 93
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
@@ -151,11 +151,11 @@
       "stars": 12
     },
     {
-      "url": "https://github.com/ccdc-opensource/dash",
-      "stars": 11
+      "url": "https://github.com/istellartech/GELATO",
+      "stars": 12
     },
     {
-      "url": "https://github.com/istellartech/GELATO",
+      "url": "https://github.com/ccdc-opensource/dash",
       "stars": 11
     },
     {
@@ -204,9 +204,9 @@
     }
   ],
   "count": {
-    "total": 422,
-    "public": 300,
+    "total": 424,
+    "public": 302,
     "private": 122,
-    "more_than_zero_star": 113
+    "more_than_zero_star": 114
   }
 }

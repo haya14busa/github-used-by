@@ -4,43 +4,43 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 71776
+      "stars": 71960
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13225
+      "stars": 13233
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 6303
+      "stars": 6312
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 5841
+      "stars": 5847
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 3361
+      "stars": 3382
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
-      "stars": 2945
+      "stars": 2947
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1834
+      "stars": 1835
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1685
+      "stars": 1686
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1529
+      "stars": 1533
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1230
+      "stars": 1232
     },
     {
       "url": "https://github.com/truecharts/public",
@@ -48,11 +48,11 @@
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 1046
+      "stars": 1062
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 776
+      "stars": 780
     },
     {
       "url": "https://github.com/K-Phoen/dark",
@@ -60,11 +60,11 @@
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 376
+      "stars": 378
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
-      "stars": 315
+      "stars": 319
     },
     {
       "url": "https://github.com/KCarretto/paragon",
@@ -76,7 +76,7 @@
     },
     {
       "url": "https://github.com/openstack-exporter/openstack-exporter",
-      "stars": 210
+      "stars": 211
     },
     {
       "url": "https://github.com/raspbernetes/multi-arch-images",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/dadrus/heimdall",
-      "stars": 131
+      "stars": 132
     },
     {
       "url": "https://github.com/filipowm/BooGi",
@@ -100,7 +100,7 @@
     },
     {
       "url": "https://github.com/timoa/app-stores-prometheus-exporter",
-      "stars": 110
+      "stars": 111
     },
     {
       "url": "https://github.com/haya14busa/action-bumpr",
@@ -148,7 +148,7 @@
     },
     {
       "url": "https://github.com/Drakkar-Software/Triangular-Arbitrage",
-      "stars": 53
+      "stars": 56
     },
     {
       "url": "https://github.com/HopopOps/k8s-ldap-auth",
@@ -156,7 +156,7 @@
     },
     {
       "url": "https://github.com/jiro4989/build-deb-action",
-      "stars": 49
+      "stars": 50
     },
     {
       "url": "https://github.com/haya14busa/action-update-semver",
@@ -196,7 +196,7 @@
     },
     {
       "url": "https://github.com/arkedge/hubhook",
-      "stars": 21
+      "stars": 22
     },
     {
       "url": "https://github.com/dbelyaev/action-checkstyle",
@@ -220,7 +220,7 @@
     },
     {
       "url": "https://github.com/reviewdog/action-depup",
-      "stars": 18
+      "stars": 19
     },
     {
       "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
@@ -239,11 +239,11 @@
       "stars": 15
     },
     {
-      "url": "https://github.com/tmknom/prettier",
-      "stars": 13
+      "url": "https://github.com/SovereignCloudStack/openstack-health-monitor",
+      "stars": 14
     },
     {
-      "url": "https://github.com/SovereignCloudStack/openstack-health-monitor",
+      "url": "https://github.com/tmknom/prettier",
       "stars": 13
     },
     {
@@ -283,6 +283,10 @@
       "stars": 11
     },
     {
+      "url": "https://github.com/jiro4989/build-rpm-action",
+      "stars": 11
+    },
+    {
       "url": "https://github.com/open-amt-cloud-toolkit/console",
       "stars": 10
     },
@@ -312,10 +316,6 @@
     },
     {
       "url": "https://github.com/yamap55/python_repository_simple",
-      "stars": 10
-    },
-    {
-      "url": "https://github.com/jiro4989/build-rpm-action",
       "stars": 10
     },
     {
@@ -359,6 +359,10 @@
       "stars": 8
     },
     {
+      "url": "https://github.com/cresta/gitdb",
+      "stars": 8
+    },
+    {
       "url": "https://github.com/reviewdog/action-alex",
       "stars": 8
     },
@@ -391,10 +395,6 @@
       "stars": 7
     },
     {
-      "url": "https://github.com/cresta/gitdb",
-      "stars": 7
-    },
-    {
       "url": "https://github.com/deyaeddin/cert-manager-webhook-hetzner",
       "stars": 7
     },
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 1884,
-    "public": 1297,
-    "private": 587,
+    "total": 1889,
+    "public": 1299,
+    "private": 590,
     "more_than_zero_star": 335
   }
 }

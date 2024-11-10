@@ -4,31 +4,31 @@
   "repos": [
     {
       "url": "https://github.com/Tokyo-Metro-Gov/covid19",
-      "stars": 6259
+      "stars": 6257
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2248
+      "stars": 2252
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
-      "stars": 1202
+      "stars": 1203
     },
     {
       "url": "https://github.com/h3poteto/whalebird-desktop",
-      "stars": 900
+      "stars": 901
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 255
+      "stars": 260
     },
     {
       "url": "https://github.com/th0th/poeticmetric",
-      "stars": 232
+      "stars": 234
     },
     {
       "url": "https://github.com/modx-pro/miniShop2",
-      "stars": 150
+      "stars": 149
     },
     {
       "url": "https://github.com/haya14busa/github-action-brandings",
@@ -112,7 +112,7 @@
     },
     {
       "url": "https://github.com/codeforjapan/remote-patient-monitoring-dashboard",
-      "stars": 11
+      "stars": 12
     },
     {
       "url": "https://github.com/codeforkumamoto/covid19",
@@ -163,6 +163,10 @@
       "stars": 7
     },
     {
+      "url": "https://github.com/MooncellWiki/prts-widgets",
+      "stars": 6
+    },
+    {
       "url": "https://github.com/harrialeksi/poetic_metric",
       "stars": 6
     },
@@ -187,10 +191,6 @@
       "stars": 6
     },
     {
-      "url": "https://github.com/MooncellWiki/prts-widgets",
-      "stars": 5
-    },
-    {
       "url": "https://github.com/wildberries-tech/ui-react",
       "stars": 5
     },
@@ -204,8 +204,8 @@
     }
   ],
   "count": {
-    "total": 474,
-    "public": 356,
+    "total": 475,
+    "public": 357,
     "private": 118,
     "more_than_zero_star": 94
   }

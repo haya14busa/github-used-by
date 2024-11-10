@@ -4,39 +4,39 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7921
+      "stars": 7932
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7497
+      "stars": 7501
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1529
+      "stars": 1533
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1128
+      "stars": 1130
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 926
+      "stars": 929
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 868
+      "stars": 872
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 471
+      "stars": 478
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 442
+      "stars": 450
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 211
+      "stars": 216
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -56,15 +56,15 @@
     },
     {
       "url": "https://github.com/mszostok/version",
-      "stars": 100
+      "stars": 101
+    },
+    {
+      "url": "https://github.com/Shemnei/punktf",
+      "stars": 88
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
       "stars": 87
-    },
-    {
-      "url": "https://github.com/Shemnei/punktf",
-      "stars": 86
     },
     {
       "url": "https://github.com/pheature-flags/pheature-flags",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/capactio/capact",
-      "stars": 80
+      "stars": 79
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
@@ -87,19 +87,19 @@
       "stars": 57
     },
     {
-      "url": "https://github.com/shopware/docs",
-      "stars": 50
-    },
-    {
       "url": "https://github.com/Valerioageno/tuono",
-      "stars": 43
+      "stars": 52
     },
     {
-      "url": "https://github.com/jeertmans/rpdf",
-      "stars": 34
+      "url": "https://github.com/shopware/docs",
+      "stars": 51
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
+      "stars": 40
+    },
+    {
+      "url": "https://github.com/jeertmans/rpdf",
       "stars": 34
     },
     {
@@ -131,6 +131,10 @@
       "stars": 16
     },
     {
+      "url": "https://github.com/jeertmans/DiffeRT",
+      "stars": 15
+    },
+    {
       "url": "https://github.com/hashbite/gatsby-mdx-suite",
       "stars": 14
     },
@@ -155,6 +159,10 @@
       "stars": 8
     },
     {
+      "url": "https://github.com/VikeSec/CTF-Infrastructure",
+      "stars": 8
+    },
+    {
       "url": "https://github.com/liftwizard/liftwizard",
       "stars": 7
     },
@@ -163,16 +171,8 @@
       "stars": 7
     },
     {
-      "url": "https://github.com/VikeSec/CTF-Infrastructure",
-      "stars": 7
-    },
-    {
       "url": "https://github.com/GoogleCloudPlatform/appengine-cloud-demo-portal",
       "stars": 7
-    },
-    {
-      "url": "https://github.com/jeertmans/DiffeRT",
-      "stars": 6
     },
     {
       "url": "https://github.com/helpwave/helpwave",

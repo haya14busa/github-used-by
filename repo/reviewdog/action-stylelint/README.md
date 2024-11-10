@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 474 | 356 | 118 | 94 |
+| 475 | 357 | 118 | 94 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-stylelint/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-stylelint)
@@ -21,13 +21,13 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/Tokyo-Metro-Gov.png" width=50 height=50>|https://github.com/Tokyo-Metro-Gov/covid19|6259|
-|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2248|
-|3|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-css|1202|
-|4|<img src="https://github.com/h3poteto.png" width=50 height=50>|https://github.com/h3poteto/whalebird-desktop|900|
-|5|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|255|
-|6|<img src="https://github.com/th0th.png" width=50 height=50>|https://github.com/th0th/poeticmetric|232|
-|7|<img src="https://github.com/modx-pro.png" width=50 height=50>|https://github.com/modx-pro/miniShop2|150|
+|1|<img src="https://github.com/Tokyo-Metro-Gov.png" width=50 height=50>|https://github.com/Tokyo-Metro-Gov/covid19|6257|
+|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2252|
+|3|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-css|1203|
+|4|<img src="https://github.com/h3poteto.png" width=50 height=50>|https://github.com/h3poteto/whalebird-desktop|901|
+|5|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|260|
+|6|<img src="https://github.com/th0th.png" width=50 height=50>|https://github.com/th0th/poeticmetric|234|
+|7|<img src="https://github.com/modx-pro.png" width=50 height=50>|https://github.com/modx-pro/miniShop2|149|
 |8|<img src="https://github.com/haya14busa.png" width=50 height=50>|https://github.com/haya14busa/github-action-brandings|141|
 |9|<img src="https://github.com/10up.png" width=50 height=50>|https://github.com/10up/10up-experience|129|
 |10|<img src="https://github.com/department-of-veterans-affairs.png" width=50 height=50>|https://github.com/department-of-veterans-affairs/va.gov-cms|99|
@@ -48,7 +48,7 @@
 |25|<img src="https://github.com/glowfic-constellation.png" width=50 height=50>|https://github.com/glowfic-constellation/glowfic|16|
 |26|<img src="https://github.com/covid19-oita.png" width=50 height=50>|https://github.com/covid19-oita/covid19|15|
 |27|<img src="https://github.com/ironpeakservices.png" width=50 height=50>|https://github.com/ironpeakservices/iron-chart-hugo|12|
-|28|<img src="https://github.com/codeforjapan.png" width=50 height=50>|https://github.com/codeforjapan/remote-patient-monitoring-dashboard|11|
+|28|<img src="https://github.com/codeforjapan.png" width=50 height=50>|https://github.com/codeforjapan/remote-patient-monitoring-dashboard|12|
 |29|<img src="https://github.com/codeforkumamoto.png" width=50 height=50>|https://github.com/codeforkumamoto/covid19|11|
 |30|<img src="https://github.com/PichuChen.png" width=50 height=50>|https://github.com/PichuChen/covid19|11|
 |31|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/errorformat-playground|11|
@@ -61,13 +61,13 @@
 |38|<img src="https://github.com/chiefpansancolt.png" width=50 height=50>|https://github.com/chiefpansancolt/simplecov-material|7|
 |39|<img src="https://github.com/arkirchner.png" width=50 height=50>|https://github.com/arkirchner/resourcer|7|
 |40|<img src="https://github.com/kenjinote.png" width=50 height=50>|https://github.com/kenjinote/kablog|7|
-|41|<img src="https://github.com/harrialeksi.png" width=50 height=50>|https://github.com/harrialeksi/poetic_metric|6|
-|42|<img src="https://github.com/btkostner.png" width=50 height=50>|https://github.com/btkostner/jumar|6|
-|43|<img src="https://github.com/thunder.png" width=50 height=50>|https://github.com/thunder/select2|6|
-|44|<img src="https://github.com/kazuomatz.png" width=50 height=50>|https://github.com/kazuomatz/covid19|6|
-|45|<img src="https://github.com/yamaserif.png" width=50 height=50>|https://github.com/yamaserif/covid19|6|
-|46|<img src="https://github.com/CodeForNagasaki.png" width=50 height=50>|https://github.com/CodeForNagasaki/covid19|6|
-|47|<img src="https://github.com/MooncellWiki.png" width=50 height=50>|https://github.com/MooncellWiki/prts-widgets|5|
+|41|<img src="https://github.com/MooncellWiki.png" width=50 height=50>|https://github.com/MooncellWiki/prts-widgets|6|
+|42|<img src="https://github.com/harrialeksi.png" width=50 height=50>|https://github.com/harrialeksi/poetic_metric|6|
+|43|<img src="https://github.com/btkostner.png" width=50 height=50>|https://github.com/btkostner/jumar|6|
+|44|<img src="https://github.com/thunder.png" width=50 height=50>|https://github.com/thunder/select2|6|
+|45|<img src="https://github.com/kazuomatz.png" width=50 height=50>|https://github.com/kazuomatz/covid19|6|
+|46|<img src="https://github.com/yamaserif.png" width=50 height=50>|https://github.com/yamaserif/covid19|6|
+|47|<img src="https://github.com/CodeForNagasaki.png" width=50 height=50>|https://github.com/CodeForNagasaki/covid19|6|
 |48|<img src="https://github.com/wildberries-tech.png" width=50 height=50>|https://github.com/wildberries-tech/ui-react|5|
 |49|<img src="https://github.com/danskernesdigitalebibliotek.png" width=50 height=50>|https://github.com/danskernesdigitalebibliotek/dpl-react|5|
 |50|<img src="https://github.com/danskernesdigitalebibliotek.png" width=50 height=50>|https://github.com/danskernesdigitalebibliotek/dpl-design-system|5|

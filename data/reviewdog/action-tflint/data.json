@@ -4,27 +4,27 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1685
+      "stars": 1686
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 767
+      "stars": 781
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
-      "stars": 555
+      "stars": 558
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 502
+      "stars": 507
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 422
+      "stars": 433
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 211
+      "stars": 216
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -32,11 +32,11 @@
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 161
+      "stars": 166
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 135
+      "stars": 136
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
@@ -123,6 +123,10 @@
       "stars": 9
     },
     {
+      "url": "https://github.com/liatrio/terraform-caf-azure",
+      "stars": 9
+    },
+    {
       "url": "https://github.com/bmbferreira/awesome-terraform-pipeline",
       "stars": 9
     },
@@ -139,11 +143,11 @@
       "stars": 8
     },
     {
-      "url": "https://github.com/liatrio/terraform-caf-azure",
+      "url": "https://github.com/chainguard-dev/go-grpc-kit",
       "stars": 8
     },
     {
-      "url": "https://github.com/chainguard-dev/go-grpc-kit",
+      "url": "https://github.com/VikeSec/CTF-Infrastructure",
       "stars": 8
     },
     {
@@ -171,7 +175,7 @@
       "stars": 7
     },
     {
-      "url": "https://github.com/VikeSec/CTF-Infrastructure",
+      "url": "https://github.com/nuvibit/github-terraform-workflows",
       "stars": 7
     },
     {
@@ -204,10 +208,6 @@
     },
     {
       "url": "https://github.com/clouddrove/terraform-azure-sentinel",
-      "stars": 6
-    },
-    {
-      "url": "https://github.com/nuvibit/github-terraform-workflows",
       "stars": 6
     },
     {
@@ -261,8 +261,8 @@
   ],
   "count": {
     "total": 616,
-    "public": 388,
-    "private": 228,
+    "public": 386,
+    "private": 230,
     "more_than_zero_star": 163
   }
 }
