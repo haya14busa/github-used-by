@@ -4,51 +4,51 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 71959
+      "stars": 72074
     },
     {
       "url": "https://github.com/ben-manes/caffeine",
-      "stars": 15890
+      "stars": 15918
     },
     {
       "url": "https://github.com/neondatabase/neon",
-      "stars": 15021
+      "stars": 15145
     },
     {
       "url": "https://github.com/semgrep/semgrep",
-      "stars": 10622
+      "stars": 10656
     },
     {
       "url": "https://github.com/datahub-project/datahub",
-      "stars": 9885
+      "stars": 9913
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9504
+      "stars": 9508
     },
     {
       "url": "https://github.com/ethereum-lists/chains",
-      "stars": 8826
+      "stars": 8850
     },
     {
       "url": "https://github.com/draios/sysdig",
-      "stars": 7776
+      "stars": 7782
     },
     {
       "url": "https://github.com/smartcontractkit/chainlink",
-      "stars": 7015
+      "stars": 7025
     },
     {
       "url": "https://github.com/nginxinc/kubernetes-ingress",
-      "stars": 4667
+      "stars": 4673
     },
     {
       "url": "https://github.com/googleapis/google-cloud-go",
-      "stars": 3768
+      "stars": 3781
     },
     {
       "url": "https://github.com/x-motemen/ghq",
-      "stars": 3085
+      "stars": 3091
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
@@ -56,19 +56,19 @@
     },
     {
       "url": "https://github.com/jsverse/transloco",
-      "stars": 2033
+      "stars": 2035
     },
     {
       "url": "https://github.com/nginxinc/nginx-prometheus-exporter",
-      "stars": 1635
+      "stars": 1642
     },
     {
       "url": "https://github.com/leanprover-community/mathlib4",
-      "stars": 1525
+      "stars": 1542
     },
     {
       "url": "https://github.com/google/site-kit-wp",
-      "stars": 1250
+      "stars": 1251
     },
     {
       "url": "https://github.com/fluencelabs/nox",
@@ -76,15 +76,15 @@
     },
     {
       "url": "https://github.com/roflmuffin/CounterStrikeSharp",
-      "stars": 810
+      "stars": 814
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 780
+      "stars": 783
     },
     {
       "url": "https://github.com/activeadmin/arbre",
-      "stars": 767
+      "stars": 769
     },
     {
       "url": "https://github.com/KOBA789/relly",
@@ -96,7 +96,7 @@
     },
     {
       "url": "https://github.com/nginxinc/nginx-gateway-fabric",
-      "stars": 501
+      "stars": 503
     },
     {
       "url": "https://github.com/jackpocket/android-scratchoff",
@@ -104,7 +104,7 @@
     },
     {
       "url": "https://github.com/ZcashFoundation/zebra",
-      "stars": 410
+      "stars": 413
     },
     {
       "url": "https://github.com/javierjulio/textarea-autosize",
@@ -112,11 +112,11 @@
     },
     {
       "url": "https://github.com/k0sproject/k0sctl",
-      "stars": 391
+      "stars": 393
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 378
+      "stars": 377
     },
     {
       "url": "https://github.com/xapi-project/xen-api",
@@ -124,15 +124,19 @@
     },
     {
       "url": "https://github.com/nao1215/gup",
-      "stars": 342
+      "stars": 345
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
-      "stars": 319
+      "stars": 323
     },
     {
       "url": "https://github.com/activeadmin/demo.activeadmin.info",
       "stars": 286
+    },
+    {
+      "url": "https://github.com/grafana/k8s-monitoring-helm",
+      "stars": 223
     },
     {
       "url": "https://github.com/pircbotx/pircbotx",
@@ -140,11 +144,7 @@
     },
     {
       "url": "https://github.com/reviewdog/action-golangci-lint",
-      "stars": 217
-    },
-    {
-      "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 216
+      "stars": 218
     },
     {
       "url": "https://github.com/shogo82148/go-sql-proxy",
@@ -171,16 +171,16 @@
       "stars": 171
     },
     {
+      "url": "https://github.com/neondatabase/autoscaling",
+      "stars": 164
+    },
+    {
       "url": "https://github.com/netdata/go.d.plugin",
       "stars": 163
     },
     {
-      "url": "https://github.com/neondatabase/autoscaling",
-      "stars": 163
-    },
-    {
       "url": "https://github.com/mason-org/mason-registry",
-      "stars": 158
+      "stars": 159
     },
     {
       "url": "https://github.com/fluencelabs/aqua",
@@ -207,12 +207,12 @@
       "stars": 140
     },
     {
-      "url": "https://github.com/fluencelabs/cli",
+      "url": "https://github.com/octo-sts/app",
       "stars": 137
     },
     {
-      "url": "https://github.com/octo-sts/app",
-      "stars": 136
+      "url": "https://github.com/fluencelabs/cli",
+      "stars": 137
     },
     {
       "url": "https://github.com/pulumi/pulumi-azure-native",
@@ -224,11 +224,11 @@
     },
     {
       "url": "https://github.com/smartcontractkit/ccip",
-      "stars": 123
+      "stars": 124
     },
     {
       "url": "https://github.com/chainguard-dev/actions",
-      "stars": 118
+      "stars": 119
     },
     {
       "url": "https://github.com/reviewdog/action-suggester",
@@ -244,7 +244,7 @@
     },
     {
       "url": "https://github.com/Songmu/ghg",
-      "stars": 97
+      "stars": 98
     },
     {
       "url": "https://github.com/zigbee-alliance/distributed-compliance-ledger",
@@ -283,11 +283,11 @@
       "stars": 72
     },
     {
-      "url": "https://github.com/akunzai/GSS.Authentication.CAS",
-      "stars": 71
+      "url": "https://github.com/Songmu/gotesplit",
+      "stars": 72
     },
     {
-      "url": "https://github.com/Songmu/gotesplit",
+      "url": "https://github.com/akunzai/GSS.Authentication.CAS",
       "stars": 71
     },
     {
@@ -295,15 +295,15 @@
       "stars": 69
     },
     {
+      "url": "https://github.com/confidential-containers/trustee",
+      "stars": 67
+    },
+    {
       "url": "https://github.com/masutaka/github-nippou",
       "stars": 66
     },
     {
       "url": "https://github.com/netdata/dashboard",
-      "stars": 66
-    },
-    {
-      "url": "https://github.com/confidential-containers/trustee",
       "stars": 66
     },
     {
@@ -316,7 +316,7 @@
     },
     {
       "url": "https://github.com/mesosphere/mindthegap",
-      "stars": 63
+      "stars": 64
     },
     {
       "url": "https://github.com/netdata/kernel-collector",
@@ -347,6 +347,10 @@
       "stars": 54
     },
     {
+      "url": "https://github.com/astral-sh/ruff-action",
+      "stars": 53
+    },
+    {
       "url": "https://github.com/semgrep/semgrep-vscode",
       "stars": 53
     },
@@ -363,12 +367,12 @@
       "stars": 50
     },
     {
-      "url": "https://github.com/astral-sh/ruff-action",
+      "url": "https://github.com/nginxinc/nginx-plus-go-client",
       "stars": 49
     },
     {
-      "url": "https://github.com/nginxinc/nginx-plus-go-client",
-      "stars": 49
+      "url": "https://github.com/ut-issl/s2e-core",
+      "stars": 47
     },
     {
       "url": "https://github.com/guitarrapc/githubactions-lab",
@@ -376,10 +380,6 @@
     },
     {
       "url": "https://github.com/KOBA789/gl2d-sandbox",
-      "stars": 46
-    },
-    {
-      "url": "https://github.com/ut-issl/s2e-core",
       "stars": 46
     },
     {
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 1994,
-    "public": 1387,
-    "private": 607,
-    "more_than_zero_star": 631
+    "total": 2018,
+    "public": 1404,
+    "private": 614,
+    "more_than_zero_star": 638
   }
 }

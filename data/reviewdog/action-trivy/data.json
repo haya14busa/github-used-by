@@ -4,13 +4,13 @@
   "repos": [
     {
       "url": "https://github.com/nuvibit/github-terraform-workflows",
-      "stars": 7
+      "stars": 8
     }
   ],
   "count": {
     "total": 24,
-    "public": 20,
-    "private": 4,
+    "public": 21,
+    "private": 3,
     "more_than_zero_star": 8
   }
 }

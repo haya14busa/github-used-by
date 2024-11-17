@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7932
+      "stars": 7966
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7501
+      "stars": 7511
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1533
+      "stars": 1535
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
@@ -20,23 +20,23 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 929
+      "stars": 934
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 872
+      "stars": 878
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 478
+      "stars": 483
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 450
+      "stars": 464
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 216
+      "stars": 223
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -48,11 +48,15 @@
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
-      "stars": 146
+      "stars": 147
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
       "stars": 137
+    },
+    {
+      "url": "https://github.com/Valerioageno/tuono",
+      "stars": 112
     },
     {
       "url": "https://github.com/mszostok/version",
@@ -76,27 +80,23 @@
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
-      "stars": 74
+      "stars": 75
     },
     {
       "url": "https://github.com/GStones/moke-kit",
-      "stars": 69
+      "stars": 70
+    },
+    {
+      "url": "https://github.com/Together-Java/ModernJava",
+      "stars": 63
     },
     {
       "url": "https://github.com/codewars/docs",
       "stars": 57
     },
     {
-      "url": "https://github.com/Valerioageno/tuono",
-      "stars": 52
-    },
-    {
       "url": "https://github.com/shopware/docs",
       "stars": 51
-    },
-    {
-      "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 40
     },
     {
       "url": "https://github.com/jeertmans/rpdf",
@@ -127,12 +127,12 @@
       "stars": 19
     },
     {
-      "url": "https://github.com/hp-net/homebridge-nibe",
+      "url": "https://github.com/jeertmans/DiffeRT",
       "stars": 16
     },
     {
-      "url": "https://github.com/jeertmans/DiffeRT",
-      "stars": 15
+      "url": "https://github.com/hp-net/homebridge-nibe",
+      "stars": 16
     },
     {
       "url": "https://github.com/hashbite/gatsby-mdx-suite",
@@ -205,8 +205,8 @@
   ],
   "count": {
     "total": 374,
-    "public": 232,
-    "private": 142,
+    "public": 231,
+    "private": 143,
     "more_than_zero_star": 98
   }
 }

@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/Tokyo-Metro-Gov/covid19",
-      "stars": 6257
+      "stars": 6258
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2252
+      "stars": 2255
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
@@ -20,11 +20,11 @@
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 260
+      "stars": 262
     },
     {
       "url": "https://github.com/th0th/poeticmetric",
-      "stars": 234
+      "stars": 233
     },
     {
       "url": "https://github.com/modx-pro/miniShop2",
@@ -32,7 +32,7 @@
     },
     {
       "url": "https://github.com/haya14busa/github-action-brandings",
-      "stars": 141
+      "stars": 142
     },
     {
       "url": "https://github.com/10up/10up-experience",
@@ -100,7 +100,7 @@
     },
     {
       "url": "https://github.com/glowfic-constellation/glowfic",
-      "stars": 16
+      "stars": 17
     },
     {
       "url": "https://github.com/covid19-oita/covid19",
@@ -204,9 +204,9 @@
     }
   ],
   "count": {
-    "total": 475,
-    "public": 357,
-    "private": 118,
+    "total": 478,
+    "public": 359,
+    "private": 119,
     "more_than_zero_star": 94
   }
 }

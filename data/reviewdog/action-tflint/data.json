@@ -4,27 +4,27 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1686
+      "stars": 1689
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 781
+      "stars": 799
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
-      "stars": 558
+      "stars": 560
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 507
+      "stars": 510
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 433
+      "stars": 445
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 216
+      "stars": 223
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -36,11 +36,11 @@
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 136
+      "stars": 137
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
-      "stars": 114
+      "stars": 116
     },
     {
       "url": "https://github.com/provectus/sak-kubeflow",
@@ -48,7 +48,7 @@
     },
     {
       "url": "https://github.com/GiganticMinecraft/seichi_infra",
-      "stars": 53
+      "stars": 54
     },
     {
       "url": "https://github.com/slalombuild/terraform-atmos-accelerator",
@@ -155,6 +155,10 @@
       "stars": 8
     },
     {
+      "url": "https://github.com/nuvibit/github-terraform-workflows",
+      "stars": 8
+    },
+    {
       "url": "https://github.com/rhythmictech/terraform-aws-okta-sso",
       "stars": 8
     },
@@ -167,15 +171,15 @@
       "stars": 8
     },
     {
+      "url": "https://github.com/hazelops/terraform-aws-ec2-bastion",
+      "stars": 7
+    },
+    {
       "url": "https://github.com/jkrilov/NiceGuiTest",
       "stars": 7
     },
     {
       "url": "https://github.com/rhythmictech/terraform-aws-backend",
-      "stars": 7
-    },
-    {
-      "url": "https://github.com/nuvibit/github-terraform-workflows",
       "stars": 7
     },
     {
@@ -199,6 +203,10 @@
       "stars": 7
     },
     {
+      "url": "https://github.com/rhythmictech/terraform-aws-elb-cognito-auth",
+      "stars": 7
+    },
+    {
       "url": "https://github.com/SweetOps/terraform-google-service-account",
       "stars": 7
     },
@@ -212,10 +220,6 @@
     },
     {
       "url": "https://github.com/rhythmictech/terraform-aws-alb-ecs-task",
-      "stars": 6
-    },
-    {
-      "url": "https://github.com/rhythmictech/terraform-aws-elb-cognito-auth",
       "stars": 6
     },
     {
@@ -260,9 +264,9 @@
     }
   ],
   "count": {
-    "total": 616,
-    "public": 386,
-    "private": 230,
-    "more_than_zero_star": 163
+    "total": 618,
+    "public": 387,
+    "private": 231,
+    "more_than_zero_star": 164
   }
 }
