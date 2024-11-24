@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 123 | 99 | 24 | 47 |
+| 123 | 95 | 28 | 44 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-ansiblelint/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-ansiblelint)
@@ -32,5 +32,4 @@
 |9|<img src="https://github.com/RiskIdent.png" width=50 height=50>|https://github.com/RiskIdent/ansible-collection-luks|7|
 |10|<img src="https://github.com/idiv-biodiversity.png" width=50 height=50>|https://github.com/idiv-biodiversity/ansible-role-nrpe|6|
 |11|<img src="https://github.com/timoa.png" width=50 height=50>|https://github.com/timoa/cdkit.ansible|5|
-|12|<img src="https://github.com/idiv-biodiversity.png" width=50 height=50>|https://github.com/idiv-biodiversity/ansible-role-systemd-timesyncd|5|
-|13|<img src="https://github.com/galaxyproject.png" width=50 height=50>|https://github.com/galaxyproject/ansible-proftpd|5|
+|12|<img src="https://github.com/galaxyproject.png" width=50 height=50>|https://github.com/galaxyproject/ansible-proftpd|5|

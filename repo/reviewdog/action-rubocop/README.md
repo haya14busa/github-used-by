@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 651 | 480 | 171 | 157 |
+| 654 | 481 | 173 | 156 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-rubocop/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-rubocop)
@@ -21,28 +21,28 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/forem.png" width=50 height=50>|https://github.com/forem/forem|21992|
-|2|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9508|
-|3|<img src="https://github.com/opf.png" width=50 height=50>|https://github.com/opf/openproject|9448|
-|4|<img src="https://github.com/ytti.png" width=50 height=50>|https://github.com/ytti/oxidized|2810|
-|5|<img src="https://github.com/CartoDB.png" width=50 height=50>|https://github.com/CartoDB/cartodb|2756|
+|1|<img src="https://github.com/forem.png" width=50 height=50>|https://github.com/forem/forem|22011|
+|2|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9510|
+|3|<img src="https://github.com/opf.png" width=50 height=50>|https://github.com/opf/openproject|9477|
+|4|<img src="https://github.com/ytti.png" width=50 height=50>|https://github.com/ytti/oxidized|2819|
+|5|<img src="https://github.com/CartoDB.png" width=50 height=50>|https://github.com/CartoDB/cartodb|2757|
 |6|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/inherited_resources|2703|
-|7|<img src="https://github.com/chromebrew.png" width=50 height=50>|https://github.com/chromebrew/chromebrew|2332|
-|8|<img src="https://github.com/otwcode.png" width=50 height=50>|https://github.com/otwcode/otwarchive|1403|
-|9|<img src="https://github.com/k1LoW.png" width=50 height=50>|https://github.com/k1LoW/awspec|1173|
+|7|<img src="https://github.com/chromebrew.png" width=50 height=50>|https://github.com/chromebrew/chromebrew|2335|
+|8|<img src="https://github.com/otwcode.png" width=50 height=50>|https://github.com/otwcode/otwarchive|1407|
+|9|<img src="https://github.com/k1LoW.png" width=50 height=50>|https://github.com/k1LoW/awspec|1172|
 |10|<img src="https://github.com/openfoodfoundation.png" width=50 height=50>|https://github.com/openfoodfoundation/openfoodnetwork|1118|
-|11|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/arbre|769|
+|11|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/arbre|770|
 |12|<img src="https://github.com/zilverline.png" width=50 height=50>|https://github.com/zilverline/sequent|541|
 |13|<img src="https://github.com/mysociety.png" width=50 height=50>|https://github.com/mysociety/alaveteli|389|
 |14|<img src="https://github.com/YusukeIwaki.png" width=50 height=50>|https://github.com/YusukeIwaki/puppeteer-ruby|289|
-|15|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|262|
+|15|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|264|
 |16|<img src="https://github.com/Strech.png" width=50 height=50>|https://github.com/Strech/sidekiq-prometheus-exporter|199|
-|17|<img src="https://github.com/vmware.png" width=50 height=50>|https://github.com/vmware/dod-compliance-and-automation|151|
+|17|<img src="https://github.com/vmware.png" width=50 height=50>|https://github.com/vmware/dod-compliance-and-automation|153|
 |18|<img src="https://github.com/ytti.png" width=50 height=50>|https://github.com/ytti/oxidized-web|119|
 |19|<img src="https://github.com/hlascelles.png" width=50 height=50>|https://github.com/hlascelles/que-scheduler|115|
 |20|<img src="https://github.com/GetStream.png" width=50 height=50>|https://github.com/GetStream/stream-ruby|85|
 |21|<img src="https://github.com/chanzuckerberg.png" width=50 height=50>|https://github.com/chanzuckerberg/czid-web|79|
-|22|<img src="https://github.com/openHPI.png" width=50 height=50>|https://github.com/openHPI/codeocean|64|
+|22|<img src="https://github.com/openHPI.png" width=50 height=50>|https://github.com/openHPI/codeocean|65|
 |23|<img src="https://github.com/Drieam.png" width=50 height=50>|https://github.com/Drieam/rspec-github|62|
 |24|<img src="https://github.com/Unleash.png" width=50 height=50>|https://github.com/Unleash/unleash-client-ruby|57|
 |25|<img src="https://github.com/veuelive.png" width=50 height=50>|https://github.com/veuelive/veue|55|
@@ -73,17 +73,18 @@
 |50|<img src="https://github.com/phac-nml.png" width=50 height=50>|https://github.com/phac-nml/irida-next|8|
 |51|<img src="https://github.com/mh-mobile.png" width=50 height=50>|https://github.com/mh-mobile/event_follow|8|
 |52|<img src="https://github.com/Narnach.png" width=50 height=50>|https://github.com/Narnach/groupie|8|
-|53|<img src="https://github.com/sunnyfounder.png" width=50 height=50>|https://github.com/sunnyfounder/boxenn|7|
-|54|<img src="https://github.com/momentohq.png" width=50 height=50>|https://github.com/momentohq/client-sdk-ruby|6|
-|55|<img src="https://github.com/Strappazzon.png" width=50 height=50>|https://github.com/Strappazzon/www|6|
-|56|<img src="https://github.com/ayarotsky.png" width=50 height=50>|https://github.com/ayarotsky/rack-shield|6|
-|57|<img src="https://github.com/ytti.png" width=50 height=50>|https://github.com/ytti/asetus|6|
-|58|<img src="https://github.com/simonneutert.png" width=50 height=50>|https://github.com/simonneutert/Joda|6|
+|53|<img src="https://github.com/simonneutert.png" width=50 height=50>|https://github.com/simonneutert/Joda|7|
+|54|<img src="https://github.com/sunnyfounder.png" width=50 height=50>|https://github.com/sunnyfounder/boxenn|7|
+|55|<img src="https://github.com/momentohq.png" width=50 height=50>|https://github.com/momentohq/client-sdk-ruby|6|
+|56|<img src="https://github.com/Strappazzon.png" width=50 height=50>|https://github.com/Strappazzon/www|6|
+|57|<img src="https://github.com/ayarotsky.png" width=50 height=50>|https://github.com/ayarotsky/rack-shield|6|
+|58|<img src="https://github.com/ytti.png" width=50 height=50>|https://github.com/ytti/asetus|6|
 |59|<img src="https://github.com/openHPI.png" width=50 height=50>|https://github.com/openHPI/codeharbor|6|
-|60|<img src="https://github.com/goodscary.png" width=50 height=50>|https://github.com/goodscary/firstrubyfriend|5|
-|61|<img src="https://github.com/SwedbankPay.png" width=50 height=50>|https://github.com/SwedbankPay/swedbank-pay-design-guide-jekyll-theme|5|
-|62|<img src="https://github.com/ibm-skills-network.png" width=50 height=50>|https://github.com/ibm-skills-network/sn_filterable|5|
-|63|<img src="https://github.com/Giving-Coupons.png" width=50 height=50>|https://github.com/Giving-Coupons/giving-coupons|5|
-|64|<img src="https://github.com/sevenc-nanashi.png" width=50 height=50>|https://github.com/sevenc-nanashi/voicevox.rb|5|
-|65|<img src="https://github.com/seasonedcc.png" width=50 height=50>|https://github.com/seasonedcc/croods-rails|5|
-|66|<img src="https://github.com/openheritage.png" width=50 height=50>|https://github.com/openheritage/open-plaques-3|5|
+|60|<img src="https://github.com/alphagov.png" width=50 height=50>|https://github.com/alphagov/govuk-mobile-ios-app|5|
+|61|<img src="https://github.com/goodscary.png" width=50 height=50>|https://github.com/goodscary/firstrubyfriend|5|
+|62|<img src="https://github.com/SwedbankPay.png" width=50 height=50>|https://github.com/SwedbankPay/swedbank-pay-design-guide-jekyll-theme|5|
+|63|<img src="https://github.com/ibm-skills-network.png" width=50 height=50>|https://github.com/ibm-skills-network/sn_filterable|5|
+|64|<img src="https://github.com/Giving-Coupons.png" width=50 height=50>|https://github.com/Giving-Coupons/giving-coupons|5|
+|65|<img src="https://github.com/sevenc-nanashi.png" width=50 height=50>|https://github.com/sevenc-nanashi/voicevox.rb|5|
+|66|<img src="https://github.com/seasonedcc.png" width=50 height=50>|https://github.com/seasonedcc/croods-rails|5|
+|67|<img src="https://github.com/openheritage.png" width=50 height=50>|https://github.com/openheritage/open-plaques-3|5|

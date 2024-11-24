@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/forem/forem",
-      "stars": 21992
+      "stars": 22011
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9508
+      "stars": 9510
     },
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 9448
+      "stars": 9477
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 2810
+      "stars": 2819
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2756
+      "stars": 2757
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
@@ -28,15 +28,15 @@
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2332
+      "stars": 2335
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1403
+      "stars": 1407
     },
     {
       "url": "https://github.com/k1LoW/awspec",
-      "stars": 1173
+      "stars": 1172
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
@@ -44,7 +44,7 @@
     },
     {
       "url": "https://github.com/activeadmin/arbre",
-      "stars": 769
+      "stars": 770
     },
     {
       "url": "https://github.com/zilverline/sequent",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 262
+      "stars": 264
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
@@ -68,7 +68,7 @@
     },
     {
       "url": "https://github.com/vmware/dod-compliance-and-automation",
-      "stars": 151
+      "stars": 153
     },
     {
       "url": "https://github.com/ytti/oxidized-web",
@@ -88,7 +88,7 @@
     },
     {
       "url": "https://github.com/openHPI/codeocean",
-      "stars": 64
+      "stars": 65
     },
     {
       "url": "https://github.com/Drieam/rspec-github",
@@ -211,6 +211,10 @@
       "stars": 8
     },
     {
+      "url": "https://github.com/simonneutert/Joda",
+      "stars": 7
+    },
+    {
       "url": "https://github.com/sunnyfounder/boxenn",
       "stars": 7
     },
@@ -231,12 +235,12 @@
       "stars": 6
     },
     {
-      "url": "https://github.com/simonneutert/Joda",
+      "url": "https://github.com/openHPI/codeharbor",
       "stars": 6
     },
     {
-      "url": "https://github.com/openHPI/codeharbor",
-      "stars": 6
+      "url": "https://github.com/alphagov/govuk-mobile-ios-app",
+      "stars": 5
     },
     {
       "url": "https://github.com/goodscary/firstrubyfriend",
@@ -268,9 +272,9 @@
     }
   ],
   "count": {
-    "total": 651,
-    "public": 480,
-    "private": 171,
-    "more_than_zero_star": 157
+    "total": 654,
+    "public": 481,
+    "private": 173,
+    "more_than_zero_star": 156
   }
 }

@@ -47,18 +47,14 @@
       "stars": 5
     },
     {
-      "url": "https://github.com/idiv-biodiversity/ansible-role-systemd-timesyncd",
-      "stars": 5
-    },
-    {
       "url": "https://github.com/galaxyproject/ansible-proftpd",
       "stars": 5
     }
   ],
   "count": {
     "total": 123,
-    "public": 99,
-    "private": 24,
-    "more_than_zero_star": 47
+    "public": 95,
+    "private": 28,
+    "more_than_zero_star": 44
   }
 }

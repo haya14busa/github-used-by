@@ -4,39 +4,39 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7966
+      "stars": 7990
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7511
+      "stars": 7514
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1535
+      "stars": 1539
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1130
+      "stars": 1129
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 934
+      "stars": 937
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 878
+      "stars": 882
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 483
+      "stars": 488
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 464
+      "stars": 468
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 223
+      "stars": 225
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -44,7 +44,7 @@
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
-      "stars": 157
+      "stars": 159
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/Valerioageno/tuono",
-      "stars": 112
+      "stars": 130
     },
     {
       "url": "https://github.com/mszostok/version",
@@ -64,7 +64,11 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 88
+      "stars": 89
+    },
+    {
+      "url": "https://github.com/Together-Java/ModernJava",
+      "stars": 89
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
@@ -80,15 +84,11 @@
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
-      "stars": 75
+      "stars": 76
     },
     {
       "url": "https://github.com/GStones/moke-kit",
       "stars": 70
-    },
-    {
-      "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 63
     },
     {
       "url": "https://github.com/codewars/docs",
@@ -104,7 +104,7 @@
     },
     {
       "url": "https://github.com/ZeroAssumptions/aide-de-camp",
-      "stars": 29
+      "stars": 30
     },
     {
       "url": "https://github.com/ADE-Scheduler/ADE-Scheduler",
@@ -128,7 +128,7 @@
     },
     {
       "url": "https://github.com/jeertmans/DiffeRT",
-      "stars": 16
+      "stars": 18
     },
     {
       "url": "https://github.com/hp-net/homebridge-nibe",
@@ -204,8 +204,8 @@
     }
   ],
   "count": {
-    "total": 374,
-    "public": 231,
+    "total": 376,
+    "public": 233,
     "private": 143,
     "more_than_zero_star": 98
   }

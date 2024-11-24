@@ -12,7 +12,7 @@
     },
     {
       "url": "https://github.com/openHPI/codeocean",
-      "stars": 64
+      "stars": 65
     },
     {
       "url": "https://github.com/veuelive/veue",
@@ -45,8 +45,8 @@
   ],
   "count": {
     "total": 109,
-    "public": 74,
-    "private": 35,
+    "public": 73,
+    "private": 36,
     "more_than_zero_star": 23
   }
 }

@@ -4,39 +4,39 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 72074
+      "stars": 72188
     },
     {
       "url": "https://github.com/microsoft/onnxruntime",
-      "stars": 14701
+      "stars": 14786
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 6758
+      "stars": 6803
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
-      "stars": 877
+      "stars": 876
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 612
+      "stars": 616
+    },
+    {
+      "url": "https://github.com/simpeg/simpeg",
+      "stars": 517
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
       "stars": 517
     },
     {
-      "url": "https://github.com/simpeg/simpeg",
-      "stars": 515
-    },
-    {
       "url": "https://github.com/PersiaML/PERSIA",
-      "stars": 396
+      "stars": 397
     },
     {
       "url": "https://github.com/PAhelper/PhoenixAdult.bundle",
-      "stars": 359
+      "stars": 360
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
@@ -48,7 +48,7 @@
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 134
+      "stars": 137
     },
     {
       "url": "https://github.com/TrangPham/django-admin-confirm",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
-      "stars": 104
+      "stars": 105
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
@@ -68,7 +68,7 @@
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
-      "stars": 90
+      "stars": 91
     },
     {
       "url": "https://github.com/LFPy/LFPy",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/oracle/adaptivemm",
-      "stars": 46
+      "stars": 47
     },
     {
       "url": "https://github.com/f0uriest/quadax",
@@ -104,7 +104,7 @@
     },
     {
       "url": "https://github.com/rickstaa/ros-gazebo-gym",
-      "stars": 30
+      "stars": 31
     },
     {
       "url": "https://github.com/comorment/containers",
@@ -123,20 +123,20 @@
       "stars": 20
     },
     {
+      "url": "https://github.com/nnsnodnb/django-ios-storekit",
+      "stars": 18
+    },
+    {
       "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
+      "stars": 17
+    },
+    {
+      "url": "https://github.com/mikhailprivalov/l2",
       "stars": 17
     },
     {
       "url": "https://github.com/nnsnodnb/kalyke",
       "stars": 17
-    },
-    {
-      "url": "https://github.com/nnsnodnb/django-ios-storekit",
-      "stars": 17
-    },
-    {
-      "url": "https://github.com/mikhailprivalov/l2",
-      "stars": 16
     },
     {
       "url": "https://github.com/arkedge/c2a-core",
@@ -160,7 +160,7 @@
     },
     {
       "url": "https://github.com/f0uriest/orthax",
-      "stars": 9
+      "stars": 10
     },
     {
       "url": "https://github.com/stackabletech/spark-operator",
@@ -204,9 +204,9 @@
     }
   ],
   "count": {
-    "total": 425,
-    "public": 303,
+    "total": 428,
+    "public": 306,
     "private": 122,
-    "more_than_zero_star": 115
+    "more_than_zero_star": 116
   }
 }
