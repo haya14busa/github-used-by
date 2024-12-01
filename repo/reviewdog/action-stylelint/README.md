@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 479 | 360 | 119 | 94 |
+| 480 | 361 | 119 | 94 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-stylelint/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-stylelint)
@@ -22,12 +22,12 @@
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
 |1|<img src="https://github.com/Tokyo-Metro-Gov.png" width=50 height=50>|https://github.com/Tokyo-Metro-Gov/covid19|6258|
-|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2258|
+|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2265|
 |3|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-css|1206|
 |4|<img src="https://github.com/h3poteto.png" width=50 height=50>|https://github.com/h3poteto/whalebird-desktop|902|
-|5|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|264|
-|6|<img src="https://github.com/th0th.png" width=50 height=50>|https://github.com/th0th/poeticmetric|234|
-|7|<img src="https://github.com/modx-pro.png" width=50 height=50>|https://github.com/modx-pro/miniShop2|149|
+|5|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|265|
+|6|<img src="https://github.com/th0th.png" width=50 height=50>|https://github.com/th0th/poeticmetric|235|
+|7|<img src="https://github.com/modx-pro.png" width=50 height=50>|https://github.com/modx-pro/miniShop2|150|
 |8|<img src="https://github.com/haya14busa.png" width=50 height=50>|https://github.com/haya14busa/github-action-brandings|142|
 |9|<img src="https://github.com/10up.png" width=50 height=50>|https://github.com/10up/10up-experience|129|
 |10|<img src="https://github.com/department-of-veterans-affairs.png" width=50 height=50>|https://github.com/department-of-veterans-affairs/va.gov-cms|99|
@@ -35,7 +35,7 @@
 |12|<img src="https://github.com/stop-covid19-hyogo.png" width=50 height=50>|https://github.com/stop-covid19-hyogo/covid19|54|
 |13|<img src="https://github.com/a01sa01to.png" width=50 height=50>|https://github.com/a01sa01to/covid19-ibaraki|41|
 |14|<img src="https://github.com/WPMedia.png" width=50 height=50>|https://github.com/WPMedia/arc-themes-blocks|36|
-|15|<img src="https://github.com/DepSpy.png" width=50 height=50>|https://github.com/DepSpy/depspy|34|
+|15|<img src="https://github.com/DepSpy.png" width=50 height=50>|https://github.com/DepSpy/depspy|35|
 |16|<img src="https://github.com/gdg-fukushima.png" width=50 height=50>|https://github.com/gdg-fukushima/covid19|32|
 |17|<img src="https://github.com/codeforjapan.png" width=50 height=50>|https://github.com/codeforjapan/StudyAtHome|31|
 |18|<img src="https://github.com/nordcloud.png" width=50 height=50>|https://github.com/nordcloud/GNUI|30|

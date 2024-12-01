@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 72188
+      "stars": 72285
     },
     {
       "url": "https://github.com/microsoft/onnxruntime",
-      "stars": 14786
+      "stars": 14853
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 6803
+      "stars": 6841
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -20,14 +20,14 @@
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 616
-    },
-    {
-      "url": "https://github.com/simpeg/simpeg",
-      "stars": 517
+      "stars": 618
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
+      "stars": 518
+    },
+    {
+      "url": "https://github.com/simpeg/simpeg",
       "stars": 517
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
-      "stars": 183
+      "stars": 184
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
@@ -60,11 +60,11 @@
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
-      "stars": 97
+      "stars": 99
     },
     {
       "url": "https://github.com/ehpor/hcipy",
-      "stars": 93
+      "stars": 95
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
@@ -76,7 +76,7 @@
     },
     {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
-      "stars": 60
+      "stars": 61
     },
     {
       "url": "https://github.com/ydb-platform/nbs",
@@ -100,7 +100,7 @@
     },
     {
       "url": "https://github.com/Open-Model-Initiative/OMI-Data-Pipeline",
-      "stars": 32
+      "stars": 33
     },
     {
       "url": "https://github.com/rickstaa/ros-gazebo-gym",

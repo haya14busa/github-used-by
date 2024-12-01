@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 163 | 93 | 70 | 41 |
+| 164 | 93 | 71 | 41 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-shfmt/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-shfmt)
@@ -21,14 +21,14 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/ChrisTitusTech.png" width=50 height=50>|https://github.com/ChrisTitusTech/linutil|2830|
-|2|<img src="https://github.com/sourcegraph.png" width=50 height=50>|https://github.com/sourcegraph/zoekt|743|
+|1|<img src="https://github.com/ChrisTitusTech.png" width=50 height=50>|https://github.com/ChrisTitusTech/linutil|2862|
+|2|<img src="https://github.com/sourcegraph.png" width=50 height=50>|https://github.com/sourcegraph/zoekt|751|
 |3|<img src="https://github.com/CrowdStrike.png" width=50 height=50>|https://github.com/CrowdStrike/falcon-scripts|155|
 |4|<img src="https://github.com/aerospike.png" width=50 height=50>|https://github.com/aerospike/aerospike-server.docker|142|
 |5|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/action-suggester|107|
-|6|<img src="https://github.com/jiro4989.png" width=50 height=50>|https://github.com/jiro4989/setup-nim-action|105|
+|6|<img src="https://github.com/jiro4989.png" width=50 height=50>|https://github.com/jiro4989/setup-nim-action|106|
 |7|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|89|
-|8|<img src="https://github.com/aaronhurt.png" width=50 height=50>|https://github.com/aaronhurt/zfs-replicate|72|
+|8|<img src="https://github.com/aaronhurt.png" width=50 height=50>|https://github.com/aaronhurt/zfs-replicate|73|
 |9|<img src="https://github.com/jonathanmorley.png" width=50 height=50>|https://github.com/jonathanmorley/asdf-pnpm|71|
 |10|<img src="https://github.com/yu-iskw.png" width=50 height=50>|https://github.com/yu-iskw/action-sqlfluff|69|
 |11|<img src="https://github.com/lure-sh.png" width=50 height=50>|https://github.com/lure-sh/lure-repo|53|

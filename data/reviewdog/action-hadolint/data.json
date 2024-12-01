@@ -4,55 +4,55 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 72188
+      "stars": 72285
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13263
+      "stars": 13282
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 6342
+      "stars": 6353
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 5876
+      "stars": 5899
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 3440
+      "stars": 3469
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
-      "stars": 2951
+      "stars": 2956
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1836
+      "stars": 1837
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1692
+      "stars": 1691
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1539
+      "stars": 1542
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1241
+      "stars": 1248
     },
     {
       "url": "https://github.com/truecharts/public",
-      "stars": 1154
+      "stars": 1158
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 1082
+      "stars": 1092
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 785
+      "stars": 786
     },
     {
       "url": "https://github.com/K-Phoen/dark",
@@ -60,11 +60,11 @@
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 383
+      "stars": 384
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
-      "stars": 326
+      "stars": 331
     },
     {
       "url": "https://github.com/KCarretto/paragon",
@@ -76,7 +76,7 @@
     },
     {
       "url": "https://github.com/openstack-exporter/openstack-exporter",
-      "stars": 214
+      "stars": 216
     },
     {
       "url": "https://github.com/raspbernetes/multi-arch-images",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/dadrus/heimdall",
-      "stars": 133
+      "stars": 136
     },
     {
       "url": "https://github.com/filipowm/BooGi",
@@ -127,6 +127,10 @@
       "stars": 71
     },
     {
+      "url": "https://github.com/srz-zumix/iutest",
+      "stars": 66
+    },
+    {
       "url": "https://github.com/netdata/community",
       "stars": 66
     },
@@ -135,16 +139,12 @@
       "stars": 66
     },
     {
-      "url": "https://github.com/srz-zumix/iutest",
-      "stars": 65
-    },
-    {
       "url": "https://github.com/netdata/kernel-collector",
       "stars": 62
     },
     {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
-      "stars": 60
+      "stars": 61
     },
     {
       "url": "https://github.com/Drakkar-Software/Triangular-Arbitrage",
@@ -163,12 +163,12 @@
       "stars": 48
     },
     {
-      "url": "https://github.com/reviewdog/action-languagetool",
+      "url": "https://github.com/rickstaa/action-black",
       "stars": 39
     },
     {
-      "url": "https://github.com/rickstaa/action-black",
-      "stars": 38
+      "url": "https://github.com/reviewdog/action-languagetool",
+      "stars": 39
     },
     {
       "url": "https://github.com/prefeitura-rio/pipelines",
@@ -176,7 +176,7 @@
     },
     {
       "url": "https://github.com/basedosdados/pipelines",
-      "stars": 33
+      "stars": 34
     },
     {
       "url": "https://github.com/EdgeGallery/helm-charts",
@@ -331,6 +331,10 @@
       "stars": 9
     },
     {
+      "url": "https://github.com/nutanix-cloud-native/cluster-api-runtime-extensions-nutanix",
+      "stars": 9
+    },
+    {
       "url": "https://github.com/sammcj/smart_diskinfo",
       "stars": 9
     },
@@ -348,10 +352,6 @@
     },
     {
       "url": "https://github.com/srz-zumix/docker-googletest",
-      "stars": 8
-    },
-    {
-      "url": "https://github.com/nutanix-cloud-native/cluster-api-runtime-extensions-nutanix",
       "stars": 8
     },
     {
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 1894,
-    "public": 1302,
+    "total": 1896,
+    "public": 1304,
     "private": 592,
-    "more_than_zero_star": 340
+    "more_than_zero_star": 341
   }
 }

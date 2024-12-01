@@ -4,39 +4,43 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7990
+      "stars": 7999
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7514
+      "stars": 7522
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1539
+      "stars": 1542
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1129
+      "stars": 1130
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 937
+      "stars": 941
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 882
+      "stars": 888
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 488
+      "stars": 491
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 468
+      "stars": 474
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 225
+      "stars": 230
+    },
+    {
+      "url": "https://github.com/tuono-labs/tuono",
+      "stars": 211
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -44,7 +48,7 @@
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
-      "stars": 159
+      "stars": 160
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
@@ -55,24 +59,20 @@
       "stars": 137
     },
     {
-      "url": "https://github.com/Valerioageno/tuono",
-      "stars": 130
-    },
-    {
       "url": "https://github.com/mszostok/version",
       "stars": 101
+    },
+    {
+      "url": "https://github.com/Together-Java/ModernJava",
+      "stars": 96
     },
     {
       "url": "https://github.com/Shemnei/punktf",
       "stars": 89
     },
     {
-      "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 89
-    },
-    {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
-      "stars": 87
+      "stars": 86
     },
     {
       "url": "https://github.com/pheature-flags/pheature-flags",
@@ -151,6 +151,10 @@
       "stars": 9
     },
     {
+      "url": "https://github.com/liftwizard/liftwizard",
+      "stars": 8
+    },
+    {
       "url": "https://github.com/kubeshop/botkube-docs",
       "stars": 8
     },
@@ -161,10 +165,6 @@
     {
       "url": "https://github.com/VikeSec/CTF-Infrastructure",
       "stars": 8
-    },
-    {
-      "url": "https://github.com/liftwizard/liftwizard",
-      "stars": 7
     },
     {
       "url": "https://github.com/chocolatey/boxstarter.org",
@@ -204,8 +204,8 @@
     }
   ],
   "count": {
-    "total": 376,
-    "public": 233,
+    "total": 377,
+    "public": 234,
     "private": 143,
     "more_than_zero_star": 98
   }

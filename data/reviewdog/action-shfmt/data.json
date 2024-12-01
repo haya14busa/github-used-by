@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 2830
+      "stars": 2862
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 743
+      "stars": 751
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/jiro4989/setup-nim-action",
-      "stars": 105
+      "stars": 106
     },
     {
       "url": "https://github.com/Shemnei/punktf",
@@ -32,7 +32,7 @@
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
-      "stars": 72
+      "stars": 73
     },
     {
       "url": "https://github.com/jonathanmorley/asdf-pnpm",
@@ -92,9 +92,9 @@
     }
   ],
   "count": {
-    "total": 163,
+    "total": 164,
     "public": 93,
-    "private": 70,
+    "private": 71,
     "more_than_zero_star": 41
   }
 }

@@ -8,7 +8,7 @@
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2258
+      "stars": 2265
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
@@ -20,15 +20,15 @@
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 264
+      "stars": 265
     },
     {
       "url": "https://github.com/th0th/poeticmetric",
-      "stars": 234
+      "stars": 235
     },
     {
       "url": "https://github.com/modx-pro/miniShop2",
-      "stars": 149
+      "stars": 150
     },
     {
       "url": "https://github.com/haya14busa/github-action-brandings",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/DepSpy/depspy",
-      "stars": 34
+      "stars": 35
     },
     {
       "url": "https://github.com/gdg-fukushima/covid19",
@@ -204,8 +204,8 @@
     }
   ],
   "count": {
-    "total": 479,
-    "public": 360,
+    "total": 480,
+    "public": 361,
     "private": 119,
     "more_than_zero_star": 94
   }
