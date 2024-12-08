@@ -4,27 +4,27 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1691
+      "stars": 1692
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 811
+      "stars": 819
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
-      "stars": 562
+      "stars": 566
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 515
+      "stars": 516
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 458
+      "stars": 461
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 230
+      "stars": 233
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -32,11 +32,11 @@
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 171
+      "stars": 173
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 140
+      "stars": 142
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/cloudposse/github-actions-workflows",
-      "stars": 29
+      "stars": 30
     },
     {
       "url": "https://github.com/timoa/terraform-oci-vscode-server",
@@ -115,6 +115,10 @@
       "stars": 10
     },
     {
+      "url": "https://github.com/provectus/sak-incubator",
+      "stars": 10
+    },
+    {
       "url": "https://github.com/Bobirmirzo/infra-ci-cd",
       "stars": 10
     },
@@ -127,11 +131,11 @@
       "stars": 9
     },
     {
-      "url": "https://github.com/bmbferreira/awesome-terraform-pipeline",
+      "url": "https://github.com/chainguard-dev/go-grpc-kit",
       "stars": 9
     },
     {
-      "url": "https://github.com/provectus/sak-incubator",
+      "url": "https://github.com/bmbferreira/awesome-terraform-pipeline",
       "stars": 9
     },
     {
@@ -140,10 +144,6 @@
     },
     {
       "url": "https://github.com/chainguard-dev/terraform-infra-common",
-      "stars": 8
-    },
-    {
-      "url": "https://github.com/chainguard-dev/go-grpc-kit",
       "stars": 8
     },
     {
@@ -160,6 +160,10 @@
     },
     {
       "url": "https://github.com/rhythmictech/terraform-aws-okta-sso",
+      "stars": 8
+    },
+    {
+      "url": "https://github.com/rhythmictech/terraform-terraform-errorcheck",
       "stars": 8
     },
     {
@@ -196,10 +200,6 @@
     },
     {
       "url": "https://github.com/scribd/terraform-aws-recycle-eks",
-      "stars": 7
-    },
-    {
-      "url": "https://github.com/rhythmictech/terraform-terraform-errorcheck",
       "stars": 7
     },
     {
@@ -260,8 +260,8 @@
     }
   ],
   "count": {
-    "total": 620,
-    "public": 387,
+    "total": 622,
+    "public": 389,
     "private": 233,
     "more_than_zero_star": 163
   }

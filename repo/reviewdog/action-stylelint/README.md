@@ -22,10 +22,10 @@
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
 |1|<img src="https://github.com/Tokyo-Metro-Gov.png" width=50 height=50>|https://github.com/Tokyo-Metro-Gov/covid19|6258|
-|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2265|
-|3|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-css|1206|
-|4|<img src="https://github.com/h3poteto.png" width=50 height=50>|https://github.com/h3poteto/whalebird-desktop|902|
-|5|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|265|
+|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2269|
+|3|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-css|1207|
+|4|<img src="https://github.com/h3poteto.png" width=50 height=50>|https://github.com/h3poteto/whalebird-desktop|903|
+|5|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|266|
 |6|<img src="https://github.com/th0th.png" width=50 height=50>|https://github.com/th0th/poeticmetric|235|
 |7|<img src="https://github.com/modx-pro.png" width=50 height=50>|https://github.com/modx-pro/miniShop2|150|
 |8|<img src="https://github.com/haya14busa.png" width=50 height=50>|https://github.com/haya14busa/github-action-brandings|142|
@@ -34,7 +34,7 @@
 |11|<img src="https://github.com/nordcloud.png" width=50 height=50>|https://github.com/nordcloud/pat-frontend-template|58|
 |12|<img src="https://github.com/stop-covid19-hyogo.png" width=50 height=50>|https://github.com/stop-covid19-hyogo/covid19|54|
 |13|<img src="https://github.com/a01sa01to.png" width=50 height=50>|https://github.com/a01sa01to/covid19-ibaraki|41|
-|14|<img src="https://github.com/WPMedia.png" width=50 height=50>|https://github.com/WPMedia/arc-themes-blocks|36|
+|14|<img src="https://github.com/WPMedia.png" width=50 height=50>|https://github.com/WPMedia/arc-themes-blocks|37|
 |15|<img src="https://github.com/DepSpy.png" width=50 height=50>|https://github.com/DepSpy/depspy|35|
 |16|<img src="https://github.com/gdg-fukushima.png" width=50 height=50>|https://github.com/gdg-fukushima/covid19|32|
 |17|<img src="https://github.com/codeforjapan.png" width=50 height=50>|https://github.com/codeforjapan/StudyAtHome|31|

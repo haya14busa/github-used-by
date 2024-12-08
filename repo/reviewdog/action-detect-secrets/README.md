@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 314 | 171 | 143 | 71 |
+| 314 | 172 | 142 | 71 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-detect-secrets/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-detect-secrets)
@@ -21,10 +21,10 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/4paradigm.png" width=50 height=50>|https://github.com/4paradigm/OpenMLDB|1595|
-|2|<img src="https://github.com/PyPtt.png" width=50 height=50>|https://github.com/PyPtt/PyPtt|697|
+|1|<img src="https://github.com/4paradigm.png" width=50 height=50>|https://github.com/4paradigm/OpenMLDB|1597|
+|2|<img src="https://github.com/PyPtt.png" width=50 height=50>|https://github.com/PyPtt/PyPtt|698|
 |3|<img src="https://github.com/jackpocket.png" width=50 height=50>|https://github.com/jackpocket/android-scratchoff|450|
-|4|<img src="https://github.com/nix-united.png" width=50 height=50>|https://github.com/nix-united/golang-echo-boilerplate|292|
+|4|<img src="https://github.com/nix-united.png" width=50 height=50>|https://github.com/nix-united/golang-echo-boilerplate|295|
 |5|<img src="https://github.com/nix-united.png" width=50 height=50>|https://github.com/nix-united/golang-gin-boilerplate|95|
 |6|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/closeable-map|58|
 |7|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/malli-cli|54|
@@ -32,7 +32,7 @@
 |9|<img src="https://github.com/bitjourney.png" width=50 height=50>|https://github.com/bitjourney/react-simple-image|29|
 |10|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/dove|27|
 |11|<img src="https://github.com/bitjourney.png" width=50 height=50>|https://github.com/bitjourney/mato|22|
-|12|<img src="https://github.com/adam-rms.png" width=50 height=50>|https://github.com/adam-rms/adam-rms|20|
+|12|<img src="https://github.com/adam-rms.png" width=50 height=50>|https://github.com/adam-rms/adam-rms|22|
 |13|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/scripts|15|
 |14|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/nabab|13|
 |15|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/zsh-bootstrap|10|

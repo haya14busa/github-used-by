@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 7999
+      "stars": 8020
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7522
+      "stars": 7523
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1542
+      "stars": 1545
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
@@ -20,27 +20,27 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 941
+      "stars": 944
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 888
+      "stars": 890
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 491
+      "stars": 499
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 474
+      "stars": 486
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 230
+      "stars": 233
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 211
+      "stars": 226
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -56,23 +56,23 @@
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
-      "stars": 137
+      "stars": 139
+    },
+    {
+      "url": "https://github.com/Together-Java/ModernJava",
+      "stars": 101
     },
     {
       "url": "https://github.com/mszostok/version",
       "stars": 101
     },
     {
-      "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 96
-    },
-    {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 89
+      "stars": 90
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
-      "stars": 86
+      "stars": 87
     },
     {
       "url": "https://github.com/pheature-flags/pheature-flags",
@@ -187,15 +187,15 @@
       "stars": 6
     },
     {
+      "url": "https://github.com/fission/fission.io",
+      "stars": 6
+    },
+    {
       "url": "https://github.com/margau/bahn.day",
       "stars": 5
     },
     {
       "url": "https://github.com/stakater/employee-handbook",
-      "stars": 5
-    },
-    {
-      "url": "https://github.com/fission/fission.io",
       "stars": 5
     },
     {

@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
-      "stars": 2428
+      "stars": 2497
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -79,6 +79,10 @@
       "stars": 8
     },
     {
+      "url": "https://github.com/rhythmictech/terraform-terraform-errorcheck",
+      "stars": 8
+    },
+    {
       "url": "https://github.com/rhythmictech/terraform-aws-cloudtrail-logging",
       "stars": 8
     },
@@ -96,10 +100,6 @@
     },
     {
       "url": "https://github.com/rhythmictech/terraform-aws-ssm-patch-manager",
-      "stars": 7
-    },
-    {
-      "url": "https://github.com/rhythmictech/terraform-terraform-errorcheck",
       "stars": 7
     },
     {

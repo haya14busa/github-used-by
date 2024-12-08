@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 2862
+      "stars": 2876
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 751
+      "stars": 757
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 89
+      "stars": 90
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
@@ -67,11 +67,11 @@
       "stars": 20
     },
     {
-      "url": "https://github.com/aerospike/aerospike-server-enterprise.docker",
-      "stars": 15
+      "url": "https://github.com/helpermethod/up",
+      "stars": 16
     },
     {
-      "url": "https://github.com/helpermethod/up",
+      "url": "https://github.com/aerospike/aerospike-server-enterprise.docker",
       "stars": 15
     },
     {

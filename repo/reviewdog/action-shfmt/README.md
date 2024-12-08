@@ -21,13 +21,13 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/ChrisTitusTech.png" width=50 height=50>|https://github.com/ChrisTitusTech/linutil|2862|
-|2|<img src="https://github.com/sourcegraph.png" width=50 height=50>|https://github.com/sourcegraph/zoekt|751|
+|1|<img src="https://github.com/ChrisTitusTech.png" width=50 height=50>|https://github.com/ChrisTitusTech/linutil|2876|
+|2|<img src="https://github.com/sourcegraph.png" width=50 height=50>|https://github.com/sourcegraph/zoekt|757|
 |3|<img src="https://github.com/CrowdStrike.png" width=50 height=50>|https://github.com/CrowdStrike/falcon-scripts|155|
 |4|<img src="https://github.com/aerospike.png" width=50 height=50>|https://github.com/aerospike/aerospike-server.docker|142|
 |5|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/action-suggester|107|
 |6|<img src="https://github.com/jiro4989.png" width=50 height=50>|https://github.com/jiro4989/setup-nim-action|106|
-|7|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|89|
+|7|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|90|
 |8|<img src="https://github.com/aaronhurt.png" width=50 height=50>|https://github.com/aaronhurt/zfs-replicate|73|
 |9|<img src="https://github.com/jonathanmorley.png" width=50 height=50>|https://github.com/jonathanmorley/asdf-pnpm|71|
 |10|<img src="https://github.com/yu-iskw.png" width=50 height=50>|https://github.com/yu-iskw/action-sqlfluff|69|
@@ -37,8 +37,8 @@
 |14|<img src="https://github.com/mongolyy.png" width=50 height=50>|https://github.com/mongolyy/reviewdog-action-biome|35|
 |15|<img src="https://github.com/EPMatt.png" width=50 height=50>|https://github.com/EPMatt/reviewdog-action-prettier|23|
 |16|<img src="https://github.com/EPMatt.png" width=50 height=50>|https://github.com/EPMatt/reviewdog-action-tsc|20|
-|17|<img src="https://github.com/aerospike.png" width=50 height=50>|https://github.com/aerospike/aerospike-server-enterprise.docker|15|
-|18|<img src="https://github.com/helpermethod.png" width=50 height=50>|https://github.com/helpermethod/up|15|
+|17|<img src="https://github.com/helpermethod.png" width=50 height=50>|https://github.com/helpermethod/up|16|
+|18|<img src="https://github.com/aerospike.png" width=50 height=50>|https://github.com/aerospike/aerospike-server-enterprise.docker|15|
 |19|<img src="https://github.com/UmbrellaDocs.png" width=50 height=50>|https://github.com/UmbrellaDocs/action-linkspector|13|
 |20|<img src="https://github.com/knative.png" width=50 height=50>|https://github.com/knative/actions|11|
 |21|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/action-ast-grep|7|
