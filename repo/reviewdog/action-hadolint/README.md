@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 1903 | 1308 | 595 | 341 |
+| 1907 | 1310 | 597 | 341 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-hadolint/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-hadolint)
@@ -21,29 +21,29 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/netdata|72432|
-|2|<img src="https://github.com/idank.png" width=50 height=50>|https://github.com/idank/explainshell|13294|
-|3|<img src="https://github.com/evrone.png" width=50 height=50>|https://github.com/evrone/go-clean-template|6361|
-|4|<img src="https://github.com/fluent.png" width=50 height=50>|https://github.com/fluent/fluent-bit|5919|
-|5|<img src="https://github.com/Drakkar-Software.png" width=50 height=50>|https://github.com/Drakkar-Software/OctoBot|3491|
-|6|<img src="https://github.com/stellargraph.png" width=50 height=50>|https://github.com/stellargraph/stellargraph|2956|
+|1|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/netdata|72585|
+|2|<img src="https://github.com/idank.png" width=50 height=50>|https://github.com/idank/explainshell|13306|
+|3|<img src="https://github.com/evrone.png" width=50 height=50>|https://github.com/evrone/go-clean-template|6372|
+|4|<img src="https://github.com/fluent.png" width=50 height=50>|https://github.com/fluent/fluent-bit|5948|
+|5|<img src="https://github.com/Drakkar-Software.png" width=50 height=50>|https://github.com/Drakkar-Software/OctoBot|3524|
+|6|<img src="https://github.com/stellargraph.png" width=50 height=50>|https://github.com/stellargraph/stellargraph|2957|
 |7|<img src="https://github.com/dotenv-linter.png" width=50 height=50>|https://github.com/dotenv-linter/dotenv-linter|1842|
 |8|<img src="https://github.com/magma.png" width=50 height=50>|https://github.com/magma/magma|1692|
-|9|<img src="https://github.com/vdaas.png" width=50 height=50>|https://github.com/vdaas/vald|1545|
-|10|<img src="https://github.com/controlplaneio.png" width=50 height=50>|https://github.com/controlplaneio/kubesec|1252|
-|11|<img src="https://github.com/truecharts.png" width=50 height=50>|https://github.com/truecharts/public|1167|
-|12|<img src="https://github.com/factoriotools.png" width=50 height=50>|https://github.com/factoriotools/factorio-docker|1097|
-|13|<img src="https://github.com/anothrNick.png" width=50 height=50>|https://github.com/anothrNick/github-tag-action|787|
-|14|<img src="https://github.com/K-Phoen.png" width=50 height=50>|https://github.com/K-Phoen/dark|428|
+|9|<img src="https://github.com/vdaas.png" width=50 height=50>|https://github.com/vdaas/vald|1548|
+|10|<img src="https://github.com/controlplaneio.png" width=50 height=50>|https://github.com/controlplaneio/kubesec|1254|
+|11|<img src="https://github.com/truecharts.png" width=50 height=50>|https://github.com/truecharts/public|1168|
+|12|<img src="https://github.com/factoriotools.png" width=50 height=50>|https://github.com/factoriotools/factorio-docker|1103|
+|13|<img src="https://github.com/anothrNick.png" width=50 height=50>|https://github.com/anothrNick/github-tag-action|791|
+|14|<img src="https://github.com/K-Phoen.png" width=50 height=50>|https://github.com/K-Phoen/dark|430|
 |15|<img src="https://github.com/opentibiabr.png" width=50 height=50>|https://github.com/opentibiabr/canary|386|
 |16|<img src="https://github.com/isindir.png" width=50 height=50>|https://github.com/isindir/sops-secrets-operator|331|
 |17|<img src="https://github.com/KCarretto.png" width=50 height=50>|https://github.com/KCarretto/paragon|294|
-|18|<img src="https://github.com/bgruening.png" width=50 height=50>|https://github.com/bgruening/docker-galaxy|226|
+|18|<img src="https://github.com/bgruening.png" width=50 height=50>|https://github.com/bgruening/docker-galaxy|225|
 |19|<img src="https://github.com/openstack-exporter.png" width=50 height=50>|https://github.com/openstack-exporter/openstack-exporter|217|
 |20|<img src="https://github.com/raspbernetes.png" width=50 height=50>|https://github.com/raspbernetes/multi-arch-images|173|
 |21|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/go.d.plugin|163|
 |22|<img src="https://github.com/aerospike.png" width=50 height=50>|https://github.com/aerospike/aerospike-server.docker|142|
-|23|<img src="https://github.com/dadrus.png" width=50 height=50>|https://github.com/dadrus/heimdall|138|
+|23|<img src="https://github.com/dadrus.png" width=50 height=50>|https://github.com/dadrus/heimdall|140|
 |24|<img src="https://github.com/filipowm.png" width=50 height=50>|https://github.com/filipowm/BooGi|119|
 |25|<img src="https://github.com/timoa.png" width=50 height=50>|https://github.com/timoa/app-stores-prometheus-exporter|112|
 |26|<img src="https://github.com/haya14busa.png" width=50 height=50>|https://github.com/haya14busa/action-bumpr|87|
@@ -61,7 +61,7 @@
 |38|<img src="https://github.com/HopopOps.png" width=50 height=50>|https://github.com/HopopOps/k8s-ldap-auth|52|
 |39|<img src="https://github.com/jiro4989.png" width=50 height=50>|https://github.com/jiro4989/build-deb-action|51|
 |40|<img src="https://github.com/haya14busa.png" width=50 height=50>|https://github.com/haya14busa/action-update-semver|48|
-|41|<img src="https://github.com/rickstaa.png" width=50 height=50>|https://github.com/rickstaa/action-black|39|
+|41|<img src="https://github.com/rickstaa.png" width=50 height=50>|https://github.com/rickstaa/action-black|40|
 |42|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/action-languagetool|39|
 |43|<img src="https://github.com/prefeitura-rio.png" width=50 height=50>|https://github.com/prefeitura-rio/pipelines|37|
 |44|<img src="https://github.com/basedosdados.png" width=50 height=50>|https://github.com/basedosdados/pipelines|34|
@@ -80,21 +80,21 @@
 |57|<img src="https://github.com/Arduino-CI.png" width=50 height=50>|https://github.com/Arduino-CI/action|16|
 |58|<img src="https://github.com/aerospike.png" width=50 height=50>|https://github.com/aerospike/aerospike-server-enterprise.docker|15|
 |59|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/scripts|15|
-|60|<img src="https://github.com/SovereignCloudStack.png" width=50 height=50>|https://github.com/SovereignCloudStack/openstack-health-monitor|14|
-|61|<img src="https://github.com/tmknom.png" width=50 height=50>|https://github.com/tmknom/prettier|13|
-|62|<img src="https://github.com/AnchorFree.png" width=50 height=50>|https://github.com/AnchorFree/ssl-watch|12|
-|63|<img src="https://github.com/ironpeakservices.png" width=50 height=50>|https://github.com/ironpeakservices/iron-chart-hugo|12|
-|64|<img src="https://github.com/vk26.png" width=50 height=50>|https://github.com/vk26/action-fasterer|12|
-|65|<img src="https://github.com/sksat.png" width=50 height=50>|https://github.com/sksat/kuso-subdomain-adder|12|
-|66|<img src="https://github.com/open-amt-cloud-toolkit.png" width=50 height=50>|https://github.com/open-amt-cloud-toolkit/console|11|
-|67|<img src="https://github.com/kphrx.png" width=50 height=50>|https://github.com/kphrx/noxir|11|
-|68|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/dash|11|
-|69|<img src="https://github.com/timoa.png" width=50 height=50>|https://github.com/timoa/nodejs-encryption-api-example|11|
-|70|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/ebpf-co-re|11|
-|71|<img src="https://github.com/vbouchaud.png" width=50 height=50>|https://github.com/vbouchaud/nfs-client-provisioner|11|
-|72|<img src="https://github.com/jwillker.png" width=50 height=50>|https://github.com/jwillker/debug|11|
-|73|<img src="https://github.com/timoa.png" width=50 height=50>|https://github.com/timoa/secure-go-backend-clean-architecture|10|
-|74|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/zsh-bootstrap|10|
+|60|<img src="https://github.com/SovereignCloudStack.png" width=50 height=50>|https://github.com/SovereignCloudStack/openstack-health-monitor|15|
+|61|<img src="https://github.com/AnchorFree.png" width=50 height=50>|https://github.com/AnchorFree/ssl-watch|13|
+|62|<img src="https://github.com/tmknom.png" width=50 height=50>|https://github.com/tmknom/prettier|13|
+|63|<img src="https://github.com/vbouchaud.png" width=50 height=50>|https://github.com/vbouchaud/nfs-client-provisioner|12|
+|64|<img src="https://github.com/ironpeakservices.png" width=50 height=50>|https://github.com/ironpeakservices/iron-chart-hugo|12|
+|65|<img src="https://github.com/vk26.png" width=50 height=50>|https://github.com/vk26/action-fasterer|12|
+|66|<img src="https://github.com/sksat.png" width=50 height=50>|https://github.com/sksat/kuso-subdomain-adder|12|
+|67|<img src="https://github.com/open-amt-cloud-toolkit.png" width=50 height=50>|https://github.com/open-amt-cloud-toolkit/console|11|
+|68|<img src="https://github.com/kphrx.png" width=50 height=50>|https://github.com/kphrx/noxir|11|
+|69|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/dash|11|
+|70|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/zsh-bootstrap|11|
+|71|<img src="https://github.com/timoa.png" width=50 height=50>|https://github.com/timoa/nodejs-encryption-api-example|11|
+|72|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/ebpf-co-re|11|
+|73|<img src="https://github.com/jwillker.png" width=50 height=50>|https://github.com/jwillker/debug|11|
+|74|<img src="https://github.com/timoa.png" width=50 height=50>|https://github.com/timoa/secure-go-backend-clean-architecture|10|
 |75|<img src="https://github.com/yanorei32.png" width=50 height=50>|https://github.com/yanorei32/discord-tts|10|
 |76|<img src="https://github.com/mrtousif.png" width=50 height=50>|https://github.com/mrtousif/youtube-clone|10|
 |77|<img src="https://github.com/timoa.png" width=50 height=50>|https://github.com/timoa/chrome-tab-rotate-server|10|
@@ -114,10 +114,10 @@
 |91|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/action-alex|8|
 |92|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/helper-images|8|
 |93|<img src="https://github.com/fluent.png" width=50 height=50>|https://github.com/fluent/fluent-bit-ci|8|
-|94|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/science-paper-rf-machine-learned-scoring-2022|7|
-|95|<img src="https://github.com/lupinthe14th.png" width=50 height=50>|https://github.com/lupinthe14th/axios-redmine|7|
-|96|<img src="https://github.com/chronosphereio.png" width=50 height=50>|https://github.com/chronosphereio/calyptia-plugin|7|
-|97|<img src="https://github.com/JasperWey.png" width=50 height=50>|https://github.com/JasperWey/MyGoTest|7|
-|98|<img src="https://github.com/rickstaa.png" width=50 height=50>|https://github.com/rickstaa/action-contains-tag|7|
-|99|<img src="https://github.com/deyaeddin.png" width=50 height=50>|https://github.com/deyaeddin/cert-manager-webhook-hetzner|7|
-|100|<img src="https://github.com/flobernd.png" width=50 height=50>|https://github.com/flobernd/docker-minecraft-ftb|6|
+|94|<img src="https://github.com/mobilecoinofficial.png" width=50 height=50>|https://github.com/mobilecoinofficial/gha-runner|7|
+|95|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/science-paper-rf-machine-learned-scoring-2022|7|
+|96|<img src="https://github.com/lupinthe14th.png" width=50 height=50>|https://github.com/lupinthe14th/axios-redmine|7|
+|97|<img src="https://github.com/chronosphereio.png" width=50 height=50>|https://github.com/chronosphereio/calyptia-plugin|7|
+|98|<img src="https://github.com/JasperWey.png" width=50 height=50>|https://github.com/JasperWey/MyGoTest|7|
+|99|<img src="https://github.com/rickstaa.png" width=50 height=50>|https://github.com/rickstaa/action-contains-tag|7|
+|100|<img src="https://github.com/deyaeddin.png" width=50 height=50>|https://github.com/deyaeddin/cert-manager-webhook-hetzner|7|

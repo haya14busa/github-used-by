@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
-      "stars": 2497
+      "stars": 2519
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -48,7 +48,7 @@
     },
     {
       "url": "https://github.com/sammcj/zsh-bootstrap",
-      "stars": 10
+      "stars": 11
     },
     {
       "url": "https://github.com/Vlaaaaaaad/terraform-aws-fargate-refinery",

@@ -16,7 +16,7 @@
     },
     {
       "url": "https://github.com/nix-united/golang-echo-boilerplate",
-      "stars": 295
+      "stars": 296
     },
     {
       "url": "https://github.com/nix-united/golang-gin-boilerplate",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/piotr-yuxuan/closeable-map",
-      "stars": 58
+      "stars": 59
     },
     {
       "url": "https://github.com/piotr-yuxuan/malli-cli",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/sammcj/zsh-bootstrap",
-      "stars": 10
+      "stars": 11
     },
     {
       "url": "https://github.com/sammcj/smart_diskinfo",
@@ -104,9 +104,9 @@
     }
   ],
   "count": {
-    "total": 314,
-    "public": 172,
-    "private": 142,
-    "more_than_zero_star": 71
+    "total": 315,
+    "public": 174,
+    "private": 141,
+    "more_than_zero_star": 72
   }
 }

@@ -4,27 +4,27 @@
   "repos": [
     {
       "url": "https://github.com/forem/forem",
-      "stars": 22031
+      "stars": 22041
     },
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 9550
+      "stars": 9578
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9513
+      "stars": 9517
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 2826
+      "stars": 2835
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2759
+      "stars": 2762
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
-      "stars": 2704
+      "stars": 2703
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1119
+      "stars": 1121
     },
     {
       "url": "https://github.com/activeadmin/arbre",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/YusukeIwaki/puppeteer-ruby",
-      "stars": 290
+      "stars": 292
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
@@ -68,11 +68,11 @@
     },
     {
       "url": "https://github.com/vmware/dod-compliance-and-automation",
-      "stars": 154
+      "stars": 156
     },
     {
       "url": "https://github.com/ytti/oxidized-web",
-      "stars": 119
+      "stars": 121
     },
     {
       "url": "https://github.com/hlascelles/que-scheduler",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/Drieam/rspec-github",
-      "stars": 62
+      "stars": 63
     },
     {
       "url": "https://github.com/Unleash/unleash-client-ruby",
@@ -151,11 +151,11 @@
       "stars": 20
     },
     {
-      "url": "https://github.com/oddcamp/mrml-rails",
-      "stars": 17
+      "url": "https://github.com/glowfic-constellation/glowfic",
+      "stars": 18
     },
     {
-      "url": "https://github.com/glowfic-constellation/glowfic",
+      "url": "https://github.com/oddcamp/mrml-rails",
       "stars": 17
     },
     {
@@ -272,9 +272,9 @@
     }
   ],
   "count": {
-    "total": 656,
+    "total": 659,
     "public": 481,
-    "private": 175,
+    "private": 178,
     "more_than_zero_star": 156
   }
 }

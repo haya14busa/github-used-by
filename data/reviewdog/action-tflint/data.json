@@ -8,11 +8,11 @@
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 819
+      "stars": 830
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
-      "stars": 566
+      "stars": 567
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
@@ -20,11 +20,11 @@
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 461
+      "stars": 468
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 233
+      "stars": 237
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -32,11 +32,11 @@
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 173
+      "stars": 175
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 142
+      "stars": 144
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
@@ -48,11 +48,11 @@
     },
     {
       "url": "https://github.com/GiganticMinecraft/seichi_infra",
-      "stars": 56
+      "stars": 57
     },
     {
       "url": "https://github.com/slalombuild/terraform-atmos-accelerator",
-      "stars": 46
+      "stars": 47
     },
     {
       "url": "https://github.com/clouddrove/terraform-aws-sftp",
@@ -95,6 +95,10 @@
       "stars": 15
     },
     {
+      "url": "https://github.com/chainguard-dev/terraform-infra-common",
+      "stars": 14
+    },
+    {
       "url": "https://github.com/rhythmictech/terraform-terraform-template",
       "stars": 14
     },
@@ -103,12 +107,12 @@
       "stars": 12
     },
     {
-      "url": "https://github.com/ExpediaGroup/github-webhook-proxy",
+      "url": "https://github.com/sammcj/zsh-bootstrap",
       "stars": 11
     },
     {
-      "url": "https://github.com/sammcj/zsh-bootstrap",
-      "stars": 10
+      "url": "https://github.com/ExpediaGroup/github-webhook-proxy",
+      "stars": 11
     },
     {
       "url": "https://github.com/Vlaaaaaaad/terraform-aws-fargate-refinery",
@@ -141,10 +145,6 @@
     {
       "url": "https://github.com/ironpeakservices/infrastructure",
       "stars": 9
-    },
-    {
-      "url": "https://github.com/chainguard-dev/terraform-infra-common",
-      "stars": 8
     },
     {
       "url": "https://github.com/VikeSec/CTF-Infrastructure",

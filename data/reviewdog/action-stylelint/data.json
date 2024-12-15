@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/Tokyo-Metro-Gov/covid19",
-      "stars": 6258
+      "stars": 6256
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2269
+      "stars": 2273
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
@@ -16,7 +16,7 @@
     },
     {
       "url": "https://github.com/h3poteto/whalebird-desktop",
-      "stars": 903
+      "stars": 904
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/th0th/poeticmetric",
-      "stars": 235
+      "stars": 237
     },
     {
       "url": "https://github.com/modx-pro/miniShop2",
@@ -36,7 +36,7 @@
     },
     {
       "url": "https://github.com/10up/10up-experience",
-      "stars": 129
+      "stars": 130
     },
     {
       "url": "https://github.com/department-of-veterans-affairs/va.gov-cms",
@@ -100,7 +100,7 @@
     },
     {
       "url": "https://github.com/glowfic-constellation/glowfic",
-      "stars": 17
+      "stars": 18
     },
     {
       "url": "https://github.com/covid19-oita/covid19",
@@ -151,6 +151,10 @@
       "stars": 7
     },
     {
+      "url": "https://github.com/MooncellWiki/prts-widgets",
+      "stars": 7
+    },
+    {
       "url": "https://github.com/chiefpansancolt/simplecov-material",
       "stars": 7
     },
@@ -161,10 +165,6 @@
     {
       "url": "https://github.com/kenjinote/kablog",
       "stars": 7
-    },
-    {
-      "url": "https://github.com/MooncellWiki/prts-widgets",
-      "stars": 6
     },
     {
       "url": "https://github.com/harrialeksi/poetic_metric",
@@ -204,9 +204,9 @@
     }
   ],
   "count": {
-    "total": 480,
-    "public": 361,
+    "total": 481,
+    "public": 362,
     "private": 119,
-    "more_than_zero_star": 94
+    "more_than_zero_star": 95
   }
 }

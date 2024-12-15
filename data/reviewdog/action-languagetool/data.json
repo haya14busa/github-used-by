@@ -4,43 +4,43 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8020
+      "stars": 8030
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7523
+      "stars": 7527
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1545
+      "stars": 1548
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1130
+      "stars": 1132
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 944
+      "stars": 947
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 890
+      "stars": 894
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 499
+      "stars": 505
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 486
+      "stars": 490
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 233
+      "stars": 237
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 226
+      "stars": 235
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -60,11 +60,11 @@
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 101
+      "stars": 103
     },
     {
       "url": "https://github.com/mszostok/version",
-      "stars": 101
+      "stars": 102
     },
     {
       "url": "https://github.com/Shemnei/punktf",

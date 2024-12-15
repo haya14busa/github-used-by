@@ -4,27 +4,27 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 72432
+      "stars": 72585
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13294
+      "stars": 13306
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 6361
+      "stars": 6372
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 5919
+      "stars": 5948
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 3491
+      "stars": 3524
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
-      "stars": 2956
+      "stars": 2957
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
@@ -36,27 +36,27 @@
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1545
+      "stars": 1548
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1252
+      "stars": 1254
     },
     {
       "url": "https://github.com/truecharts/public",
-      "stars": 1167
+      "stars": 1168
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 1097
+      "stars": 1103
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 787
+      "stars": 791
     },
     {
       "url": "https://github.com/K-Phoen/dark",
-      "stars": 428
+      "stars": 430
     },
     {
       "url": "https://github.com/opentibiabr/canary",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/bgruening/docker-galaxy",
-      "stars": 226
+      "stars": 225
     },
     {
       "url": "https://github.com/openstack-exporter/openstack-exporter",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/dadrus/heimdall",
-      "stars": 138
+      "stars": 140
     },
     {
       "url": "https://github.com/filipowm/BooGi",
@@ -164,7 +164,7 @@
     },
     {
       "url": "https://github.com/rickstaa/action-black",
-      "stars": 39
+      "stars": 40
     },
     {
       "url": "https://github.com/reviewdog/action-languagetool",
@@ -240,14 +240,18 @@
     },
     {
       "url": "https://github.com/SovereignCloudStack/openstack-health-monitor",
-      "stars": 14
+      "stars": 15
+    },
+    {
+      "url": "https://github.com/AnchorFree/ssl-watch",
+      "stars": 13
     },
     {
       "url": "https://github.com/tmknom/prettier",
       "stars": 13
     },
     {
-      "url": "https://github.com/AnchorFree/ssl-watch",
+      "url": "https://github.com/vbouchaud/nfs-client-provisioner",
       "stars": 12
     },
     {
@@ -275,6 +279,10 @@
       "stars": 11
     },
     {
+      "url": "https://github.com/sammcj/zsh-bootstrap",
+      "stars": 11
+    },
+    {
       "url": "https://github.com/timoa/nodejs-encryption-api-example",
       "stars": 11
     },
@@ -283,19 +291,11 @@
       "stars": 11
     },
     {
-      "url": "https://github.com/vbouchaud/nfs-client-provisioner",
-      "stars": 11
-    },
-    {
       "url": "https://github.com/jwillker/debug",
       "stars": 11
     },
     {
       "url": "https://github.com/timoa/secure-go-backend-clean-architecture",
-      "stars": 10
-    },
-    {
-      "url": "https://github.com/sammcj/zsh-bootstrap",
       "stars": 10
     },
     {
@@ -375,6 +375,10 @@
       "stars": 8
     },
     {
+      "url": "https://github.com/mobilecoinofficial/gha-runner",
+      "stars": 7
+    },
+    {
       "url": "https://github.com/ccdc-opensource/science-paper-rf-machine-learned-scoring-2022",
       "stars": 7
     },
@@ -397,16 +401,12 @@
     {
       "url": "https://github.com/deyaeddin/cert-manager-webhook-hetzner",
       "stars": 7
-    },
-    {
-      "url": "https://github.com/flobernd/docker-minecraft-ftb",
-      "stars": 6
     }
   ],
   "count": {
-    "total": 1903,
-    "public": 1308,
-    "private": 595,
+    "total": 1907,
+    "public": 1310,
+    "private": 597,
     "more_than_zero_star": 341
   }
 }
