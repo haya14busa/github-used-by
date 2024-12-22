@@ -1,0 +1,412 @@
+{
+  "owner": "reviewdog",
+  "repo": "action-eslint",
+  "repos": [
+    {
+      "url": "https://github.com/microsoft/onnxruntime",
+      "stars": 15069
+    },
+    {
+      "url": "https://github.com/kestra-io/kestra",
+      "stars": 14812
+    },
+    {
+      "url": "https://github.com/opf/openproject",
+      "stars": 9598
+    },
+    {
+      "url": "https://github.com/activeadmin/activeadmin",
+      "stars": 9516
+    },
+    {
+      "url": "https://github.com/TeamPiped/Piped",
+      "stars": 8566
+    },
+    {
+      "url": "https://github.com/Tokyo-Metro-Gov/covid19",
+      "stars": 6255
+    },
+    {
+      "url": "https://github.com/mdn/webextensions-examples",
+      "stars": 4141
+    },
+    {
+      "url": "https://github.com/obytes/react-native-template-obytes",
+      "stars": 2574
+    },
+    {
+      "url": "https://github.com/feathr-ai/feathr",
+      "stars": 1987
+    },
+    {
+      "url": "https://github.com/magma/magma",
+      "stars": 1695
+    },
+    {
+      "url": "https://github.com/avo-hq/avo",
+      "stars": 1550
+    },
+    {
+      "url": "https://github.com/adobe/spectrum-css",
+      "stars": 1207
+    },
+    {
+      "url": "https://github.com/h3poteto/whalebird-desktop",
+      "stars": 904
+    },
+    {
+      "url": "https://github.com/mikavilpas/yazi.nvim",
+      "stars": 646
+    },
+    {
+      "url": "https://github.com/frappe/helpdesk",
+      "stars": 638
+    },
+    {
+      "url": "https://github.com/carbon-design-system/carbon-web-components",
+      "stars": 477
+    },
+    {
+      "url": "https://github.com/openscopeproject/TrguiNG",
+      "stars": 401
+    },
+    {
+      "url": "https://github.com/IITC-CE/ingress-intel-total-conversion",
+      "stars": 294
+    },
+    {
+      "url": "https://github.com/10up/block-components",
+      "stars": 276
+    },
+    {
+      "url": "https://github.com/benbrown/shuttlecraft",
+      "stars": 268
+    },
+    {
+      "url": "https://github.com/Retrospring/retrospring",
+      "stars": 267
+    },
+    {
+      "url": "https://github.com/th0th/poeticmetric",
+      "stars": 238
+    },
+    {
+      "url": "https://github.com/samhirtarif/react-audio-recorder",
+      "stars": 226
+    },
+    {
+      "url": "https://github.com/hngprojects/hng_boilerplate_nextjs",
+      "stars": 207
+    },
+    {
+      "url": "https://github.com/SOZ-Faut-etre-Sub/SOZ-FiveM-Server",
+      "stars": 201
+    },
+    {
+      "url": "https://github.com/Inrixia/Floatplane-Downloader",
+      "stars": 175
+    },
+    {
+      "url": "https://github.com/modx-pro/miniShop2",
+      "stars": 150
+    },
+    {
+      "url": "https://github.com/Code-Hex/firebase-auth-cloudflare-workers",
+      "stars": 135
+    },
+    {
+      "url": "https://github.com/hngprojects/hng_boilerplate_remix",
+      "stars": 130
+    },
+    {
+      "url": "https://github.com/10up/10up-experience",
+      "stars": 130
+    },
+    {
+      "url": "https://github.com/filipowm/BooGi",
+      "stars": 119
+    },
+    {
+      "url": "https://github.com/timoa/app-stores-prometheus-exporter",
+      "stars": 113
+    },
+    {
+      "url": "https://github.com/samhirtarif/react-audio-visualize",
+      "stars": 101
+    },
+    {
+      "url": "https://github.com/SkeLLLa/fastify-metrics",
+      "stars": 101
+    },
+    {
+      "url": "https://github.com/department-of-veterans-affairs/va.gov-cms",
+      "stars": 99
+    },
+    {
+      "url": "https://github.com/SkeLLLa/node-object-hash",
+      "stars": 85
+    },
+    {
+      "url": "https://github.com/glassmonkey/php-playground",
+      "stars": 81
+    },
+    {
+      "url": "https://github.com/ohmyform/api",
+      "stars": 68
+    },
+    {
+      "url": "https://github.com/PunGrumpy/logixlysia",
+      "stars": 67
+    },
+    {
+      "url": "https://github.com/andyholmes/gnome-shell-extension-valent",
+      "stars": 63
+    },
+    {
+      "url": "https://github.com/ohmyform/ui",
+      "stars": 62
+    },
+    {
+      "url": "https://github.com/formilyjs/antdv-x3",
+      "stars": 60
+    },
+    {
+      "url": "https://github.com/nordcloud/pat-frontend-template",
+      "stars": 58
+    },
+    {
+      "url": "https://github.com/intel/onnxruntime",
+      "stars": 58
+    },
+    {
+      "url": "https://github.com/Open-Attestation/open-attestation",
+      "stars": 57
+    },
+    {
+      "url": "https://github.com/formilyjs/antd",
+      "stars": 56
+    },
+    {
+      "url": "https://github.com/stop-covid19-hyogo/covid19",
+      "stars": 54
+    },
+    {
+      "url": "https://github.com/BitPhinix/slate-yjs-example",
+      "stars": 53
+    },
+    {
+      "url": "https://github.com/ethanwharris/gnome-nvidia-extension",
+      "stars": 48
+    },
+    {
+      "url": "https://github.com/NCEAS/metacatui",
+      "stars": 42
+    },
+    {
+      "url": "https://github.com/Consensys/infura-sdk",
+      "stars": 36
+    },
+    {
+      "url": "https://github.com/0Quake/Zero-Quake",
+      "stars": 36
+    },
+    {
+      "url": "https://github.com/DepSpy/depspy",
+      "stars": 35
+    },
+    {
+      "url": "https://github.com/inworld-ai/inworld-nodejs-sdk",
+      "stars": 34
+    },
+    {
+      "url": "https://github.com/mverissimo/next-galaxy-template",
+      "stars": 32
+    },
+    {
+      "url": "https://github.com/formilyjs/vant",
+      "stars": 31
+    },
+    {
+      "url": "https://github.com/nordcloud/GNUI",
+      "stars": 30
+    },
+    {
+      "url": "https://github.com/timoa/cdkit.appstore.design",
+      "stars": 29
+    },
+    {
+      "url": "https://github.com/Djaler/vue-use-route-query",
+      "stars": 29
+    },
+    {
+      "url": "https://github.com/cloudfoundry/app-autoscaler-release",
+      "stars": 28
+    },
+    {
+      "url": "https://github.com/sigstore/rekor-search-ui",
+      "stars": 28
+    },
+    {
+      "url": "https://github.com/EdgeGallery/helm-charts",
+      "stars": 27
+    },
+    {
+      "url": "https://github.com/perpk/json-xform",
+      "stars": 26
+    },
+    {
+      "url": "https://github.com/boostcampwm2023/and09-PriceGuard",
+      "stars": 25
+    },
+    {
+      "url": "https://github.com/Open-Attestation/document-store",
+      "stars": 25
+    },
+    {
+      "url": "https://github.com/voteagora/agora",
+      "stars": 24
+    },
+    {
+      "url": "https://github.com/neinteractiveliterature/intercode",
+      "stars": 24
+    },
+    {
+      "url": "https://github.com/leosuncin/mui-next-ts",
+      "stars": 24
+    },
+    {
+      "url": "https://github.com/nonebot/registry",
+      "stars": 22
+    },
+    {
+      "url": "https://github.com/node-jeneralize/pkfire",
+      "stars": 21
+    },
+    {
+      "url": "https://github.com/formilyjs/semi",
+      "stars": 18
+    },
+    {
+      "url": "https://github.com/Open-Attestation/open-attestation-cli",
+      "stars": 17
+    },
+    {
+      "url": "https://github.com/ridenui/mobileapp",
+      "stars": 17
+    },
+    {
+      "url": "https://github.com/0ad-matters/community-maps-2",
+      "stars": 16
+    },
+    {
+      "url": "https://github.com/hp-net/homebridge-nibe",
+      "stars": 16
+    },
+    {
+      "url": "https://github.com/satoterin/nft-kodadot",
+      "stars": 16
+    },
+    {
+      "url": "https://github.com/versea/versea",
+      "stars": 16
+    },
+    {
+      "url": "https://github.com/Code-for-Yamaguchi/covid19-yamaguchi",
+      "stars": 15
+    },
+    {
+      "url": "https://github.com/LingASDJ/RW-API-Code",
+      "stars": 15
+    },
+    {
+      "url": "https://github.com/covid19-oita/covid19",
+      "stars": 15
+    },
+    {
+      "url": "https://github.com/ValentinVignal/action-dart-analyze",
+      "stars": 15
+    },
+    {
+      "url": "https://github.com/Server-Starter-for-Minecraft/ServerStarter2",
+      "stars": 14
+    },
+    {
+      "url": "https://github.com/twin-te/manaba-report-integration",
+      "stars": 14
+    },
+    {
+      "url": "https://github.com/wp-blocks/cf7-antispam",
+      "stars": 14
+    },
+    {
+      "url": "https://github.com/timrogers/iata-code-decoder-api",
+      "stars": 13
+    },
+    {
+      "url": "https://github.com/mono0218/QWET-Editor",
+      "stars": 12
+    },
+    {
+      "url": "https://github.com/hacomono-lib/passerelle",
+      "stars": 12
+    },
+    {
+      "url": "https://github.com/supuna97/openproject",
+      "stars": 12
+    },
+    {
+      "url": "https://github.com/mwhorse46/vuejs-webapp-sample",
+      "stars": 12
+    },
+    {
+      "url": "https://github.com/Open-Attestation/token-registry",
+      "stars": 12
+    },
+    {
+      "url": "https://github.com/dscnitrourkela/project-dates",
+      "stars": 12
+    },
+    {
+      "url": "https://github.com/samhirtarif/react-audio-player",
+      "stars": 11
+    },
+    {
+      "url": "https://github.com/timoa/nodejs-encryption-api-example",
+      "stars": 11
+    },
+    {
+      "url": "https://github.com/otavanopisto/muikku",
+      "stars": 10
+    },
+    {
+      "url": "https://github.com/eScholarship/jschol",
+      "stars": 10
+    },
+    {
+      "url": "https://github.com/stop-covid19-kyoto/covid19-kyoto",
+      "stars": 10
+    },
+    {
+      "url": "https://github.com/formilyjs/tdesign-react",
+      "stars": 10
+    },
+    {
+      "url": "https://github.com/timoa/chrome-tab-rotate-server",
+      "stars": 10
+    },
+    {
+      "url": "https://github.com/KonohaBrain125/ReactNative-Todo",
+      "stars": 9
+    },
+    {
+      "url": "https://github.com/amd/ZenDNN-onnxruntime",
+      "stars": 9
+    }
+  ],
+  "count": {
+    "total": 3852,
+    "public": 1314,
+    "private": 2538,
+    "more_than_zero_star": 386
+  }
+}

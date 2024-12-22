@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1692
+      "stars": 1695
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 830
+      "stars": 836
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
@@ -16,15 +16,15 @@
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 516
+      "stars": 517
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 468
+      "stars": 478
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 237
+      "stars": 239
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -36,7 +36,7 @@
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 144
+      "stars": 145
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/slalombuild/terraform-atmos-accelerator",
-      "stars": 47
+      "stars": 48
     },
     {
       "url": "https://github.com/clouddrove/terraform-aws-sftp",
@@ -68,7 +68,7 @@
     },
     {
       "url": "https://github.com/timoa/terraform-oci-vscode-server",
-      "stars": 26
+      "stars": 25
     },
     {
       "url": "https://github.com/liatrio/lead-terraform",
@@ -91,12 +91,12 @@
       "stars": 16
     },
     {
-      "url": "https://github.com/sammcj/scripts",
+      "url": "https://github.com/chainguard-dev/terraform-infra-common",
       "stars": 15
     },
     {
-      "url": "https://github.com/chainguard-dev/terraform-infra-common",
-      "stars": 14
+      "url": "https://github.com/sammcj/scripts",
+      "stars": 15
     },
     {
       "url": "https://github.com/rhythmictech/terraform-terraform-template",
@@ -219,10 +219,6 @@
       "stars": 6
     },
     {
-      "url": "https://github.com/rhythmictech/terraform-aws-nexus",
-      "stars": 6
-    },
-    {
       "url": "https://github.com/piiano/vault-deployments",
       "stars": 5
     },
@@ -247,6 +243,10 @@
       "stars": 5
     },
     {
+      "url": "https://github.com/rhythmictech/terraform-aws-nexus",
+      "stars": 5
+    },
+    {
       "url": "https://github.com/rhythmictech/terraform-aws-1password-scim-bridge",
       "stars": 5
     },
@@ -260,9 +260,9 @@
     }
   ],
   "count": {
-    "total": 622,
-    "public": 389,
-    "private": 233,
+    "total": 623,
+    "public": 388,
+    "private": 235,
     "more_than_zero_star": 163
   }
 }

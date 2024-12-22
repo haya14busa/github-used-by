@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 2900
+      "stars": 2913
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 760
+      "stars": 766
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
@@ -56,11 +56,11 @@
     },
     {
       "url": "https://github.com/mongolyy/reviewdog-action-biome",
-      "stars": 35
+      "stars": 37
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-prettier",
-      "stars": 23
+      "stars": 22
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-tsc",
@@ -71,12 +71,12 @@
       "stars": 16
     },
     {
-      "url": "https://github.com/aerospike/aerospike-server-enterprise.docker",
+      "url": "https://github.com/UmbrellaDocs/action-linkspector",
       "stars": 15
     },
     {
-      "url": "https://github.com/UmbrellaDocs/action-linkspector",
-      "stars": 14
+      "url": "https://github.com/aerospike/aerospike-server-enterprise.docker",
+      "stars": 15
     },
     {
       "url": "https://github.com/knative/actions",

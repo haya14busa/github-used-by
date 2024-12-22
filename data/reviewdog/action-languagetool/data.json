@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8030
+      "stars": 8039
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7527
+      "stars": 7531
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1548
+      "stars": 1549
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
@@ -20,27 +20,27 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 947
+      "stars": 951
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 894
+      "stars": 900
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 505
+      "stars": 509
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 490
-    },
-    {
-      "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 237
+      "stars": 497
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 235
+      "stars": 247
+    },
+    {
+      "url": "https://github.com/grafana/k8s-monitoring-helm",
+      "stars": 239
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -48,7 +48,7 @@
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
-      "stars": 160
+      "stars": 163
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
@@ -60,11 +60,11 @@
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 103
+      "stars": 104
     },
     {
       "url": "https://github.com/mszostok/version",
-      "stars": 102
+      "stars": 103
     },
     {
       "url": "https://github.com/Shemnei/punktf",
@@ -88,7 +88,7 @@
     },
     {
       "url": "https://github.com/GStones/moke-kit",
-      "stars": 70
+      "stars": 72
     },
     {
       "url": "https://github.com/codewars/docs",
@@ -107,11 +107,11 @@
       "stars": 30
     },
     {
-      "url": "https://github.com/ADE-Scheduler/ADE-Scheduler",
-      "stars": 28
+      "url": "https://github.com/pkosiec/website",
+      "stars": 29
     },
     {
-      "url": "https://github.com/pkosiec/website",
+      "url": "https://github.com/ADE-Scheduler/ADE-Scheduler",
       "stars": 28
     },
     {
@@ -204,9 +204,9 @@
     }
   ],
   "count": {
-    "total": 377,
+    "total": 378,
     "public": 234,
-    "private": 143,
+    "private": 144,
     "more_than_zero_star": 98
   }
 }
