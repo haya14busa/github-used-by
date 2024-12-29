@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/forem/forem",
-      "stars": 22050
+      "stars": 22061
     },
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 9598
+      "stars": 9621
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9516
+      "stars": 9521
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 2836
+      "stars": 2842
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2762
+      "stars": 2765
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
@@ -28,11 +28,11 @@
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2344
+      "stars": 2346
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1424
+      "stars": 1435
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1121
+      "stars": 1123
     },
     {
       "url": "https://github.com/activeadmin/arbre",
@@ -56,11 +56,11 @@
     },
     {
       "url": "https://github.com/YusukeIwaki/puppeteer-ruby",
-      "stars": 294
+      "stars": 295
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 267
+      "stars": 268
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://github.com/chanzuckerberg/czid-web",
-      "stars": 80
+      "stars": 81
     },
     {
       "url": "https://github.com/openHPI/codeocean",
@@ -104,7 +104,7 @@
     },
     {
       "url": "https://github.com/gabriel-dehan/dyson-sphere-blueprints",
-      "stars": 47
+      "stars": 48
     },
     {
       "url": "https://github.com/puzzle/puzzletime",
@@ -272,9 +272,9 @@
     }
   ],
   "count": {
-    "total": 661,
-    "public": 482,
-    "private": 179,
+    "total": 664,
+    "public": 484,
+    "private": 180,
     "more_than_zero_star": 156
   }
 }

@@ -8,19 +8,19 @@
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2274
+      "stars": 2277
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
-      "stars": 1207
+      "stars": 1208
     },
     {
       "url": "https://github.com/h3poteto/whalebird-desktop",
-      "stars": 904
+      "stars": 903
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 267
+      "stars": 268
     },
     {
       "url": "https://github.com/th0th/poeticmetric",
@@ -44,7 +44,7 @@
     },
     {
       "url": "https://github.com/nordcloud/pat-frontend-template",
-      "stars": 58
+      "stars": 57
     },
     {
       "url": "https://github.com/stop-covid19-hyogo/covid19",
@@ -204,9 +204,9 @@
     }
   ],
   "count": {
-    "total": 481,
-    "public": 362,
+    "total": 482,
+    "public": 363,
     "private": 119,
-    "more_than_zero_star": 95
+    "more_than_zero_star": 94
   }
 }

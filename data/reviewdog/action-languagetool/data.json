@@ -4,43 +4,43 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8039
+      "stars": 8058
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7531
+      "stars": 7533
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1549
+      "stars": 1550
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1132
+      "stars": 1133
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 951
+      "stars": 955
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 900
+      "stars": 906
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 509
+      "stars": 512
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 497
+      "stars": 502
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 247
+      "stars": 266
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 239
+      "stars": 243
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -48,7 +48,7 @@
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
-      "stars": 163
+      "stars": 164
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 104
+      "stars": 103
     },
     {
       "url": "https://github.com/mszostok/version",
@@ -68,7 +68,7 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 90
+      "stars": 91
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/codewars/docs",
-      "stars": 57
+      "stars": 56
     },
     {
       "url": "https://github.com/shopware/docs",
@@ -100,15 +100,15 @@
     },
     {
       "url": "https://github.com/jeertmans/rpdf",
-      "stars": 34
+      "stars": 36
+    },
+    {
+      "url": "https://github.com/pkosiec/website",
+      "stars": 30
     },
     {
       "url": "https://github.com/ZeroAssumptions/aide-de-camp",
       "stars": 30
-    },
-    {
-      "url": "https://github.com/pkosiec/website",
-      "stars": 29
     },
     {
       "url": "https://github.com/ADE-Scheduler/ADE-Scheduler",
@@ -196,6 +196,10 @@
     },
     {
       "url": "https://github.com/stakater/employee-handbook",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/AMS21/Phi",
       "stars": 5
     },
     {
