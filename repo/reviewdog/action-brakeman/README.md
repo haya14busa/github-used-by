@@ -29,5 +29,5 @@
 |6|<img src="https://github.com/sokusekiya.png" width=50 height=50>|https://github.com/sokusekiya/sokuseki|24|
 |7|<img src="https://github.com/glowfic-constellation.png" width=50 height=50>|https://github.com/glowfic-constellation/glowfic|18|
 |8|<img src="https://github.com/etalab.png" width=50 height=50>|https://github.com/etalab/admin_api_entreprise|9|
-|9|<img src="https://github.com/openHPI.png" width=50 height=50>|https://github.com/openHPI/codeharbor|6|
+|9|<img src="https://github.com/openHPI.png" width=50 height=50>|https://github.com/openHPI/codeharbor|7|
 |10|<img src="https://github.com/linkvan.png" width=50 height=50>|https://github.com/linkvan/linkvan-api|6|

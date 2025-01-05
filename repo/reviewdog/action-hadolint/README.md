@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 1914 | 1312 | 602 | 342 |
+| 1918 | 1311 | 607 | 343 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-hadolint/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-hadolint)
@@ -21,41 +21,41 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/netdata|72756|
-|2|<img src="https://github.com/idank.png" width=50 height=50>|https://github.com/idank/explainshell|13326|
-|3|<img src="https://github.com/evrone.png" width=50 height=50>|https://github.com/evrone/go-clean-template|6392|
-|4|<img src="https://github.com/fluent.png" width=50 height=50>|https://github.com/fluent/fluent-bit|6227|
-|5|<img src="https://github.com/Drakkar-Software.png" width=50 height=50>|https://github.com/Drakkar-Software/OctoBot|3592|
-|6|<img src="https://github.com/stellargraph.png" width=50 height=50>|https://github.com/stellargraph/stellargraph|2960|
-|7|<img src="https://github.com/dotenv-linter.png" width=50 height=50>|https://github.com/dotenv-linter/dotenv-linter|1847|
-|8|<img src="https://github.com/magma.png" width=50 height=50>|https://github.com/magma/magma|1697|
-|9|<img src="https://github.com/vdaas.png" width=50 height=50>|https://github.com/vdaas/vald|1550|
+|1|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/netdata|72808|
+|2|<img src="https://github.com/idank.png" width=50 height=50>|https://github.com/idank/explainshell|13329|
+|3|<img src="https://github.com/fluent.png" width=50 height=50>|https://github.com/fluent/fluent-bit|6397|
+|4|<img src="https://github.com/evrone.png" width=50 height=50>|https://github.com/evrone/go-clean-template|6396|
+|5|<img src="https://github.com/Drakkar-Software.png" width=50 height=50>|https://github.com/Drakkar-Software/OctoBot|3614|
+|6|<img src="https://github.com/stellargraph.png" width=50 height=50>|https://github.com/stellargraph/stellargraph|2962|
+|7|<img src="https://github.com/dotenv-linter.png" width=50 height=50>|https://github.com/dotenv-linter/dotenv-linter|1850|
+|8|<img src="https://github.com/magma.png" width=50 height=50>|https://github.com/magma/magma|1698|
+|9|<img src="https://github.com/vdaas.png" width=50 height=50>|https://github.com/vdaas/vald|1555|
 |10|<img src="https://github.com/controlplaneio.png" width=50 height=50>|https://github.com/controlplaneio/kubesec|1261|
 |11|<img src="https://github.com/truecharts.png" width=50 height=50>|https://github.com/truecharts/public|1175|
-|12|<img src="https://github.com/factoriotools.png" width=50 height=50>|https://github.com/factoriotools/factorio-docker|1119|
+|12|<img src="https://github.com/factoriotools.png" width=50 height=50>|https://github.com/factoriotools/factorio-docker|1123|
 |13|<img src="https://github.com/anothrNick.png" width=50 height=50>|https://github.com/anothrNick/github-tag-action|796|
-|14|<img src="https://github.com/K-Phoen.png" width=50 height=50>|https://github.com/K-Phoen/dark|431|
+|14|<img src="https://github.com/K-Phoen.png" width=50 height=50>|https://github.com/K-Phoen/dark|429|
 |15|<img src="https://github.com/opentibiabr.png" width=50 height=50>|https://github.com/opentibiabr/canary|393|
-|16|<img src="https://github.com/isindir.png" width=50 height=50>|https://github.com/isindir/sops-secrets-operator|335|
+|16|<img src="https://github.com/isindir.png" width=50 height=50>|https://github.com/isindir/sops-secrets-operator|336|
 |17|<img src="https://github.com/KCarretto.png" width=50 height=50>|https://github.com/KCarretto/paragon|294|
-|18|<img src="https://github.com/bgruening.png" width=50 height=50>|https://github.com/bgruening/docker-galaxy|225|
+|18|<img src="https://github.com/bgruening.png" width=50 height=50>|https://github.com/bgruening/docker-galaxy|226|
 |19|<img src="https://github.com/openstack-exporter.png" width=50 height=50>|https://github.com/openstack-exporter/openstack-exporter|217|
 |20|<img src="https://github.com/raspbernetes.png" width=50 height=50>|https://github.com/raspbernetes/multi-arch-images|173|
 |21|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/go.d.plugin|163|
-|22|<img src="https://github.com/dadrus.png" width=50 height=50>|https://github.com/dadrus/heimdall|145|
+|22|<img src="https://github.com/dadrus.png" width=50 height=50>|https://github.com/dadrus/heimdall|149|
 |23|<img src="https://github.com/aerospike.png" width=50 height=50>|https://github.com/aerospike/aerospike-server.docker|142|
 |24|<img src="https://github.com/filipowm.png" width=50 height=50>|https://github.com/filipowm/BooGi|119|
-|25|<img src="https://github.com/timoa.png" width=50 height=50>|https://github.com/timoa/app-stores-prometheus-exporter|113|
+|25|<img src="https://github.com/timoa.png" width=50 height=50>|https://github.com/timoa/app-stores-prometheus-exporter|114|
 |26|<img src="https://github.com/haya14busa.png" width=50 height=50>|https://github.com/haya14busa/action-bumpr|87|
 |27|<img src="https://github.com/LFPy.png" width=50 height=50>|https://github.com/LFPy/LFPy|78|
 |28|<img src="https://github.com/rickstaa.png" width=50 height=50>|https://github.com/rickstaa/action-create-tag|77|
 |29|<img src="https://github.com/ktsaou.png" width=50 height=50>|https://github.com/ktsaou/netdata|77|
 |30|<img src="https://github.com/agilepathway.png" width=50 height=50>|https://github.com/agilepathway/label-checker|76|
 |31|<img src="https://github.com/akunzai.png" width=50 height=50>|https://github.com/akunzai/GSS.Authentication.CAS|71|
-|32|<img src="https://github.com/kscarlett.png" width=50 height=50>|https://github.com/kscarlett/nginx-log-generator|67|
-|33|<img src="https://github.com/srz-zumix.png" width=50 height=50>|https://github.com/srz-zumix/iutest|66|
-|34|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/community|66|
-|35|<img src="https://github.com/Drakkar-Software.png" width=50 height=50>|https://github.com/Drakkar-Software/Triangular-Arbitrage|64|
+|32|<img src="https://github.com/Drakkar-Software.png" width=50 height=50>|https://github.com/Drakkar-Software/Triangular-Arbitrage|67|
+|33|<img src="https://github.com/srz-zumix.png" width=50 height=50>|https://github.com/srz-zumix/iutest|67|
+|34|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/community|67|
+|35|<img src="https://github.com/kscarlett.png" width=50 height=50>|https://github.com/kscarlett/nginx-log-generator|67|
 |36|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/kernel-collector|63|
 |37|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/csd-python-api-scripts|62|
 |38|<img src="https://github.com/HopopOps.png" width=50 height=50>|https://github.com/HopopOps/k8s-ldap-auth|52|
@@ -106,18 +106,18 @@
 |83|<img src="https://github.com/basedosdados.png" width=50 height=50>|https://github.com/basedosdados/backend|9|
 |84|<img src="https://github.com/nutanix-cloud-native.png" width=50 height=50>|https://github.com/nutanix-cloud-native/cluster-api-runtime-extensions-nutanix|9|
 |85|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/smart_diskinfo|9|
-|86|<img src="https://github.com/tolkonepiu.png" width=50 height=50>|https://github.com/tolkonepiu/wg-easy-extended|9|
-|87|<img src="https://github.com/srz-zumix.png" width=50 height=50>|https://github.com/srz-zumix/docker-googletest|8|
-|88|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/spark-operator|8|
-|89|<img src="https://github.com/prefeitura-rio.png" width=50 height=50>|https://github.com/prefeitura-rio/queries-rj-smtr|8|
-|90|<img src="https://github.com/cresta.png" width=50 height=50>|https://github.com/cresta/gitdb|8|
-|91|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/action-alex|8|
-|92|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/helper-images|8|
-|93|<img src="https://github.com/fluent.png" width=50 height=50>|https://github.com/fluent/fluent-bit-ci|8|
-|94|<img src="https://github.com/mobilecoinofficial.png" width=50 height=50>|https://github.com/mobilecoinofficial/gha-runner|7|
-|95|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/science-paper-rf-machine-learned-scoring-2022|7|
-|96|<img src="https://github.com/lupinthe14th.png" width=50 height=50>|https://github.com/lupinthe14th/axios-redmine|7|
-|97|<img src="https://github.com/chronosphereio.png" width=50 height=50>|https://github.com/chronosphereio/calyptia-plugin|7|
-|98|<img src="https://github.com/JasperWey.png" width=50 height=50>|https://github.com/JasperWey/MyGoTest|7|
-|99|<img src="https://github.com/rickstaa.png" width=50 height=50>|https://github.com/rickstaa/action-contains-tag|7|
-|100|<img src="https://github.com/deyaeddin.png" width=50 height=50>|https://github.com/deyaeddin/cert-manager-webhook-hetzner|7|
+|86|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/spark-operator|9|
+|87|<img src="https://github.com/tolkonepiu.png" width=50 height=50>|https://github.com/tolkonepiu/wg-easy-extended|9|
+|88|<img src="https://github.com/fluent.png" width=50 height=50>|https://github.com/fluent/fluent-bit-ci|9|
+|89|<img src="https://github.com/srz-zumix.png" width=50 height=50>|https://github.com/srz-zumix/docker-googletest|8|
+|90|<img src="https://github.com/prefeitura-rio.png" width=50 height=50>|https://github.com/prefeitura-rio/queries-rj-smtr|8|
+|91|<img src="https://github.com/cresta.png" width=50 height=50>|https://github.com/cresta/gitdb|8|
+|92|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/action-alex|8|
+|93|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/helper-images|8|
+|94|<img src="https://github.com/flobernd.png" width=50 height=50>|https://github.com/flobernd/docker-minecraft-ftb|7|
+|95|<img src="https://github.com/mobilecoinofficial.png" width=50 height=50>|https://github.com/mobilecoinofficial/gha-runner|7|
+|96|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/science-paper-rf-machine-learned-scoring-2022|7|
+|97|<img src="https://github.com/lupinthe14th.png" width=50 height=50>|https://github.com/lupinthe14th/axios-redmine|7|
+|98|<img src="https://github.com/chronosphereio.png" width=50 height=50>|https://github.com/chronosphereio/calyptia-plugin|7|
+|99|<img src="https://github.com/JasperWey.png" width=50 height=50>|https://github.com/JasperWey/MyGoTest|7|
+|100|<img src="https://github.com/rickstaa.png" width=50 height=50>|https://github.com/rickstaa/action-contains-tag|7|

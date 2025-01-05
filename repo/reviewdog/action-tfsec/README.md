@@ -21,13 +21,13 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/kube-hetzner.png" width=50 height=50>|https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner|2551|
+|1|<img src="https://github.com/kube-hetzner.png" width=50 height=50>|https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner|2569|
 |2|<img src="https://github.com/TechToSpeech.png" width=50 height=50>|https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress|196|
 |3|<img src="https://github.com/timoa.png" width=50 height=50>|https://github.com/timoa/terraform-oci-vscode-server|25|
 |4|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-imagebuilder-pipeline|19|
 |5|<img src="https://github.com/GrantBirki.png" width=50 height=50>|https://github.com/GrantBirki/k8s-discord|18|
-|6|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-secure-password|18|
-|7|<img src="https://github.com/rallyware.png" width=50 height=50>|https://github.com/rallyware/terraform-argocd-aws-eks-cluster-bootstrap|17|
+|6|<img src="https://github.com/rallyware.png" width=50 height=50>|https://github.com/rallyware/terraform-argocd-aws-eks-cluster-bootstrap|18|
+|7|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-secure-password|18|
 |8|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/scripts|15|
 |9|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-terraform-template|14|
 |10|<img src="https://github.com/rribeiro1.png" width=50 height=50>|https://github.com/rribeiro1/terraform-aws-budget-alarms|13|

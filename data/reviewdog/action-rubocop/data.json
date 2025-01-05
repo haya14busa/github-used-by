@@ -4,43 +4,43 @@
   "repos": [
     {
       "url": "https://github.com/forem/forem",
-      "stars": 22061
+      "stars": 22073
     },
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 9621
+      "stars": 9651
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9521
+      "stars": 9525
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 2842
+      "stars": 2847
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2765
+      "stars": 2766
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
-      "stars": 2702
+      "stars": 2701
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2346
+      "stars": 2347
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1435
+      "stars": 1442
     },
     {
       "url": "https://github.com/k1LoW/awspec",
-      "stars": 1169
+      "stars": 1170
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1123
+      "stars": 1122
     },
     {
       "url": "https://github.com/activeadmin/arbre",
@@ -48,7 +48,7 @@
     },
     {
       "url": "https://github.com/zilverline/sequent",
-      "stars": 541
+      "stars": 540
     },
     {
       "url": "https://github.com/mysociety/alaveteli",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 268
+      "stars": 270
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
@@ -68,11 +68,11 @@
     },
     {
       "url": "https://github.com/vmware/dod-compliance-and-automation",
-      "stars": 156
+      "stars": 157
     },
     {
       "url": "https://github.com/ytti/oxidized-web",
-      "stars": 120
+      "stars": 121
     },
     {
       "url": "https://github.com/hlascelles/que-scheduler",
@@ -148,7 +148,7 @@
     },
     {
       "url": "https://github.com/skcc321/deploy_pin",
-      "stars": 20
+      "stars": 19
     },
     {
       "url": "https://github.com/glowfic-constellation/glowfic",
@@ -211,16 +211,20 @@
       "stars": 8
     },
     {
+      "url": "https://github.com/momentohq/client-sdk-ruby",
+      "stars": 7
+    },
+    {
       "url": "https://github.com/simonneutert/Joda",
+      "stars": 7
+    },
+    {
+      "url": "https://github.com/openHPI/codeharbor",
       "stars": 7
     },
     {
       "url": "https://github.com/sunnyfounder/boxenn",
       "stars": 7
-    },
-    {
-      "url": "https://github.com/momentohq/client-sdk-ruby",
-      "stars": 6
     },
     {
       "url": "https://github.com/Strappazzon/www",
@@ -232,10 +236,6 @@
     },
     {
       "url": "https://github.com/ytti/asetus",
-      "stars": 6
-    },
-    {
-      "url": "https://github.com/openHPI/codeharbor",
       "stars": 6
     },
     {
@@ -272,9 +272,9 @@
     }
   ],
   "count": {
-    "total": 664,
+    "total": 667,
     "public": 484,
-    "private": 180,
-    "more_than_zero_star": 156
+    "private": 183,
+    "more_than_zero_star": 155
   }
 }

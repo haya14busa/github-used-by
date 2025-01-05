@@ -21,13 +21,13 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/FerretDB.png" width=50 height=50>|https://github.com/FerretDB/FerretDB|9244|
-|2|<img src="https://github.com/go-reform.png" width=50 height=50>|https://github.com/go-reform/reform|1441|
-|3|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/mongodb_exporter|1212|
-|4|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/pmm|695|
-|5|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/everest|266|
-|6|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/proxysql_exporter|106|
-|7|<img src="https://github.com/elastic.png" width=50 height=50>|https://github.com/elastic/fleet-server|87|
+|1|<img src="https://github.com/FerretDB.png" width=50 height=50>|https://github.com/FerretDB/FerretDB|9252|
+|2|<img src="https://github.com/go-reform.png" width=50 height=50>|https://github.com/go-reform/reform|1444|
+|3|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/mongodb_exporter|1213|
+|4|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/pmm|699|
+|5|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/everest|268|
+|6|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/proxysql_exporter|105|
+|7|<img src="https://github.com/elastic.png" width=50 height=50>|https://github.com/elastic/fleet-server|88|
 |8|<img src="https://github.com/elastic.png" width=50 height=50>|https://github.com/elastic/Machinebeat|75|
 |9|<img src="https://github.com/mercari.png" width=50 height=50>|https://github.com/mercari/go-emv-code|68|
 |10|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/mysqld_exporter|66|

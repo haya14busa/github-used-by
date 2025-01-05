@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 2942
+      "stars": 2958
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 768
+      "stars": 772
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 91
+      "stars": 92
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
@@ -36,7 +36,7 @@
     },
     {
       "url": "https://github.com/jonathanmorley/asdf-pnpm",
-      "stars": 72
+      "stars": 73
     },
     {
       "url": "https://github.com/yu-iskw/action-sqlfluff",
@@ -48,7 +48,7 @@
     },
     {
       "url": "https://github.com/sksat/compose-cd",
-      "stars": 45
+      "stars": 44
     },
     {
       "url": "https://github.com/franzs/fritzbox_upload_certificate",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/mongolyy/reviewdog-action-biome",
-      "stars": 38
+      "stars": 40
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-prettier",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-tsc",
-      "stars": 21
+      "stars": 22
     },
     {
       "url": "https://github.com/helpermethod/up",
@@ -77,6 +77,10 @@
     {
       "url": "https://github.com/aerospike/aerospike-server-enterprise.docker",
       "stars": 15
+    },
+    {
+      "url": "https://github.com/harilvfs/carch",
+      "stars": 11
     },
     {
       "url": "https://github.com/knative/actions",
@@ -96,9 +100,9 @@
     }
   ],
   "count": {
-    "total": 167,
-    "public": 96,
+    "total": 169,
+    "public": 98,
     "private": 71,
-    "more_than_zero_star": 41
+    "more_than_zero_star": 42
   }
 }

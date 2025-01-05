@@ -4,43 +4,43 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8058
+      "stars": 8066
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7533
+      "stars": 7534
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1550
+      "stars": 1555
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1133
+      "stars": 1135
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 955
+      "stars": 956
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 906
+      "stars": 916
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 512
+      "stars": 515
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 502
+      "stars": 511
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 266
+      "stars": 273
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 243
+      "stars": 245
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -52,15 +52,15 @@
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
-      "stars": 147
+      "stars": 146
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
-      "stars": 139
+      "stars": 141
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 103
+      "stars": 104
     },
     {
       "url": "https://github.com/mszostok/version",
@@ -68,11 +68,11 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 91
+      "stars": 92
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
-      "stars": 87
+      "stars": 88
     },
     {
       "url": "https://github.com/pheature-flags/pheature-flags",
@@ -88,7 +88,7 @@
     },
     {
       "url": "https://github.com/GStones/moke-kit",
-      "stars": 72
+      "stars": 73
     },
     {
       "url": "https://github.com/codewars/docs",
@@ -147,12 +147,12 @@
       "stars": 12
     },
     {
-      "url": "https://github.com/jeertmans/manim-tutorial",
+      "url": "https://github.com/liftwizard/liftwizard",
       "stars": 9
     },
     {
-      "url": "https://github.com/liftwizard/liftwizard",
-      "stars": 8
+      "url": "https://github.com/jeertmans/manim-tutorial",
+      "stars": 9
     },
     {
       "url": "https://github.com/kubeshop/botkube-docs",
