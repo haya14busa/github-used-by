@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 72808
+      "stars": 72898
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13329
+      "stars": 13344
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 6397
+      "stars": 6441
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 6396
+      "stars": 6403
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 3614
+      "stars": 3641
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
@@ -28,31 +28,31 @@
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1850
+      "stars": 1854
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1698
+      "stars": 1699
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1555
+      "stars": 1558
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1261
+      "stars": 1265
     },
     {
       "url": "https://github.com/truecharts/public",
-      "stars": 1175
+      "stars": 1179
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 1123
+      "stars": 1128
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 796
+      "stars": 798
     },
     {
       "url": "https://github.com/K-Phoen/dark",
@@ -60,11 +60,11 @@
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 393
+      "stars": 396
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
-      "stars": 336
+      "stars": 337
     },
     {
       "url": "https://github.com/KCarretto/paragon",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/bgruening/docker-galaxy",
-      "stars": 226
+      "stars": 227
     },
     {
       "url": "https://github.com/openstack-exporter/openstack-exporter",
@@ -88,7 +88,7 @@
     },
     {
       "url": "https://github.com/dadrus/heimdall",
-      "stars": 149
+      "stars": 151
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -96,7 +96,7 @@
     },
     {
       "url": "https://github.com/filipowm/BooGi",
-      "stars": 119
+      "stars": 120
     },
     {
       "url": "https://github.com/timoa/app-stores-prometheus-exporter",
@@ -104,14 +104,18 @@
     },
     {
       "url": "https://github.com/haya14busa/action-bumpr",
-      "stars": 87
+      "stars": 88
     },
     {
       "url": "https://github.com/LFPy/LFPy",
-      "stars": 78
+      "stars": 79
     },
     {
       "url": "https://github.com/rickstaa/action-create-tag",
+      "stars": 78
+    },
+    {
+      "url": "https://github.com/agilepathway/label-checker",
       "stars": 77
     },
     {
@@ -119,23 +123,19 @@
       "stars": 77
     },
     {
-      "url": "https://github.com/agilepathway/label-checker",
-      "stars": 76
-    },
-    {
       "url": "https://github.com/akunzai/GSS.Authentication.CAS",
       "stars": 71
     },
     {
       "url": "https://github.com/Drakkar-Software/Triangular-Arbitrage",
-      "stars": 67
-    },
-    {
-      "url": "https://github.com/srz-zumix/iutest",
-      "stars": 67
+      "stars": 68
     },
     {
       "url": "https://github.com/netdata/community",
+      "stars": 68
+    },
+    {
+      "url": "https://github.com/srz-zumix/iutest",
       "stars": 67
     },
     {
@@ -143,12 +143,12 @@
       "stars": 67
     },
     {
-      "url": "https://github.com/netdata/kernel-collector",
+      "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
       "stars": 63
     },
     {
-      "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
-      "stars": 62
+      "url": "https://github.com/netdata/kernel-collector",
+      "stars": 63
     },
     {
       "url": "https://github.com/HopopOps/k8s-ldap-auth",
@@ -156,11 +156,11 @@
     },
     {
       "url": "https://github.com/jiro4989/build-deb-action",
-      "stars": 51
+      "stars": 52
     },
     {
       "url": "https://github.com/haya14busa/action-update-semver",
-      "stars": 48
+      "stars": 49
     },
     {
       "url": "https://github.com/rickstaa/action-black",
@@ -183,19 +183,19 @@
       "stars": 28
     },
     {
+      "url": "https://github.com/comorment/containers",
+      "stars": 27
+    },
+    {
       "url": "https://github.com/EdgeGallery/helm-charts",
       "stars": 27
     },
     {
-      "url": "https://github.com/comorment/containers",
-      "stars": 26
+      "url": "https://github.com/arkedge/hubhook",
+      "stars": 24
     },
     {
       "url": "https://github.com/tuxpeople/docker-podsync",
-      "stars": 23
-    },
-    {
-      "url": "https://github.com/arkedge/hubhook",
       "stars": 23
     },
     {
@@ -215,11 +215,11 @@
       "stars": 20
     },
     {
-      "url": "https://github.com/reviewdog/action-staticcheck",
-      "stars": 19
+      "url": "https://github.com/reviewdog/action-depup",
+      "stars": 20
     },
     {
-      "url": "https://github.com/reviewdog/action-depup",
+      "url": "https://github.com/reviewdog/action-staticcheck",
       "stars": 19
     },
     {
@@ -251,6 +251,10 @@
       "stars": 13
     },
     {
+      "url": "https://github.com/open-amt-cloud-toolkit/console",
+      "stars": 12
+    },
+    {
       "url": "https://github.com/kphrx/noxir",
       "stars": 12
     },
@@ -271,15 +275,15 @@
       "stars": 12
     },
     {
-      "url": "https://github.com/open-amt-cloud-toolkit/console",
-      "stars": 11
-    },
-    {
       "url": "https://github.com/ccdc-opensource/dash",
       "stars": 11
     },
     {
       "url": "https://github.com/sammcj/zsh-bootstrap",
+      "stars": 11
+    },
+    {
+      "url": "https://github.com/yanorei32/discord-tts",
       "stars": 11
     },
     {
@@ -296,10 +300,6 @@
     },
     {
       "url": "https://github.com/timoa/secure-go-backend-clean-architecture",
-      "stars": 10
-    },
-    {
-      "url": "https://github.com/yanorei32/discord-tts",
       "stars": 10
     },
     {
@@ -327,10 +327,6 @@
       "stars": 10
     },
     {
-      "url": "https://github.com/basedosdados/queries-basedosdados",
-      "stars": 9
-    },
-    {
       "url": "https://github.com/basedosdados/backend",
       "stars": 9
     },
@@ -356,6 +352,10 @@
     },
     {
       "url": "https://github.com/srz-zumix/docker-googletest",
+      "stars": 8
+    },
+    {
+      "url": "https://github.com/basedosdados/queries-basedosdados",
       "stars": 8
     },
     {
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 1918,
-    "public": 1311,
-    "private": 607,
-    "more_than_zero_star": 343
+    "total": 1924,
+    "public": 1315,
+    "private": 609,
+    "more_than_zero_star": 344
   }
 }

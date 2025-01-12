@@ -4,27 +4,27 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1698
+      "stars": 1699
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 849
+      "stars": 853
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
-      "stars": 567
+      "stars": 568
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 522
+      "stars": 524
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 481
+      "stars": 491
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 245
+      "stars": 252
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -32,11 +32,11 @@
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 177
+      "stars": 181
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 144
+      "stars": 145
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/slalombuild/terraform-atmos-accelerator",
-      "stars": 48
+      "stars": 49
     },
     {
       "url": "https://github.com/clouddrove/terraform-aws-sftp",
@@ -143,6 +143,10 @@
       "stars": 9
     },
     {
+      "url": "https://github.com/nuvibit/github-terraform-workflows",
+      "stars": 9
+    },
+    {
       "url": "https://github.com/bmbferreira/awesome-terraform-pipeline",
       "stars": 9
     },
@@ -152,10 +156,6 @@
     },
     {
       "url": "https://github.com/VikeSec/CTF-Infrastructure",
-      "stars": 8
-    },
-    {
-      "url": "https://github.com/nuvibit/github-terraform-workflows",
       "stars": 8
     },
     {
@@ -215,15 +215,15 @@
       "stars": 6
     },
     {
+      "url": "https://github.com/ldcorentin/aws-terratest-localstack",
+      "stars": 6
+    },
+    {
       "url": "https://github.com/rhythmictech/terraform-aws-alb-ecs-task",
       "stars": 6
     },
     {
       "url": "https://github.com/piiano/vault-deployments",
-      "stars": 5
-    },
-    {
-      "url": "https://github.com/ldcorentin/aws-terratest-localstack",
       "stars": 5
     },
     {
@@ -261,8 +261,8 @@
   ],
   "count": {
     "total": 624,
-    "public": 389,
-    "private": 235,
-    "more_than_zero_star": 163
+    "public": 384,
+    "private": 240,
+    "more_than_zero_star": 160
   }
 }

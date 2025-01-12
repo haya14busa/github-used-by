@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 2958
+      "stars": 2986
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 772
+      "stars": 788
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
@@ -19,16 +19,16 @@
       "stars": 142
     },
     {
+      "url": "https://github.com/reviewdog/action-suggester",
+      "stars": 108
+    },
+    {
       "url": "https://github.com/jiro4989/setup-nim-action",
       "stars": 107
     },
     {
-      "url": "https://github.com/reviewdog/action-suggester",
-      "stars": 107
-    },
-    {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 92
+      "stars": 94
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-prettier",
-      "stars": 22
+      "stars": 23
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-tsc",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/harilvfs/carch",
-      "stars": 11
+      "stars": 12
     },
     {
       "url": "https://github.com/knative/actions",
@@ -95,13 +95,17 @@
       "stars": 6
     },
     {
+      "url": "https://github.com/reviewdog/action-typos",
+      "stars": 5
+    },
+    {
       "url": "https://github.com/AMS21/Phi",
       "stars": 5
     }
   ],
   "count": {
-    "total": 169,
-    "public": 98,
+    "total": 171,
+    "public": 100,
     "private": 71,
     "more_than_zero_star": 42
   }

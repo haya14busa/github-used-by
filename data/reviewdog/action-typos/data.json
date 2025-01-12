@@ -4,17 +4,25 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8066
+      "stars": 8091
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
       "stars": 73
+    },
+    {
+      "url": "https://github.com/mime-types/mime-types-data",
+      "stars": 45
+    },
+    {
+      "url": "https://github.com/KineticCafe/docker-sqitch-pgtap",
+      "stars": 5
     }
   ],
   "count": {
-    "total": 12,
-    "public": 9,
+    "total": 14,
+    "public": 11,
     "private": 3,
-    "more_than_zero_star": 6
+    "more_than_zero_star": 8
   }
 }

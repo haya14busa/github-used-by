@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/SpaceVim/SpaceVim",
-      "stars": 20366
+      "stars": 20367
     },
     {
       "url": "https://github.com/preservim/nerdtree",
-      "stars": 19710
+      "stars": 19728
     },
     {
       "url": "https://github.com/vim-airline/vim-airline",
-      "stars": 17829
+      "stars": 17833
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7534
+      "stars": 7538
     },
     {
       "url": "https://github.com/preservim/tagbar",
@@ -28,11 +28,11 @@
     },
     {
       "url": "https://github.com/preservim/vim-markdown",
-      "stars": 4715
+      "stars": 4716
     },
     {
       "url": "https://github.com/prabirshrestha/vim-lsp",
-      "stars": 3172
+      "stars": 3177
     },
     {
       "url": "https://github.com/liuchengxu/space-vim",
@@ -44,7 +44,7 @@
     },
     {
       "url": "https://github.com/liuchengxu/vim-clap",
-      "stars": 2120
+      "stars": 2123
     },
     {
       "url": "https://github.com/Xuyuanp/nerdtree-git-plugin",
@@ -68,15 +68,15 @@
     },
     {
       "url": "https://github.com/mattn/vim-lsp-settings",
-      "stars": 1311
+      "stars": 1314
     },
     {
       "url": "https://github.com/lambdalisue/vim-fern",
-      "stars": 1292
+      "stars": 1294
     },
     {
       "url": "https://github.com/whatyouhide/vim-gotham",
-      "stars": 1260
+      "stars": 1261
     },
     {
       "url": "https://github.com/artur-shaik/vim-javacomplete2",
@@ -84,15 +84,15 @@
     },
     {
       "url": "https://github.com/prabirshrestha/asyncomplete.vim",
-      "stars": 933
+      "stars": 934
     },
     {
       "url": "https://github.com/yutkat/dotfiles",
-      "stars": 797
+      "stars": 800
     },
     {
       "url": "https://github.com/lambdalisue/vim-gina",
-      "stars": 687
+      "stars": 686
     },
     {
       "url": "https://github.com/vim-jp/vital.vim",
@@ -112,7 +112,7 @@
     },
     {
       "url": "https://github.com/tani/vim-jetpack",
-      "stars": 328
+      "stars": 329
     },
     {
       "url": "https://github.com/jeanguyomarch/eovim",
@@ -120,7 +120,7 @@
     },
     {
       "url": "https://github.com/lambdalisue/vim-nerdfont",
-      "stars": 144
+      "stars": 143
     },
     {
       "url": "https://github.com/ilyachur/cmake4vim",
@@ -216,8 +216,8 @@
     }
   ],
   "count": {
-    "total": 362,
-    "public": 288,
+    "total": 363,
+    "public": 289,
     "private": 74,
     "more_than_zero_star": 85
   }

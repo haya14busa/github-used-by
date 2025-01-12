@@ -3,11 +3,11 @@
   "repo": "action-brakeman",
   "repos": [
     {
-      "url": "https://github.com/tricknotes/starseeker",
-      "stars": 81
+      "url": "https://github.com/chanzuckerberg/czid-web",
+      "stars": 82
     },
     {
-      "url": "https://github.com/chanzuckerberg/czid-web",
+      "url": "https://github.com/tricknotes/starseeker",
       "stars": 81
     },
     {
@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/rubyforgood/Flaredown",
-      "stars": 40
+      "stars": 41
     },
     {
       "url": "https://github.com/sokusekiya/sokuseki",

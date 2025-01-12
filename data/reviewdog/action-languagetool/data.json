@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8066
+      "stars": 8091
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7534
+      "stars": 7538
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1555
+      "stars": 1558
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1135
+      "stars": 1137
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 956
+      "stars": 961
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
@@ -28,19 +28,19 @@
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 515
+      "stars": 520
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 511
+      "stars": 515
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 273
+      "stars": 291
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 245
+      "stars": 252
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -48,7 +48,7 @@
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
-      "stars": 164
+      "stars": 165
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
@@ -56,11 +56,11 @@
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
-      "stars": 141
+      "stars": 142
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 104
+      "stars": 105
     },
     {
       "url": "https://github.com/mszostok/version",
@@ -68,7 +68,7 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 92
+      "stars": 94
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
-      "stars": 76
+      "stars": 77
     },
     {
       "url": "https://github.com/GStones/moke-kit",
