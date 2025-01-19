@@ -22,10 +22,10 @@
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
 |1|<img src="https://github.com/galaxyproject.png" width=50 height=50>|https://github.com/galaxyproject/ansible-postgresql|122|
-|2|<img src="https://github.com/galaxyproject.png" width=50 height=50>|https://github.com/galaxyproject/ansible-slurm|88|
+|2|<img src="https://github.com/galaxyproject.png" width=50 height=50>|https://github.com/galaxyproject/ansible-slurm|89|
 |3|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/ansible-role-debloat-windows|17|
 |4|<img src="https://github.com/TerrorSquad.png" width=50 height=50>|https://github.com/TerrorSquad/ansible-post-installation|16|
-|5|<img src="https://github.com/idiv-biodiversity.png" width=50 height=50>|https://github.com/idiv-biodiversity/ansible-role-lmod|14|
+|5|<img src="https://github.com/idiv-biodiversity.png" width=50 height=50>|https://github.com/idiv-biodiversity/ansible-role-lmod|15|
 |6|<img src="https://github.com/galaxyproject.png" width=50 height=50>|https://github.com/galaxyproject/ansible-cvmfs|13|
 |7|<img src="https://github.com/galaxyproject.png" width=50 height=50>|https://github.com/galaxyproject/ansible-postgresql-objects|12|
 |8|<img src="https://github.com/bjw-s.png" width=50 height=50>|https://github.com/bjw-s/ansible-role-vyos|7|

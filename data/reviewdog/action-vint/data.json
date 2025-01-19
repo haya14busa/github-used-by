@@ -4,35 +4,35 @@
   "repos": [
     {
       "url": "https://github.com/SpaceVim/SpaceVim",
-      "stars": 20367
+      "stars": 20361
     },
     {
       "url": "https://github.com/preservim/nerdtree",
-      "stars": 19728
+      "stars": 19745
     },
     {
       "url": "https://github.com/vim-airline/vim-airline",
-      "stars": 17833
+      "stars": 17838
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7538
+      "stars": 7539
     },
     {
       "url": "https://github.com/preservim/tagbar",
-      "stars": 6165
+      "stars": 6166
     },
     {
       "url": "https://github.com/preservim/nerdcommenter",
-      "stars": 4996
+      "stars": 4997
     },
     {
       "url": "https://github.com/preservim/vim-markdown",
-      "stars": 4716
+      "stars": 4719
     },
     {
       "url": "https://github.com/prabirshrestha/vim-lsp",
-      "stars": 3177
+      "stars": 3179
     },
     {
       "url": "https://github.com/liuchengxu/space-vim",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/preservim/vimux",
-      "stars": 2219
+      "stars": 2221
     },
     {
       "url": "https://github.com/liuchengxu/vim-clap",
@@ -52,35 +52,35 @@
     },
     {
       "url": "https://github.com/vim-airline/vim-airline-themes",
-      "stars": 2050
+      "stars": 2052
     },
     {
       "url": "https://github.com/liuchengxu/vista.vim",
-      "stars": 1915
+      "stars": 1917
     },
     {
       "url": "https://github.com/OmniSharp/omnisharp-vim",
-      "stars": 1724
+      "stars": 1725
     },
     {
       "url": "https://github.com/kassio/neoterm",
-      "stars": 1319
+      "stars": 1320
     },
     {
       "url": "https://github.com/mattn/vim-lsp-settings",
-      "stars": 1314
+      "stars": 1318
     },
     {
       "url": "https://github.com/lambdalisue/vim-fern",
-      "stars": 1294
+      "stars": 1297
     },
     {
       "url": "https://github.com/whatyouhide/vim-gotham",
-      "stars": 1261
+      "stars": 1259
     },
     {
       "url": "https://github.com/artur-shaik/vim-javacomplete2",
-      "stars": 972
+      "stars": 971
     },
     {
       "url": "https://github.com/prabirshrestha/asyncomplete.vim",
@@ -88,23 +88,23 @@
     },
     {
       "url": "https://github.com/yutkat/dotfiles",
-      "stars": 800
+      "stars": 801
     },
     {
       "url": "https://github.com/lambdalisue/vim-gina",
-      "stars": 686
+      "stars": 687
     },
     {
       "url": "https://github.com/vim-jp/vital.vim",
-      "stars": 577
+      "stars": 578
     },
     {
       "url": "https://github.com/haya14busa/vim-asterisk",
-      "stars": 391
+      "stars": 392
     },
     {
       "url": "https://github.com/tyru/caw.vim",
-      "stars": 377
+      "stars": 378
     },
     {
       "url": "https://github.com/ledger/vim-ledger",
@@ -112,7 +112,7 @@
     },
     {
       "url": "https://github.com/tani/vim-jetpack",
-      "stars": 329
+      "stars": 331
     },
     {
       "url": "https://github.com/jeanguyomarch/eovim",
@@ -120,7 +120,7 @@
     },
     {
       "url": "https://github.com/lambdalisue/vim-nerdfont",
-      "stars": 143
+      "stars": 145
     },
     {
       "url": "https://github.com/ilyachur/cmake4vim",
@@ -128,7 +128,7 @@
     },
     {
       "url": "https://github.com/lambdalisue/vim-glyph-palette",
-      "stars": 128
+      "stars": 129
     },
     {
       "url": "https://github.com/preservim/vim-textobj-quote",
@@ -148,7 +148,7 @@
     },
     {
       "url": "https://github.com/lambdalisue/vim-reword",
-      "stars": 44
+      "stars": 45
     },
     {
       "url": "https://github.com/vim-pandoc/vim-markdownfootnotes",
@@ -164,7 +164,7 @@
     },
     {
       "url": "https://github.com/lambdalisue/vital-Whisky",
-      "stars": 27
+      "stars": 28
     },
     {
       "url": "https://github.com/ryicoh/deepl.vim",
@@ -217,8 +217,8 @@
   ],
   "count": {
     "total": 363,
-    "public": 289,
-    "private": 74,
+    "public": 288,
+    "private": 75,
     "more_than_zero_star": 85
   }
 }

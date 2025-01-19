@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 624 | 384 | 240 | 160 |
+| 626 | 386 | 240 | 161 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-tflint/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-tflint)
@@ -22,14 +22,14 @@
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
 |1|<img src="https://github.com/magma.png" width=50 height=50>|https://github.com/magma/magma|1699|
-|2|<img src="https://github.com/cloudposse.png" width=50 height=50>|https://github.com/cloudposse/atmos|853|
+|2|<img src="https://github.com/cloudposse.png" width=50 height=50>|https://github.com/cloudposse/atmos|860|
 |3|<img src="https://github.com/aztfmod.png" width=50 height=50>|https://github.com/aztfmod/terraform-azurerm-caf|568|
-|4|<img src="https://github.com/xunholy.png" width=50 height=50>|https://github.com/xunholy/k8s-gitops|524|
-|5|<img src="https://github.com/chainguard-dev.png" width=50 height=50>|https://github.com/chainguard-dev/malcontent|491|
-|6|<img src="https://github.com/grafana.png" width=50 height=50>|https://github.com/grafana/k8s-monitoring-helm|252|
+|4|<img src="https://github.com/xunholy.png" width=50 height=50>|https://github.com/xunholy/k8s-gitops|525|
+|5|<img src="https://github.com/chainguard-dev.png" width=50 height=50>|https://github.com/chainguard-dev/malcontent|492|
+|6|<img src="https://github.com/grafana.png" width=50 height=50>|https://github.com/grafana/k8s-monitoring-helm|256|
 |7|<img src="https://github.com/TechToSpeech.png" width=50 height=50>|https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress|196|
-|8|<img src="https://github.com/gruberdev.png" width=50 height=50>|https://github.com/gruberdev/homelab|181|
-|9|<img src="https://github.com/octo-sts.png" width=50 height=50>|https://github.com/octo-sts/app|145|
+|8|<img src="https://github.com/gruberdev.png" width=50 height=50>|https://github.com/gruberdev/homelab|184|
+|9|<img src="https://github.com/octo-sts.png" width=50 height=50>|https://github.com/octo-sts/app|147|
 |10|<img src="https://github.com/raspbernetes.png" width=50 height=50>|https://github.com/raspbernetes/k8s-cluster-installation|116|
 |11|<img src="https://github.com/provectus.png" width=50 height=50>|https://github.com/provectus/sak-kubeflow|64|
 |12|<img src="https://github.com/GiganticMinecraft.png" width=50 height=50>|https://github.com/GiganticMinecraft/seichi_infra|56|

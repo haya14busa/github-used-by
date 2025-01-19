@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 483 | 364 | 119 | 94 |
+| 484 | 365 | 119 | 94 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-stylelint/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-stylelint)
@@ -22,10 +22,10 @@
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
 |1|<img src="https://github.com/Tokyo-Metro-Gov.png" width=50 height=50>|https://github.com/Tokyo-Metro-Gov/covid19|6254|
-|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2285|
+|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2291|
 |3|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-css|1211|
 |4|<img src="https://github.com/h3poteto.png" width=50 height=50>|https://github.com/h3poteto/whalebird-desktop|908|
-|5|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|271|
+|5|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|272|
 |6|<img src="https://github.com/th0th.png" width=50 height=50>|https://github.com/th0th/poeticmetric|248|
 |7|<img src="https://github.com/modx-pro.png" width=50 height=50>|https://github.com/modx-pro/miniShop2|150|
 |8|<img src="https://github.com/haya14busa.png" width=50 height=50>|https://github.com/haya14busa/github-action-brandings|142|
@@ -34,7 +34,7 @@
 |11|<img src="https://github.com/nordcloud.png" width=50 height=50>|https://github.com/nordcloud/pat-frontend-template|57|
 |12|<img src="https://github.com/stop-covid19-hyogo.png" width=50 height=50>|https://github.com/stop-covid19-hyogo/covid19|54|
 |13|<img src="https://github.com/a01sa01to.png" width=50 height=50>|https://github.com/a01sa01to/covid19-ibaraki|41|
-|14|<img src="https://github.com/WPMedia.png" width=50 height=50>|https://github.com/WPMedia/arc-themes-blocks|37|
+|14|<img src="https://github.com/WPMedia.png" width=50 height=50>|https://github.com/WPMedia/arc-themes-blocks|38|
 |15|<img src="https://github.com/DepSpy.png" width=50 height=50>|https://github.com/DepSpy/depspy|36|
 |16|<img src="https://github.com/gdg-fukushima.png" width=50 height=50>|https://github.com/gdg-fukushima/covid19|32|
 |17|<img src="https://github.com/codeforjapan.png" width=50 height=50>|https://github.com/codeforjapan/StudyAtHome|31|
@@ -70,4 +70,5 @@
 |47|<img src="https://github.com/CodeForNagasaki.png" width=50 height=50>|https://github.com/CodeForNagasaki/covid19|6|
 |48|<img src="https://github.com/wildberries-tech.png" width=50 height=50>|https://github.com/wildberries-tech/ui-react|5|
 |49|<img src="https://github.com/danskernesdigitalebibliotek.png" width=50 height=50>|https://github.com/danskernesdigitalebibliotek/dpl-react|5|
-|50|<img src="https://github.com/danskernesdigitalebibliotek.png" width=50 height=50>|https://github.com/danskernesdigitalebibliotek/dpl-design-system|5|
+|50|<img src="https://github.com/WPMedia.png" width=50 height=50>|https://github.com/WPMedia/arc-themes-components|5|
+|51|<img src="https://github.com/danskernesdigitalebibliotek.png" width=50 height=50>|https://github.com/danskernesdigitalebibliotek/dpl-design-system|5|

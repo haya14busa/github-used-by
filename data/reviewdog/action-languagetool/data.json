@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8091
+      "stars": 8096
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7538
+      "stars": 7539
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1558
+      "stars": 1561
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
@@ -20,27 +20,27 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 961
+      "stars": 967
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 916
+      "stars": 917
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 520
+      "stars": 522
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 515
+      "stars": 520
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 291
+      "stars": 448
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 252
+      "stars": 256
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -48,7 +48,7 @@
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
-      "stars": 165
+      "stars": 168
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 105
+      "stars": 107
     },
     {
       "url": "https://github.com/mszostok/version",
@@ -147,6 +147,10 @@
       "stars": 12
     },
     {
+      "url": "https://github.com/libp2p/blog",
+      "stars": 9
+    },
+    {
       "url": "https://github.com/liftwizard/liftwizard",
       "stars": 9
     },
@@ -208,9 +212,9 @@
     }
   ],
   "count": {
-    "total": 378,
-    "public": 234,
+    "total": 379,
+    "public": 235,
     "private": 144,
-    "more_than_zero_star": 98
+    "more_than_zero_star": 99
   }
 }

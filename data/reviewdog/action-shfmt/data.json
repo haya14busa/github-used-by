@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 2986
+      "stars": 3016
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 788
+      "stars": 800
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
-      "stars": 156
+      "stars": 158
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/reviewdog/action-suggester",
-      "stars": 108
+      "stars": 109
     },
     {
       "url": "https://github.com/jiro4989/setup-nim-action",
@@ -44,7 +44,7 @@
     },
     {
       "url": "https://github.com/lure-sh/lure-repo",
-      "stars": 53
+      "stars": 54
     },
     {
       "url": "https://github.com/sksat/compose-cd",
@@ -67,20 +67,16 @@
       "stars": 22
     },
     {
+      "url": "https://github.com/UmbrellaDocs/action-linkspector",
+      "stars": 16
+    },
+    {
       "url": "https://github.com/helpermethod/up",
       "stars": 16
     },
     {
-      "url": "https://github.com/UmbrellaDocs/action-linkspector",
-      "stars": 15
-    },
-    {
       "url": "https://github.com/aerospike/aerospike-server-enterprise.docker",
       "stars": 15
-    },
-    {
-      "url": "https://github.com/harilvfs/carch",
-      "stars": 12
     },
     {
       "url": "https://github.com/knative/actions",
@@ -104,9 +100,9 @@
     }
   ],
   "count": {
-    "total": 171,
-    "public": 100,
-    "private": 71,
-    "more_than_zero_star": 42
+    "total": 172,
+    "public": 99,
+    "private": 73,
+    "more_than_zero_star": 41
   }
 }

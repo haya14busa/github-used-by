@@ -8,7 +8,7 @@
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 853
+      "stars": 860
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
@@ -16,15 +16,15 @@
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 524
+      "stars": 525
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 491
+      "stars": 492
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 252
+      "stars": 256
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -32,11 +32,11 @@
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 181
+      "stars": 184
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 145
+      "stars": 147
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
@@ -260,9 +260,9 @@
     }
   ],
   "count": {
-    "total": 624,
-    "public": 384,
+    "total": 626,
+    "public": 386,
     "private": 240,
-    "more_than_zero_star": 160
+    "more_than_zero_star": 161
   }
 }

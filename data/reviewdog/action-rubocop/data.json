@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 9697
+      "stars": 9721
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9528
+      "stars": 9532
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 2852
+      "stars": 2855
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2767
+      "stars": 2768
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
@@ -24,11 +24,11 @@
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2348
+      "stars": 2350
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1450
+      "stars": 1456
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -36,15 +36,15 @@
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1141
+      "stars": 1144
     },
     {
       "url": "https://github.com/activeadmin/arbre",
-      "stars": 768
+      "stars": 770
     },
     {
       "url": "https://github.com/zilverline/sequent",
-      "stars": 542
+      "stars": 545
     },
     {
       "url": "https://github.com/mysociety/alaveteli",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 271
+      "stars": 272
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
@@ -83,11 +83,11 @@
       "stars": 82
     },
     {
-      "url": "https://github.com/openHPI/codeocean",
-      "stars": 65
+      "url": "https://github.com/Drieam/rspec-github",
+      "stars": 69
     },
     {
-      "url": "https://github.com/Drieam/rspec-github",
+      "url": "https://github.com/openHPI/codeocean",
       "stars": 65
     },
     {
@@ -128,7 +128,7 @@
     },
     {
       "url": "https://github.com/workato/workato-connector-sdk",
-      "stars": 26
+      "stars": 27
     },
     {
       "url": "https://github.com/neinteractiveliterature/intercode",
@@ -151,16 +151,16 @@
       "stars": 18
     },
     {
+      "url": "https://github.com/RaiderHQ/ruby_raider",
+      "stars": 17
+    },
+    {
       "url": "https://github.com/oddcamp/mrml-rails",
       "stars": 17
     },
     {
       "url": "https://github.com/fog/fog-libvirt",
       "stars": 17
-    },
-    {
-      "url": "https://github.com/RaiderHQ/ruby_raider",
-      "stars": 16
     },
     {
       "url": "https://github.com/mihailpozarski/chilean-rutify",
@@ -268,9 +268,9 @@
     }
   ],
   "count": {
-    "total": 668,
-    "public": 481,
-    "private": 187,
-    "more_than_zero_star": 153
+    "total": 674,
+    "public": 482,
+    "private": 192,
+    "more_than_zero_star": 154
   }
 }

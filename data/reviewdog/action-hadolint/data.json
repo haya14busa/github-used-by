@@ -4,31 +4,31 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 72898
+      "stars": 72958
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13344
+      "stars": 13359
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 6441
+      "stars": 6471
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 6403
+      "stars": 6402
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 3641
+      "stars": 3667
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
-      "stars": 2962
+      "stars": 2963
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1854
+      "stars": 1855
     },
     {
       "url": "https://github.com/magma/magma",
@@ -36,11 +36,11 @@
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1558
+      "stars": 1561
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1265
+      "stars": 1266
     },
     {
       "url": "https://github.com/truecharts/public",
@@ -48,11 +48,11 @@
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 1128
+      "stars": 1132
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 798
+      "stars": 799
     },
     {
       "url": "https://github.com/K-Phoen/dark",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 396
+      "stars": 400
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
@@ -68,7 +68,7 @@
     },
     {
       "url": "https://github.com/KCarretto/paragon",
-      "stars": 294
+      "stars": 295
     },
     {
       "url": "https://github.com/bgruening/docker-galaxy",
@@ -84,11 +84,11 @@
     },
     {
       "url": "https://github.com/netdata/go.d.plugin",
-      "stars": 163
+      "stars": 164
     },
     {
       "url": "https://github.com/dadrus/heimdall",
-      "stars": 151
+      "stars": 152
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -112,7 +112,7 @@
     },
     {
       "url": "https://github.com/rickstaa/action-create-tag",
-      "stars": 78
+      "stars": 79
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
@@ -128,11 +128,11 @@
     },
     {
       "url": "https://github.com/Drakkar-Software/Triangular-Arbitrage",
-      "stars": 68
+      "stars": 71
     },
     {
       "url": "https://github.com/netdata/community",
-      "stars": 68
+      "stars": 69
     },
     {
       "url": "https://github.com/srz-zumix/iutest",
@@ -143,11 +143,11 @@
       "stars": 67
     },
     {
-      "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
-      "stars": 63
+      "url": "https://github.com/netdata/kernel-collector",
+      "stars": 64
     },
     {
-      "url": "https://github.com/netdata/kernel-collector",
+      "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
       "stars": 63
     },
     {
@@ -199,16 +199,16 @@
       "stars": 23
     },
     {
+      "url": "https://github.com/Drakkar-Software/OctoBot-Script",
+      "stars": 21
+    },
+    {
       "url": "https://github.com/dbelyaev/action-checkstyle",
       "stars": 21
     },
     {
       "url": "https://github.com/reviewdog/action-template",
       "stars": 21
-    },
-    {
-      "url": "https://github.com/Drakkar-Software/OctoBot-Script",
-      "stars": 20
     },
     {
       "url": "https://github.com/chronosphereio/calyptia-vivo",
@@ -259,6 +259,10 @@
       "stars": 12
     },
     {
+      "url": "https://github.com/netdata/ebpf-co-re",
+      "stars": 12
+    },
+    {
       "url": "https://github.com/vbouchaud/nfs-client-provisioner",
       "stars": 12
     },
@@ -279,6 +283,10 @@
       "stars": 11
     },
     {
+      "url": "https://github.com/timoa/secure-go-backend-clean-architecture",
+      "stars": 11
+    },
+    {
       "url": "https://github.com/sammcj/zsh-bootstrap",
       "stars": 11
     },
@@ -291,16 +299,8 @@
       "stars": 11
     },
     {
-      "url": "https://github.com/netdata/ebpf-co-re",
-      "stars": 11
-    },
-    {
       "url": "https://github.com/jwillker/debug",
       "stars": 11
-    },
-    {
-      "url": "https://github.com/timoa/secure-go-backend-clean-architecture",
-      "stars": 10
     },
     {
       "url": "https://github.com/mrtousif/youtube-clone",
@@ -347,6 +347,10 @@
       "stars": 9
     },
     {
+      "url": "https://github.com/netdata/helper-images",
+      "stars": 9
+    },
+    {
       "url": "https://github.com/fluent/fluent-bit-ci",
       "stars": 9
     },
@@ -368,10 +372,6 @@
     },
     {
       "url": "https://github.com/reviewdog/action-alex",
-      "stars": 8
-    },
-    {
-      "url": "https://github.com/netdata/helper-images",
       "stars": 8
     },
     {
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 1924,
+    "total": 1926,
     "public": 1315,
-    "private": 609,
-    "more_than_zero_star": 344
+    "private": 611,
+    "more_than_zero_star": 343
   }
 }

@@ -8,7 +8,7 @@
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2285
+      "stars": 2291
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 271
+      "stars": 272
     },
     {
       "url": "https://github.com/th0th/poeticmetric",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/WPMedia/arc-themes-blocks",
-      "stars": 37
+      "stars": 38
     },
     {
       "url": "https://github.com/DepSpy/depspy",
@@ -199,13 +199,17 @@
       "stars": 5
     },
     {
+      "url": "https://github.com/WPMedia/arc-themes-components",
+      "stars": 5
+    },
+    {
       "url": "https://github.com/danskernesdigitalebibliotek/dpl-design-system",
       "stars": 5
     }
   ],
   "count": {
-    "total": 483,
-    "public": 364,
+    "total": 484,
+    "public": 365,
     "private": 119,
     "more_than_zero_star": 94
   }
