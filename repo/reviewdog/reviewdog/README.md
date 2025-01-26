@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 250 | 159 | 91 | 63 |
+| 250 | 158 | 92 | 62 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/reviewdog/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/reviewdog)
@@ -21,11 +21,11 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/FerretDB.png" width=50 height=50>|https://github.com/FerretDB/FerretDB|9283|
+|1|<img src="https://github.com/FerretDB.png" width=50 height=50>|https://github.com/FerretDB/FerretDB|9318|
 |2|<img src="https://github.com/go-reform.png" width=50 height=50>|https://github.com/go-reform/reform|1444|
-|3|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/mongodb_exporter|1218|
-|4|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/pmm|712|
-|5|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/everest|269|
+|3|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/mongodb_exporter|1221|
+|4|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/pmm|714|
+|5|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/everest|274|
 |6|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/proxysql_exporter|106|
 |7|<img src="https://github.com/elastic.png" width=50 height=50>|https://github.com/elastic/fleet-server|89|
 |8|<img src="https://github.com/elastic.png" width=50 height=50>|https://github.com/elastic/Machinebeat|75|

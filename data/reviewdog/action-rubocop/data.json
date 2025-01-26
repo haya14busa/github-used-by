@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 9721
+      "stars": 9761
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9532
+      "stars": 9533
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 2855
+      "stars": 2863
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2768
+      "stars": 2769
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
@@ -24,23 +24,23 @@
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2350
+      "stars": 2352
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1456
+      "stars": 1458
     },
     {
       "url": "https://github.com/k1LoW/awspec",
-      "stars": 1170
+      "stars": 1168
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1144
+      "stars": 1142
     },
     {
       "url": "https://github.com/activeadmin/arbre",
-      "stars": 770
+      "stars": 771
     },
     {
       "url": "https://github.com/zilverline/sequent",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 272
+      "stars": 271
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
@@ -64,11 +64,11 @@
     },
     {
       "url": "https://github.com/vmware/dod-compliance-and-automation",
-      "stars": 157
+      "stars": 159
     },
     {
       "url": "https://github.com/ytti/oxidized-web",
-      "stars": 122
+      "stars": 123
     },
     {
       "url": "https://github.com/hlascelles/que-scheduler",
@@ -76,11 +76,11 @@
     },
     {
       "url": "https://github.com/GetStream/stream-ruby",
-      "stars": 85
+      "stars": 86
     },
     {
       "url": "https://github.com/chanzuckerberg/czid-web",
-      "stars": 82
+      "stars": 83
     },
     {
       "url": "https://github.com/Drieam/rspec-github",
@@ -105,6 +105,10 @@
     {
       "url": "https://github.com/puzzle/puzzletime",
       "stars": 46
+    },
+    {
+      "url": "https://github.com/ytti/oxidized-script",
+      "stars": 44
     },
     {
       "url": "https://github.com/machinio/solrb",
@@ -132,7 +136,7 @@
     },
     {
       "url": "https://github.com/neinteractiveliterature/intercode",
-      "stars": 24
+      "stars": 23
     },
     {
       "url": "https://github.com/mrsool/redis_hash_store",
@@ -199,6 +203,10 @@
       "stars": 9
     },
     {
+      "url": "https://github.com/puzzle/decidim-zuerich",
+      "stars": 8
+    },
+    {
       "url": "https://github.com/mh-mobile/event_follow",
       "stars": 8
     },
@@ -223,6 +231,10 @@
       "stars": 7
     },
     {
+      "url": "https://github.com/alphagov/govuk-mobile-ios-app",
+      "stars": 6
+    },
+    {
       "url": "https://github.com/Strappazzon/www",
       "stars": 6
     },
@@ -233,10 +245,6 @@
     {
       "url": "https://github.com/ytti/asetus",
       "stars": 6
-    },
-    {
-      "url": "https://github.com/alphagov/govuk-mobile-ios-app",
-      "stars": 5
     },
     {
       "url": "https://github.com/goodscary/firstrubyfriend",
@@ -259,6 +267,10 @@
       "stars": 5
     },
     {
+      "url": "https://github.com/StudistCorporation/scimaenaga",
+      "stars": 5
+    },
+    {
       "url": "https://github.com/seasonedcc/croods-rails",
       "stars": 5
     },
@@ -268,9 +280,9 @@
     }
   ],
   "count": {
-    "total": 674,
-    "public": 482,
+    "total": 681,
+    "public": 489,
     "private": 192,
-    "more_than_zero_star": 154
+    "more_than_zero_star": 157
   }
 }

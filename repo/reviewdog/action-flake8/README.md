@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 438 | 314 | 124 | 121 |
+| 439 | 316 | 123 | 121 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-flake8/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-flake8)
@@ -21,23 +21,23 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/netdata|72958|
-|2|<img src="https://github.com/microsoft.png" width=50 height=50>|https://github.com/microsoft/onnxruntime|15333|
-|3|<img src="https://github.com/bndr.png" width=50 height=50>|https://github.com/bndr/pipreqs|6977|
-|4|<img src="https://github.com/BaguaSys.png" width=50 height=50>|https://github.com/BaguaSys/bagua|876|
-|5|<img src="https://github.com/tradingstrategy-ai.png" width=50 height=50>|https://github.com/tradingstrategy-ai/web3-ethereum-defi|636|
+|1|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/netdata|73031|
+|2|<img src="https://github.com/microsoft.png" width=50 height=50>|https://github.com/microsoft/onnxruntime|15382|
+|3|<img src="https://github.com/bndr.png" width=50 height=50>|https://github.com/bndr/pipreqs|6988|
+|4|<img src="https://github.com/BaguaSys.png" width=50 height=50>|https://github.com/BaguaSys/bagua|877|
+|5|<img src="https://github.com/tradingstrategy-ai.png" width=50 height=50>|https://github.com/tradingstrategy-ai/web3-ethereum-defi|638|
 |6|<img src="https://github.com/pnuckowski.png" width=50 height=50>|https://github.com/pnuckowski/aioresponses|527|
 |7|<img src="https://github.com/simpeg.png" width=50 height=50>|https://github.com/simpeg/simpeg|526|
-|8|<img src="https://github.com/PersiaML.png" width=50 height=50>|https://github.com/PersiaML/PERSIA|398|
+|8|<img src="https://github.com/PersiaML.png" width=50 height=50>|https://github.com/PersiaML/PERSIA|399|
 |9|<img src="https://github.com/PAhelper.png" width=50 height=50>|https://github.com/PAhelper/PhoenixAdult.bundle|363|
-|10|<img src="https://github.com/ThePornDatabase.png" width=50 height=50>|https://github.com/ThePornDatabase/ThePornDB.bundle|190|
+|10|<img src="https://github.com/ThePornDatabase.png" width=50 height=50>|https://github.com/ThePornDatabase/ThePornDB.bundle|191|
 |11|<img src="https://github.com/libcgroup.png" width=50 height=50>|https://github.com/libcgroup/libcgroup|156|
-|12|<img src="https://github.com/f0uriest.png" width=50 height=50>|https://github.com/f0uriest/interpax|145|
+|12|<img src="https://github.com/f0uriest.png" width=50 height=50>|https://github.com/f0uriest/interpax|148|
 |13|<img src="https://github.com/TrangPham.png" width=50 height=50>|https://github.com/TrangPham/django-admin-confirm|131|
-|14|<img src="https://github.com/mangdangroboticsclub.png" width=50 height=50>|https://github.com/mangdangroboticsclub/mini_pupper_ros|109|
+|14|<img src="https://github.com/mangdangroboticsclub.png" width=50 height=50>|https://github.com/mangdangroboticsclub/mini_pupper_ros|110|
 |15|<img src="https://github.com/PlasmaControl.png" width=50 height=50>|https://github.com/PlasmaControl/DESC|107|
 |16|<img src="https://github.com/ehpor.png" width=50 height=50>|https://github.com/ehpor/hcipy|102|
-|17|<img src="https://github.com/fdintino.png" width=50 height=50>|https://github.com/fdintino/pillow-avif-plugin|97|
+|17|<img src="https://github.com/fdintino.png" width=50 height=50>|https://github.com/fdintino/pillow-avif-plugin|98|
 |18|<img src="https://github.com/LFPy.png" width=50 height=50>|https://github.com/LFPy/LFPy|79|
 |19|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/csd-python-api-scripts|63|
 |20|<img src="https://github.com/ydb-platform.png" width=50 height=50>|https://github.com/ydb-platform/nbs|61|

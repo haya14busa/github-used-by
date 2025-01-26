@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8096
+      "stars": 8115
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
@@ -12,7 +12,7 @@
     },
     {
       "url": "https://github.com/mime-types/mime-types-data",
-      "stars": 45
+      "stars": 46
     },
     {
       "url": "https://github.com/KineticCafe/docker-sqitch-pgtap",

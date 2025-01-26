@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 3016
+      "stars": 3035
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 800
+      "stars": 806
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
-      "stars": 158
+      "stars": 159
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
-      "stars": 142
+      "stars": 141
     },
     {
       "url": "https://github.com/reviewdog/action-suggester",
@@ -24,11 +24,11 @@
     },
     {
       "url": "https://github.com/jiro4989/setup-nim-action",
-      "stars": 107
+      "stars": 106
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 94
+      "stars": 95
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
@@ -100,8 +100,8 @@
     }
   ],
   "count": {
-    "total": 172,
-    "public": 99,
+    "total": 174,
+    "public": 101,
     "private": 73,
     "more_than_zero_star": 41
   }

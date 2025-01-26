@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/chanzuckerberg/czid-web",
-      "stars": 82
+      "stars": 83
     },
     {
       "url": "https://github.com/tricknotes/starseeker",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/powerhome/playbook",
-      "stars": 29
+      "stars": 30
     },
     {
       "url": "https://github.com/sokusekiya/sokuseki",
@@ -45,6 +45,10 @@
     {
       "url": "https://github.com/linkvan/linkvan-api",
       "stars": 6
+    },
+    {
+      "url": "https://github.com/StudistCorporation/scimaenaga",
+      "stars": 5
     }
   ],
   "count": {

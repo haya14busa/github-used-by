@@ -4,43 +4,43 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8096
+      "stars": 8115
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7539
+      "stars": 7541
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1561
+      "stars": 1562
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1137
+      "stars": 1136
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 967
+      "stars": 970
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 917
+      "stars": 918
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 522
+      "stars": 528
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 520
+      "stars": 525
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 448
+      "stars": 516
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 256
+      "stars": 267
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -68,7 +68,7 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 94
+      "stars": 95
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
@@ -212,9 +212,9 @@
     }
   ],
   "count": {
-    "total": 379,
-    "public": 235,
+    "total": 382,
+    "public": 238,
     "private": 144,
-    "more_than_zero_star": 99
+    "more_than_zero_star": 100
   }
 }
