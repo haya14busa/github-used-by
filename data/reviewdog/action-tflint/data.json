@@ -4,27 +4,27 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1701
+      "stars": 1704
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 868
+      "stars": 871
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
-      "stars": 568
+      "stars": 567
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 525
+      "stars": 526
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 495
+      "stars": 497
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 267
+      "stars": 287
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -36,7 +36,7 @@
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 147
+      "stars": 146
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
@@ -48,11 +48,11 @@
     },
     {
       "url": "https://github.com/GiganticMinecraft/seichi_infra",
-      "stars": 57
+      "stars": 58
     },
     {
       "url": "https://github.com/slalombuild/terraform-atmos-accelerator",
-      "stars": 49
+      "stars": 50
     },
     {
       "url": "https://github.com/clouddrove/terraform-aws-sftp",
@@ -143,10 +143,6 @@
       "stars": 9
     },
     {
-      "url": "https://github.com/nuvibit/github-terraform-workflows",
-      "stars": 9
-    },
-    {
       "url": "https://github.com/bmbferreira/awesome-terraform-pipeline",
       "stars": 9
     },
@@ -155,7 +151,15 @@
       "stars": 9
     },
     {
+      "url": "https://github.com/adelinosousa/terrafirma",
+      "stars": 8
+    },
+    {
       "url": "https://github.com/VikeSec/CTF-Infrastructure",
+      "stars": 8
+    },
+    {
+      "url": "https://github.com/nuvibit/github-terraform-workflows",
       "stars": 8
     },
     {
@@ -260,9 +264,9 @@
     }
   ],
   "count": {
-    "total": 627,
-    "public": 387,
+    "total": 628,
+    "public": 388,
     "private": 240,
-    "more_than_zero_star": 162
+    "more_than_zero_star": 163
   }
 }

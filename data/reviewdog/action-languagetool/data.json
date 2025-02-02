@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8115
+      "stars": 8123
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7541
+      "stars": 7543
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1562
+      "stars": 1563
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
@@ -20,27 +20,27 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 970
+      "stars": 975
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 918
-    },
-    {
-      "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 528
-    },
-    {
-      "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 525
+      "stars": 921
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 516
+      "stars": 558
+    },
+    {
+      "url": "https://github.com/jeertmans/manim-slides",
+      "stars": 533
+    },
+    {
+      "url": "https://github.com/swiftwave-org/swiftwave",
+      "stars": 529
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 267
+      "stars": 287
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 107
+      "stars": 108
     },
     {
       "url": "https://github.com/mszostok/version",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
-      "stars": 77
+      "stars": 78
     },
     {
       "url": "https://github.com/GStones/moke-kit",
@@ -159,10 +159,6 @@
       "stars": 9
     },
     {
-      "url": "https://github.com/kubeshop/botkube-docs",
-      "stars": 8
-    },
-    {
       "url": "https://github.com/phoenix-rtos/phoenix-rtos-doc",
       "stars": 8
     },
@@ -172,6 +168,10 @@
     },
     {
       "url": "https://github.com/chocolatey/boxstarter.org",
+      "stars": 7
+    },
+    {
+      "url": "https://github.com/kubeshop/botkube-docs",
       "stars": 7
     },
     {
@@ -212,9 +212,9 @@
     }
   ],
   "count": {
-    "total": 382,
-    "public": 238,
+    "total": 383,
+    "public": 239,
     "private": 144,
-    "more_than_zero_star": 100
+    "more_than_zero_star": 101
   }
 }

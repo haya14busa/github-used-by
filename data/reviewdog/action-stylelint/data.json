@@ -8,11 +8,11 @@
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2296
+      "stars": 2298
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
-      "stars": 1212
+      "stars": 1213
     },
     {
       "url": "https://github.com/h3poteto/whalebird-desktop",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/th0th/poeticmetric",
-      "stars": 248
+      "stars": 246
     },
     {
       "url": "https://github.com/modx-pro/miniShop2",
@@ -115,15 +115,15 @@
       "stars": 12
     },
     {
+      "url": "https://github.com/reviewdog/errorformat-playground",
+      "stars": 12
+    },
+    {
       "url": "https://github.com/codeforkumamoto/covid19",
       "stars": 11
     },
     {
       "url": "https://github.com/PichuChen/covid19",
-      "stars": 11
-    },
-    {
-      "url": "https://github.com/reviewdog/errorformat-playground",
       "stars": 11
     },
     {
@@ -195,10 +195,6 @@
       "stars": 5
     },
     {
-      "url": "https://github.com/danskernesdigitalebibliotek/dpl-react",
-      "stars": 5
-    },
-    {
       "url": "https://github.com/WPMedia/arc-themes-components",
       "stars": 5
     },
@@ -211,6 +207,6 @@
     "total": 484,
     "public": 365,
     "private": 119,
-    "more_than_zero_star": 94
+    "more_than_zero_star": 93
   }
 }

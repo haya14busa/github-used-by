@@ -4,15 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 73031
-    },
-    {
-      "url": "https://github.com/microsoft/onnxruntime",
-      "stars": 15382
+      "stars": 73110
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 6988
+      "stars": 7000
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -20,23 +16,23 @@
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 638
+      "stars": 641
+    },
+    {
+      "url": "https://github.com/simpeg/simpeg",
+      "stars": 528
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
       "stars": 527
     },
     {
-      "url": "https://github.com/simpeg/simpeg",
-      "stars": 526
-    },
-    {
       "url": "https://github.com/PersiaML/PERSIA",
-      "stars": 399
+      "stars": 400
     },
     {
       "url": "https://github.com/PAhelper/PhoenixAdult.bundle",
-      "stars": 363
+      "stars": 362
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
@@ -44,7 +40,7 @@
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
-      "stars": 156
+      "stars": 157
     },
     {
       "url": "https://github.com/f0uriest/interpax",
@@ -52,15 +48,15 @@
     },
     {
       "url": "https://github.com/TrangPham/django-admin-confirm",
-      "stars": 131
+      "stars": 132
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
-      "stars": 110
+      "stars": 111
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
-      "stars": 107
+      "stars": 108
     },
     {
       "url": "https://github.com/ehpor/hcipy",
@@ -68,7 +64,7 @@
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
-      "stars": 98
+      "stars": 100
     },
     {
       "url": "https://github.com/LFPy/LFPy",
@@ -91,12 +87,12 @@
       "stars": 53
     },
     {
-      "url": "https://github.com/ut-issl/c2a-core",
-      "stars": 51
+      "url": "https://github.com/f0uriest/quadax",
+      "stars": 52
     },
     {
-      "url": "https://github.com/f0uriest/quadax",
-      "stars": 50
+      "url": "https://github.com/ut-issl/c2a-core",
+      "stars": 51
     },
     {
       "url": "https://github.com/rickstaa/ros-gazebo-gym",
@@ -147,12 +143,12 @@
       "stars": 15
     },
     {
-      "url": "https://github.com/istellartech/GELATO",
-      "stars": 13
+      "url": "https://github.com/f0uriest/orthax",
+      "stars": 14
     },
     {
-      "url": "https://github.com/f0uriest/orthax",
-      "stars": 12
+      "url": "https://github.com/istellartech/GELATO",
+      "stars": 13
     },
     {
       "url": "https://github.com/rickstaa/stable-gym",
@@ -204,9 +200,9 @@
     }
   ],
   "count": {
-    "total": 439,
-    "public": 316,
-    "private": 123,
+    "total": 441,
+    "public": 317,
+    "private": 124,
     "more_than_zero_star": 121
   }
 }

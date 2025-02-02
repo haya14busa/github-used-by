@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 3035
+      "stars": 3069
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 806
+      "stars": 815
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
@@ -44,7 +44,7 @@
     },
     {
       "url": "https://github.com/lure-sh/lure-repo",
-      "stars": 54
+      "stars": 55
     },
     {
       "url": "https://github.com/sksat/compose-cd",
@@ -101,8 +101,8 @@
   ],
   "count": {
     "total": 174,
-    "public": 101,
-    "private": 73,
+    "public": 100,
+    "private": 74,
     "more_than_zero_star": 41
   }
 }
