@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 9790
+      "stars": 9828
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9536
+      "stars": 9540
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 2868
+      "stars": 2880
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2770
+      "stars": 2771
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
@@ -24,11 +24,11 @@
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2353
+      "stars": 2356
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1459
+      "stars": 1462
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -36,7 +36,7 @@
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1143
+      "stars": 1147
     },
     {
       "url": "https://github.com/activeadmin/arbre",
@@ -52,11 +52,11 @@
     },
     {
       "url": "https://github.com/YusukeIwaki/puppeteer-ruby",
-      "stars": 295
+      "stars": 297
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 271
+      "stars": 272
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/chanzuckerberg/czid-web",
-      "stars": 83
+      "stars": 84
     },
     {
       "url": "https://github.com/Drieam/rspec-github",
@@ -88,7 +88,7 @@
     },
     {
       "url": "https://github.com/openHPI/codeocean",
-      "stars": 65
+      "stars": 66
     },
     {
       "url": "https://github.com/Unleash/unleash-client-ruby",
@@ -280,9 +280,9 @@
     }
   ],
   "count": {
-    "total": 681,
-    "public": 488,
-    "private": 193,
+    "total": 685,
+    "public": 489,
+    "private": 196,
     "more_than_zero_star": 157
   }
 }

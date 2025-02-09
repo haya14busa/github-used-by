@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 3069
+      "stars": 3096
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 815
+      "stars": 822
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
-      "stars": 159
+      "stars": 160
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -20,22 +20,22 @@
     },
     {
       "url": "https://github.com/reviewdog/action-suggester",
-      "stars": 109
+      "stars": 110
     },
     {
       "url": "https://github.com/jiro4989/setup-nim-action",
-      "stars": 106
+      "stars": 107
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 95
-    },
-    {
-      "url": "https://github.com/aaronhurt/zfs-replicate",
-      "stars": 73
+      "stars": 98
     },
     {
       "url": "https://github.com/jonathanmorley/asdf-pnpm",
+      "stars": 74
+    },
+    {
+      "url": "https://github.com/aaronhurt/zfs-replicate",
       "stars": 73
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/franzs/fritzbox_upload_certificate",
-      "stars": 43
+      "stars": 42
     },
     {
       "url": "https://github.com/mongolyy/reviewdog-action-biome",
@@ -68,7 +68,7 @@
     },
     {
       "url": "https://github.com/UmbrellaDocs/action-linkspector",
-      "stars": 16
+      "stars": 17
     },
     {
       "url": "https://github.com/helpermethod/up",
@@ -79,8 +79,12 @@
       "stars": 15
     },
     {
+      "url": "https://github.com/harilvfs/carch",
+      "stars": 12
+    },
+    {
       "url": "https://github.com/knative/actions",
-      "stars": 11
+      "stars": 12
     },
     {
       "url": "https://github.com/reviewdog/action-ast-grep",
@@ -100,9 +104,9 @@
     }
   ],
   "count": {
-    "total": 174,
-    "public": 100,
+    "total": 176,
+    "public": 102,
     "private": 74,
-    "more_than_zero_star": 41
+    "more_than_zero_star": 42
   }
 }

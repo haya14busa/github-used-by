@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
-      "stars": 2650
+      "stars": 2687
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -151,6 +151,6 @@
     "total": 362,
     "public": 237,
     "private": 125,
-    "more_than_zero_star": 102
+    "more_than_zero_star": 101
   }
 }

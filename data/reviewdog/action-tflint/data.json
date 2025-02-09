@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1704
+      "stars": 1708
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 871
+      "stars": 875
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
@@ -16,15 +16,15 @@
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 526
+      "stars": 529
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 497
+      "stars": 500
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 287
+      "stars": 316
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -32,11 +32,11 @@
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 186
+      "stars": 187
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 146
+      "stars": 147
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
@@ -87,12 +87,12 @@
       "stars": 18
     },
     {
-      "url": "https://github.com/SweetOps/terraform-google-storage-bucket",
+      "url": "https://github.com/chainguard-dev/terraform-infra-common",
       "stars": 16
     },
     {
-      "url": "https://github.com/chainguard-dev/terraform-infra-common",
-      "stars": 15
+      "url": "https://github.com/SweetOps/terraform-google-storage-bucket",
+      "stars": 16
     },
     {
       "url": "https://github.com/sammcj/scripts",
@@ -215,6 +215,10 @@
       "stars": 7
     },
     {
+      "url": "https://github.com/piiano/vault-deployments",
+      "stars": 6
+    },
+    {
       "url": "https://github.com/DFE-Digital/teaching-record-system",
       "stars": 6
     },
@@ -225,10 +229,6 @@
     {
       "url": "https://github.com/rhythmictech/terraform-aws-alb-ecs-task",
       "stars": 6
-    },
-    {
-      "url": "https://github.com/piiano/vault-deployments",
-      "stars": 5
     },
     {
       "url": "https://github.com/sammcj/sqs-message-action",

@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 363 | 288 | 75 | 85 |
+| 363 | 288 | 75 | 86 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-vint/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-vint)
@@ -21,36 +21,36 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/wsdjeg.png" width=50 height=50>|https://github.com/wsdjeg/SpaceVim|20367|
-|2|<img src="https://github.com/preservim.png" width=50 height=50>|https://github.com/preservim/nerdtree|19758|
-|3|<img src="https://github.com/vim-airline.png" width=50 height=50>|https://github.com/vim-airline/vim-airline|17843|
-|4|<img src="https://github.com/easymotion.png" width=50 height=50>|https://github.com/easymotion/vim-easymotion|7543|
-|5|<img src="https://github.com/preservim.png" width=50 height=50>|https://github.com/preservim/tagbar|6169|
-|6|<img src="https://github.com/preservim.png" width=50 height=50>|https://github.com/preservim/nerdcommenter|4996|
-|7|<img src="https://github.com/preservim.png" width=50 height=50>|https://github.com/preservim/vim-markdown|4721|
-|8|<img src="https://github.com/prabirshrestha.png" width=50 height=50>|https://github.com/prabirshrestha/vim-lsp|3184|
-|9|<img src="https://github.com/liuchengxu.png" width=50 height=50>|https://github.com/liuchengxu/space-vim|2858|
-|10|<img src="https://github.com/preservim.png" width=50 height=50>|https://github.com/preservim/vimux|2224|
-|11|<img src="https://github.com/liuchengxu.png" width=50 height=50>|https://github.com/liuchengxu/vim-clap|2125|
+|1|<img src="https://github.com/wsdjeg.png" width=50 height=50>|https://github.com/wsdjeg/SpaceVim|20372|
+|2|<img src="https://github.com/preservim.png" width=50 height=50>|https://github.com/preservim/nerdtree|19777|
+|3|<img src="https://github.com/vim-airline.png" width=50 height=50>|https://github.com/vim-airline/vim-airline|17851|
+|4|<img src="https://github.com/easymotion.png" width=50 height=50>|https://github.com/easymotion/vim-easymotion|7546|
+|5|<img src="https://github.com/preservim.png" width=50 height=50>|https://github.com/preservim/tagbar|6173|
+|6|<img src="https://github.com/preservim.png" width=50 height=50>|https://github.com/preservim/nerdcommenter|4998|
+|7|<img src="https://github.com/preservim.png" width=50 height=50>|https://github.com/preservim/vim-markdown|4723|
+|8|<img src="https://github.com/prabirshrestha.png" width=50 height=50>|https://github.com/prabirshrestha/vim-lsp|3186|
+|9|<img src="https://github.com/liuchengxu.png" width=50 height=50>|https://github.com/liuchengxu/space-vim|2857|
+|10|<img src="https://github.com/preservim.png" width=50 height=50>|https://github.com/preservim/vimux|2228|
+|11|<img src="https://github.com/liuchengxu.png" width=50 height=50>|https://github.com/liuchengxu/vim-clap|2126|
 |12|<img src="https://github.com/Xuyuanp.png" width=50 height=50>|https://github.com/Xuyuanp/nerdtree-git-plugin|2087|
-|13|<img src="https://github.com/vim-airline.png" width=50 height=50>|https://github.com/vim-airline/vim-airline-themes|2055|
+|13|<img src="https://github.com/vim-airline.png" width=50 height=50>|https://github.com/vim-airline/vim-airline-themes|2057|
 |14|<img src="https://github.com/liuchengxu.png" width=50 height=50>|https://github.com/liuchengxu/vista.vim|1922|
-|15|<img src="https://github.com/OmniSharp.png" width=50 height=50>|https://github.com/OmniSharp/omnisharp-vim|1727|
-|16|<img src="https://github.com/mattn.png" width=50 height=50>|https://github.com/mattn/vim-lsp-settings|1321|
-|17|<img src="https://github.com/kassio.png" width=50 height=50>|https://github.com/kassio/neoterm|1321|
+|15|<img src="https://github.com/OmniSharp.png" width=50 height=50>|https://github.com/OmniSharp/omnisharp-vim|1731|
+|16|<img src="https://github.com/kassio.png" width=50 height=50>|https://github.com/kassio/neoterm|1323|
+|17|<img src="https://github.com/mattn.png" width=50 height=50>|https://github.com/mattn/vim-lsp-settings|1322|
 |18|<img src="https://github.com/lambdalisue.png" width=50 height=50>|https://github.com/lambdalisue/vim-fern|1301|
-|19|<img src="https://github.com/whatyouhide.png" width=50 height=50>|https://github.com/whatyouhide/vim-gotham|1263|
+|19|<img src="https://github.com/whatyouhide.png" width=50 height=50>|https://github.com/whatyouhide/vim-gotham|1267|
 |20|<img src="https://github.com/artur-shaik.png" width=50 height=50>|https://github.com/artur-shaik/vim-javacomplete2|970|
-|21|<img src="https://github.com/prabirshrestha.png" width=50 height=50>|https://github.com/prabirshrestha/asyncomplete.vim|934|
-|22|<img src="https://github.com/yutkat.png" width=50 height=50>|https://github.com/yutkat/dotfiles|807|
+|21|<img src="https://github.com/prabirshrestha.png" width=50 height=50>|https://github.com/prabirshrestha/asyncomplete.vim|935|
+|22|<img src="https://github.com/yutkat.png" width=50 height=50>|https://github.com/yutkat/dotfiles|808|
 |23|<img src="https://github.com/lambdalisue.png" width=50 height=50>|https://github.com/lambdalisue/vim-gina|687|
 |24|<img src="https://github.com/vim-jp.png" width=50 height=50>|https://github.com/vim-jp/vital.vim|578|
 |25|<img src="https://github.com/haya14busa.png" width=50 height=50>|https://github.com/haya14busa/vim-asterisk|393|
 |26|<img src="https://github.com/tyru.png" width=50 height=50>|https://github.com/tyru/caw.vim|378|
 |27|<img src="https://github.com/ledger.png" width=50 height=50>|https://github.com/ledger/vim-ledger|376|
-|28|<img src="https://github.com/tani.png" width=50 height=50>|https://github.com/tani/vim-jetpack|330|
+|28|<img src="https://github.com/tani.png" width=50 height=50>|https://github.com/tani/vim-jetpack|332|
 |29|<img src="https://github.com/jeanguyomarch.png" width=50 height=50>|https://github.com/jeanguyomarch/eovim|194|
-|30|<img src="https://github.com/lambdalisue.png" width=50 height=50>|https://github.com/lambdalisue/vim-nerdfont|143|
+|30|<img src="https://github.com/lambdalisue.png" width=50 height=50>|https://github.com/lambdalisue/vim-nerdfont|144|
 |31|<img src="https://github.com/ilyachur.png" width=50 height=50>|https://github.com/ilyachur/cmake4vim|130|
 |32|<img src="https://github.com/lambdalisue.png" width=50 height=50>|https://github.com/lambdalisue/vim-glyph-palette|129|
 |33|<img src="https://github.com/preservim.png" width=50 height=50>|https://github.com/preservim/vim-textobj-quote|124|
@@ -59,7 +59,7 @@
 |36|<img src="https://github.com/prabirshrestha.png" width=50 height=50>|https://github.com/prabirshrestha/quickpick.vim|80|
 |37|<img src="https://github.com/lambdalisue.png" width=50 height=50>|https://github.com/lambdalisue/vim-reword|45|
 |38|<img src="https://github.com/vim-pandoc.png" width=50 height=50>|https://github.com/vim-pandoc/vim-markdownfootnotes|37|
-|39|<img src="https://github.com/tridactyl.png" width=50 height=50>|https://github.com/tridactyl/vim-tridactyl|35|
+|39|<img src="https://github.com/tridactyl.png" width=50 height=50>|https://github.com/tridactyl/vim-tridactyl|34|
 |40|<img src="https://github.com/prabirshrestha.png" width=50 height=50>|https://github.com/prabirshrestha/callbag.vim|29|
 |41|<img src="https://github.com/lambdalisue.png" width=50 height=50>|https://github.com/lambdalisue/vital-Whisky|28|
 |42|<img src="https://github.com/ryicoh.png" width=50 height=50>|https://github.com/ryicoh/deepl.vim|25|

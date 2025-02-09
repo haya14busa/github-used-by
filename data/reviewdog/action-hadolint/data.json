@@ -4,43 +4,43 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 73110
+      "stars": 73212
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13376
+      "stars": 13393
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 6510
+      "stars": 6531
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 6416
+      "stars": 6419
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 3722
+      "stars": 3752
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
-      "stars": 2967
+      "stars": 2969
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1861
+      "stars": 1867
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1704
+      "stars": 1708
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1563
+      "stars": 1565
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1274
+      "stars": 1279
     },
     {
       "url": "https://github.com/truecharts/public",
@@ -48,11 +48,11 @@
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 1143
+      "stars": 1145
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 800
+      "stars": 801
     },
     {
       "url": "https://github.com/K-Phoen/dark",
@@ -60,15 +60,15 @@
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 408
+      "stars": 409
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
-      "stars": 337
+      "stars": 338
     },
     {
       "url": "https://github.com/KCarretto/paragon",
-      "stars": 297
+      "stars": 298
     },
     {
       "url": "https://github.com/bgruening/docker-galaxy",
@@ -88,7 +88,7 @@
     },
     {
       "url": "https://github.com/dadrus/heimdall",
-      "stars": 158
+      "stars": 163
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -107,15 +107,15 @@
       "stars": 89
     },
     {
-      "url": "https://github.com/LFPy/LFPy",
+      "url": "https://github.com/agilepathway/label-checker",
       "stars": 79
     },
     {
-      "url": "https://github.com/rickstaa/action-create-tag",
+      "url": "https://github.com/LFPy/LFPy",
       "stars": 78
     },
     {
-      "url": "https://github.com/agilepathway/label-checker",
+      "url": "https://github.com/rickstaa/action-create-tag",
       "stars": 78
     },
     {
@@ -124,7 +124,7 @@
     },
     {
       "url": "https://github.com/Drakkar-Software/Triangular-Arbitrage",
-      "stars": 74
+      "stars": 76
     },
     {
       "url": "https://github.com/akunzai/GSS.Authentication.CAS",
@@ -199,11 +199,11 @@
       "stars": 23
     },
     {
-      "url": "https://github.com/Drakkar-Software/OctoBot-Script",
-      "stars": 22
+      "url": "https://github.com/dbelyaev/action-checkstyle",
+      "stars": 23
     },
     {
-      "url": "https://github.com/dbelyaev/action-checkstyle",
+      "url": "https://github.com/Drakkar-Software/OctoBot-Script",
       "stars": 22
     },
     {
@@ -263,6 +263,10 @@
       "stars": 12
     },
     {
+      "url": "https://github.com/ccdc-opensource/dash",
+      "stars": 12
+    },
+    {
       "url": "https://github.com/vbouchaud/nfs-client-provisioner",
       "stars": 12
     },
@@ -277,10 +281,6 @@
     {
       "url": "https://github.com/sksat/kuso-subdomain-adder",
       "stars": 12
-    },
-    {
-      "url": "https://github.com/ccdc-opensource/dash",
-      "stars": 11
     },
     {
       "url": "https://github.com/timoa/secure-go-backend-clean-architecture",
@@ -301,6 +301,10 @@
     {
       "url": "https://github.com/jwillker/debug",
       "stars": 11
+    },
+    {
+      "url": "https://github.com/basedosdados/backend",
+      "stars": 10
     },
     {
       "url": "https://github.com/nutanix-cloud-native/cluster-api-runtime-extensions-nutanix",
@@ -329,10 +333,6 @@
     {
       "url": "https://github.com/reviewdog/action-nimlint",
       "stars": 10
-    },
-    {
-      "url": "https://github.com/basedosdados/backend",
-      "stars": 9
     },
     {
       "url": "https://github.com/sammcj/smart_diskinfo",
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 1933,
+    "total": 1935,
     "public": 1315,
-    "private": 618,
-    "more_than_zero_star": 342
+    "private": 620,
+    "more_than_zero_star": 341
   }
 }

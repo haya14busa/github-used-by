@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8123
+      "stars": 8140
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7543
+      "stars": 7546
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1563
+      "stars": 1565
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
@@ -20,27 +20,31 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 975
+      "stars": 976
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 921
+      "stars": 925
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 558
+      "stars": 574
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 533
+      "stars": 539
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 529
+      "stars": 533
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 287
+      "stars": 316
+    },
+    {
+      "url": "https://github.com/ipfs/ipfs-docs",
+      "stars": 304
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -52,11 +56,11 @@
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
-      "stars": 146
+      "stars": 147
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
-      "stars": 142
+      "stars": 143
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
@@ -64,11 +68,11 @@
     },
     {
       "url": "https://github.com/mszostok/version",
-      "stars": 103
+      "stars": 105
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 95
+      "stars": 98
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
@@ -79,16 +83,16 @@
       "stars": 81
     },
     {
+      "url": "https://github.com/agilepathway/label-checker",
+      "stars": 79
+    },
+    {
       "url": "https://github.com/capactio/capact",
       "stars": 79
     },
     {
-      "url": "https://github.com/agilepathway/label-checker",
-      "stars": 78
-    },
-    {
       "url": "https://github.com/GStones/moke-kit",
-      "stars": 73
+      "stars": 74
     },
     {
       "url": "https://github.com/codewars/docs",
@@ -104,7 +108,7 @@
     },
     {
       "url": "https://github.com/pkosiec/website",
-      "stars": 30
+      "stars": 32
     },
     {
       "url": "https://github.com/ZeroAssumptions/aide-de-camp",
@@ -212,9 +216,9 @@
     }
   ],
   "count": {
-    "total": 383,
-    "public": 239,
+    "total": 384,
+    "public": 240,
     "private": 144,
-    "more_than_zero_star": 101
+    "more_than_zero_star": 102
   }
 }
