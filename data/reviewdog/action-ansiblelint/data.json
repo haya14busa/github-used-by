@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/galaxyproject/ansible-postgresql",
-      "stars": 124
+      "stars": 123
     },
     {
       "url": "https://github.com/galaxyproject/ansible-slurm",
-      "stars": 91
+      "stars": 92
     },
     {
       "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",

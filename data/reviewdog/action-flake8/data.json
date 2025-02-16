@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 73212
+      "stars": 73478
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7014
+      "stars": 7021
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -16,15 +16,15 @@
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 642
+      "stars": 644
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 529
+      "stars": 530
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
-      "stars": 528
+      "stars": 529
     },
     {
       "url": "https://github.com/PersiaML/PERSIA",
@@ -32,19 +32,19 @@
     },
     {
       "url": "https://github.com/PAhelper/PhoenixAdult.bundle",
-      "stars": 362
+      "stars": 363
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
       "stars": 192
     },
     {
-      "url": "https://github.com/libcgroup/libcgroup",
+      "url": "https://github.com/f0uriest/interpax",
       "stars": 157
     },
     {
-      "url": "https://github.com/f0uriest/interpax",
-      "stars": 151
+      "url": "https://github.com/libcgroup/libcgroup",
+      "stars": 157
     },
     {
       "url": "https://github.com/TrangPham/django-admin-confirm",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/ehpor/hcipy",
-      "stars": 102
+      "stars": 103
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
@@ -68,7 +68,7 @@
     },
     {
       "url": "https://github.com/LFPy/LFPy",
-      "stars": 78
+      "stars": 79
     },
     {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
@@ -76,18 +76,18 @@
     },
     {
       "url": "https://github.com/ydb-platform/nbs",
-      "stars": 61
+      "stars": 62
     },
     {
       "url": "https://github.com/oracle/adaptivemm",
       "stars": 55
     },
     {
-      "url": "https://github.com/f0uriest/quadax",
-      "stars": 53
+      "url": "https://github.com/ThePornDatabase/scrapers",
+      "stars": 54
     },
     {
-      "url": "https://github.com/ThePornDatabase/scrapers",
+      "url": "https://github.com/f0uriest/quadax",
       "stars": 53
     },
     {
@@ -95,20 +95,20 @@
       "stars": 52
     },
     {
+      "url": "https://github.com/rickstaa/ros-gazebo-gym",
+      "stars": 36
+    },
+    {
       "url": "https://github.com/Open-Model-Initiative/OMI-Data-Pipeline",
       "stars": 35
     },
     {
-      "url": "https://github.com/rickstaa/ros-gazebo-gym",
-      "stars": 35
+      "url": "https://github.com/comorment/containers",
+      "stars": 28
     },
     {
       "url": "https://github.com/ZPascal/grafana_api_sdk",
       "stars": 28
-    },
-    {
-      "url": "https://github.com/comorment/containers",
-      "stars": 27
     },
     {
       "url": "https://github.com/DirtyRacer1337/PhoenixAdult.bundle",
@@ -187,6 +187,10 @@
       "stars": 6
     },
     {
+      "url": "https://github.com/Police-Data-Accessibility-Project/data-sources-app",
+      "stars": 5
+    },
+    {
       "url": "https://github.com/Police-Data-Accessibility-Project/data-source-identification",
       "stars": 5
     },
@@ -204,9 +208,9 @@
     }
   ],
   "count": {
-    "total": 443,
-    "public": 319,
-    "private": 124,
+    "total": 444,
+    "public": 318,
+    "private": 126,
     "more_than_zero_star": 122
   }
 }

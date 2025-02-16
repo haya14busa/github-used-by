@@ -12,7 +12,7 @@
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
-      "stars": 1214
+      "stars": 1218
     },
     {
       "url": "https://github.com/h3poteto/whalebird-desktop",
@@ -20,11 +20,11 @@
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 272
+      "stars": 273
     },
     {
       "url": "https://github.com/th0th/poeticmetric",
-      "stars": 248
+      "stars": 249
     },
     {
       "url": "https://github.com/modx-pro/miniShop2",
@@ -36,7 +36,7 @@
     },
     {
       "url": "https://github.com/10up/10up-experience",
-      "stars": 131
+      "stars": 132
     },
     {
       "url": "https://github.com/department-of-veterans-affairs/va.gov-cms",
@@ -204,8 +204,8 @@
     }
   ],
   "count": {
-    "total": 484,
-    "public": 365,
+    "total": 485,
+    "public": 366,
     "private": 119,
     "more_than_zero_star": 93
   }

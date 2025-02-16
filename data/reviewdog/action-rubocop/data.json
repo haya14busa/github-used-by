@@ -4,31 +4,31 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 9828
+      "stars": 9862
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9540
+      "stars": 9546
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 2880
+      "stars": 2898
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2771
+      "stars": 2772
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
-      "stars": 2701
+      "stars": 2700
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2356
+      "stars": 2360
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1462
+      "stars": 1467
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -36,35 +36,35 @@
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1147
+      "stars": 1153
     },
     {
       "url": "https://github.com/activeadmin/arbre",
-      "stars": 771
+      "stars": 773
     },
     {
       "url": "https://github.com/zilverline/sequent",
-      "stars": 545
+      "stars": 544
     },
     {
       "url": "https://github.com/mysociety/alaveteli",
-      "stars": 391
+      "stars": 393
     },
     {
       "url": "https://github.com/YusukeIwaki/puppeteer-ruby",
-      "stars": 297
+      "stars": 299
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 272
+      "stars": 273
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
-      "stars": 200
+      "stars": 201
     },
     {
       "url": "https://github.com/vmware/dod-compliance-and-automation",
-      "stars": 159
+      "stars": 161
     },
     {
       "url": "https://github.com/ytti/oxidized-web",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://github.com/Drieam/rspec-github",
-      "stars": 71
+      "stars": 72
     },
     {
       "url": "https://github.com/openHPI/codeocean",
@@ -125,10 +125,6 @@
     {
       "url": "https://github.com/mysociety/whatdotheyknow-theme",
       "stars": 31
-    },
-    {
-      "url": "https://github.com/cloudfoundry/app-autoscaler-release",
-      "stars": 28
     },
     {
       "url": "https://github.com/workato/workato-connector-sdk",
@@ -239,6 +235,10 @@
       "stars": 6
     },
     {
+      "url": "https://github.com/goodscary/firstrubyfriend",
+      "stars": 6
+    },
+    {
       "url": "https://github.com/ayarotsky/rack-shield",
       "stars": 6
     },
@@ -247,7 +247,7 @@
       "stars": 6
     },
     {
-      "url": "https://github.com/goodscary/firstrubyfriend",
+      "url": "https://github.com/berkeley-cdss/berkeley-class-site",
       "stars": 5
     },
     {
@@ -280,9 +280,9 @@
     }
   ],
   "count": {
-    "total": 685,
-    "public": 489,
-    "private": 196,
+    "total": 689,
+    "public": 491,
+    "private": 198,
     "more_than_zero_star": 157
   }
 }

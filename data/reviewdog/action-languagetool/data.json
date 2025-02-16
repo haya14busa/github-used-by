@@ -4,47 +4,47 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8140
+      "stars": 8148
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7546
+      "stars": 7548
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1565
+      "stars": 1570
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1136
+      "stars": 1137
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 976
+      "stars": 981
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 925
+      "stars": 927
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 574
+      "stars": 601
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 539
+      "stars": 548
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 533
+      "stars": 537
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 316
+      "stars": 322
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
-      "stars": 304
+      "stars": 305
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
-      "stars": 147
+      "stars": 146
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/pheature-flags/pheature-flags",
-      "stars": 81
+      "stars": 82
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
@@ -203,6 +203,10 @@
       "stars": 5
     },
     {
+      "url": "https://github.com/jeertmans/jeertmans.github.io",
+      "stars": 5
+    },
+    {
       "url": "https://github.com/stakater/employee-handbook",
       "stars": 5
     },
@@ -216,8 +220,8 @@
     }
   ],
   "count": {
-    "total": 384,
-    "public": 240,
+    "total": 388,
+    "public": 244,
     "private": 144,
     "more_than_zero_star": 102
   }
