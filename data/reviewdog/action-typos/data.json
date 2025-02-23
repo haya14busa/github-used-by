@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8148
+      "stars": 8169
     },
     {
       "url": "https://github.com/halostatue/diff-lcs",
@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/xeho91/js-ast",
-      "stars": 11
+      "stars": 12
     },
     {
       "url": "https://github.com/svelte-docgen/svelte-docgen",
@@ -32,9 +32,9 @@
     }
   ],
   "count": {
-    "total": 20,
-    "public": 15,
+    "total": 21,
+    "public": 16,
     "private": 5,
-    "more_than_zero_star": 10
+    "more_than_zero_star": 11
   }
 }

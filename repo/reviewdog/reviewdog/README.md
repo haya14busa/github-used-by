@@ -21,11 +21,11 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/FerretDB.png" width=50 height=50>|https://github.com/FerretDB/FerretDB|9583|
-|2|<img src="https://github.com/go-reform.png" width=50 height=50>|https://github.com/go-reform/reform|1444|
-|3|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/mongodb_exporter|1226|
-|4|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/pmm|725|
-|5|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/everest|276|
+|1|<img src="https://github.com/FerretDB.png" width=50 height=50>|https://github.com/FerretDB/FerretDB|9612|
+|2|<img src="https://github.com/go-reform.png" width=50 height=50>|https://github.com/go-reform/reform|1445|
+|3|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/mongodb_exporter|1225|
+|4|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/pmm|731|
+|5|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/everest|277|
 |6|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/proxysql_exporter|106|
 |7|<img src="https://github.com/elastic.png" width=50 height=50>|https://github.com/elastic/fleet-server|91|
 |8|<img src="https://github.com/elastic.png" width=50 height=50>|https://github.com/elastic/Machinebeat|75|
@@ -36,11 +36,11 @@
 |13|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/pmm-managed|36|
 |14|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/pmm-agent|35|
 |15|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/everest-operator|31|
-|16|<img src="https://github.com/hatappi.png" width=50 height=50>|https://github.com/hatappi/gomodoro|25|
+|16|<img src="https://github.com/hatappi.png" width=50 height=50>|https://github.com/hatappi/gomodoro|26|
 |17|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/promconfig|22|
 |18|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/percona-everest-backend|17|
 |19|<img src="https://github.com/kazuminn.png" width=50 height=50>|https://github.com/kazuminn/vulsbeat|17|
-|20|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/postgres_exporter|15|
+|20|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/postgres_exporter|16|
 |21|<img src="https://github.com/SAP.png" width=50 height=50>|https://github.com/SAP/sap-hana-compatibility-layer-for-mongodb-wire-protocol|14|
 |22|<img src="https://github.com/micnncim.png" width=50 height=50>|https://github.com/micnncim/bitbrew|11|
 |23|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/qan-api2|11|

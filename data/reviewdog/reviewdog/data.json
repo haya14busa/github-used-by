@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/FerretDB/FerretDB",
-      "stars": 9583
+      "stars": 9612
     },
     {
       "url": "https://github.com/go-reform/reform",
-      "stars": 1444
+      "stars": 1445
     },
     {
       "url": "https://github.com/percona/mongodb_exporter",
-      "stars": 1226
+      "stars": 1225
     },
     {
       "url": "https://github.com/percona/pmm",
-      "stars": 725
+      "stars": 731
     },
     {
       "url": "https://github.com/percona/everest",
-      "stars": 276
+      "stars": 277
     },
     {
       "url": "https://github.com/percona/proxysql_exporter",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/hatappi/gomodoro",
-      "stars": 25
+      "stars": 26
     },
     {
       "url": "https://github.com/percona/promconfig",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/percona/postgres_exporter",
-      "stars": 15
+      "stars": 16
     },
     {
       "url": "https://github.com/SAP/sap-hana-compatibility-layer-for-mongodb-wire-protocol",

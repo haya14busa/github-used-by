@@ -4,31 +4,31 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 9862
+      "stars": 9913
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9546
+      "stars": 9550
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 2898
+      "stars": 2906
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2772
+      "stars": 2775
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
-      "stars": 2700
+      "stars": 2702
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2360
+      "stars": 2361
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1467
+      "stars": 1471
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -36,7 +36,7 @@
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1153
+      "stars": 1157
     },
     {
       "url": "https://github.com/activeadmin/arbre",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 273
+      "stars": 275
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
@@ -112,7 +112,7 @@
     },
     {
       "url": "https://github.com/machinio/solrb",
-      "stars": 39
+      "stars": 40
     },
     {
       "url": "https://github.com/discorb-lib/discorb",
@@ -280,8 +280,8 @@
     }
   ],
   "count": {
-    "total": 689,
-    "public": 491,
+    "total": 690,
+    "public": 492,
     "private": 198,
     "more_than_zero_star": 157
   }

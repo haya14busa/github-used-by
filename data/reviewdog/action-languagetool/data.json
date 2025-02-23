@@ -4,43 +4,43 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8148
+      "stars": 8169
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7548
+      "stars": 7553
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1570
+      "stars": 1573
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1137
+      "stars": 1140
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 981
+      "stars": 984
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 927
+      "stars": 930
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 601
+      "stars": 628
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 548
+      "stars": 556
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 537
+      "stars": 541
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 322
+      "stars": 335
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
-      "stars": 168
+      "stars": 170
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 98
+      "stars": 99
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
-      "stars": 79
+      "stars": 80
     },
     {
       "url": "https://github.com/capactio/capact",
@@ -112,7 +112,7 @@
     },
     {
       "url": "https://github.com/ZeroAssumptions/aide-de-camp",
-      "stars": 30
+      "stars": 31
     },
     {
       "url": "https://github.com/ADE-Scheduler/ADE-Scheduler",
@@ -151,15 +151,15 @@
       "stars": 12
     },
     {
+      "url": "https://github.com/jeertmans/manim-tutorial",
+      "stars": 10
+    },
+    {
       "url": "https://github.com/libp2p/blog",
       "stars": 9
     },
     {
       "url": "https://github.com/liftwizard/liftwizard",
-      "stars": 9
-    },
-    {
-      "url": "https://github.com/jeertmans/manim-tutorial",
       "stars": 9
     },
     {
@@ -211,6 +211,10 @@
       "stars": 5
     },
     {
+      "url": "https://github.com/jeertmans/filesfinder",
+      "stars": 5
+    },
+    {
       "url": "https://github.com/AMS21/Phi",
       "stars": 5
     },
@@ -223,6 +227,6 @@
     "total": 388,
     "public": 244,
     "private": 144,
-    "more_than_zero_star": 102
+    "more_than_zero_star": 103
   }
 }

@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 322 | 178 | 144 | 70 |
+| 323 | 178 | 145 | 70 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-detect-secrets/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-detect-secrets)
@@ -21,10 +21,10 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/4paradigm.png" width=50 height=50>|https://github.com/4paradigm/OpenMLDB|1606|
-|2|<img src="https://github.com/PyPtt.png" width=50 height=50>|https://github.com/PyPtt/PyPtt|701|
+|1|<img src="https://github.com/4paradigm.png" width=50 height=50>|https://github.com/4paradigm/OpenMLDB|1610|
+|2|<img src="https://github.com/PyPtt.png" width=50 height=50>|https://github.com/PyPtt/PyPtt|702|
 |3|<img src="https://github.com/jackpocket.png" width=50 height=50>|https://github.com/jackpocket/android-scratchoff|450|
-|4|<img src="https://github.com/nix-united.png" width=50 height=50>|https://github.com/nix-united/golang-echo-boilerplate|302|
+|4|<img src="https://github.com/nix-united.png" width=50 height=50>|https://github.com/nix-united/golang-echo-boilerplate|303|
 |5|<img src="https://github.com/nix-united.png" width=50 height=50>|https://github.com/nix-united/golang-gin-boilerplate|102|
 |6|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/closeable-map|59|
 |7|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/malli-cli|53|
@@ -38,8 +38,8 @@
 |15|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/smart_diskinfo|9|
 |16|<img src="https://github.com/Badger-Finance.png" width=50 height=50>|https://github.com/Badger-Finance/v2-ui|9|
 |17|<img src="https://github.com/adam-rms.png" width=50 height=50>|https://github.com/adam-rms/app-v2|8|
-|18|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/slava|6|
-|19|<img src="https://github.com/Paradise-Pi.png" width=50 height=50>|https://github.com/Paradise-Pi/ParadisePi|6|
+|18|<img src="https://github.com/Paradise-Pi.png" width=50 height=50>|https://github.com/Paradise-Pi/ParadisePi|7|
+|19|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/slava|6|
 |20|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/druid-opa-authorizer|6|
 |21|<img src="https://github.com/bitjourney.png" width=50 height=50>|https://github.com/bitjourney/ts_assets-rails|5|
 |22|<img src="https://github.com/ctc-uci.png" width=50 height=50>|https://github.com/ctc-uci/stand-up-to-trash-backend|5|

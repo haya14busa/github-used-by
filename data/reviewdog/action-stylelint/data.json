@@ -8,7 +8,7 @@
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2303
+      "stars": 2307
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
@@ -20,11 +20,11 @@
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 273
+      "stars": 275
     },
     {
       "url": "https://github.com/th0th/poeticmetric",
-      "stars": 249
+      "stars": 248
     },
     {
       "url": "https://github.com/modx-pro/miniShop2",
@@ -147,11 +147,15 @@
       "stars": 9
     },
     {
-      "url": "https://github.com/adobecom/dc",
-      "stars": 7
+      "url": "https://github.com/laurentmuller/calculation",
+      "stars": 8
     },
     {
       "url": "https://github.com/MooncellWiki/prts-widgets",
+      "stars": 8
+    },
+    {
+      "url": "https://github.com/adobecom/dc",
       "stars": 7
     },
     {
@@ -204,9 +208,9 @@
     }
   ],
   "count": {
-    "total": 485,
-    "public": 366,
+    "total": 486,
+    "public": 367,
     "private": 119,
-    "more_than_zero_star": 93
+    "more_than_zero_star": 94
   }
 }

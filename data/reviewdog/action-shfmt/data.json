@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 3115
+      "stars": 3247
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 832
+      "stars": 840
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 98
+      "stars": 99
     },
     {
       "url": "https://github.com/jonathanmorley/asdf-pnpm",
@@ -68,7 +68,7 @@
     },
     {
       "url": "https://github.com/UmbrellaDocs/action-linkspector",
-      "stars": 17
+      "stars": 18
     },
     {
       "url": "https://github.com/helpermethod/up",
@@ -100,9 +100,9 @@
     }
   ],
   "count": {
-    "total": 176,
-    "public": 101,
+    "total": 177,
+    "public": 102,
     "private": 75,
-    "more_than_zero_star": 42
+    "more_than_zero_star": 43
   }
 }
