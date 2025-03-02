@@ -4,55 +4,55 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 73572
+      "stars": 73653
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13415
+      "stars": 13429
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 6595
+      "stars": 6622
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 6440
+      "stars": 6451
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 3798
+      "stars": 3817
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
-      "stars": 2974
+      "stars": 2981
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1881
+      "stars": 1887
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1710
+      "stars": 1716
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1573
+      "stars": 1574
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1282
+      "stars": 1287
     },
     {
       "url": "https://github.com/truecharts/public",
-      "stars": 1183
+      "stars": 1187
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 1155
+      "stars": 1161
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 804
+      "stars": 807
     },
     {
       "url": "https://github.com/K-Phoen/dark",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 413
+      "stars": 416
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
@@ -79,12 +79,12 @@
       "stars": 219
     },
     {
-      "url": "https://github.com/raspbernetes/multi-arch-images",
+      "url": "https://github.com/dadrus/heimdall",
       "stars": 173
     },
     {
-      "url": "https://github.com/dadrus/heimdall",
-      "stars": 169
+      "url": "https://github.com/raspbernetes/multi-arch-images",
+      "stars": 173
     },
     {
       "url": "https://github.com/netdata/go.d.plugin",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
-      "stars": 141
+      "stars": 142
     },
     {
       "url": "https://github.com/filipowm/BooGi",
@@ -104,11 +104,15 @@
     },
     {
       "url": "https://github.com/haya14busa/action-bumpr",
-      "stars": 90
+      "stars": 91
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
       "stars": 80
+    },
+    {
+      "url": "https://github.com/Drakkar-Software/Triangular-Arbitrage",
+      "stars": 79
     },
     {
       "url": "https://github.com/LFPy/LFPy",
@@ -123,10 +127,6 @@
       "stars": 78
     },
     {
-      "url": "https://github.com/Drakkar-Software/Triangular-Arbitrage",
-      "stars": 76
-    },
-    {
       "url": "https://github.com/akunzai/GSS.Authentication.CAS",
       "stars": 70
     },
@@ -135,16 +135,16 @@
       "stars": 70
     },
     {
+      "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
+      "stars": 68
+    },
+    {
       "url": "https://github.com/srz-zumix/iutest",
       "stars": 67
     },
     {
       "url": "https://github.com/kscarlett/nginx-log-generator",
       "stars": 67
-    },
-    {
-      "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
-      "stars": 66
     },
     {
       "url": "https://github.com/netdata/kernel-collector",
@@ -160,15 +160,15 @@
     },
     {
       "url": "https://github.com/haya14busa/action-update-semver",
-      "stars": 50
+      "stars": 51
+    },
+    {
+      "url": "https://github.com/rickstaa/action-black",
+      "stars": 41
     },
     {
       "url": "https://github.com/reviewdog/action-languagetool",
       "stars": 41
-    },
-    {
-      "url": "https://github.com/rickstaa/action-black",
-      "stars": 40
     },
     {
       "url": "https://github.com/prefeitura-rio/pipelines",
@@ -231,6 +231,10 @@
       "stars": 17
     },
     {
+      "url": "https://github.com/AnchorFree/ssl-watch",
+      "stars": 15
+    },
+    {
       "url": "https://github.com/aerospike/aerospike-server-enterprise.docker",
       "stars": 15
     },
@@ -243,15 +247,15 @@
       "stars": 15
     },
     {
-      "url": "https://github.com/AnchorFree/ssl-watch",
-      "stars": 14
-    },
-    {
       "url": "https://github.com/device-management-toolkit/console",
       "stars": 13
     },
     {
       "url": "https://github.com/kphrx/noxir",
+      "stars": 13
+    },
+    {
+      "url": "https://github.com/nutanix-cloud-native/cluster-api-runtime-extensions-nutanix",
       "stars": 13
     },
     {
@@ -261,10 +265,6 @@
     {
       "url": "https://github.com/netdata/ebpf-co-re",
       "stars": 13
-    },
-    {
-      "url": "https://github.com/nutanix-cloud-native/cluster-api-runtime-extensions-nutanix",
-      "stars": 12
     },
     {
       "url": "https://github.com/ccdc-opensource/dash",
@@ -307,6 +307,10 @@
       "stars": 11
     },
     {
+      "url": "https://github.com/flobernd/docker-minecraft-ftb",
+      "stars": 10
+    },
+    {
       "url": "https://github.com/basedosdados/backend",
       "stars": 10
     },
@@ -339,10 +343,6 @@
       "stars": 10
     },
     {
-      "url": "https://github.com/flobernd/docker-minecraft-ftb",
-      "stars": 9
-    },
-    {
       "url": "https://github.com/sammcj/smart_diskinfo",
       "stars": 9
     },
@@ -371,20 +371,20 @@
       "stars": 8
     },
     {
+      "url": "https://github.com/mobilecoinofficial/gha-runner",
+      "stars": 8
+    },
+    {
+      "url": "https://github.com/ccdc-opensource/science-paper-rf-machine-learned-scoring-2022",
+      "stars": 8
+    },
+    {
       "url": "https://github.com/cresta/gitdb",
       "stars": 8
     },
     {
       "url": "https://github.com/reviewdog/action-alex",
       "stars": 8
-    },
-    {
-      "url": "https://github.com/mobilecoinofficial/gha-runner",
-      "stars": 7
-    },
-    {
-      "url": "https://github.com/ccdc-opensource/science-paper-rf-machine-learned-scoring-2022",
-      "stars": 7
     },
     {
       "url": "https://github.com/lupinthe14th/axios-redmine",
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 1947,
-    "public": 1325,
+    "total": 1949,
+    "public": 1327,
     "private": 622,
-    "more_than_zero_star": 342
+    "more_than_zero_star": 345
   }
 }

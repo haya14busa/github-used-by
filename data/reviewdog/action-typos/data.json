@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8169
+      "stars": 8185
     },
     {
       "url": "https://github.com/halostatue/diff-lcs",
@@ -17,6 +17,10 @@
     {
       "url": "https://github.com/mime-types/mime-types-data",
       "stars": 46
+    },
+    {
+      "url": "https://github.com/ixm-one/ixm",
+      "stars": 13
     },
     {
       "url": "https://github.com/xeho91/js-ast",

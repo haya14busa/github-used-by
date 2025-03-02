@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 73572
+      "stars": 73653
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7040
+      "stars": 7055
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
-      "stars": 879
+      "stars": 878
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 647
+      "stars": 649
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 533
+      "stars": 534
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 158
+      "stars": 161
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
@@ -60,11 +60,11 @@
     },
     {
       "url": "https://github.com/ehpor/hcipy",
-      "stars": 104
+      "stars": 105
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
-      "stars": 101
+      "stars": 102
     },
     {
       "url": "https://github.com/LFPy/LFPy",
@@ -72,18 +72,18 @@
     },
     {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
-      "stars": 66
+      "stars": 68
     },
     {
       "url": "https://github.com/ydb-platform/nbs",
-      "stars": 63
-    },
-    {
-      "url": "https://github.com/oracle/adaptivemm",
-      "stars": 55
+      "stars": 64
     },
     {
       "url": "https://github.com/ThePornDatabase/scrapers",
+      "stars": 57
+    },
+    {
+      "url": "https://github.com/oracle/adaptivemm",
       "stars": 55
     },
     {
@@ -96,7 +96,7 @@
     },
     {
       "url": "https://github.com/rickstaa/ros-gazebo-gym",
-      "stars": 38
+      "stars": 39
     },
     {
       "url": "https://github.com/Open-Model-Initiative/OMI-Data-Pipeline",
@@ -167,11 +167,11 @@
       "stars": 9
     },
     {
-      "url": "https://github.com/BedrockStreaming/hsdo",
-      "stars": 7
+      "url": "https://github.com/ccdc-opensource/science-paper-rf-machine-learned-scoring-2022",
+      "stars": 8
     },
     {
-      "url": "https://github.com/ccdc-opensource/science-paper-rf-machine-learned-scoring-2022",
+      "url": "https://github.com/BedrockStreaming/hsdo",
       "stars": 7
     },
     {
@@ -211,6 +211,6 @@
     "total": 446,
     "public": 318,
     "private": 128,
-    "more_than_zero_star": 121
+    "more_than_zero_star": 123
   }
 }

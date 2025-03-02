@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/powerhome/playbook",
-      "stars": 30
+      "stars": 32
     },
     {
       "url": "https://github.com/sokusekiya/sokuseki",
@@ -55,6 +55,6 @@
     "total": 113,
     "public": 74,
     "private": 39,
-    "more_than_zero_star": 24
+    "more_than_zero_star": 25
   }
 }

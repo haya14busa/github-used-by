@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/FerretDB/FerretDB",
-      "stars": 9612
+      "stars": 9657
     },
     {
       "url": "https://github.com/go-reform/reform",
@@ -12,15 +12,15 @@
     },
     {
       "url": "https://github.com/percona/mongodb_exporter",
-      "stars": 1225
+      "stars": 1229
     },
     {
       "url": "https://github.com/percona/pmm",
-      "stars": 731
+      "stars": 733
     },
     {
       "url": "https://github.com/percona/everest",
-      "stars": 277
+      "stars": 278
     },
     {
       "url": "https://github.com/percona/proxysql_exporter",
@@ -28,19 +28,19 @@
     },
     {
       "url": "https://github.com/elastic/fleet-server",
-      "stars": 91
+      "stars": 92
     },
     {
       "url": "https://github.com/elastic/Machinebeat",
       "stars": 75
     },
     {
-      "url": "https://github.com/mercari/go-emv-code",
+      "url": "https://github.com/percona/mysqld_exporter",
       "stars": 68
     },
     {
-      "url": "https://github.com/percona/mysqld_exporter",
-      "stars": 67
+      "url": "https://github.com/mercari/go-emv-code",
+      "stars": 68
     },
     {
       "url": "https://github.com/m-mizutani/goast",
@@ -75,12 +75,12 @@
       "stars": 17
     },
     {
-      "url": "https://github.com/kazuminn/vulsbeat",
+      "url": "https://github.com/percona/postgres_exporter",
       "stars": 17
     },
     {
-      "url": "https://github.com/percona/postgres_exporter",
-      "stars": 16
+      "url": "https://github.com/kazuminn/vulsbeat",
+      "stars": 17
     },
     {
       "url": "https://github.com/SAP/sap-hana-compatibility-layer-for-mongodb-wire-protocol",
@@ -144,9 +144,9 @@
     }
   ],
   "count": {
-    "total": 250,
-    "public": 158,
-    "private": 92,
-    "more_than_zero_star": 62
+    "total": 252,
+    "public": 159,
+    "private": 93,
+    "more_than_zero_star": 63
   }
 }

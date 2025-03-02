@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
-      "stars": 2718
+      "stars": 2735
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -52,10 +52,6 @@
     },
     {
       "url": "https://github.com/Vlaaaaaaad/terraform-aws-fargate-refinery",
-      "stars": 10
-    },
-    {
-      "url": "https://github.com/GrantBirki/errbot",
       "stars": 10
     },
     {
@@ -148,9 +144,9 @@
     }
   ],
   "count": {
-    "total": 363,
-    "public": 237,
-    "private": 126,
-    "more_than_zero_star": 101
+    "total": 367,
+    "public": 240,
+    "private": 127,
+    "more_than_zero_star": 100
   }
 }

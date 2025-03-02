@@ -4,43 +4,43 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8169
+      "stars": 8185
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7553
+      "stars": 7557
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1573
+      "stars": 1574
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1140
+      "stars": 1142
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 984
+      "stars": 986
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 930
+      "stars": 932
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 628
+      "stars": 640
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 556
+      "stars": 565
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 541
+      "stars": 544
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 335
+      "stars": 340
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 108
+      "stars": 107
     },
     {
       "url": "https://github.com/mszostok/version",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 99
+      "stars": 100
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
@@ -116,7 +116,7 @@
     },
     {
       "url": "https://github.com/ADE-Scheduler/ADE-Scheduler",
-      "stars": 28
+      "stars": 30
     },
     {
       "url": "https://github.com/jeertmans/untex",

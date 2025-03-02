@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/4paradigm/OpenMLDB",
-      "stars": 1610
+      "stars": 1615
     },
     {
       "url": "https://github.com/PyPtt/PyPtt",
@@ -16,11 +16,11 @@
     },
     {
       "url": "https://github.com/nix-united/golang-echo-boilerplate",
-      "stars": 303
+      "stars": 304
     },
     {
       "url": "https://github.com/nix-united/golang-gin-boilerplate",
-      "stars": 102
+      "stars": 104
     },
     {
       "url": "https://github.com/piotr-yuxuan/closeable-map",
@@ -31,12 +31,12 @@
       "stars": 53
     },
     {
-      "url": "https://github.com/bitjourney/react-simple-image",
-      "stars": 29
+      "url": "https://github.com/adam-rms/adam-rms",
+      "stars": 30
     },
     {
-      "url": "https://github.com/adam-rms/adam-rms",
-      "stars": 28
+      "url": "https://github.com/bitjourney/react-simple-image",
+      "stars": 29
     },
     {
       "url": "https://github.com/piotr-yuxuan/dove",
@@ -100,9 +100,9 @@
     }
   ],
   "count": {
-    "total": 323,
-    "public": 178,
-    "private": 145,
-    "more_than_zero_star": 70
+    "total": 325,
+    "public": 179,
+    "private": 146,
+    "more_than_zero_star": 71
   }
 }

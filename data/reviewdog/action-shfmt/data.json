@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 3247
+      "stars": 3277
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 840
+      "stars": 849
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
@@ -16,7 +16,7 @@
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
-      "stars": 141
+      "stars": 142
     },
     {
       "url": "https://github.com/reviewdog/action-suggester",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 99
+      "stars": 100
     },
     {
       "url": "https://github.com/jonathanmorley/asdf-pnpm",
@@ -100,9 +100,9 @@
     }
   ],
   "count": {
-    "total": 177,
+    "total": 178,
     "public": 102,
-    "private": 75,
+    "private": 76,
     "more_than_zero_star": 43
   }
 }
