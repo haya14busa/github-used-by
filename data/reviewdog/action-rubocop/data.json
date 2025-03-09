@@ -4,31 +4,31 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 9952
+      "stars": 9985
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9553
+      "stars": 9555
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 2907
+      "stars": 2916
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2774
+      "stars": 2771
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
-      "stars": 2704
+      "stars": 2703
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2363
+      "stars": 2361
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1480
+      "stars": 1487
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -40,23 +40,23 @@
     },
     {
       "url": "https://github.com/activeadmin/arbre",
-      "stars": 775
+      "stars": 774
     },
     {
       "url": "https://github.com/zilverline/sequent",
-      "stars": 544
+      "stars": 545
     },
     {
       "url": "https://github.com/mysociety/alaveteli",
-      "stars": 393
+      "stars": 395
     },
     {
       "url": "https://github.com/YusukeIwaki/puppeteer-ruby",
-      "stars": 299
+      "stars": 300
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 276
+      "stars": 278
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/Unleash/unleash-client-ruby",
-      "stars": 57
+      "stars": 58
     },
     {
       "url": "https://github.com/veuelive/veue",
@@ -100,14 +100,14 @@
     },
     {
       "url": "https://github.com/gabriel-dehan/dyson-sphere-blueprints",
-      "stars": 48
-    },
-    {
-      "url": "https://github.com/puzzle/puzzletime",
-      "stars": 47
+      "stars": 49
     },
     {
       "url": "https://github.com/ytti/oxidized-script",
+      "stars": 46
+    },
+    {
+      "url": "https://github.com/puzzle/puzzletime",
       "stars": 46
     },
     {
@@ -280,9 +280,9 @@
     }
   ],
   "count": {
-    "total": 695,
-    "public": 496,
-    "private": 199,
-    "more_than_zero_star": 159
+    "total": 699,
+    "public": 501,
+    "private": 198,
+    "more_than_zero_star": 161
   }
 }

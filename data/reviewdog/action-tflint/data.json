@@ -4,39 +4,39 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1716
+      "stars": 1719
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 908
+      "stars": 916
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
-      "stars": 569
+      "stars": 571
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 541
+      "stars": 542
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 504
+      "stars": 505
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 340
+      "stars": 347
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
-      "stars": 196
+      "stars": 197
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 189
+      "stars": 190
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 147
+      "stars": 150
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/cloudposse/github-actions-workflows",
-      "stars": 35
+      "stars": 36
     },
     {
       "url": "https://github.com/MatthiasScholz/cos",
@@ -115,11 +115,11 @@
       "stars": 11
     },
     {
-      "url": "https://github.com/Vlaaaaaaad/terraform-aws-fargate-refinery",
-      "stars": 10
+      "url": "https://github.com/provectus/sak-incubator",
+      "stars": 11
     },
     {
-      "url": "https://github.com/provectus/sak-incubator",
+      "url": "https://github.com/Vlaaaaaaad/terraform-aws-fargate-refinery",
       "stars": 10
     },
     {
@@ -264,9 +264,9 @@
     }
   ],
   "count": {
-    "total": 635,
-    "public": 392,
-    "private": 243,
+    "total": 644,
+    "public": 402,
+    "private": 242,
     "more_than_zero_star": 164
   }
 }

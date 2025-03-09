@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 73653
+      "stars": 73707
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7055
+      "stars": 7063
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -16,7 +16,7 @@
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 649
+      "stars": 656
     },
     {
       "url": "https://github.com/simpeg/simpeg",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
-      "stars": 531
+      "stars": 533
     },
     {
       "url": "https://github.com/PersiaML/PERSIA",
@@ -32,7 +32,7 @@
     },
     {
       "url": "https://github.com/PAhelper/PhoenixAdult.bundle",
-      "stars": 364
+      "stars": 363
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
@@ -48,7 +48,7 @@
     },
     {
       "url": "https://github.com/TrangPham/django-admin-confirm",
-      "stars": 132
+      "stars": 134
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
-      "stars": 102
+      "stars": 103
     },
     {
       "url": "https://github.com/LFPy/LFPy",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
-      "stars": 68
+      "stars": 69
     },
     {
       "url": "https://github.com/ydb-platform/nbs",
@@ -152,7 +152,7 @@
     },
     {
       "url": "https://github.com/istellartech/GELATO",
-      "stars": 13
+      "stars": 14
     },
     {
       "url": "https://github.com/rickstaa/stable-gym",
@@ -165,6 +165,10 @@
     {
       "url": "https://github.com/stackabletech/spark-operator",
       "stars": 9
+    },
+    {
+      "url": "https://github.com/michaelthomasletts/boto3-refresh-session",
+      "stars": 8
     },
     {
       "url": "https://github.com/ccdc-opensource/science-paper-rf-machine-learned-scoring-2022",
@@ -208,8 +212,8 @@
     }
   ],
   "count": {
-    "total": 446,
-    "public": 318,
+    "total": 448,
+    "public": 320,
     "private": 128,
     "more_than_zero_star": 123
   }

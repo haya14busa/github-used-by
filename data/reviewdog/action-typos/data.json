@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8185
+      "stars": 8210
     },
     {
       "url": "https://github.com/halostatue/diff-lcs",
-      "stars": 288
+      "stars": 289
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",

@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 695 | 496 | 199 | 159 |
+| 699 | 501 | 198 | 161 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-rubocop/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-rubocop)
@@ -21,20 +21,20 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/opf.png" width=50 height=50>|https://github.com/opf/openproject|9952|
-|2|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9553|
-|3|<img src="https://github.com/ytti.png" width=50 height=50>|https://github.com/ytti/oxidized|2907|
-|4|<img src="https://github.com/CartoDB.png" width=50 height=50>|https://github.com/CartoDB/cartodb|2774|
-|5|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/inherited_resources|2704|
-|6|<img src="https://github.com/chromebrew.png" width=50 height=50>|https://github.com/chromebrew/chromebrew|2363|
-|7|<img src="https://github.com/otwcode.png" width=50 height=50>|https://github.com/otwcode/otwarchive|1480|
+|1|<img src="https://github.com/opf.png" width=50 height=50>|https://github.com/opf/openproject|9985|
+|2|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9555|
+|3|<img src="https://github.com/ytti.png" width=50 height=50>|https://github.com/ytti/oxidized|2916|
+|4|<img src="https://github.com/CartoDB.png" width=50 height=50>|https://github.com/CartoDB/cartodb|2771|
+|5|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/inherited_resources|2703|
+|6|<img src="https://github.com/chromebrew.png" width=50 height=50>|https://github.com/chromebrew/chromebrew|2361|
+|7|<img src="https://github.com/otwcode.png" width=50 height=50>|https://github.com/otwcode/otwarchive|1487|
 |8|<img src="https://github.com/k1LoW.png" width=50 height=50>|https://github.com/k1LoW/awspec|1169|
 |9|<img src="https://github.com/openfoodfoundation.png" width=50 height=50>|https://github.com/openfoodfoundation/openfoodnetwork|1158|
-|10|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/arbre|775|
-|11|<img src="https://github.com/zilverline.png" width=50 height=50>|https://github.com/zilverline/sequent|544|
-|12|<img src="https://github.com/mysociety.png" width=50 height=50>|https://github.com/mysociety/alaveteli|393|
-|13|<img src="https://github.com/YusukeIwaki.png" width=50 height=50>|https://github.com/YusukeIwaki/puppeteer-ruby|299|
-|14|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|276|
+|10|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/arbre|774|
+|11|<img src="https://github.com/zilverline.png" width=50 height=50>|https://github.com/zilverline/sequent|545|
+|12|<img src="https://github.com/mysociety.png" width=50 height=50>|https://github.com/mysociety/alaveteli|395|
+|13|<img src="https://github.com/YusukeIwaki.png" width=50 height=50>|https://github.com/YusukeIwaki/puppeteer-ruby|300|
+|14|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|278|
 |15|<img src="https://github.com/Strech.png" width=50 height=50>|https://github.com/Strech/sidekiq-prometheus-exporter|201|
 |16|<img src="https://github.com/vmware.png" width=50 height=50>|https://github.com/vmware/dod-compliance-and-automation|161|
 |17|<img src="https://github.com/ytti.png" width=50 height=50>|https://github.com/ytti/oxidized-web|123|
@@ -43,11 +43,11 @@
 |20|<img src="https://github.com/chanzuckerberg.png" width=50 height=50>|https://github.com/chanzuckerberg/czid-web|84|
 |21|<img src="https://github.com/Drieam.png" width=50 height=50>|https://github.com/Drieam/rspec-github|72|
 |22|<img src="https://github.com/openHPI.png" width=50 height=50>|https://github.com/openHPI/codeocean|66|
-|23|<img src="https://github.com/Unleash.png" width=50 height=50>|https://github.com/Unleash/unleash-client-ruby|57|
+|23|<img src="https://github.com/Unleash.png" width=50 height=50>|https://github.com/Unleash/unleash-client-ruby|58|
 |24|<img src="https://github.com/veuelive.png" width=50 height=50>|https://github.com/veuelive/veue|55|
-|25|<img src="https://github.com/gabriel-dehan.png" width=50 height=50>|https://github.com/gabriel-dehan/dyson-sphere-blueprints|48|
-|26|<img src="https://github.com/puzzle.png" width=50 height=50>|https://github.com/puzzle/puzzletime|47|
-|27|<img src="https://github.com/ytti.png" width=50 height=50>|https://github.com/ytti/oxidized-script|46|
+|25|<img src="https://github.com/gabriel-dehan.png" width=50 height=50>|https://github.com/gabriel-dehan/dyson-sphere-blueprints|49|
+|26|<img src="https://github.com/ytti.png" width=50 height=50>|https://github.com/ytti/oxidized-script|46|
+|27|<img src="https://github.com/puzzle.png" width=50 height=50>|https://github.com/puzzle/puzzletime|46|
 |28|<img src="https://github.com/machinio.png" width=50 height=50>|https://github.com/machinio/solrb|40|
 |29|<img src="https://github.com/discorb-lib.png" width=50 height=50>|https://github.com/discorb-lib/discorb|37|
 |30|<img src="https://github.com/GetStream.png" width=50 height=50>|https://github.com/GetStream/stream-chat-ruby|32|

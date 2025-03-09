@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 446 | 318 | 128 | 123 |
+| 448 | 320 | 128 | 123 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-flake8/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-flake8)
@@ -21,24 +21,24 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/netdata|73653|
-|2|<img src="https://github.com/bndr.png" width=50 height=50>|https://github.com/bndr/pipreqs|7055|
+|1|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/netdata|73707|
+|2|<img src="https://github.com/bndr.png" width=50 height=50>|https://github.com/bndr/pipreqs|7063|
 |3|<img src="https://github.com/BaguaSys.png" width=50 height=50>|https://github.com/BaguaSys/bagua|878|
-|4|<img src="https://github.com/tradingstrategy-ai.png" width=50 height=50>|https://github.com/tradingstrategy-ai/web3-ethereum-defi|649|
+|4|<img src="https://github.com/tradingstrategy-ai.png" width=50 height=50>|https://github.com/tradingstrategy-ai/web3-ethereum-defi|656|
 |5|<img src="https://github.com/simpeg.png" width=50 height=50>|https://github.com/simpeg/simpeg|534|
-|6|<img src="https://github.com/pnuckowski.png" width=50 height=50>|https://github.com/pnuckowski/aioresponses|531|
+|6|<img src="https://github.com/pnuckowski.png" width=50 height=50>|https://github.com/pnuckowski/aioresponses|533|
 |7|<img src="https://github.com/PersiaML.png" width=50 height=50>|https://github.com/PersiaML/PERSIA|402|
-|8|<img src="https://github.com/PAhelper.png" width=50 height=50>|https://github.com/PAhelper/PhoenixAdult.bundle|364|
+|8|<img src="https://github.com/PAhelper.png" width=50 height=50>|https://github.com/PAhelper/PhoenixAdult.bundle|363|
 |9|<img src="https://github.com/ThePornDatabase.png" width=50 height=50>|https://github.com/ThePornDatabase/ThePornDB.bundle|192|
 |10|<img src="https://github.com/f0uriest.png" width=50 height=50>|https://github.com/f0uriest/interpax|161|
 |11|<img src="https://github.com/libcgroup.png" width=50 height=50>|https://github.com/libcgroup/libcgroup|158|
-|12|<img src="https://github.com/TrangPham.png" width=50 height=50>|https://github.com/TrangPham/django-admin-confirm|132|
+|12|<img src="https://github.com/TrangPham.png" width=50 height=50>|https://github.com/TrangPham/django-admin-confirm|134|
 |13|<img src="https://github.com/mangdangroboticsclub.png" width=50 height=50>|https://github.com/mangdangroboticsclub/mini_pupper_ros|110|
 |14|<img src="https://github.com/PlasmaControl.png" width=50 height=50>|https://github.com/PlasmaControl/DESC|109|
 |15|<img src="https://github.com/ehpor.png" width=50 height=50>|https://github.com/ehpor/hcipy|105|
-|16|<img src="https://github.com/fdintino.png" width=50 height=50>|https://github.com/fdintino/pillow-avif-plugin|102|
+|16|<img src="https://github.com/fdintino.png" width=50 height=50>|https://github.com/fdintino/pillow-avif-plugin|103|
 |17|<img src="https://github.com/LFPy.png" width=50 height=50>|https://github.com/LFPy/LFPy|79|
-|18|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/csd-python-api-scripts|68|
+|18|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/csd-python-api-scripts|69|
 |19|<img src="https://github.com/ydb-platform.png" width=50 height=50>|https://github.com/ydb-platform/nbs|64|
 |20|<img src="https://github.com/ThePornDatabase.png" width=50 height=50>|https://github.com/ThePornDatabase/scrapers|57|
 |21|<img src="https://github.com/oracle.png" width=50 height=50>|https://github.com/oracle/adaptivemm|55|
@@ -58,17 +58,18 @@
 |35|<img src="https://github.com/arkedge.png" width=50 height=50>|https://github.com/arkedge/c2a-core|16|
 |36|<img src="https://github.com/f0uriest.png" width=50 height=50>|https://github.com/f0uriest/orthax|15|
 |37|<img src="https://github.com/rickstaa.png" width=50 height=50>|https://github.com/rickstaa/panda-gazebo|15|
-|38|<img src="https://github.com/istellartech.png" width=50 height=50>|https://github.com/istellartech/GELATO|13|
+|38|<img src="https://github.com/istellartech.png" width=50 height=50>|https://github.com/istellartech/GELATO|14|
 |39|<img src="https://github.com/rickstaa.png" width=50 height=50>|https://github.com/rickstaa/stable-gym|12|
 |40|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/dash|12|
 |41|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/spark-operator|9|
-|42|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/science-paper-rf-machine-learned-scoring-2022|8|
-|43|<img src="https://github.com/BedrockStreaming.png" width=50 height=50>|https://github.com/BedrockStreaming/hsdo|7|
-|44|<img src="https://github.com/LFPy.png" width=50 height=50>|https://github.com/LFPy/LFPykit|7|
-|45|<img src="https://github.com/rickstaa.png" width=50 height=50>|https://github.com/rickstaa/stable-learning-control|6|
-|46|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/druid-opa-authorizer|6|
-|47|<img src="https://github.com/Police-Data-Accessibility-Project.png" width=50 height=50>|https://github.com/Police-Data-Accessibility-Project/data-sources-app|5|
-|48|<img src="https://github.com/Police-Data-Accessibility-Project.png" width=50 height=50>|https://github.com/Police-Data-Accessibility-Project/data-source-identification|5|
-|49|<img src="https://github.com/alkemyTech.png" width=50 height=50>|https://github.com/alkemyTech/OT281-python|5|
-|50|<img src="https://github.com/NurOrNuLL.png" width=50 height=50>|https://github.com/NurOrNuLL/ESDP-AP-5-6-TEAM-2|5|
-|51|<img src="https://github.com/LFPy.png" width=50 height=50>|https://github.com/LFPy/LFPykernels|5|
+|42|<img src="https://github.com/michaelthomasletts.png" width=50 height=50>|https://github.com/michaelthomasletts/boto3-refresh-session|8|
+|43|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/science-paper-rf-machine-learned-scoring-2022|8|
+|44|<img src="https://github.com/BedrockStreaming.png" width=50 height=50>|https://github.com/BedrockStreaming/hsdo|7|
+|45|<img src="https://github.com/LFPy.png" width=50 height=50>|https://github.com/LFPy/LFPykit|7|
+|46|<img src="https://github.com/rickstaa.png" width=50 height=50>|https://github.com/rickstaa/stable-learning-control|6|
+|47|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/druid-opa-authorizer|6|
+|48|<img src="https://github.com/Police-Data-Accessibility-Project.png" width=50 height=50>|https://github.com/Police-Data-Accessibility-Project/data-sources-app|5|
+|49|<img src="https://github.com/Police-Data-Accessibility-Project.png" width=50 height=50>|https://github.com/Police-Data-Accessibility-Project/data-source-identification|5|
+|50|<img src="https://github.com/alkemyTech.png" width=50 height=50>|https://github.com/alkemyTech/OT281-python|5|
+|51|<img src="https://github.com/NurOrNuLL.png" width=50 height=50>|https://github.com/NurOrNuLL/ESDP-AP-5-6-TEAM-2|5|
+|52|<img src="https://github.com/LFPy.png" width=50 height=50>|https://github.com/LFPy/LFPykernels|5|
