@@ -4,51 +4,51 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8210
+      "stars": 8242
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7565
+      "stars": 7570
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1576
+      "stars": 1580
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1142
+      "stars": 1143
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 988
+      "stars": 991
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 942
+      "stars": 943
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 645
+      "stars": 672
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 567
+      "stars": 571
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 547
+      "stars": 554
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 347
+      "stars": 355
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
-      "stars": 305
+      "stars": 306
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 257
+      "stars": 271
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -79,16 +79,16 @@
       "stars": 88
     },
     {
+      "url": "https://github.com/GStones/moke-kit",
+      "stars": 82
+    },
+    {
       "url": "https://github.com/pheature-flags/pheature-flags",
       "stars": 82
     },
     {
-      "url": "https://github.com/GStones/moke-kit",
-      "stars": 80
-    },
-    {
       "url": "https://github.com/agilepathway/label-checker",
-      "stars": 80
+      "stars": 81
     },
     {
       "url": "https://github.com/capactio/capact",
@@ -156,11 +156,11 @@
     },
     {
       "url": "https://github.com/jeertmans/manim-tutorial",
-      "stars": 11
+      "stars": 12
     },
     {
       "url": "https://github.com/phoenix-rtos/phoenix-rtos-doc",
-      "stars": 10
+      "stars": 11
     },
     {
       "url": "https://github.com/libp2p/blog",
@@ -171,19 +171,19 @@
       "stars": 9
     },
     {
+      "url": "https://github.com/GoogleCloudPlatform/appengine-cloud-demo-portal",
+      "stars": 9
+    },
+    {
+      "url": "https://github.com/kubeshop/botkube-docs",
+      "stars": 8
+    },
+    {
       "url": "https://github.com/VikeSec/CTF-Infrastructure",
       "stars": 8
     },
     {
-      "url": "https://github.com/GoogleCloudPlatform/appengine-cloud-demo-portal",
-      "stars": 8
-    },
-    {
       "url": "https://github.com/chocolatey/boxstarter.org",
-      "stars": 7
-    },
-    {
-      "url": "https://github.com/kubeshop/botkube-docs",
       "stars": 7
     },
     {
@@ -228,8 +228,8 @@
     }
   ],
   "count": {
-    "total": 389,
-    "public": 245,
+    "total": 390,
+    "public": 246,
     "private": 144,
     "more_than_zero_star": 104
   }

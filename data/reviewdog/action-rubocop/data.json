@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 9985
+      "stars": 10023
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9555
+      "stars": 9557
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 2916
+      "stars": 2919
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2771
+      "stars": 2772
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
@@ -24,11 +24,11 @@
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2361
+      "stars": 2365
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1487
+      "stars": 1491
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -36,11 +36,11 @@
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1158
+      "stars": 1157
     },
     {
       "url": "https://github.com/activeadmin/arbre",
-      "stars": 774
+      "stars": 773
     },
     {
       "url": "https://github.com/zilverline/sequent",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/YusukeIwaki/puppeteer-ruby",
-      "stars": 300
+      "stars": 301
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/vmware/dod-compliance-and-automation",
-      "stars": 161
+      "stars": 163
     },
     {
       "url": "https://github.com/ytti/oxidized-web",
@@ -280,9 +280,9 @@
     }
   ],
   "count": {
-    "total": 699,
-    "public": 501,
-    "private": 198,
-    "more_than_zero_star": 161
+    "total": 700,
+    "public": 499,
+    "private": 201,
+    "more_than_zero_star": 162
   }
 }

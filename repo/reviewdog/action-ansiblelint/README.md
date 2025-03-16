@@ -22,7 +22,7 @@
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
 |1|<img src="https://github.com/galaxyproject.png" width=50 height=50>|https://github.com/galaxyproject/ansible-postgresql|123|
-|2|<img src="https://github.com/galaxyproject.png" width=50 height=50>|https://github.com/galaxyproject/ansible-slurm|96|
+|2|<img src="https://github.com/galaxyproject.png" width=50 height=50>|https://github.com/galaxyproject/ansible-slurm|97|
 |3|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/ansible-role-debloat-windows|17|
 |4|<img src="https://github.com/TerrorSquad.png" width=50 height=50>|https://github.com/TerrorSquad/ansible-post-installation|16|
 |5|<img src="https://github.com/idiv-biodiversity.png" width=50 height=50>|https://github.com/idiv-biodiversity/ansible-role-lmod|15|

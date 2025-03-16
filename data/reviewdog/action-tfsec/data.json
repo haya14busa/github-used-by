@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
-      "stars": 2755
+      "stars": 2769
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -107,6 +107,10 @@
       "stars": 6
     },
     {
+      "url": "https://github.com/rhythmictech/terraform-aws-nexus",
+      "stars": 6
+    },
+    {
       "url": "https://github.com/jharmison-redhat/disconnected-openshift-testbed",
       "stars": 6
     },
@@ -127,10 +131,6 @@
       "stars": 5
     },
     {
-      "url": "https://github.com/rhythmictech/terraform-aws-nexus",
-      "stars": 5
-    },
-    {
       "url": "https://github.com/rhythmictech/terraform-aws-1password-scim-bridge",
       "stars": 5
     },
@@ -145,8 +145,8 @@
   ],
   "count": {
     "total": 375,
-    "public": 247,
-    "private": 128,
+    "public": 246,
+    "private": 129,
     "more_than_zero_star": 100
   }
 }

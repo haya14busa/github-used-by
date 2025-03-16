@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1719
+      "stars": 1721
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 916
+      "stars": 918
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
-      "stars": 571
+      "stars": 572
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
@@ -20,11 +20,11 @@
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 505
+      "stars": 506
     },
     {
       "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 347
+      "stars": 355
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -32,11 +32,11 @@
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 190
+      "stars": 193
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 150
+      "stars": 160
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
@@ -235,6 +235,10 @@
       "stars": 6
     },
     {
+      "url": "https://github.com/rhythmictech/terraform-aws-nexus",
+      "stars": 6
+    },
+    {
       "url": "https://github.com/sammcj/sqs-message-action",
       "stars": 5
     },
@@ -244,10 +248,6 @@
     },
     {
       "url": "https://github.com/rhythmictech/terraform-aws-efs-filesystem",
-      "stars": 5
-    },
-    {
-      "url": "https://github.com/rhythmictech/terraform-aws-nexus",
       "stars": 5
     },
     {

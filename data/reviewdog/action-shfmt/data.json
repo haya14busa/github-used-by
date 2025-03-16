@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 3314
+      "stars": 3348
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 854
+      "stars": 864
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 257
+      "stars": 271
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/reviewdog/action-suggester",
-      "stars": 111
+      "stars": 115
     },
     {
       "url": "https://github.com/jiro4989/setup-nim-action",
@@ -32,7 +32,7 @@
     },
     {
       "url": "https://github.com/jonathanmorley/asdf-pnpm",
-      "stars": 75
+      "stars": 76
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
@@ -51,11 +51,11 @@
       "stars": 44
     },
     {
-      "url": "https://github.com/mongolyy/reviewdog-action-biome",
-      "stars": 42
+      "url": "https://github.com/franzs/fritzbox_upload_certificate",
+      "stars": 43
     },
     {
-      "url": "https://github.com/franzs/fritzbox_upload_certificate",
+      "url": "https://github.com/mongolyy/reviewdog-action-biome",
       "stars": 42
     },
     {
@@ -64,11 +64,11 @@
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-tsc",
-      "stars": 22
+      "stars": 23
     },
     {
       "url": "https://github.com/UmbrellaDocs/action-linkspector",
-      "stars": 18
+      "stars": 19
     },
     {
       "url": "https://github.com/helpermethod/up",
@@ -84,15 +84,15 @@
     },
     {
       "url": "https://github.com/reviewdog/action-ast-grep",
-      "stars": 7
+      "stars": 8
+    },
+    {
+      "url": "https://github.com/reviewdog/action-typos",
+      "stars": 6
     },
     {
       "url": "https://github.com/btkostner/jumar",
       "stars": 6
-    },
-    {
-      "url": "https://github.com/reviewdog/action-typos",
-      "stars": 5
     },
     {
       "url": "https://github.com/AMS21/Phi",
@@ -104,8 +104,8 @@
     }
   ],
   "count": {
-    "total": 178,
-    "public": 102,
+    "total": 179,
+    "public": 103,
     "private": 76,
     "more_than_zero_star": 43
   }

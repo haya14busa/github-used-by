@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 73707
+      "stars": 73797
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13441
+      "stars": 13450
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 6640
+      "stars": 6654
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 6554
+      "stars": 6632
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 3841
+      "stars": 3867
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
@@ -28,27 +28,27 @@
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1888
+      "stars": 1889
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1719
+      "stars": 1721
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1576
+      "stars": 1580
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1289
+      "stars": 1291
     },
     {
       "url": "https://github.com/truecharts/public",
-      "stars": 1189
+      "stars": 1191
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 1165
+      "stars": 1168
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
-      "stars": 345
+      "stars": 344
     },
     {
       "url": "https://github.com/KCarretto/paragon",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/dadrus/heimdall",
-      "stars": 175
+      "stars": 177
     },
     {
       "url": "https://github.com/raspbernetes/multi-arch-images",
@@ -88,7 +88,7 @@
     },
     {
       "url": "https://github.com/netdata/go.d.plugin",
-      "stars": 163
+      "stars": 164
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -108,11 +108,11 @@
     },
     {
       "url": "https://github.com/Drakkar-Software/Triangular-Arbitrage",
-      "stars": 80
+      "stars": 83
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
-      "stars": 80
+      "stars": 81
     },
     {
       "url": "https://github.com/LFPy/LFPy",
@@ -127,16 +127,20 @@
       "stars": 78
     },
     {
+      "url": "https://github.com/vanadium23/kompanion",
+      "stars": 74
+    },
+    {
+      "url": "https://github.com/netdata/community",
+      "stars": 71
+    },
+    {
       "url": "https://github.com/akunzai/GSS.Authentication.CAS",
       "stars": 70
     },
     {
-      "url": "https://github.com/netdata/community",
-      "stars": 70
-    },
-    {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
-      "stars": 69
+      "stars": 70
     },
     {
       "url": "https://github.com/srz-zumix/iutest",
@@ -145,10 +149,6 @@
     {
       "url": "https://github.com/kscarlett/nginx-log-generator",
       "stars": 67
-    },
-    {
-      "url": "https://github.com/vanadium23/kompanion",
-      "stars": 64
     },
     {
       "url": "https://github.com/netdata/kernel-collector",
@@ -180,7 +180,7 @@
     },
     {
       "url": "https://github.com/basedosdados/pipelines",
-      "stars": 34
+      "stars": 35
     },
     {
       "url": "https://github.com/program-world-labs/DDDGo",
@@ -207,11 +207,11 @@
       "stars": 23
     },
     {
-      "url": "https://github.com/Drakkar-Software/OctoBot-Script",
-      "stars": 22
+      "url": "https://github.com/reviewdog/action-template",
+      "stars": 23
     },
     {
-      "url": "https://github.com/reviewdog/action-template",
+      "url": "https://github.com/Drakkar-Software/OctoBot-Script",
       "stars": 22
     },
     {
@@ -224,7 +224,7 @@
     },
     {
       "url": "https://github.com/reviewdog/action-staticcheck",
-      "stars": 19
+      "stars": 20
     },
     {
       "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
@@ -256,10 +256,6 @@
     },
     {
       "url": "https://github.com/kphrx/noxir",
-      "stars": 13
-    },
-    {
-      "url": "https://github.com/nutanix-cloud-native/cluster-api-runtime-extensions-nutanix",
       "stars": 13
     },
     {
@@ -347,6 +343,10 @@
       "stars": 9
     },
     {
+      "url": "https://github.com/ccdc-opensource/science-paper-rf-machine-learned-scoring-2022",
+      "stars": 9
+    },
+    {
       "url": "https://github.com/stackabletech/spark-operator",
       "stars": 9
     },
@@ -379,10 +379,6 @@
       "stars": 8
     },
     {
-      "url": "https://github.com/ccdc-opensource/science-paper-rf-machine-learned-scoring-2022",
-      "stars": 8
-    },
-    {
       "url": "https://github.com/cresta/gitdb",
       "stars": 8
     },
@@ -401,12 +397,16 @@
     {
       "url": "https://github.com/rickstaa/action-contains-tag",
       "stars": 7
+    },
+    {
+      "url": "https://github.com/hrysd/action-php_codesniffer",
+      "stars": 7
     }
   ],
   "count": {
-    "total": 1956,
-    "public": 1334,
-    "private": 622,
+    "total": 1958,
+    "public": 1330,
+    "private": 628,
     "more_than_zero_star": 347
   }
 }

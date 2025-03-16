@@ -8,11 +8,11 @@
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2319
+      "stars": 2326
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
-      "stars": 1218
+      "stars": 1222
     },
     {
       "url": "https://github.com/h3poteto/whalebird-desktop",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/th0th/poeticmetric",
-      "stars": 254
+      "stars": 256
     },
     {
       "url": "https://github.com/modx-pro/miniShop2",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/WPMedia/arc-themes-blocks",
-      "stars": 39
+      "stars": 40
     },
     {
       "url": "https://github.com/DepSpy/depspy",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/nonebot/registry",
-      "stars": 23
+      "stars": 24
     },
     {
       "url": "https://github.com/Lipoic/Lipoic-Frontend",
@@ -107,15 +107,15 @@
       "stars": 15
     },
     {
+      "url": "https://github.com/reviewdog/errorformat-playground",
+      "stars": 13
+    },
+    {
       "url": "https://github.com/ironpeakservices/iron-chart-hugo",
       "stars": 12
     },
     {
       "url": "https://github.com/codeforjapan/remote-patient-monitoring-dashboard",
-      "stars": 12
-    },
-    {
-      "url": "https://github.com/reviewdog/errorformat-playground",
       "stars": 12
     },
     {
@@ -209,8 +209,8 @@
   ],
   "count": {
     "total": 487,
-    "public": 367,
-    "private": 120,
+    "public": 366,
+    "private": 121,
     "more_than_zero_star": 95
   }
 }
