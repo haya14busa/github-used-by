@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 10023
+      "stars": 10066
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9557
+      "stars": 9560
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 2919
+      "stars": 2925
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2772
+      "stars": 2774
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
-      "stars": 2703
+      "stars": 2702
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1491
+      "stars": 1494
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -36,15 +36,15 @@
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1157
+      "stars": 1160
     },
     {
       "url": "https://github.com/activeadmin/arbre",
-      "stars": 773
+      "stars": 775
     },
     {
       "url": "https://github.com/zilverline/sequent",
-      "stars": 545
+      "stars": 546
     },
     {
       "url": "https://github.com/mysociety/alaveteli",
@@ -52,11 +52,11 @@
     },
     {
       "url": "https://github.com/YusukeIwaki/puppeteer-ruby",
-      "stars": 301
+      "stars": 302
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 278
+      "stars": 279
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
@@ -68,7 +68,7 @@
     },
     {
       "url": "https://github.com/ytti/oxidized-web",
-      "stars": 123
+      "stars": 125
     },
     {
       "url": "https://github.com/hlascelles/que-scheduler",
@@ -88,7 +88,7 @@
     },
     {
       "url": "https://github.com/openHPI/codeocean",
-      "stars": 66
+      "stars": 67
     },
     {
       "url": "https://github.com/Unleash/unleash-client-ruby",
@@ -135,11 +135,11 @@
       "stars": 24
     },
     {
-      "url": "https://github.com/mrsool/redis_hash_store",
-      "stars": 22
+      "url": "https://github.com/bitjourney/mato",
+      "stars": 23
     },
     {
-      "url": "https://github.com/bitjourney/mato",
+      "url": "https://github.com/mrsool/redis_hash_store",
       "stars": 22
     },
     {
@@ -164,7 +164,7 @@
     },
     {
       "url": "https://github.com/mihailpozarski/chilean-rutify",
-      "stars": 15
+      "stars": 16
     },
     {
       "url": "https://github.com/vol1ura/Sat_9am_5km",
@@ -280,9 +280,9 @@
     }
   ],
   "count": {
-    "total": 700,
-    "public": 499,
-    "private": 201,
+    "total": 702,
+    "public": 497,
+    "private": 205,
     "more_than_zero_star": 162
   }
 }

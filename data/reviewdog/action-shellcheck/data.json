@@ -4,55 +4,55 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 73797
+      "stars": 73878
     },
     {
       "url": "https://github.com/wechaty/wechaty",
-      "stars": 21238
+      "stars": 21279
     },
     {
       "url": "https://github.com/onnx/onnx",
-      "stars": 18631
+      "stars": 18672
     },
     {
       "url": "https://github.com/microsoft/onnxruntime",
-      "stars": 15986
+      "stars": 16064
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8242
+      "stars": 8272
     },
     {
       "url": "https://github.com/openvinotoolkit/openvino",
-      "stars": 7981
+      "stars": 8014
     },
     {
       "url": "https://github.com/Ralim/IronOS",
-      "stars": 7545
+      "stars": 7556
     },
     {
       "url": "https://github.com/phpmyadmin/phpmyadmin",
-      "stars": 7443
+      "stars": 7450
     },
     {
       "url": "https://github.com/actions/actions-runner-controller",
-      "stars": 5033
+      "stars": 5045
     },
     {
       "url": "https://github.com/flipt-io/flipt",
-      "stars": 4102
+      "stars": 4155
     },
     {
       "url": "https://github.com/hfg-gmuend/openmoji",
-      "stars": 4061
+      "stars": 4063
     },
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 3348
+      "stars": 3377
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
-      "stars": 2985
+      "stars": 2989
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
@@ -60,39 +60,39 @@
     },
     {
       "url": "https://github.com/huan/docker-wechat",
-      "stars": 2299
+      "stars": 2298
     },
     {
       "url": "https://github.com/RichiH/vcsh",
-      "stars": 2204
+      "stars": 2205
     },
     {
       "url": "https://github.com/wabarc/wayback",
-      "stars": 1905
+      "stars": 1911
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1889
+      "stars": 1892
     },
     {
       "url": "https://github.com/microsoft/Olive",
-      "stars": 1820
+      "stars": 1833
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1721
+      "stars": 1728
     },
     {
       "url": "https://github.com/4paradigm/OpenMLDB",
-      "stars": 1622
+      "stars": 1623
     },
     {
       "url": "https://github.com/algorand/go-algorand",
-      "stars": 1387
+      "stars": 1391
     },
     {
       "url": "https://github.com/nextcloud/vm",
-      "stars": 1383
+      "stars": 1387
     },
     {
       "url": "https://github.com/mattn/vim-lsp-settings",
@@ -100,11 +100,11 @@
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1291
+      "stars": 1293
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 1168
+      "stars": 1173
     },
     {
       "url": "https://github.com/controlplaneio/simulator",
@@ -112,7 +112,7 @@
     },
     {
       "url": "https://github.com/IQSS/dataverse",
-      "stars": 923
+      "stars": 927
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
@@ -120,27 +120,27 @@
     },
     {
       "url": "https://github.com/KumarRobotics/kr_autonomous_flight",
-      "stars": 699
+      "stars": 701
     },
     {
       "url": "https://github.com/nipunn1313/mypy-protobuf",
-      "stars": 667
+      "stars": 669
     },
     {
       "url": "https://github.com/ivan-hc/AM",
-      "stars": 652
+      "stars": 659
     },
     {
       "url": "https://github.com/andyholmes/valent",
-      "stars": 640
+      "stars": 643
     },
     {
       "url": "https://github.com/percona/percona-xtradb-cluster-operator",
-      "stars": 561
+      "stars": 563
     },
     {
       "url": "https://github.com/devsecopsmaturitymodel/DevSecOps-MaturityModel",
-      "stars": 520
+      "stars": 521
     },
     {
       "url": "https://github.com/openebs/zfs-localpv",
@@ -148,19 +148,15 @@
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 416
+      "stars": 420
     },
     {
       "url": "https://github.com/island-is/island.is",
-      "stars": 385
+      "stars": 386
     },
     {
       "url": "https://github.com/percona/percona-server-mongodb-operator",
-      "stars": 369
-    },
-    {
-      "url": "https://github.com/grafana/k8s-monitoring-helm",
-      "stars": 355
+      "stars": 372
     },
     {
       "url": "https://github.com/whoan/docker-build-with-cache-action",
@@ -172,7 +168,7 @@
     },
     {
       "url": "https://github.com/microsoft/onnxscript",
-      "stars": 323
+      "stars": 325
     },
     {
       "url": "https://github.com/samaritan-proxy/samaritan",
@@ -184,11 +180,15 @@
     },
     {
       "url": "https://github.com/percona/percona-postgresql-operator",
-      "stars": 311
+      "stars": 312
+    },
+    {
+      "url": "https://github.com/Shemnei/punktf",
+      "stars": 283
     },
     {
       "url": "https://github.com/openebs/lvm-localpv",
-      "stars": 280
+      "stars": 282
     },
     {
       "url": "https://github.com/go-shiori/obelisk",
@@ -199,24 +199,20 @@
       "stars": 276
     },
     {
-      "url": "https://github.com/Shemnei/punktf",
-      "stars": 271
-    },
-    {
       "url": "https://github.com/carpenike/k8s-gitops",
-      "stars": 264
+      "stars": 266
     },
     {
       "url": "https://github.com/meiji163/gh-notify",
       "stars": 247
     },
     {
-      "url": "https://github.com/bgruening/docker-galaxy",
+      "url": "https://github.com/lunchcat/sif",
       "stars": 230
     },
     {
-      "url": "https://github.com/lunchcat/sif",
-      "stars": 229
+      "url": "https://github.com/bgruening/docker-galaxy",
+      "stars": 230
     },
     {
       "url": "https://github.com/rapidfort/community-images",
@@ -224,11 +220,11 @@
     },
     {
       "url": "https://github.com/hadolint/hadolint-action",
-      "stars": 212
+      "stars": 214
     },
     {
       "url": "https://github.com/timusus/Shuttle2",
-      "stars": 211
+      "stars": 210
     },
     {
       "url": "https://github.com/ros-tooling/cross_compile",
@@ -243,16 +239,16 @@
       "stars": 180
     },
     {
+      "url": "https://github.com/tj-actions/verify-changed-files",
+      "stars": 176
+    },
+    {
       "url": "https://github.com/rustdesk/rustdesk-server-pro",
       "stars": 174
     },
     {
       "url": "https://github.com/percona/percona-server-mysql-operator",
-      "stars": 171
-    },
-    {
-      "url": "https://github.com/tj-actions/verify-changed-files",
-      "stars": 171
+      "stars": 172
     },
     {
       "url": "https://github.com/netdata/go.d.plugin",
@@ -276,7 +272,7 @@
     },
     {
       "url": "https://github.com/kroxylicious/kroxylicious",
-      "stars": 152
+      "stars": 154
     },
     {
       "url": "https://github.com/opentibiabr/otservbr-global",
@@ -296,7 +292,7 @@
     },
     {
       "url": "https://github.com/phoenix-rtos/phoenix-rtos-kernel",
-      "stars": 132
+      "stars": 133
     },
     {
       "url": "https://github.com/grml/grml-live",
@@ -307,10 +303,6 @@
       "stars": 118
     },
     {
-      "url": "https://github.com/reviewdog/action-suggester",
-      "stars": 115
-    },
-    {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
       "stars": 115
     },
@@ -319,11 +311,19 @@
       "stars": 115
     },
     {
+      "url": "https://github.com/reviewdog/action-suggester",
+      "stars": 114
+    },
+    {
       "url": "https://github.com/leosuncin/nest-api-example",
       "stars": 113
     },
     {
       "url": "https://github.com/reviewdog/action-tflint",
+      "stars": 111
+    },
+    {
+      "url": "https://github.com/elastic/start-local",
       "stars": 110
     },
     {
@@ -331,23 +331,19 @@
       "stars": 107
     },
     {
-      "url": "https://github.com/elastic/start-local",
-      "stars": 105
-    },
-    {
       "url": "https://github.com/openebs-archive/cstor-operators",
       "stars": 94
     },
     {
       "url": "https://github.com/haya14busa/action-bumpr",
+      "stars": 92
+    },
+    {
+      "url": "https://github.com/tj-actions/eslint-changed-files",
       "stars": 91
     },
     {
       "url": "https://github.com/mosn/htnn",
-      "stars": 90
-    },
-    {
-      "url": "https://github.com/tj-actions/eslint-changed-files",
       "stars": 90
     },
     {
@@ -360,15 +356,15 @@
     },
     {
       "url": "https://github.com/GStones/moke-kit",
-      "stars": 82
+      "stars": 83
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
-      "stars": 81
+      "stars": 82
     },
     {
       "url": "https://github.com/ahgraber/homelab-gitops-k3s",
-      "stars": 80
+      "stars": 81
     },
     {
       "url": "https://github.com/rickstaa/action-create-tag",
@@ -392,21 +388,25 @@
     },
     {
       "url": "https://github.com/reviewdog/action-setup",
-      "stars": 72
+      "stars": 73
     },
     {
       "url": "https://github.com/tsuyoshicho/action-textlint",
-      "stars": 72
+      "stars": 71
     },
     {
       "url": "https://github.com/akunzai/GSS.Authentication.CAS",
       "stars": 70
+    },
+    {
+      "url": "https://github.com/yu-iskw/action-sqlfluff",
+      "stars": 69
     }
   ],
   "count": {
-    "total": 3084,
-    "public": 2088,
-    "private": 996,
-    "more_than_zero_star": 627
+    "total": 3098,
+    "public": 2081,
+    "private": 1017,
+    "more_than_zero_star": 624
   }
 }

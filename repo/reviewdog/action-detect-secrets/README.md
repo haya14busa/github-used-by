@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 327 | 180 | 147 | 72 |
+| 330 | 182 | 148 | 72 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-detect-secrets/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-detect-secrets)
@@ -21,20 +21,20 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/4paradigm.png" width=50 height=50>|https://github.com/4paradigm/OpenMLDB|1622|
-|2|<img src="https://github.com/PyPtt.png" width=50 height=50>|https://github.com/PyPtt/PyPtt|703|
+|1|<img src="https://github.com/4paradigm.png" width=50 height=50>|https://github.com/4paradigm/OpenMLDB|1623|
+|2|<img src="https://github.com/PyPtt.png" width=50 height=50>|https://github.com/PyPtt/PyPtt|704|
 |3|<img src="https://github.com/jackpocket.png" width=50 height=50>|https://github.com/jackpocket/android-scratchoff|450|
 |4|<img src="https://github.com/nix-united.png" width=50 height=50>|https://github.com/nix-united/golang-echo-boilerplate|304|
 |5|<img src="https://github.com/nix-united.png" width=50 height=50>|https://github.com/nix-united/golang-gin-boilerplate|106|
-|6|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/closeable-map|59|
+|6|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/closeable-map|60|
 |7|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/malli-cli|54|
 |8|<img src="https://github.com/adam-rms.png" width=50 height=50>|https://github.com/adam-rms/adam-rms|30|
 |9|<img src="https://github.com/bitjourney.png" width=50 height=50>|https://github.com/bitjourney/react-simple-image|29|
 |10|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/dove|27|
-|11|<img src="https://github.com/bitjourney.png" width=50 height=50>|https://github.com/bitjourney/mato|22|
-|12|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/scripts|15|
+|11|<img src="https://github.com/bitjourney.png" width=50 height=50>|https://github.com/bitjourney/mato|23|
+|12|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/scripts|16|
 |13|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/nabab|13|
-|14|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/zsh-bootstrap|11|
+|14|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/zsh-bootstrap|12|
 |15|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/smart_diskinfo|9|
 |16|<img src="https://github.com/Badger-Finance.png" width=50 height=50>|https://github.com/Badger-Finance/v2-ui|9|
 |17|<img src="https://github.com/adam-rms.png" width=50 height=50>|https://github.com/adam-rms/app-v2|8|

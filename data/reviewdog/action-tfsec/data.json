@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
-      "stars": 2769
+      "stars": 2798
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -32,7 +32,7 @@
     },
     {
       "url": "https://github.com/sammcj/scripts",
-      "stars": 15
+      "stars": 16
     },
     {
       "url": "https://github.com/rhythmictech/terraform-terraform-template",
@@ -43,12 +43,12 @@
       "stars": 13
     },
     {
-      "url": "https://github.com/timoa/homelab",
+      "url": "https://github.com/sammcj/zsh-bootstrap",
       "stars": 12
     },
     {
-      "url": "https://github.com/sammcj/zsh-bootstrap",
-      "stars": 11
+      "url": "https://github.com/timoa/homelab",
+      "stars": 12
     },
     {
       "url": "https://github.com/Vlaaaaaaad/terraform-aws-fargate-refinery",
@@ -144,8 +144,8 @@
     }
   ],
   "count": {
-    "total": 375,
-    "public": 246,
+    "total": 376,
+    "public": 247,
     "private": 129,
     "more_than_zero_star": 100
   }

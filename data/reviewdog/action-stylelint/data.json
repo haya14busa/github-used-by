@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/Tokyo-Metro-Gov/covid19",
-      "stars": 6251
+      "stars": 6250
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2326
+      "stars": 2335
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
-      "stars": 1222
+      "stars": 1223
     },
     {
       "url": "https://github.com/h3poteto/whalebird-desktop",
@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 278
+      "stars": 279
     },
     {
       "url": "https://github.com/th0th/poeticmetric",
@@ -36,7 +36,7 @@
     },
     {
       "url": "https://github.com/10up/10up-experience",
-      "stars": 132
+      "stars": 133
     },
     {
       "url": "https://github.com/department-of-veterans-affairs/va.gov-cms",
@@ -131,6 +131,10 @@
       "stars": 10
     },
     {
+      "url": "https://github.com/MooncellWiki/prts-widgets",
+      "stars": 9
+    },
+    {
       "url": "https://github.com/codeforjapan/remote-patient-monitoring-client",
       "stars": 9
     },
@@ -148,10 +152,6 @@
     },
     {
       "url": "https://github.com/laurentmuller/calculation",
-      "stars": 8
-    },
-    {
-      "url": "https://github.com/MooncellWiki/prts-widgets",
       "stars": 8
     },
     {

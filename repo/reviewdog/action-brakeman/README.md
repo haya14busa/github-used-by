@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 113 | 74 | 39 | 25 |
+| 113 | 73 | 40 | 25 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-brakeman/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-brakeman)
@@ -23,7 +23,7 @@
 | -- | -- | -- | -- | 
 |1|<img src="https://github.com/chanzuckerberg.png" width=50 height=50>|https://github.com/chanzuckerberg/czid-web|84|
 |2|<img src="https://github.com/tricknotes.png" width=50 height=50>|https://github.com/tricknotes/starseeker|82|
-|3|<img src="https://github.com/openHPI.png" width=50 height=50>|https://github.com/openHPI/codeocean|66|
+|3|<img src="https://github.com/openHPI.png" width=50 height=50>|https://github.com/openHPI/codeocean|67|
 |4|<img src="https://github.com/veuelive.png" width=50 height=50>|https://github.com/veuelive/veue|55|
 |5|<img src="https://github.com/rubyforgood.png" width=50 height=50>|https://github.com/rubyforgood/Flaredown|41|
 |6|<img src="https://github.com/powerhome.png" width=50 height=50>|https://github.com/powerhome/playbook|32|

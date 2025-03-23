@@ -4,35 +4,35 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 73797
+      "stars": 73878
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7077
+      "stars": 7095
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
-      "stars": 878
+      "stars": 879
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 659
+      "stars": 660
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 536
+      "stars": 539
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
-      "stars": 535
+      "stars": 536
     },
     {
       "url": "https://github.com/PersiaML/PERSIA",
-      "stars": 402
+      "stars": 401
     },
     {
       "url": "https://github.com/PAhelper/PhoenixAdult.bundle",
-      "stars": 364
+      "stars": 365
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 163
+      "stars": 164
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
@@ -52,15 +52,15 @@
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
-      "stars": 111
+      "stars": 117
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
-      "stars": 110
+      "stars": 112
     },
     {
       "url": "https://github.com/ehpor/hcipy",
-      "stars": 107
+      "stars": 108
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
-      "stars": 70
+      "stars": 71
     },
     {
       "url": "https://github.com/ydb-platform/nbs",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://github.com/oracle/adaptivemm",
-      "stars": 55
+      "stars": 56
     },
     {
       "url": "https://github.com/ut-issl/c2a-core",
@@ -96,18 +96,18 @@
     },
     {
       "url": "https://github.com/rickstaa/ros-gazebo-gym",
-      "stars": 38
+      "stars": 39
     },
     {
       "url": "https://github.com/Open-Model-Initiative/OMI-Data-Pipeline",
       "stars": 35
     },
     {
-      "url": "https://github.com/comorment/containers",
-      "stars": 28
+      "url": "https://github.com/ZPascal/grafana_api_sdk",
+      "stars": 29
     },
     {
-      "url": "https://github.com/ZPascal/grafana_api_sdk",
+      "url": "https://github.com/comorment/containers",
       "stars": 28
     },
     {
@@ -143,11 +143,11 @@
       "stars": 16
     },
     {
-      "url": "https://github.com/f0uriest/orthax",
-      "stars": 15
+      "url": "https://github.com/rickstaa/panda-gazebo",
+      "stars": 16
     },
     {
-      "url": "https://github.com/rickstaa/panda-gazebo",
+      "url": "https://github.com/f0uriest/orthax",
       "stars": 15
     },
     {
@@ -212,9 +212,9 @@
     }
   ],
   "count": {
-    "total": 448,
+    "total": 450,
     "public": 321,
-    "private": 127,
+    "private": 129,
     "more_than_zero_star": 123
   }
 }

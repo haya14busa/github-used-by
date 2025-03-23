@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 375 | 246 | 129 | 100 |
+| 376 | 247 | 129 | 100 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-tfsec/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-tfsec)
@@ -21,18 +21,18 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/kube-hetzner.png" width=50 height=50>|https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner|2769|
+|1|<img src="https://github.com/kube-hetzner.png" width=50 height=50>|https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner|2798|
 |2|<img src="https://github.com/TechToSpeech.png" width=50 height=50>|https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress|197|
 |3|<img src="https://github.com/timoa.png" width=50 height=50>|https://github.com/timoa/terraform-oci-vscode-server|26|
 |4|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-imagebuilder-pipeline|19|
 |5|<img src="https://github.com/GrantBirki.png" width=50 height=50>|https://github.com/GrantBirki/k8s-discord|18|
 |6|<img src="https://github.com/rallyware.png" width=50 height=50>|https://github.com/rallyware/terraform-argocd-aws-eks-cluster-bootstrap|18|
 |7|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-secure-password|18|
-|8|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/scripts|15|
+|8|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/scripts|16|
 |9|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-terraform-template|14|
 |10|<img src="https://github.com/rribeiro1.png" width=50 height=50>|https://github.com/rribeiro1/terraform-aws-budget-alarms|13|
-|11|<img src="https://github.com/timoa.png" width=50 height=50>|https://github.com/timoa/homelab|12|
-|12|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/zsh-bootstrap|11|
+|11|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/zsh-bootstrap|12|
+|12|<img src="https://github.com/timoa.png" width=50 height=50>|https://github.com/timoa/homelab|12|
 |13|<img src="https://github.com/Vlaaaaaaad.png" width=50 height=50>|https://github.com/Vlaaaaaaad/terraform-aws-fargate-refinery|10|
 |14|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/smart_diskinfo|9|
 |15|<img src="https://github.com/liatrio.png" width=50 height=50>|https://github.com/liatrio/terraform-caf-azure|9|

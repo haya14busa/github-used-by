@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 3348
+      "stars": 3377
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 864
+      "stars": 871
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 271
+      "stars": 283
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
-      "stars": 162
+      "stars": 161
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/reviewdog/action-suggester",
-      "stars": 115
+      "stars": 114
     },
     {
       "url": "https://github.com/jiro4989/setup-nim-action",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-prettier",
-      "stars": 24
+      "stars": 23
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-tsc",
@@ -87,12 +87,12 @@
       "stars": 8
     },
     {
-      "url": "https://github.com/reviewdog/action-typos",
+      "url": "https://github.com/btkostner/jumar",
       "stars": 6
     },
     {
-      "url": "https://github.com/btkostner/jumar",
-      "stars": 6
+      "url": "https://github.com/reviewdog/action-typos",
+      "stars": 5
     },
     {
       "url": "https://github.com/AMS21/Phi",
@@ -104,9 +104,9 @@
     }
   ],
   "count": {
-    "total": 179,
-    "public": 103,
-    "private": 76,
+    "total": 180,
+    "public": 102,
+    "private": 78,
     "more_than_zero_star": 43
   }
 }
