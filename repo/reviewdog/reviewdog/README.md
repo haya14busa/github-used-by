@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 256 | 162 | 94 | 63 |
+| 256 | 162 | 94 | 64 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/reviewdog/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/reviewdog)
@@ -21,13 +21,13 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/FerretDB.png" width=50 height=50>|https://github.com/FerretDB/FerretDB|9914|
+|1|<img src="https://github.com/FerretDB.png" width=50 height=50>|https://github.com/FerretDB/FerretDB|9946|
 |2|<img src="https://github.com/go-reform.png" width=50 height=50>|https://github.com/go-reform/reform|1445|
-|3|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/mongodb_exporter|1238|
-|4|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/pmm|739|
-|5|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/everest|285|
+|3|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/mongodb_exporter|1240|
+|4|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/pmm|741|
+|5|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/everest|286|
 |6|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/proxysql_exporter|106|
-|7|<img src="https://github.com/elastic.png" width=50 height=50>|https://github.com/elastic/fleet-server|92|
+|7|<img src="https://github.com/elastic.png" width=50 height=50>|https://github.com/elastic/fleet-server|93|
 |8|<img src="https://github.com/elastic.png" width=50 height=50>|https://github.com/elastic/Machinebeat|75|
 |9|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/mysqld_exporter|68|
 |10|<img src="https://github.com/mercari.png" width=50 height=50>|https://github.com/mercari/go-emv-code|68|
@@ -35,7 +35,7 @@
 |12|<img src="https://github.com/scorestack.png" width=50 height=50>|https://github.com/scorestack/scorestack|41|
 |13|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/pmm-managed|36|
 |14|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/pmm-agent|35|
-|15|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/everest-operator|31|
+|15|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/everest-operator|32|
 |16|<img src="https://github.com/hatappi.png" width=50 height=50>|https://github.com/hatappi/gomodoro|26|
 |17|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/promconfig|22|
 |18|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/percona-everest-backend|17|

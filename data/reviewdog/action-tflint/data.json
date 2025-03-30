@@ -4,35 +4,35 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1728
+      "stars": 1731
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 924
+      "stars": 933
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
-      "stars": 571
+      "stars": 572
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 542
+      "stars": 544
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 508
+      "stars": 511
+    },
+    {
+      "url": "https://github.com/gruberdev/homelab",
+      "stars": 197
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
       "stars": 197
     },
     {
-      "url": "https://github.com/gruberdev/homelab",
-      "stars": 193
-    },
-    {
       "url": "https://github.com/octo-sts/app",
-      "stars": 178
+      "stars": 179
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",

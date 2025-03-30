@@ -8,7 +8,7 @@
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2335
+      "stars": 2346
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
@@ -16,11 +16,11 @@
     },
     {
       "url": "https://github.com/h3poteto/whalebird-desktop",
-      "stars": 917
+      "stars": 918
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 279
+      "stars": 280
     },
     {
       "url": "https://github.com/th0th/poeticmetric",
@@ -208,9 +208,9 @@
     }
   ],
   "count": {
-    "total": 487,
-    "public": 366,
-    "private": 121,
+    "total": 489,
+    "public": 367,
+    "private": 122,
     "more_than_zero_star": 95
   }
 }

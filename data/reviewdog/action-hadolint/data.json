@@ -4,51 +4,51 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 73878
+      "stars": 73931
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13465
+      "stars": 13475
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 6678
+      "stars": 6700
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 6665
+      "stars": 6685
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 3887
+      "stars": 3910
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
-      "stars": 2989
+      "stars": 2991
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1892
+      "stars": 1897
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1728
+      "stars": 1731
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1581
+      "stars": 1582
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1293
+      "stars": 1300
     },
     {
       "url": "https://github.com/truecharts/public",
-      "stars": 1195
+      "stars": 1196
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 1173
+      "stars": 1175
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
@@ -56,15 +56,15 @@
     },
     {
       "url": "https://github.com/K-Phoen/dark",
-      "stars": 431
+      "stars": 432
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 420
+      "stars": 421
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
-      "stars": 347
+      "stars": 351
     },
     {
       "url": "https://github.com/KCarretto/paragon",
@@ -76,11 +76,11 @@
     },
     {
       "url": "https://github.com/openstack-exporter/openstack-exporter",
-      "stars": 220
+      "stars": 221
     },
     {
       "url": "https://github.com/dadrus/heimdall",
-      "stars": 178
+      "stars": 179
     },
     {
       "url": "https://github.com/raspbernetes/multi-arch-images",
@@ -88,7 +88,7 @@
     },
     {
       "url": "https://github.com/netdata/go.d.plugin",
-      "stars": 164
+      "stars": 163
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -111,6 +111,10 @@
       "stars": 85
     },
     {
+      "url": "https://github.com/vanadium23/kompanion",
+      "stars": 82
+    },
+    {
       "url": "https://github.com/agilepathway/label-checker",
       "stars": 82
     },
@@ -123,10 +127,6 @@
       "stars": 79
     },
     {
-      "url": "https://github.com/vanadium23/kompanion",
-      "stars": 78
-    },
-    {
       "url": "https://github.com/ktsaou/netdata",
       "stars": 78
     },
@@ -135,12 +135,12 @@
       "stars": 71
     },
     {
-      "url": "https://github.com/netdata/community",
-      "stars": 71
-    },
-    {
       "url": "https://github.com/akunzai/GSS.Authentication.CAS",
       "stars": 70
+    },
+    {
+      "url": "https://github.com/netdata/community",
+      "stars": 69
     },
     {
       "url": "https://github.com/srz-zumix/iutest",
@@ -207,11 +207,11 @@
       "stars": 23
     },
     {
-      "url": "https://github.com/reviewdog/action-template",
-      "stars": 23
+      "url": "https://github.com/Drakkar-Software/OctoBot-Script",
+      "stars": 22
     },
     {
-      "url": "https://github.com/Drakkar-Software/OctoBot-Script",
+      "url": "https://github.com/reviewdog/action-template",
       "stars": 22
     },
     {
@@ -235,19 +235,19 @@
       "stars": 17
     },
     {
+      "url": "https://github.com/AnchorFree/ssl-watch",
+      "stars": 16
+    },
+    {
       "url": "https://github.com/sammcj/scripts",
       "stars": 16
     },
     {
-      "url": "https://github.com/AnchorFree/ssl-watch",
-      "stars": 15
+      "url": "https://github.com/SovereignCloudStack/openstack-health-monitor",
+      "stars": 16
     },
     {
       "url": "https://github.com/aerospike/aerospike-server-enterprise.docker",
-      "stars": 15
-    },
-    {
-      "url": "https://github.com/SovereignCloudStack/openstack-health-monitor",
       "stars": 15
     },
     {
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 1960,
-    "public": 1329,
-    "private": 631,
-    "more_than_zero_star": 347
+    "total": 1962,
+    "public": 1325,
+    "private": 637,
+    "more_than_zero_star": 345
   }
 }

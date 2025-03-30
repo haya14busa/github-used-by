@@ -8,7 +8,7 @@
     },
     {
       "url": "https://github.com/galaxyproject/ansible-slurm",
-      "stars": 99
+      "stars": 100
     },
     {
       "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/idiv-biodiversity/ansible-role-lmod",
-      "stars": 15
+      "stars": 16
     },
     {
       "url": "https://github.com/galaxyproject/ansible-cvmfs",

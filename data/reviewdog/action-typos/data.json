@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8272
+      "stars": 8284
     },
     {
       "url": "https://github.com/mime-types/ruby-mime-types",
@@ -12,7 +12,7 @@
     },
     {
       "url": "https://github.com/halostatue/diff-lcs",
-      "stars": 289
+      "stars": 290
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://github.com/ixm-one/ixm",
-      "stars": 15
+      "stars": 16
     },
     {
       "url": "https://github.com/xeho91/js-ast",
@@ -44,8 +44,8 @@
     }
   ],
   "count": {
-    "total": 24,
-    "public": 19,
+    "total": 25,
+    "public": 20,
     "private": 5,
     "more_than_zero_star": 13
   }
