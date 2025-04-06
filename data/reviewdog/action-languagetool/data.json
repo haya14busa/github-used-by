@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8284
+      "stars": 8305
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7582
+      "stars": 7585
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1582
+      "stars": 1583
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
@@ -20,31 +20,31 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1002
+      "stars": 1007
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 951
+      "stars": 953
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 707
-    },
-    {
-      "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 578
+      "stars": 714
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 564
+      "stars": 589
+    },
+    {
+      "url": "https://github.com/jeertmans/manim-slides",
+      "stars": 583
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
-      "stars": 307
+      "stars": 308
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 287
+      "stars": 286
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
-      "stars": 170
+      "stars": 171
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
@@ -60,15 +60,15 @@
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
-      "stars": 144
+      "stars": 145
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 108
+      "stars": 109
     },
     {
       "url": "https://github.com/mszostok/version",
-      "stars": 104
+      "stars": 105
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
@@ -79,11 +79,11 @@
       "stars": 84
     },
     {
-      "url": "https://github.com/pheature-flags/pheature-flags",
-      "stars": 82
+      "url": "https://github.com/agilepathway/label-checker",
+      "stars": 83
     },
     {
-      "url": "https://github.com/agilepathway/label-checker",
+      "url": "https://github.com/pheature-flags/pheature-flags",
       "stars": 82
     },
     {
@@ -92,15 +92,15 @@
     },
     {
       "url": "https://github.com/codewars/docs",
-      "stars": 56
+      "stars": 57
     },
     {
       "url": "https://github.com/shopware/docs",
-      "stars": 51
+      "stars": 52
     },
     {
       "url": "https://github.com/jeertmans/rpdf",
-      "stars": 36
+      "stars": 37
     },
     {
       "url": "https://github.com/pkosiec/website",
@@ -120,7 +120,7 @@
     },
     {
       "url": "https://github.com/opentdf/platform",
-      "stars": 22
+      "stars": 23
     },
     {
       "url": "https://github.com/nownabe/go-bqloader",
@@ -183,6 +183,10 @@
       "stars": 7
     },
     {
+      "url": "https://github.com/jeertmans/jeertmans.github.io",
+      "stars": 6
+    },
+    {
       "url": "https://github.com/helpwave/helpwave",
       "stars": 6
     },
@@ -203,10 +207,6 @@
       "stars": 5
     },
     {
-      "url": "https://github.com/jeertmans/jeertmans.github.io",
-      "stars": 5
-    },
-    {
       "url": "https://github.com/stakater/employee-handbook",
       "stars": 5
     },
@@ -224,9 +224,9 @@
     }
   ],
   "count": {
-    "total": 392,
+    "total": 394,
     "public": 246,
-    "private": 146,
+    "private": 148,
     "more_than_zero_star": 103
   }
 }

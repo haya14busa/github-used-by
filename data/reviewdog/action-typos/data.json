@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8284
+      "stars": 8305
     },
     {
       "url": "https://github.com/mime-types/ruby-mime-types",
@@ -12,7 +12,7 @@
     },
     {
       "url": "https://github.com/halostatue/diff-lcs",
-      "stars": 290
+      "stars": 291
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
@@ -36,7 +36,7 @@
     },
     {
       "url": "https://github.com/svelte-docgen/svelte-docgen",
-      "stars": 8
+      "stars": 11
     },
     {
       "url": "https://github.com/uci-f1tenth/uci_f1tenth_workshop",
@@ -44,9 +44,9 @@
     }
   ],
   "count": {
-    "total": 25,
+    "total": 26,
     "public": 20,
-    "private": 5,
-    "more_than_zero_star": 13
+    "private": 6,
+    "more_than_zero_star": 14
   }
 }

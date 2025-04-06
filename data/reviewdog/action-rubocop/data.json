@@ -4,35 +4,35 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 10114
+      "stars": 10285
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9564
+      "stars": 9569
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 2935
+      "stars": 2945
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2773
+      "stars": 2774
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
-      "stars": 2704
+      "stars": 2703
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2367
+      "stars": 2373
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1497
+      "stars": 1498
     },
     {
       "url": "https://github.com/k1LoW/awspec",
-      "stars": 1169
+      "stars": 1170
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/activeadmin/arbre",
-      "stars": 775
+      "stars": 776
     },
     {
       "url": "https://github.com/zilverline/sequent",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 280
+      "stars": 281
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
@@ -76,7 +76,7 @@
     },
     {
       "url": "https://github.com/GetStream/stream-ruby",
-      "stars": 86
+      "stars": 85
     },
     {
       "url": "https://github.com/chanzuckerberg/czid-web",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://github.com/Drieam/rspec-github",
-      "stars": 72
+      "stars": 73
     },
     {
       "url": "https://github.com/openHPI/codeocean",
@@ -280,9 +280,9 @@
     }
   ],
   "count": {
-    "total": 704,
-    "public": 495,
-    "private": 209,
+    "total": 708,
+    "public": 496,
+    "private": 212,
     "more_than_zero_star": 162
   }
 }

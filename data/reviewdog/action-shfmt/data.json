@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 3403
+      "stars": 3432
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 878
+      "stars": 888
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 287
+      "stars": 286
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
-      "stars": 164
+      "stars": 165
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -32,7 +32,7 @@
     },
     {
       "url": "https://github.com/jonathanmorley/asdf-pnpm",
-      "stars": 76
+      "stars": 78
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/yu-iskw/action-sqlfluff",
-      "stars": 69
+      "stars": 68
     },
     {
       "url": "https://github.com/lure-sh/lure-repo",
