@@ -21,14 +21,14 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/magma.png" width=50 height=50>|https://github.com/magma/magma|1732|
-|2|<img src="https://github.com/cloudposse.png" width=50 height=50>|https://github.com/cloudposse/atmos|936|
-|3|<img src="https://github.com/aztfmod.png" width=50 height=50>|https://github.com/aztfmod/terraform-azurerm-caf|573|
-|4|<img src="https://github.com/xunholy.png" width=50 height=50>|https://github.com/xunholy/k8s-gitops|547|
-|5|<img src="https://github.com/chainguard-dev.png" width=50 height=50>|https://github.com/chainguard-dev/malcontent|511|
-|6|<img src="https://github.com/gruberdev.png" width=50 height=50>|https://github.com/gruberdev/homelab|198|
+|1|<img src="https://github.com/magma.png" width=50 height=50>|https://github.com/magma/magma|1734|
+|2|<img src="https://github.com/cloudposse.png" width=50 height=50>|https://github.com/cloudposse/atmos|942|
+|3|<img src="https://github.com/aztfmod.png" width=50 height=50>|https://github.com/aztfmod/terraform-azurerm-caf|575|
+|4|<img src="https://github.com/xunholy.png" width=50 height=50>|https://github.com/xunholy/k8s-gitops|548|
+|5|<img src="https://github.com/chainguard-dev.png" width=50 height=50>|https://github.com/chainguard-dev/malcontent|512|
+|6|<img src="https://github.com/gruberdev.png" width=50 height=50>|https://github.com/gruberdev/homelab|201|
 |7|<img src="https://github.com/TechToSpeech.png" width=50 height=50>|https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress|196|
-|8|<img src="https://github.com/octo-sts.png" width=50 height=50>|https://github.com/octo-sts/app|185|
+|8|<img src="https://github.com/octo-sts.png" width=50 height=50>|https://github.com/octo-sts/app|186|
 |9|<img src="https://github.com/raspbernetes.png" width=50 height=50>|https://github.com/raspbernetes/k8s-cluster-installation|115|
 |10|<img src="https://github.com/provectus.png" width=50 height=50>|https://github.com/provectus/sak-kubeflow|64|
 |11|<img src="https://github.com/GiganticMinecraft.png" width=50 height=50>|https://github.com/GiganticMinecraft/seichi_infra|58|
@@ -45,7 +45,7 @@
 |22|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/scripts|16|
 |23|<img src="https://github.com/SweetOps.png" width=50 height=50>|https://github.com/SweetOps/terraform-google-storage-bucket|16|
 |24|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-terraform-template|14|
-|25|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/zsh-bootstrap|12|
+|25|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/zsh-bootstrap|13|
 |26|<img src="https://github.com/timoa.png" width=50 height=50>|https://github.com/timoa/homelab|12|
 |27|<img src="https://github.com/ExpediaGroup.png" width=50 height=50>|https://github.com/ExpediaGroup/github-webhook-proxy|11|
 |28|<img src="https://github.com/provectus.png" width=50 height=50>|https://github.com/provectus/sak-incubator|11|

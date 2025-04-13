@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8305
+      "stars": 8322
     },
     {
       "url": "https://github.com/mime-types/ruby-mime-types",
-      "stars": 326
+      "stars": 327
     },
     {
       "url": "https://github.com/halostatue/diff-lcs",
@@ -36,7 +36,7 @@
     },
     {
       "url": "https://github.com/svelte-docgen/svelte-docgen",
-      "stars": 11
+      "stars": 12
     },
     {
       "url": "https://github.com/uci-f1tenth/uci_f1tenth_workshop",

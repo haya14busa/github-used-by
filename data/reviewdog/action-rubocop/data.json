@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 10285
+      "stars": 10363
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9569
+      "stars": 9571
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 2945
+      "stars": 2949
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1498
+      "stars": 1506
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -36,7 +36,7 @@
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1161
+      "stars": 1163
     },
     {
       "url": "https://github.com/activeadmin/arbre",
@@ -48,11 +48,11 @@
     },
     {
       "url": "https://github.com/mysociety/alaveteli",
-      "stars": 396
+      "stars": 398
     },
     {
       "url": "https://github.com/YusukeIwaki/puppeteer-ruby",
-      "stars": 302
+      "stars": 303
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/vmware/dod-compliance-and-automation",
-      "stars": 165
+      "stars": 164
     },
     {
       "url": "https://github.com/ytti/oxidized-web",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/Unleash/unleash-client-ruby",
-      "stars": 58
+      "stars": 59
     },
     {
       "url": "https://github.com/veuelive/veue",
@@ -151,15 +151,15 @@
       "stars": 18
     },
     {
+      "url": "https://github.com/fog/fog-libvirt",
+      "stars": 18
+    },
+    {
       "url": "https://github.com/RaiderHQ/ruby_raider",
       "stars": 17
     },
     {
       "url": "https://github.com/oddcamp/mrml-rails",
-      "stars": 17
-    },
-    {
-      "url": "https://github.com/fog/fog-libvirt",
       "stars": 17
     },
     {
@@ -281,8 +281,8 @@
   ],
   "count": {
     "total": 708,
-    "public": 496,
-    "private": 212,
+    "public": 498,
+    "private": 210,
     "more_than_zero_star": 162
   }
 }

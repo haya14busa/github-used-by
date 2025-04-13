@@ -8,15 +8,15 @@
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2356
+      "stars": 2383
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
-      "stars": 1224
+      "stars": 1225
     },
     {
       "url": "https://github.com/h3poteto/whalebird-desktop",
-      "stars": 918
+      "stars": 919
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/th0th/poeticmetric",
-      "stars": 257
+      "stars": 259
     },
     {
       "url": "https://github.com/modx-pro/miniShop2",
@@ -208,9 +208,9 @@
     }
   ],
   "count": {
-    "total": 491,
-    "public": 368,
-    "private": 123,
+    "total": 492,
+    "public": 367,
+    "private": 125,
     "more_than_zero_star": 95
   }
 }

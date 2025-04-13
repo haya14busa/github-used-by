@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/4paradigm/OpenMLDB",
-      "stars": 1622
+      "stars": 1624
     },
     {
       "url": "https://github.com/PyPtt/PyPtt",
@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/nix-united/golang-gin-boilerplate",
-      "stars": 107
+      "stars": 108
     },
     {
       "url": "https://github.com/piotr-yuxuan/closeable-map",
@@ -51,12 +51,12 @@
       "stars": 16
     },
     {
-      "url": "https://github.com/piotr-yuxuan/nabab",
+      "url": "https://github.com/sammcj/zsh-bootstrap",
       "stars": 13
     },
     {
-      "url": "https://github.com/sammcj/zsh-bootstrap",
-      "stars": 12
+      "url": "https://github.com/piotr-yuxuan/nabab",
+      "stars": 13
     },
     {
       "url": "https://github.com/sammcj/smart_diskinfo",
@@ -100,8 +100,8 @@
     }
   ],
   "count": {
-    "total": 330,
-    "public": 182,
+    "total": 333,
+    "public": 185,
     "private": 148,
     "more_than_zero_star": 72
   }

@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
-      "stars": 2839
+      "stars": 2852
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -39,12 +39,12 @@
       "stars": 14
     },
     {
-      "url": "https://github.com/rribeiro1/terraform-aws-budget-alarms",
+      "url": "https://github.com/sammcj/zsh-bootstrap",
       "stars": 13
     },
     {
-      "url": "https://github.com/sammcj/zsh-bootstrap",
-      "stars": 12
+      "url": "https://github.com/rribeiro1/terraform-aws-budget-alarms",
+      "stars": 13
     },
     {
       "url": "https://github.com/timoa/homelab",
