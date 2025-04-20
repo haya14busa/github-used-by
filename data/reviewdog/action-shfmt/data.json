@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 3455
+      "stars": 3476
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 904
+      "stars": 918
     },
     {
       "url": "https://github.com/Shemnei/punktf",
@@ -32,7 +32,7 @@
     },
     {
       "url": "https://github.com/jonathanmorley/asdf-pnpm",
-      "stars": 78
+      "stars": 79
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/mongolyy/reviewdog-action-biome",
-      "stars": 41
+      "stars": 42
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-prettier",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/helpermethod/up",
-      "stars": 16
+      "stars": 18
     },
     {
       "url": "https://github.com/aerospike/aerospike-server-enterprise.docker",

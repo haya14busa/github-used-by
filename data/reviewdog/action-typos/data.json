@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8322
+      "stars": 8342
     },
     {
       "url": "https://github.com/mime-types/ruby-mime-types",
@@ -44,9 +44,9 @@
     }
   ],
   "count": {
-    "total": 26,
-    "public": 20,
-    "private": 6,
+    "total": 28,
+    "public": 21,
+    "private": 7,
     "more_than_zero_star": 14
   }
 }

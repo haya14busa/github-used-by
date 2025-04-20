@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/matplotlib/matplotlib",
-      "stars": 21036
+      "stars": 21081
     },
     {
       "url": "https://github.com/kestra-io/kestra",
-      "stars": 16789
+      "stars": 17389
     },
     {
       "url": "https://github.com/microsoft/onnxruntime",
-      "stars": 16259
+      "stars": 16310
     },
     {
       "url": "https://github.com/alibaba/formily",
-      "stars": 11825
+      "stars": 11871
     },
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 10363
+      "stars": 10823
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
@@ -28,39 +28,39 @@
     },
     {
       "url": "https://github.com/TeamPiped/Piped",
-      "stars": 8894
+      "stars": 8900
     },
     {
       "url": "https://github.com/chancejs/chancejs",
-      "stars": 6520
+      "stars": 6523
     },
     {
       "url": "https://github.com/Tokyo-Metro-Gov/covid19",
-      "stars": 6248
+      "stars": 6250
     },
     {
       "url": "https://github.com/mdn/webextensions-examples",
-      "stars": 4242
+      "stars": 4245
     },
     {
       "url": "https://github.com/cloudflare/cloudflare-docs",
-      "stars": 3524
+      "stars": 3540
     },
     {
       "url": "https://github.com/obytes/react-native-template-obytes",
-      "stars": 3086
+      "stars": 3110
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2383
+      "stars": 2394
     },
     {
       "url": "https://github.com/tentone/nunuStudio",
-      "stars": 2153
+      "stars": 2152
     },
     {
       "url": "https://github.com/frappe/helpdesk",
-      "stars": 2104
+      "stars": 2113
     },
     {
       "url": "https://github.com/feathr-ai/feathr",
@@ -68,11 +68,11 @@
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1734
+      "stars": 1735
     },
     {
       "url": "https://github.com/avo-hq/avo",
-      "stars": 1630
+      "stars": 1635
     },
     {
       "url": "https://github.com/neherlab/covid19_scenarios",
@@ -80,11 +80,11 @@
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
-      "stars": 1225
+      "stars": 1228
     },
     {
       "url": "https://github.com/EPMatt/awesome-ha-blueprints",
-      "stars": 1027
+      "stars": 1038
     },
     {
       "url": "https://github.com/ThatOpen/web-ifc-viewer",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/mikavilpas/yazi.nvim",
-      "stars": 928
+      "stars": 958
     },
     {
       "url": "https://github.com/h3poteto/whalebird-desktop",
@@ -100,7 +100,7 @@
     },
     {
       "url": "https://github.com/kodadot/nft-gallery",
-      "stars": 665
+      "stars": 667
     },
     {
       "url": "https://github.com/BitPhinix/slate-yjs",
@@ -108,11 +108,11 @@
     },
     {
       "url": "https://github.com/neo4j/graphql",
-      "stars": 529
+      "stars": 531
     },
     {
       "url": "https://github.com/uphy/obsidian-reminder",
-      "stars": 516
+      "stars": 519
     },
     {
       "url": "https://github.com/carbon-design-system/carbon-web-components",
@@ -120,7 +120,7 @@
     },
     {
       "url": "https://github.com/openscopeproject/TrguiNG",
-      "stars": 465
+      "stars": 468
     },
     {
       "url": "https://github.com/Code-Hex/graphql-codegen-typescript-validation-schema",
@@ -136,7 +136,7 @@
     },
     {
       "url": "https://github.com/10up/block-components",
-      "stars": 290
+      "stars": 291
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
@@ -148,7 +148,7 @@
     },
     {
       "url": "https://github.com/benbrown/shuttlecraft",
-      "stars": 269
+      "stars": 270
     },
     {
       "url": "https://github.com/th0th/poeticmetric",
@@ -172,7 +172,7 @@
     },
     {
       "url": "https://github.com/Inrixia/Floatplane-Downloader",
-      "stars": 199
+      "stars": 202
     },
     {
       "url": "https://github.com/trilom/file-changes-action",
@@ -192,7 +192,7 @@
     },
     {
       "url": "https://github.com/entrylabs/entryjs",
-      "stars": 128
+      "stars": 129
     },
     {
       "url": "https://github.com/samhirtarif/react-audio-visualize",
@@ -239,20 +239,16 @@
       "stars": 89
     },
     {
-      "url": "https://github.com/SkeLLLa/node-object-hash",
-      "stars": 87
+      "url": "https://github.com/formilyjs/antdv",
+      "stars": 88
     },
     {
-      "url": "https://github.com/formilyjs/antdv",
+      "url": "https://github.com/SkeLLLa/node-object-hash",
       "stars": 87
     },
     {
       "url": "https://github.com/haya14busa/action-cond",
       "stars": 86
-    },
-    {
-      "url": "https://github.com/PunGrumpy/logixlysia",
-      "stars": 81
     },
     {
       "url": "https://github.com/shogo82148/actions-upload-release-asset",
@@ -280,7 +276,7 @@
     },
     {
       "url": "https://github.com/andyholmes/gnome-shell-extension-valent",
-      "stars": 67
+      "stars": 68
     },
     {
       "url": "https://github.com/code4nagoya/covid19",
@@ -291,11 +287,11 @@
       "stars": 64
     },
     {
-      "url": "https://github.com/formilyjs/antdv-x3",
-      "stars": 63
+      "url": "https://github.com/sile-typesetter/casile",
+      "stars": 64
     },
     {
-      "url": "https://github.com/sile-typesetter/casile",
+      "url": "https://github.com/formilyjs/antdv-x3",
       "stars": 63
     },
     {
@@ -335,6 +331,10 @@
       "stars": 57
     },
     {
+      "url": "https://github.com/mikavilpas/blink-ripgrep.nvim",
+      "stars": 56
+    },
+    {
       "url": "https://github.com/codeforosaka/covid19",
       "stars": 55
     },
@@ -349,10 +349,6 @@
     {
       "url": "https://github.com/hppRC/gatsby-starter-hpp",
       "stars": 53
-    },
-    {
-      "url": "https://github.com/mikavilpas/blink-ripgrep.nvim",
-      "stars": 52
     },
     {
       "url": "https://github.com/kutyel/optics.js",
@@ -401,12 +397,16 @@
     {
       "url": "https://github.com/ZopaPublic/react-components",
       "stars": 41
+    },
+    {
+      "url": "https://github.com/a01sa01to/covid19-ibaraki",
+      "stars": 41
     }
   ],
   "count": {
-    "total": 4270,
-    "public": 3021,
-    "private": 1249,
-    "more_than_zero_star": 801
+    "total": 4289,
+    "public": 3032,
+    "private": 1257,
+    "more_than_zero_star": 800
   }
 }

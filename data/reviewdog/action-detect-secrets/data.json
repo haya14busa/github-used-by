@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/4paradigm/OpenMLDB",
-      "stars": 1624
+      "stars": 1627
     },
     {
       "url": "https://github.com/PyPtt/PyPtt",
@@ -16,7 +16,7 @@
     },
     {
       "url": "https://github.com/nix-united/golang-echo-boilerplate",
-      "stars": 305
+      "stars": 306
     },
     {
       "url": "https://github.com/nix-united/golang-gin-boilerplate",
@@ -28,11 +28,11 @@
     },
     {
       "url": "https://github.com/piotr-yuxuan/malli-cli",
-      "stars": 55
+      "stars": 56
     },
     {
       "url": "https://github.com/adam-rms/adam-rms",
-      "stars": 31
+      "stars": 32
     },
     {
       "url": "https://github.com/bitjourney/react-simple-image",
@@ -100,8 +100,8 @@
     }
   ],
   "count": {
-    "total": 333,
-    "public": 185,
+    "total": 334,
+    "public": 186,
     "private": 148,
     "more_than_zero_star": 72
   }

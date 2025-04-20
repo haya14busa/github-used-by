@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/Tokyo-Metro-Gov/covid19",
-      "stars": 6248
+      "stars": 6250
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2383
+      "stars": 2394
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
-      "stars": 1225
+      "stars": 1228
     },
     {
       "url": "https://github.com/h3poteto/whalebird-desktop",
@@ -209,8 +209,8 @@
   ],
   "count": {
     "total": 492,
-    "public": 367,
-    "private": 125,
+    "public": 366,
+    "private": 126,
     "more_than_zero_star": 95
   }
 }

@@ -4,27 +4,27 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 74071
+      "stars": 74307
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7146
+      "stars": 7154
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
-      "stars": 878
+      "stars": 879
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 665
+      "stars": 667
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 543
+      "stars": 544
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
-      "stars": 539
+      "stars": 540
     },
     {
       "url": "https://github.com/PersiaML/PERSIA",
@@ -32,19 +32,19 @@
     },
     {
       "url": "https://github.com/PAhelper/PhoenixAdult.bundle",
-      "stars": 367
+      "stars": 368
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
-      "stars": 198
+      "stars": 199
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 170
+      "stars": 172
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
-      "stars": 161
+      "stars": 162
     },
     {
       "url": "https://github.com/TrangPham/django-admin-confirm",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
-      "stars": 112
+      "stars": 111
     },
     {
       "url": "https://github.com/ehpor/hcipy",
@@ -76,14 +76,14 @@
     },
     {
       "url": "https://github.com/ydb-platform/nbs",
-      "stars": 67
-    },
-    {
-      "url": "https://github.com/oracle/adaptivemm",
-      "stars": 58
+      "stars": 68
     },
     {
       "url": "https://github.com/ThePornDatabase/scrapers",
+      "stars": 59
+    },
+    {
+      "url": "https://github.com/oracle/adaptivemm",
       "stars": 58
     },
     {
@@ -127,6 +127,10 @@
       "stars": 19
     },
     {
+      "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
+      "stars": 18
+    },
+    {
       "url": "https://github.com/mikhailprivalov/l2",
       "stars": 18
     },
@@ -135,7 +139,7 @@
       "stars": 17
     },
     {
-      "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
+      "url": "https://github.com/rickstaa/panda-gazebo",
       "stars": 17
     },
     {
@@ -144,10 +148,6 @@
     },
     {
       "url": "https://github.com/arkedge/c2a-core",
-      "stars": 16
-    },
-    {
-      "url": "https://github.com/rickstaa/panda-gazebo",
       "stars": 16
     },
     {
@@ -212,9 +212,9 @@
     }
   ],
   "count": {
-    "total": 474,
-    "public": 339,
-    "private": 135,
-    "more_than_zero_star": 125
+    "total": 483,
+    "public": 346,
+    "private": 137,
+    "more_than_zero_star": 126
   }
 }

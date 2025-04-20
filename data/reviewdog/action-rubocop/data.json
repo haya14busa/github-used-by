@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 10363
+      "stars": 10823
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
@@ -12,7 +12,7 @@
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 2949
+      "stars": 2959
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
@@ -24,11 +24,11 @@
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2373
+      "stars": 2376
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1506
+      "stars": 1508
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -36,11 +36,11 @@
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1163
+      "stars": 1165
     },
     {
       "url": "https://github.com/activeadmin/arbre",
-      "stars": 776
+      "stars": 777
     },
     {
       "url": "https://github.com/zilverline/sequent",
@@ -48,7 +48,7 @@
     },
     {
       "url": "https://github.com/mysociety/alaveteli",
-      "stars": 398
+      "stars": 397
     },
     {
       "url": "https://github.com/YusukeIwaki/puppeteer-ruby",
@@ -68,11 +68,11 @@
     },
     {
       "url": "https://github.com/ytti/oxidized-web",
-      "stars": 125
+      "stars": 126
     },
     {
       "url": "https://github.com/hlascelles/que-scheduler",
-      "stars": 115
+      "stars": 116
     },
     {
       "url": "https://github.com/GetStream/stream-ruby",
@@ -280,9 +280,9 @@
     }
   ],
   "count": {
-    "total": 708,
-    "public": 498,
+    "total": 710,
+    "public": 500,
     "private": 210,
-    "more_than_zero_star": 162
+    "more_than_zero_star": 163
   }
 }
