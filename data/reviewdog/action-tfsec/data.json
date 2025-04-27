@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
-      "stars": 2868
+      "stars": 2895
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -16,7 +16,7 @@
     },
     {
       "url": "https://github.com/rhythmictech/terraform-aws-imagebuilder-pipeline",
-      "stars": 19
+      "stars": 20
     },
     {
       "url": "https://github.com/GrantBirki/k8s-discord",
@@ -145,8 +145,8 @@
   ],
   "count": {
     "total": 376,
-    "public": 247,
-    "private": 129,
+    "public": 246,
+    "private": 130,
     "more_than_zero_star": 100
   }
 }

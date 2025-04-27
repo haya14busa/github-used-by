@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/FerretDB/FerretDB",
-      "stars": 10045
+      "stars": 10066
     },
     {
       "url": "https://github.com/go-reform/reform",
-      "stars": 1444
+      "stars": 1443
     },
     {
       "url": "https://github.com/percona/mongodb_exporter",
-      "stars": 1245
+      "stars": 1250
     },
     {
       "url": "https://github.com/percona/pmm",
-      "stars": 751
+      "stars": 757
     },
     {
       "url": "https://github.com/percona/everest",
@@ -148,9 +148,9 @@
     }
   ],
   "count": {
-    "total": 257,
+    "total": 258,
     "public": 161,
-    "private": 96,
-    "more_than_zero_star": 65
+    "private": 97,
+    "more_than_zero_star": 66
   }
 }

@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 74307
+      "stars": 74393
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7154
+      "stars": 7167
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
-      "stars": 879
+      "stars": 881
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 667
+      "stars": 672
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 544
+      "stars": 546
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://github.com/PersiaML/PERSIA",
-      "stars": 404
+      "stars": 405
     },
     {
       "url": "https://github.com/PAhelper/PhoenixAdult.bundle",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 172
+      "stars": 174
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
-      "stars": 111
+      "stars": 113
     },
     {
       "url": "https://github.com/ehpor/hcipy",
@@ -76,11 +76,11 @@
     },
     {
       "url": "https://github.com/ydb-platform/nbs",
-      "stars": 68
+      "stars": 69
     },
     {
       "url": "https://github.com/ThePornDatabase/scrapers",
-      "stars": 59
+      "stars": 60
     },
     {
       "url": "https://github.com/oracle/adaptivemm",
@@ -88,7 +88,7 @@
     },
     {
       "url": "https://github.com/f0uriest/quadax",
-      "stars": 56
+      "stars": 57
     },
     {
       "url": "https://github.com/ut-issl/c2a-core",
@@ -115,6 +115,10 @@
       "stars": 22
     },
     {
+      "url": "https://github.com/f0uriest/orthax",
+      "stars": 21
+    },
+    {
       "url": "https://github.com/NebularNerd/subtotxt",
       "stars": 20
     },
@@ -133,10 +137,6 @@
     {
       "url": "https://github.com/mikhailprivalov/l2",
       "stars": 18
-    },
-    {
-      "url": "https://github.com/f0uriest/orthax",
-      "stars": 17
     },
     {
       "url": "https://github.com/rickstaa/panda-gazebo",
@@ -164,7 +164,7 @@
     },
     {
       "url": "https://github.com/michaelthomasletts/boto3-refresh-session",
-      "stars": 9
+      "stars": 10
     },
     {
       "url": "https://github.com/ccdc-opensource/science-paper-rf-machine-learned-scoring-2022",
@@ -212,9 +212,9 @@
     }
   ],
   "count": {
-    "total": 483,
-    "public": 346,
-    "private": 137,
-    "more_than_zero_star": 126
+    "total": 491,
+    "public": 353,
+    "private": 138,
+    "more_than_zero_star": 127
   }
 }

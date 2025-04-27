@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/Tokyo-Metro-Gov/covid19",
-      "stars": 6250
+      "stars": 6249
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2394
+      "stars": 2402
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
@@ -127,12 +127,12 @@
       "stars": 11
     },
     {
-      "url": "https://github.com/stop-covid19-kyoto/covid19-kyoto",
+      "url": "https://github.com/MooncellWiki/prts-widgets",
       "stars": 10
     },
     {
-      "url": "https://github.com/MooncellWiki/prts-widgets",
-      "stars": 9
+      "url": "https://github.com/stop-covid19-kyoto/covid19-kyoto",
+      "stars": 10
     },
     {
       "url": "https://github.com/codeforjapan/remote-patient-monitoring-client",
@@ -209,8 +209,8 @@
   ],
   "count": {
     "total": 492,
-    "public": 366,
-    "private": 126,
-    "more_than_zero_star": 95
+    "public": 364,
+    "private": 128,
+    "more_than_zero_star": 94
   }
 }

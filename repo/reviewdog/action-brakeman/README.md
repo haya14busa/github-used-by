@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 114 | 72 | 42 | 25 |
+| 115 | 73 | 42 | 25 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-brakeman/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-brakeman)

@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 257 | 161 | 96 | 65 |
+| 258 | 161 | 97 | 66 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/reviewdog/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/reviewdog)
@@ -21,10 +21,10 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/FerretDB.png" width=50 height=50>|https://github.com/FerretDB/FerretDB|10045|
-|2|<img src="https://github.com/go-reform.png" width=50 height=50>|https://github.com/go-reform/reform|1444|
-|3|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/mongodb_exporter|1245|
-|4|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/pmm|751|
+|1|<img src="https://github.com/FerretDB.png" width=50 height=50>|https://github.com/FerretDB/FerretDB|10066|
+|2|<img src="https://github.com/go-reform.png" width=50 height=50>|https://github.com/go-reform/reform|1443|
+|3|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/mongodb_exporter|1250|
+|4|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/pmm|757|
 |5|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/everest|290|
 |6|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/go-mysql|238|
 |7|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/proxysql_exporter|106|

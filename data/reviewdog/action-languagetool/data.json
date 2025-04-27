@@ -4,39 +4,39 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8342
+      "stars": 8363
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7589
+      "stars": 7593
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1594
+      "stars": 1595
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1144
+      "stars": 1145
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1011
+      "stars": 1016
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 958
+      "stars": 961
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 728
+      "stars": 730
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 606
+      "stars": 613
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 588
+      "stars": 594
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
@@ -64,11 +64,11 @@
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 110
+      "stars": 111
     },
     {
       "url": "https://github.com/mszostok/version",
-      "stars": 106
+      "stars": 107
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://github.com/pheature-flags/pheature-flags",
-      "stars": 82
+      "stars": 81
     },
     {
       "url": "https://github.com/capactio/capact",
@@ -100,7 +100,7 @@
     },
     {
       "url": "https://github.com/jeertmans/rpdf",
-      "stars": 38
+      "stars": 39
     },
     {
       "url": "https://github.com/pkosiec/website",
@@ -119,12 +119,12 @@
       "stars": 27
     },
     {
-      "url": "https://github.com/jeertmans/DiffeRT",
+      "url": "https://github.com/opentdf/platform",
       "stars": 24
     },
     {
-      "url": "https://github.com/opentdf/platform",
-      "stars": 23
+      "url": "https://github.com/jeertmans/DiffeRT",
+      "stars": 24
     },
     {
       "url": "https://github.com/nownabe/go-bqloader",
@@ -192,7 +192,7 @@
     },
     {
       "url": "https://github.com/jeertmans/jeertmans.github.io",
-      "stars": 6
+      "stars": 7
     },
     {
       "url": "https://github.com/helpwave/helpwave",
@@ -233,8 +233,8 @@
   ],
   "count": {
     "total": 396,
-    "public": 248,
-    "private": 148,
-    "more_than_zero_star": 105
+    "public": 249,
+    "private": 147,
+    "more_than_zero_star": 106
   }
 }

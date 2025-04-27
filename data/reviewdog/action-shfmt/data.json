@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 3476
+      "stars": 3489
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 918
+      "stars": 929
     },
     {
       "url": "https://github.com/Shemnei/punktf",
@@ -20,11 +20,11 @@
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
-      "stars": 142
+      "stars": 143
     },
     {
       "url": "https://github.com/reviewdog/action-suggester",
-      "stars": 113
+      "stars": 114
     },
     {
       "url": "https://github.com/jiro4989/setup-nim-action",
@@ -32,7 +32,7 @@
     },
     {
       "url": "https://github.com/jonathanmorley/asdf-pnpm",
-      "stars": 79
+      "stars": 80
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/yu-iskw/action-sqlfluff",
-      "stars": 68
+      "stars": 69
     },
     {
       "url": "https://github.com/lure-sh/lure-repo",
@@ -68,7 +68,7 @@
     },
     {
       "url": "https://github.com/UmbrellaDocs/action-linkspector",
-      "stars": 19
+      "stars": 21
     },
     {
       "url": "https://github.com/helpermethod/up",
@@ -100,9 +100,9 @@
     }
   ],
   "count": {
-    "total": 180,
-    "public": 101,
+    "total": 182,
+    "public": 103,
     "private": 79,
-    "more_than_zero_star": 42
+    "more_than_zero_star": 43
   }
 }

@@ -4,67 +4,67 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 74307
+      "stars": 74393
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13518
+      "stars": 13523
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 6786
+      "stars": 6802
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 6741
+      "stars": 6756
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 3966
+      "stars": 3986
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
-      "stars": 2995
+      "stars": 2999
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1902
+      "stars": 1906
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1735
+      "stars": 1736
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1594
+      "stars": 1595
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1306
+      "stars": 1313
     },
     {
       "url": "https://github.com/truecharts/public",
-      "stars": 1202
+      "stars": 1205
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 1188
+      "stars": 1189
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 811
+      "stars": 814
+    },
+    {
+      "url": "https://github.com/opentibiabr/canary",
+      "stars": 436
     },
     {
       "url": "https://github.com/K-Phoen/dark",
       "stars": 434
     },
     {
-      "url": "https://github.com/opentibiabr/canary",
-      "stars": 433
-    },
-    {
       "url": "https://github.com/isindir/sops-secrets-operator",
-      "stars": 352
+      "stars": 354
     },
     {
       "url": "https://github.com/KCarretto/paragon",
@@ -72,15 +72,15 @@
     },
     {
       "url": "https://github.com/bgruening/docker-galaxy",
-      "stars": 231
+      "stars": 232
     },
     {
       "url": "https://github.com/openstack-exporter/openstack-exporter",
-      "stars": 223
+      "stars": 224
     },
     {
       "url": "https://github.com/dadrus/heimdall",
-      "stars": 181
+      "stars": 182
     },
     {
       "url": "https://github.com/raspbernetes/multi-arch-images",
@@ -88,11 +88,11 @@
     },
     {
       "url": "https://github.com/netdata/go.d.plugin",
-      "stars": 165
+      "stars": 166
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
-      "stars": 142
+      "stars": 143
     },
     {
       "url": "https://github.com/filipowm/BooGi",
@@ -100,7 +100,7 @@
     },
     {
       "url": "https://github.com/timoa/app-stores-prometheus-exporter",
-      "stars": 117
+      "stars": 118
     },
     {
       "url": "https://github.com/haya14busa/action-bumpr",
@@ -156,7 +156,7 @@
     },
     {
       "url": "https://github.com/jiro4989/build-deb-action",
-      "stars": 55
+      "stars": 56
     },
     {
       "url": "https://github.com/HopopOps/k8s-ldap-auth",
@@ -164,7 +164,7 @@
     },
     {
       "url": "https://github.com/haya14busa/action-update-semver",
-      "stars": 51
+      "stars": 52
     },
     {
       "url": "https://github.com/reviewdog/action-languagetool",
@@ -175,11 +175,11 @@
       "stars": 41
     },
     {
-      "url": "https://github.com/basedosdados/pipelines",
-      "stars": 36
+      "url": "https://github.com/prefeitura-rio/pipelines",
+      "stars": 37
     },
     {
-      "url": "https://github.com/prefeitura-rio/pipelines",
+      "url": "https://github.com/basedosdados/pipelines",
       "stars": 36
     },
     {
@@ -239,16 +239,16 @@
       "stars": 16
     },
     {
+      "url": "https://github.com/device-management-toolkit/console",
+      "stars": 16
+    },
+    {
       "url": "https://github.com/sammcj/scripts",
       "stars": 16
     },
     {
       "url": "https://github.com/SovereignCloudStack/openstack-health-monitor",
       "stars": 16
-    },
-    {
-      "url": "https://github.com/device-management-toolkit/console",
-      "stars": 15
     },
     {
       "url": "https://github.com/aerospike/aerospike-server-enterprise.docker",
@@ -279,6 +279,10 @@
       "stars": 12
     },
     {
+      "url": "https://github.com/basedosdados/backend",
+      "stars": 12
+    },
+    {
       "url": "https://github.com/ccdc-opensource/dash",
       "stars": 12
     },
@@ -297,10 +301,6 @@
     {
       "url": "https://github.com/sksat/kuso-subdomain-adder",
       "stars": 12
-    },
-    {
-      "url": "https://github.com/basedosdados/backend",
-      "stars": 11
     },
     {
       "url": "https://github.com/yanorei32/discord-tts",
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 1980,
-    "public": 1334,
-    "private": 646,
-    "more_than_zero_star": 345
+    "total": 1986,
+    "public": 1338,
+    "private": 648,
+    "more_than_zero_star": 346
   }
 }

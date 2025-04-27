@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 492 | 366 | 126 | 95 |
+| 492 | 364 | 128 | 94 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-stylelint/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-stylelint)
@@ -21,8 +21,8 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/Tokyo-Metro-Gov.png" width=50 height=50>|https://github.com/Tokyo-Metro-Gov/covid19|6250|
-|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2394|
+|1|<img src="https://github.com/Tokyo-Metro-Gov.png" width=50 height=50>|https://github.com/Tokyo-Metro-Gov/covid19|6249|
+|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2402|
 |3|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-css|1228|
 |4|<img src="https://github.com/h3poteto.png" width=50 height=50>|https://github.com/h3poteto/whalebird-desktop|919|
 |5|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|281|
@@ -52,8 +52,8 @@
 |29|<img src="https://github.com/codeforjapan.png" width=50 height=50>|https://github.com/codeforjapan/remote-patient-monitoring-dashboard|12|
 |30|<img src="https://github.com/codeforkumamoto.png" width=50 height=50>|https://github.com/codeforkumamoto/covid19|11|
 |31|<img src="https://github.com/PichuChen.png" width=50 height=50>|https://github.com/PichuChen/covid19|11|
-|32|<img src="https://github.com/stop-covid19-kyoto.png" width=50 height=50>|https://github.com/stop-covid19-kyoto/covid19-kyoto|10|
-|33|<img src="https://github.com/MooncellWiki.png" width=50 height=50>|https://github.com/MooncellWiki/prts-widgets|9|
+|32|<img src="https://github.com/MooncellWiki.png" width=50 height=50>|https://github.com/MooncellWiki/prts-widgets|10|
+|33|<img src="https://github.com/stop-covid19-kyoto.png" width=50 height=50>|https://github.com/stop-covid19-kyoto/covid19-kyoto|10|
 |34|<img src="https://github.com/codeforjapan.png" width=50 height=50>|https://github.com/codeforjapan/remote-patient-monitoring-client|9|
 |35|<img src="https://github.com/hiroyuki-ichikawa.png" width=50 height=50>|https://github.com/hiroyuki-ichikawa/covid19|9|
 |36|<img src="https://github.com/Retsuki.png" width=50 height=50>|https://github.com/Retsuki/covid19-ishikawa|9|

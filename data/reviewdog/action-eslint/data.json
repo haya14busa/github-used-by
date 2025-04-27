@@ -4,75 +4,75 @@
   "repos": [
     {
       "url": "https://github.com/matplotlib/matplotlib",
-      "stars": 21081
+      "stars": 21104
     },
     {
       "url": "https://github.com/kestra-io/kestra",
-      "stars": 17389
+      "stars": 17490
     },
     {
       "url": "https://github.com/microsoft/onnxruntime",
-      "stars": 16310
+      "stars": 16408
     },
     {
       "url": "https://github.com/alibaba/formily",
-      "stars": 11871
+      "stars": 11904
     },
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 10823
+      "stars": 10922
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9571
+      "stars": 9572
     },
     {
       "url": "https://github.com/TeamPiped/Piped",
-      "stars": 8900
+      "stars": 8910
     },
     {
       "url": "https://github.com/chancejs/chancejs",
-      "stars": 6523
+      "stars": 6525
     },
     {
       "url": "https://github.com/Tokyo-Metro-Gov/covid19",
-      "stars": 6250
+      "stars": 6249
     },
     {
       "url": "https://github.com/mdn/webextensions-examples",
-      "stars": 4245
+      "stars": 4247
     },
     {
       "url": "https://github.com/cloudflare/cloudflare-docs",
-      "stars": 3540
+      "stars": 3562
     },
     {
       "url": "https://github.com/obytes/react-native-template-obytes",
-      "stars": 3110
+      "stars": 3129
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2394
+      "stars": 2402
+    },
+    {
+      "url": "https://github.com/frappe/helpdesk",
+      "stars": 2295
     },
     {
       "url": "https://github.com/tentone/nunuStudio",
       "stars": 2152
     },
     {
-      "url": "https://github.com/frappe/helpdesk",
-      "stars": 2113
-    },
-    {
       "url": "https://github.com/feathr-ai/feathr",
-      "stars": 1889
+      "stars": 1891
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1735
+      "stars": 1736
     },
     {
       "url": "https://github.com/avo-hq/avo",
-      "stars": 1635
+      "stars": 1638
     },
     {
       "url": "https://github.com/neherlab/covid19_scenarios",
@@ -84,15 +84,15 @@
     },
     {
       "url": "https://github.com/EPMatt/awesome-ha-blueprints",
-      "stars": 1038
-    },
-    {
-      "url": "https://github.com/ThatOpen/web-ifc-viewer",
-      "stars": 967
+      "stars": 1050
     },
     {
       "url": "https://github.com/mikavilpas/yazi.nvim",
-      "stars": 958
+      "stars": 973
+    },
+    {
+      "url": "https://github.com/ThatOpen/web-ifc-viewer",
+      "stars": 964
     },
     {
       "url": "https://github.com/h3poteto/whalebird-desktop",
@@ -104,15 +104,15 @@
     },
     {
       "url": "https://github.com/BitPhinix/slate-yjs",
-      "stars": 534
+      "stars": 533
     },
     {
       "url": "https://github.com/neo4j/graphql",
-      "stars": 531
+      "stars": 532
     },
     {
       "url": "https://github.com/uphy/obsidian-reminder",
-      "stars": 519
+      "stars": 521
     },
     {
       "url": "https://github.com/carbon-design-system/carbon-web-components",
@@ -120,7 +120,7 @@
     },
     {
       "url": "https://github.com/openscopeproject/TrguiNG",
-      "stars": 468
+      "stars": 473
     },
     {
       "url": "https://github.com/Code-Hex/graphql-codegen-typescript-validation-schema",
@@ -128,7 +128,7 @@
     },
     {
       "url": "https://github.com/IITC-CE/ingress-intel-total-conversion",
-      "stars": 302
+      "stars": 303
     },
     {
       "url": "https://github.com/KCarretto/paragon",
@@ -160,7 +160,7 @@
     },
     {
       "url": "https://github.com/reviewdog/action-golangci-lint",
-      "stars": 229
+      "stars": 230
     },
     {
       "url": "https://github.com/SOZ-Faut-etre-Sub/SOZ-FiveM-Server",
@@ -172,18 +172,18 @@
     },
     {
       "url": "https://github.com/Inrixia/Floatplane-Downloader",
-      "stars": 202
+      "stars": 204
     },
     {
       "url": "https://github.com/trilom/file-changes-action",
       "stars": 167
     },
     {
-      "url": "https://github.com/modx-pro/miniShop2",
-      "stars": 150
+      "url": "https://github.com/Code-Hex/firebase-auth-cloudflare-workers",
+      "stars": 151
     },
     {
-      "url": "https://github.com/Code-Hex/firebase-auth-cloudflare-workers",
+      "url": "https://github.com/modx-pro/miniShop2",
       "stars": 150
     },
     {
@@ -191,28 +191,28 @@
       "stars": 133
     },
     {
-      "url": "https://github.com/entrylabs/entryjs",
-      "stars": 129
+      "url": "https://github.com/samhirtarif/react-audio-visualize",
+      "stars": 130
     },
     {
-      "url": "https://github.com/samhirtarif/react-audio-visualize",
-      "stars": 127
+      "url": "https://github.com/entrylabs/entryjs",
+      "stars": 129
     },
     {
       "url": "https://github.com/hngprojects/hng_boilerplate_remix",
       "stars": 126
     },
     {
+      "url": "https://github.com/leosuncin/nest-api-example",
+      "stars": 121
+    },
+    {
       "url": "https://github.com/filipowm/BooGi",
       "stars": 120
     },
     {
-      "url": "https://github.com/leosuncin/nest-api-example",
-      "stars": 120
-    },
-    {
       "url": "https://github.com/timoa/app-stores-prometheus-exporter",
-      "stars": 117
+      "stars": 118
     },
     {
       "url": "https://github.com/SkeLLLa/fastify-metrics",
@@ -224,7 +224,7 @@
     },
     {
       "url": "https://github.com/formilyjs/element-plus",
-      "stars": 98
+      "stars": 99
     },
     {
       "url": "https://github.com/glassmonkey/php-playground",
@@ -268,7 +268,7 @@
     },
     {
       "url": "https://github.com/textlint/textlint-plugin-latex2e",
-      "stars": 70
+      "stars": 71
     },
     {
       "url": "https://github.com/ohmyform/api",
@@ -335,15 +335,15 @@
       "stars": 56
     },
     {
-      "url": "https://github.com/codeforosaka/covid19",
-      "stars": 55
-    },
-    {
       "url": "https://github.com/BitPhinix/slate-yjs-example",
       "stars": 54
     },
     {
       "url": "https://github.com/stop-covid19-hyogo/covid19",
+      "stars": 54
+    },
+    {
+      "url": "https://github.com/codeforosaka/covid19",
       "stars": 54
     },
     {
@@ -380,7 +380,7 @@
     },
     {
       "url": "https://github.com/tijlleenders/ZinZen",
-      "stars": 45
+      "stars": 46
     },
     {
       "url": "https://github.com/NCEAS/metacatui",
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 4289,
-    "public": 3032,
-    "private": 1257,
-    "more_than_zero_star": 800
+    "total": 4311,
+    "public": 3048,
+    "private": 1263,
+    "more_than_zero_star": 804
   }
 }
