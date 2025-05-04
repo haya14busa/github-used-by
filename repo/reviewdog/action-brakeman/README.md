@@ -32,4 +32,4 @@
 |9|<img src="https://github.com/etalab.png" width=50 height=50>|https://github.com/etalab/admin_api_entreprise|10|
 |10|<img src="https://github.com/openHPI.png" width=50 height=50>|https://github.com/openHPI/codeharbor|7|
 |11|<img src="https://github.com/linkvan.png" width=50 height=50>|https://github.com/linkvan/linkvan-api|6|
-|12|<img src="https://github.com/StudistCorporation.png" width=50 height=50>|https://github.com/StudistCorporation/scimaenaga|5|
+|12|<img src="https://github.com/StudistCorporation.png" width=50 height=50>|https://github.com/StudistCorporation/scimaenaga|6|

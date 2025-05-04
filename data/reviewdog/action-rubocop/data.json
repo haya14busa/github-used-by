@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 10922
+      "stars": 10973
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9572
+      "stars": 9578
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 2965
+      "stars": 2971
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
@@ -24,11 +24,11 @@
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2382
+      "stars": 2386
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1515
+      "stars": 1517
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -36,27 +36,27 @@
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1169
+      "stars": 1170
     },
     {
       "url": "https://github.com/activeadmin/arbre",
-      "stars": 777
+      "stars": 778
     },
     {
       "url": "https://github.com/zilverline/sequent",
-      "stars": 546
+      "stars": 545
     },
     {
       "url": "https://github.com/mysociety/alaveteli",
-      "stars": 399
+      "stars": 401
     },
     {
       "url": "https://github.com/YusukeIwaki/puppeteer-ruby",
-      "stars": 304
+      "stars": 305
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 281
+      "stars": 282
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://github.com/Drieam/rspec-github",
-      "stars": 73
+      "stars": 74
     },
     {
       "url": "https://github.com/openHPI/codeocean",
@@ -119,12 +119,12 @@
       "stars": 37
     },
     {
-      "url": "https://github.com/GetStream/stream-chat-ruby",
+      "url": "https://github.com/mysociety/whatdotheyknow-theme",
       "stars": 32
     },
     {
-      "url": "https://github.com/mysociety/whatdotheyknow-theme",
-      "stars": 31
+      "url": "https://github.com/GetStream/stream-chat-ruby",
+      "stars": 32
     },
     {
       "url": "https://github.com/workato/workato-connector-sdk",
@@ -231,6 +231,10 @@
       "stars": 7
     },
     {
+      "url": "https://github.com/berkeley-cdss/berkeley-class-site",
+      "stars": 6
+    },
+    {
       "url": "https://github.com/Strappazzon/www",
       "stars": 6
     },
@@ -247,8 +251,8 @@
       "stars": 6
     },
     {
-      "url": "https://github.com/berkeley-cdss/berkeley-class-site",
-      "stars": 5
+      "url": "https://github.com/StudistCorporation/scimaenaga",
+      "stars": 6
     },
     {
       "url": "https://github.com/SwedbankPay/swedbank-pay-design-guide-jekyll-theme",
@@ -267,10 +271,6 @@
       "stars": 5
     },
     {
-      "url": "https://github.com/StudistCorporation/scimaenaga",
-      "stars": 5
-    },
-    {
       "url": "https://github.com/seasonedcc/croods-rails",
       "stars": 5
     },
@@ -280,9 +280,9 @@
     }
   ],
   "count": {
-    "total": 713,
-    "public": 502,
-    "private": 211,
+    "total": 716,
+    "public": 504,
+    "private": 212,
     "more_than_zero_star": 164
   }
 }

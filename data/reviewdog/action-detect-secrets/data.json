@@ -32,7 +32,7 @@
     },
     {
       "url": "https://github.com/adam-rms/adam-rms",
-      "stars": 33
+      "stars": 34
     },
     {
       "url": "https://github.com/bitjourney/react-simple-image",
@@ -83,6 +83,10 @@
       "stars": 6
     },
     {
+      "url": "https://github.com/Avanade/ghcp-usage-dashboard",
+      "stars": 5
+    },
+    {
       "url": "https://github.com/bitjourney/ts_assets-rails",
       "stars": 5
     },
@@ -103,6 +107,6 @@
     "total": 334,
     "public": 186,
     "private": 148,
-    "more_than_zero_star": 72
+    "more_than_zero_star": 73
   }
 }

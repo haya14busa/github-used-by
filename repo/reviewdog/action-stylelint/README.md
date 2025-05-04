@@ -21,15 +21,15 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/Tokyo-Metro-Gov.png" width=50 height=50>|https://github.com/Tokyo-Metro-Gov/covid19|6249|
-|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2402|
+|1|<img src="https://github.com/Tokyo-Metro-Gov.png" width=50 height=50>|https://github.com/Tokyo-Metro-Gov/covid19|6248|
+|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2408|
 |3|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-css|1228|
-|4|<img src="https://github.com/h3poteto.png" width=50 height=50>|https://github.com/h3poteto/whalebird-desktop|919|
-|5|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|281|
+|4|<img src="https://github.com/h3poteto.png" width=50 height=50>|https://github.com/h3poteto/whalebird-desktop|917|
+|5|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|282|
 |6|<img src="https://github.com/th0th.png" width=50 height=50>|https://github.com/th0th/poeticmetric|259|
-|7|<img src="https://github.com/modx-pro.png" width=50 height=50>|https://github.com/modx-pro/miniShop2|150|
+|7|<img src="https://github.com/modx-pro.png" width=50 height=50>|https://github.com/modx-pro/miniShop2|151|
 |8|<img src="https://github.com/haya14busa.png" width=50 height=50>|https://github.com/haya14busa/github-action-brandings|146|
-|9|<img src="https://github.com/10up.png" width=50 height=50>|https://github.com/10up/10up-experience|133|
+|9|<img src="https://github.com/10up.png" width=50 height=50>|https://github.com/10up/10up-experience|134|
 |10|<img src="https://github.com/department-of-veterans-affairs.png" width=50 height=50>|https://github.com/department-of-veterans-affairs/va.gov-cms|101|
 |11|<img src="https://github.com/nordcloud.png" width=50 height=50>|https://github.com/nordcloud/pat-frontend-template|57|
 |12|<img src="https://github.com/stop-covid19-hyogo.png" width=50 height=50>|https://github.com/stop-covid19-hyogo/covid19|54|

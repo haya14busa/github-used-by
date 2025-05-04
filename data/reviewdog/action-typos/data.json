@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8363
+      "stars": 8377
     },
     {
       "url": "https://github.com/mime-types/ruby-mime-types",
@@ -12,7 +12,7 @@
     },
     {
       "url": "https://github.com/halostatue/diff-lcs",
-      "stars": 291
+      "stars": 292
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",

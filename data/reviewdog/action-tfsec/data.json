@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
-      "stars": 2895
+      "stars": 2913
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -55,15 +55,15 @@
       "stars": 10
     },
     {
+      "url": "https://github.com/GrantBirki/k8s-kong-terraform",
+      "stars": 10
+    },
+    {
       "url": "https://github.com/sammcj/smart_diskinfo",
       "stars": 9
     },
     {
       "url": "https://github.com/liatrio/terraform-caf-azure",
-      "stars": 9
-    },
-    {
-      "url": "https://github.com/GrantBirki/k8s-kong-terraform",
       "stars": 9
     },
     {

@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 258 | 161 | 97 | 66 |
+| 260 | 161 | 99 | 67 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/reviewdog/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/reviewdog)
@@ -21,11 +21,11 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/FerretDB.png" width=50 height=50>|https://github.com/FerretDB/FerretDB|10066|
+|1|<img src="https://github.com/FerretDB.png" width=50 height=50>|https://github.com/FerretDB/FerretDB|10083|
 |2|<img src="https://github.com/go-reform.png" width=50 height=50>|https://github.com/go-reform/reform|1443|
-|3|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/mongodb_exporter|1250|
-|4|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/pmm|757|
-|5|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/everest|290|
+|3|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/mongodb_exporter|1252|
+|4|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/pmm|762|
+|5|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/everest|293|
 |6|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/go-mysql|238|
 |7|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/proxysql_exporter|106|
 |8|<img src="https://github.com/elastic.png" width=50 height=50>|https://github.com/elastic/fleet-server|95|
@@ -54,6 +54,6 @@
 |31|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/dbaas-operator|7|
 |32|<img src="https://github.com/srvc.png" width=50 height=50>|https://github.com/srvc/ery|7|
 |33|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/percona-everest-cli|6|
-|34|<img src="https://github.com/shelmangroup.png" width=50 height=50>|https://github.com/shelmangroup/run-with-secrets|6|
-|35|<img src="https://github.com/chennqqi.png" width=50 height=50>|https://github.com/chennqqi/filebeat.nsq.output|6|
-|36|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/pmm-dump|5|
+|34|<img src="https://github.com/percona.png" width=50 height=50>|https://github.com/percona/pmm-dump|6|
+|35|<img src="https://github.com/shelmangroup.png" width=50 height=50>|https://github.com/shelmangroup/run-with-secrets|6|
+|36|<img src="https://github.com/chennqqi.png" width=50 height=50>|https://github.com/chennqqi/filebeat.nsq.output|6|

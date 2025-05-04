@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1736
+      "stars": 1742
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 1004
+      "stars": 1025
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
-      "stars": 577
+      "stars": 578
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 549
+      "stars": 552
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 204
+      "stars": 207
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -32,7 +32,7 @@
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 188
+      "stars": 189
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
@@ -44,11 +44,11 @@
     },
     {
       "url": "https://github.com/GiganticMinecraft/seichi_infra",
-      "stars": 58
+      "stars": 60
     },
     {
       "url": "https://github.com/slalombuild/terraform-atmos-accelerator",
-      "stars": 52
+      "stars": 53
     },
     {
       "url": "https://github.com/cloudposse/github-actions-workflows",
@@ -103,12 +103,12 @@
       "stars": 13
     },
     {
-      "url": "https://github.com/timoa/homelab",
+      "url": "https://github.com/ExpediaGroup/github-webhook-proxy",
       "stars": 12
     },
     {
-      "url": "https://github.com/ExpediaGroup/github-webhook-proxy",
-      "stars": 11
+      "url": "https://github.com/timoa/homelab",
+      "stars": 12
     },
     {
       "url": "https://github.com/provectus/sak-incubator",
@@ -116,6 +116,10 @@
     },
     {
       "url": "https://github.com/Vlaaaaaaad/terraform-aws-fargate-refinery",
+      "stars": 10
+    },
+    {
+      "url": "https://github.com/fluent/fluent-bit-ci",
       "stars": 10
     },
     {
@@ -139,16 +143,16 @@
       "stars": 9
     },
     {
-      "url": "https://github.com/fluent/fluent-bit-ci",
-      "stars": 9
-    },
-    {
       "url": "https://github.com/bmbferreira/awesome-terraform-pipeline",
       "stars": 9
     },
     {
       "url": "https://github.com/ironpeakservices/infrastructure",
       "stars": 9
+    },
+    {
+      "url": "https://github.com/ldcorentin/aws-terratest-localstack",
+      "stars": 8
     },
     {
       "url": "https://github.com/VikeSec/CTF-Infrastructure",
@@ -180,10 +184,6 @@
     },
     {
       "url": "https://github.com/jkrilov/NiceGuiTest",
-      "stars": 7
-    },
-    {
-      "url": "https://github.com/ldcorentin/aws-terratest-localstack",
       "stars": 7
     },
     {
@@ -264,8 +264,8 @@
     }
   ],
   "count": {
-    "total": 650,
-    "public": 406,
+    "total": 652,
+    "public": 408,
     "private": 244,
     "more_than_zero_star": 165
   }

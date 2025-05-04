@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 74393
+      "stars": 74458
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7167
+      "stars": 7173
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -16,15 +16,15 @@
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 672
+      "stars": 675
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 546
+      "stars": 549
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
-      "stars": 540
+      "stars": 542
     },
     {
       "url": "https://github.com/PersiaML/PERSIA",
@@ -32,15 +32,15 @@
     },
     {
       "url": "https://github.com/PAhelper/PhoenixAdult.bundle",
-      "stars": 368
+      "stars": 369
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
-      "stars": 199
+      "stars": 203
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 174
+      "stars": 177
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
-      "stars": 103
+      "stars": 106
     },
     {
       "url": "https://github.com/LFPy/LFPy",
@@ -84,11 +84,11 @@
     },
     {
       "url": "https://github.com/oracle/adaptivemm",
-      "stars": 58
+      "stars": 59
     },
     {
       "url": "https://github.com/f0uriest/quadax",
-      "stars": 57
+      "stars": 58
     },
     {
       "url": "https://github.com/ut-issl/c2a-core",
@@ -103,24 +103,24 @@
       "stars": 35
     },
     {
-      "url": "https://github.com/ZPascal/grafana_api_sdk",
+      "url": "https://github.com/comorment/containers",
       "stars": 29
     },
     {
-      "url": "https://github.com/comorment/containers",
-      "stars": 28
+      "url": "https://github.com/ZPascal/grafana_api_sdk",
+      "stars": 29
     },
     {
       "url": "https://github.com/DirtyRacer1337/PhoenixAdult.bundle",
       "stars": 22
     },
     {
-      "url": "https://github.com/f0uriest/orthax",
+      "url": "https://github.com/NebularNerd/subtotxt",
       "stars": 21
     },
     {
-      "url": "https://github.com/NebularNerd/subtotxt",
-      "stars": 20
+      "url": "https://github.com/f0uriest/orthax",
+      "stars": 21
     },
     {
       "url": "https://github.com/danishi/dynamodb-csv",
@@ -212,8 +212,8 @@
     }
   ],
   "count": {
-    "total": 491,
-    "public": 353,
+    "total": 493,
+    "public": 355,
     "private": 138,
     "more_than_zero_star": 127
   }

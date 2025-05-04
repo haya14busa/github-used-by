@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 713 | 502 | 211 | 164 |
+| 716 | 504 | 212 | 164 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-rubocop/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-rubocop)
@@ -21,27 +21,27 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/opf.png" width=50 height=50>|https://github.com/opf/openproject|10922|
-|2|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9572|
-|3|<img src="https://github.com/ytti.png" width=50 height=50>|https://github.com/ytti/oxidized|2965|
+|1|<img src="https://github.com/opf.png" width=50 height=50>|https://github.com/opf/openproject|10973|
+|2|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9578|
+|3|<img src="https://github.com/ytti.png" width=50 height=50>|https://github.com/ytti/oxidized|2971|
 |4|<img src="https://github.com/CartoDB.png" width=50 height=50>|https://github.com/CartoDB/cartodb|2774|
 |5|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/inherited_resources|2703|
-|6|<img src="https://github.com/chromebrew.png" width=50 height=50>|https://github.com/chromebrew/chromebrew|2382|
-|7|<img src="https://github.com/otwcode.png" width=50 height=50>|https://github.com/otwcode/otwarchive|1515|
+|6|<img src="https://github.com/chromebrew.png" width=50 height=50>|https://github.com/chromebrew/chromebrew|2386|
+|7|<img src="https://github.com/otwcode.png" width=50 height=50>|https://github.com/otwcode/otwarchive|1517|
 |8|<img src="https://github.com/k1LoW.png" width=50 height=50>|https://github.com/k1LoW/awspec|1170|
-|9|<img src="https://github.com/openfoodfoundation.png" width=50 height=50>|https://github.com/openfoodfoundation/openfoodnetwork|1169|
-|10|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/arbre|777|
-|11|<img src="https://github.com/zilverline.png" width=50 height=50>|https://github.com/zilverline/sequent|546|
-|12|<img src="https://github.com/mysociety.png" width=50 height=50>|https://github.com/mysociety/alaveteli|399|
-|13|<img src="https://github.com/YusukeIwaki.png" width=50 height=50>|https://github.com/YusukeIwaki/puppeteer-ruby|304|
-|14|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|281|
+|9|<img src="https://github.com/openfoodfoundation.png" width=50 height=50>|https://github.com/openfoodfoundation/openfoodnetwork|1170|
+|10|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/arbre|778|
+|11|<img src="https://github.com/zilverline.png" width=50 height=50>|https://github.com/zilverline/sequent|545|
+|12|<img src="https://github.com/mysociety.png" width=50 height=50>|https://github.com/mysociety/alaveteli|401|
+|13|<img src="https://github.com/YusukeIwaki.png" width=50 height=50>|https://github.com/YusukeIwaki/puppeteer-ruby|305|
+|14|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|282|
 |15|<img src="https://github.com/Strech.png" width=50 height=50>|https://github.com/Strech/sidekiq-prometheus-exporter|203|
 |16|<img src="https://github.com/vmware.png" width=50 height=50>|https://github.com/vmware/dod-compliance-and-automation|166|
 |17|<img src="https://github.com/ytti.png" width=50 height=50>|https://github.com/ytti/oxidized-web|127|
 |18|<img src="https://github.com/hlascelles.png" width=50 height=50>|https://github.com/hlascelles/que-scheduler|116|
 |19|<img src="https://github.com/GetStream.png" width=50 height=50>|https://github.com/GetStream/stream-ruby|85|
 |20|<img src="https://github.com/chanzuckerberg.png" width=50 height=50>|https://github.com/chanzuckerberg/czid-web|84|
-|21|<img src="https://github.com/Drieam.png" width=50 height=50>|https://github.com/Drieam/rspec-github|73|
+|21|<img src="https://github.com/Drieam.png" width=50 height=50>|https://github.com/Drieam/rspec-github|74|
 |22|<img src="https://github.com/openHPI.png" width=50 height=50>|https://github.com/openHPI/codeocean|67|
 |23|<img src="https://github.com/Unleash.png" width=50 height=50>|https://github.com/Unleash/unleash-client-ruby|59|
 |24|<img src="https://github.com/veuelive.png" width=50 height=50>|https://github.com/veuelive/veue|55|
@@ -50,8 +50,8 @@
 |27|<img src="https://github.com/puzzle.png" width=50 height=50>|https://github.com/puzzle/puzzletime|45|
 |28|<img src="https://github.com/machinio.png" width=50 height=50>|https://github.com/machinio/solrb|40|
 |29|<img src="https://github.com/discorb-lib.png" width=50 height=50>|https://github.com/discorb-lib/discorb|37|
-|30|<img src="https://github.com/GetStream.png" width=50 height=50>|https://github.com/GetStream/stream-chat-ruby|32|
-|31|<img src="https://github.com/mysociety.png" width=50 height=50>|https://github.com/mysociety/whatdotheyknow-theme|31|
+|30|<img src="https://github.com/mysociety.png" width=50 height=50>|https://github.com/mysociety/whatdotheyknow-theme|32|
+|31|<img src="https://github.com/GetStream.png" width=50 height=50>|https://github.com/GetStream/stream-chat-ruby|32|
 |32|<img src="https://github.com/workato.png" width=50 height=50>|https://github.com/workato/workato-connector-sdk|27|
 |33|<img src="https://github.com/neinteractiveliterature.png" width=50 height=50>|https://github.com/neinteractiveliterature/intercode|24|
 |34|<img src="https://github.com/bitjourney.png" width=50 height=50>|https://github.com/bitjourney/mato|23|
@@ -78,15 +78,15 @@
 |55|<img src="https://github.com/simonneutert.png" width=50 height=50>|https://github.com/simonneutert/Joda|7|
 |56|<img src="https://github.com/openHPI.png" width=50 height=50>|https://github.com/openHPI/codeharbor|7|
 |57|<img src="https://github.com/sunnyfounder.png" width=50 height=50>|https://github.com/sunnyfounder/boxenn|7|
-|58|<img src="https://github.com/Strappazzon.png" width=50 height=50>|https://github.com/Strappazzon/www|6|
-|59|<img src="https://github.com/goodscary.png" width=50 height=50>|https://github.com/goodscary/firstrubyfriend|6|
-|60|<img src="https://github.com/ayarotsky.png" width=50 height=50>|https://github.com/ayarotsky/rack-shield|6|
-|61|<img src="https://github.com/ytti.png" width=50 height=50>|https://github.com/ytti/asetus|6|
-|62|<img src="https://github.com/berkeley-cdss.png" width=50 height=50>|https://github.com/berkeley-cdss/berkeley-class-site|5|
-|63|<img src="https://github.com/SwedbankPay.png" width=50 height=50>|https://github.com/SwedbankPay/swedbank-pay-design-guide-jekyll-theme|5|
-|64|<img src="https://github.com/ibm-skills-network.png" width=50 height=50>|https://github.com/ibm-skills-network/sn_filterable|5|
-|65|<img src="https://github.com/Giving-Coupons.png" width=50 height=50>|https://github.com/Giving-Coupons/giving-coupons|5|
-|66|<img src="https://github.com/sevenc-nanashi.png" width=50 height=50>|https://github.com/sevenc-nanashi/voicevox.rb|5|
-|67|<img src="https://github.com/StudistCorporation.png" width=50 height=50>|https://github.com/StudistCorporation/scimaenaga|5|
+|58|<img src="https://github.com/berkeley-cdss.png" width=50 height=50>|https://github.com/berkeley-cdss/berkeley-class-site|6|
+|59|<img src="https://github.com/Strappazzon.png" width=50 height=50>|https://github.com/Strappazzon/www|6|
+|60|<img src="https://github.com/goodscary.png" width=50 height=50>|https://github.com/goodscary/firstrubyfriend|6|
+|61|<img src="https://github.com/ayarotsky.png" width=50 height=50>|https://github.com/ayarotsky/rack-shield|6|
+|62|<img src="https://github.com/ytti.png" width=50 height=50>|https://github.com/ytti/asetus|6|
+|63|<img src="https://github.com/StudistCorporation.png" width=50 height=50>|https://github.com/StudistCorporation/scimaenaga|6|
+|64|<img src="https://github.com/SwedbankPay.png" width=50 height=50>|https://github.com/SwedbankPay/swedbank-pay-design-guide-jekyll-theme|5|
+|65|<img src="https://github.com/ibm-skills-network.png" width=50 height=50>|https://github.com/ibm-skills-network/sn_filterable|5|
+|66|<img src="https://github.com/Giving-Coupons.png" width=50 height=50>|https://github.com/Giving-Coupons/giving-coupons|5|
+|67|<img src="https://github.com/sevenc-nanashi.png" width=50 height=50>|https://github.com/sevenc-nanashi/voicevox.rb|5|
 |68|<img src="https://github.com/seasonedcc.png" width=50 height=50>|https://github.com/seasonedcc/croods-rails|5|
 |69|<img src="https://github.com/openheritage.png" width=50 height=50>|https://github.com/openheritage/open-plaques-3|5|

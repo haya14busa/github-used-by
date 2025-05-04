@@ -21,9 +21,9 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/ChrisTitusTech.png" width=50 height=50>|https://github.com/ChrisTitusTech/linutil|3489|
-|2|<img src="https://github.com/sourcegraph.png" width=50 height=50>|https://github.com/sourcegraph/zoekt|929|
-|3|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|285|
+|1|<img src="https://github.com/ChrisTitusTech.png" width=50 height=50>|https://github.com/ChrisTitusTech/linutil|3528|
+|2|<img src="https://github.com/sourcegraph.png" width=50 height=50>|https://github.com/sourcegraph/zoekt|937|
+|3|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|286|
 |4|<img src="https://github.com/CrowdStrike.png" width=50 height=50>|https://github.com/CrowdStrike/falcon-scripts|168|
 |5|<img src="https://github.com/aerospike.png" width=50 height=50>|https://github.com/aerospike/aerospike-server.docker|143|
 |6|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/action-suggester|114|

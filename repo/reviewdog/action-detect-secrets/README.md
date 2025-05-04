@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 334 | 186 | 148 | 72 |
+| 334 | 186 | 148 | 73 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-detect-secrets/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-detect-secrets)
@@ -28,7 +28,7 @@
 |5|<img src="https://github.com/nix-united.png" width=50 height=50>|https://github.com/nix-united/golang-gin-boilerplate|109|
 |6|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/closeable-map|61|
 |7|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/malli-cli|56|
-|8|<img src="https://github.com/adam-rms.png" width=50 height=50>|https://github.com/adam-rms/adam-rms|33|
+|8|<img src="https://github.com/adam-rms.png" width=50 height=50>|https://github.com/adam-rms/adam-rms|34|
 |9|<img src="https://github.com/bitjourney.png" width=50 height=50>|https://github.com/bitjourney/react-simple-image|29|
 |10|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/dove|27|
 |11|<img src="https://github.com/bitjourney.png" width=50 height=50>|https://github.com/bitjourney/mato|23|
@@ -41,7 +41,8 @@
 |18|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/slava|7|
 |19|<img src="https://github.com/Paradise-Pi.png" width=50 height=50>|https://github.com/Paradise-Pi/ParadisePi|7|
 |20|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/druid-opa-authorizer|6|
-|21|<img src="https://github.com/bitjourney.png" width=50 height=50>|https://github.com/bitjourney/ts_assets-rails|5|
-|22|<img src="https://github.com/ctc-uci.png" width=50 height=50>|https://github.com/ctc-uci/stand-up-to-trash-backend|5|
-|23|<img src="https://github.com/ctc-uci.png" width=50 height=50>|https://github.com/ctc-uci/stand-up-to-trash-frontend|5|
-|24|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/sqs-message-action|5|
+|21|<img src="https://github.com/Avanade.png" width=50 height=50>|https://github.com/Avanade/ghcp-usage-dashboard|5|
+|22|<img src="https://github.com/bitjourney.png" width=50 height=50>|https://github.com/bitjourney/ts_assets-rails|5|
+|23|<img src="https://github.com/ctc-uci.png" width=50 height=50>|https://github.com/ctc-uci/stand-up-to-trash-backend|5|
+|24|<img src="https://github.com/ctc-uci.png" width=50 height=50>|https://github.com/ctc-uci/stand-up-to-trash-frontend|5|
+|25|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/sqs-message-action|5|

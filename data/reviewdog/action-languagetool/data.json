@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8363
+      "stars": 8377
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7593
+      "stars": 7597
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1595
+      "stars": 1597
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
@@ -20,23 +20,23 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1016
+      "stars": 1019
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 961
+      "stars": 960
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 730
+      "stars": 732
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 613
+      "stars": 619
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 594
+      "stars": 600
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
@@ -44,7 +44,7 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 285
+      "stars": 286
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 111
+      "stars": 110
     },
     {
       "url": "https://github.com/mszostok/version",
@@ -76,7 +76,7 @@
     },
     {
       "url": "https://github.com/GStones/moke-kit",
-      "stars": 85
+      "stars": 88
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
@@ -88,7 +88,7 @@
     },
     {
       "url": "https://github.com/capactio/capact",
-      "stars": 79
+      "stars": 80
     },
     {
       "url": "https://github.com/codewars/docs",
@@ -120,7 +120,7 @@
     },
     {
       "url": "https://github.com/opentdf/platform",
-      "stars": 24
+      "stars": 26
     },
     {
       "url": "https://github.com/jeertmans/DiffeRT",
@@ -151,11 +151,11 @@
       "stars": 13
     },
     {
-      "url": "https://github.com/vipulgupta2048/talkswith2048",
-      "stars": 12
+      "url": "https://github.com/jeertmans/manim-tutorial",
+      "stars": 13
     },
     {
-      "url": "https://github.com/jeertmans/manim-tutorial",
+      "url": "https://github.com/vipulgupta2048/talkswith2048",
       "stars": 12
     },
     {
@@ -232,9 +232,9 @@
     }
   ],
   "count": {
-    "total": 396,
+    "total": 397,
     "public": 249,
-    "private": 147,
-    "more_than_zero_star": 106
+    "private": 148,
+    "more_than_zero_star": 105
   }
 }
