@@ -3,8 +3,12 @@
   "repo": "action-typos",
   "repos": [
     {
+      "url": "https://github.com/activeadmin/activeadmin",
+      "stars": 9582
+    },
+    {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8377
+      "stars": 8395
     },
     {
       "url": "https://github.com/mime-types/ruby-mime-types",
@@ -32,7 +36,7 @@
     },
     {
       "url": "https://github.com/xeho91/js-ast",
-      "stars": 12
+      "stars": 13
     },
     {
       "url": "https://github.com/svelte-docgen/svelte-docgen",
@@ -44,9 +48,9 @@
     }
   ],
   "count": {
-    "total": 29,
-    "public": 22,
+    "total": 31,
+    "public": 24,
     "private": 7,
-    "more_than_zero_star": 15
+    "more_than_zero_star": 16
   }
 }

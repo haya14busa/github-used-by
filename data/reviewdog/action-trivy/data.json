@@ -3,14 +3,18 @@
   "repo": "action-trivy",
   "repos": [
     {
+      "url": "https://github.com/cookpad/terraform-aws-eks",
+      "stars": 70
+    },
+    {
       "url": "https://github.com/nuvibit/github-terraform-workflows",
       "stars": 8
     }
   ],
   "count": {
-    "total": 44,
+    "total": 45,
     "public": 38,
-    "private": 6,
-    "more_than_zero_star": 9
+    "private": 7,
+    "more_than_zero_star": 10
   }
 }

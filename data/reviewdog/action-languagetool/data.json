@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8377
+      "stars": 8395
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7597
+      "stars": 7600
     },
     {
       "url": "https://github.com/vdaas/vald",
@@ -20,23 +20,23 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1019
+      "stars": 1024
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 960
+      "stars": 959
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 732
+      "stars": 736
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 619
+      "stars": 625
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 600
+      "stars": 605
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
@@ -44,7 +44,7 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 286
+      "stars": 288
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -60,23 +60,23 @@
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
-      "stars": 146
+      "stars": 145
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 110
+      "stars": 109
     },
     {
       "url": "https://github.com/mszostok/version",
       "stars": 107
     },
     {
-      "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
-      "stars": 89
+      "url": "https://github.com/GStones/moke-kit",
+      "stars": 90
     },
     {
-      "url": "https://github.com/GStones/moke-kit",
-      "stars": 88
+      "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
+      "stars": 89
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
@@ -104,7 +104,7 @@
     },
     {
       "url": "https://github.com/pkosiec/website",
-      "stars": 32
+      "stars": 33
     },
     {
       "url": "https://github.com/ZeroAssumptions/aide-de-camp",
@@ -124,7 +124,7 @@
     },
     {
       "url": "https://github.com/jeertmans/DiffeRT",
-      "stars": 24
+      "stars": 25
     },
     {
       "url": "https://github.com/nownabe/go-bqloader",
@@ -232,9 +232,9 @@
     }
   ],
   "count": {
-    "total": 397,
+    "total": 398,
     "public": 249,
-    "private": 148,
+    "private": 149,
     "more_than_zero_star": 105
   }
 }

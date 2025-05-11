@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/rubyforgood/Flaredown",
-      "stars": 42
+      "stars": 43
     },
     {
       "url": "https://github.com/powerhome/playbook",
@@ -52,9 +52,9 @@
     }
   ],
   "count": {
-    "total": 115,
+    "total": 116,
     "public": 73,
-    "private": 42,
+    "private": 43,
     "more_than_zero_star": 25
   }
 }

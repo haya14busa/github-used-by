@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 493 | 355 | 138 | 127 |
+| 495 | 354 | 141 | 127 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-flake8/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-flake8)
@@ -21,25 +21,25 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/netdata|74458|
-|2|<img src="https://github.com/bndr.png" width=50 height=50>|https://github.com/bndr/pipreqs|7173|
-|3|<img src="https://github.com/BaguaSys.png" width=50 height=50>|https://github.com/BaguaSys/bagua|881|
-|4|<img src="https://github.com/tradingstrategy-ai.png" width=50 height=50>|https://github.com/tradingstrategy-ai/web3-ethereum-defi|675|
-|5|<img src="https://github.com/simpeg.png" width=50 height=50>|https://github.com/simpeg/simpeg|549|
-|6|<img src="https://github.com/pnuckowski.png" width=50 height=50>|https://github.com/pnuckowski/aioresponses|542|
-|7|<img src="https://github.com/PersiaML.png" width=50 height=50>|https://github.com/PersiaML/PERSIA|405|
+|1|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/netdata|74502|
+|2|<img src="https://github.com/bndr.png" width=50 height=50>|https://github.com/bndr/pipreqs|7183|
+|3|<img src="https://github.com/BaguaSys.png" width=50 height=50>|https://github.com/BaguaSys/bagua|883|
+|4|<img src="https://github.com/tradingstrategy-ai.png" width=50 height=50>|https://github.com/tradingstrategy-ai/web3-ethereum-defi|679|
+|5|<img src="https://github.com/simpeg.png" width=50 height=50>|https://github.com/simpeg/simpeg|550|
+|6|<img src="https://github.com/pnuckowski.png" width=50 height=50>|https://github.com/pnuckowski/aioresponses|543|
+|7|<img src="https://github.com/PersiaML.png" width=50 height=50>|https://github.com/PersiaML/PERSIA|406|
 |8|<img src="https://github.com/PAhelper.png" width=50 height=50>|https://github.com/PAhelper/PhoenixAdult.bundle|369|
 |9|<img src="https://github.com/ThePornDatabase.png" width=50 height=50>|https://github.com/ThePornDatabase/ThePornDB.bundle|203|
 |10|<img src="https://github.com/f0uriest.png" width=50 height=50>|https://github.com/f0uriest/interpax|177|
 |11|<img src="https://github.com/libcgroup.png" width=50 height=50>|https://github.com/libcgroup/libcgroup|162|
 |12|<img src="https://github.com/TrangPham.png" width=50 height=50>|https://github.com/TrangPham/django-admin-confirm|134|
-|13|<img src="https://github.com/PlasmaControl.png" width=50 height=50>|https://github.com/PlasmaControl/DESC|122|
+|13|<img src="https://github.com/PlasmaControl.png" width=50 height=50>|https://github.com/PlasmaControl/DESC|123|
 |14|<img src="https://github.com/mangdangroboticsclub.png" width=50 height=50>|https://github.com/mangdangroboticsclub/mini_pupper_ros|113|
 |15|<img src="https://github.com/ehpor.png" width=50 height=50>|https://github.com/ehpor/hcipy|108|
 |16|<img src="https://github.com/fdintino.png" width=50 height=50>|https://github.com/fdintino/pillow-avif-plugin|106|
 |17|<img src="https://github.com/LFPy.png" width=50 height=50>|https://github.com/LFPy/LFPy|79|
-|18|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/csd-python-api-scripts|71|
-|19|<img src="https://github.com/ydb-platform.png" width=50 height=50>|https://github.com/ydb-platform/nbs|69|
+|18|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/csd-python-api-scripts|73|
+|19|<img src="https://github.com/ydb-platform.png" width=50 height=50>|https://github.com/ydb-platform/nbs|72|
 |20|<img src="https://github.com/ThePornDatabase.png" width=50 height=50>|https://github.com/ThePornDatabase/scrapers|60|
 |21|<img src="https://github.com/oracle.png" width=50 height=50>|https://github.com/oracle/adaptivemm|59|
 |22|<img src="https://github.com/f0uriest.png" width=50 height=50>|https://github.com/f0uriest/quadax|58|
@@ -48,12 +48,12 @@
 |25|<img src="https://github.com/Open-Model-Initiative.png" width=50 height=50>|https://github.com/Open-Model-Initiative/OMI-Data-Pipeline|35|
 |26|<img src="https://github.com/comorment.png" width=50 height=50>|https://github.com/comorment/containers|29|
 |27|<img src="https://github.com/ZPascal.png" width=50 height=50>|https://github.com/ZPascal/grafana_api_sdk|29|
-|28|<img src="https://github.com/DirtyRacer1337.png" width=50 height=50>|https://github.com/DirtyRacer1337/PhoenixAdult.bundle|22|
-|29|<img src="https://github.com/NebularNerd.png" width=50 height=50>|https://github.com/NebularNerd/subtotxt|21|
-|30|<img src="https://github.com/f0uriest.png" width=50 height=50>|https://github.com/f0uriest/orthax|21|
+|28|<img src="https://github.com/f0uriest.png" width=50 height=50>|https://github.com/f0uriest/orthax|22|
+|29|<img src="https://github.com/DirtyRacer1337.png" width=50 height=50>|https://github.com/DirtyRacer1337/PhoenixAdult.bundle|22|
+|30|<img src="https://github.com/NebularNerd.png" width=50 height=50>|https://github.com/NebularNerd/subtotxt|21|
 |31|<img src="https://github.com/danishi.png" width=50 height=50>|https://github.com/danishi/dynamodb-csv|20|
-|32|<img src="https://github.com/nnsnodnb.png" width=50 height=50>|https://github.com/nnsnodnb/django-ios-storekit|19|
-|33|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/ansible-role-debloat-windows|18|
+|32|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/ansible-role-debloat-windows|19|
+|33|<img src="https://github.com/nnsnodnb.png" width=50 height=50>|https://github.com/nnsnodnb/django-ios-storekit|19|
 |34|<img src="https://github.com/mikhailprivalov.png" width=50 height=50>|https://github.com/mikhailprivalov/l2|18|
 |35|<img src="https://github.com/rickstaa.png" width=50 height=50>|https://github.com/rickstaa/panda-gazebo|17|
 |36|<img src="https://github.com/nnsnodnb.png" width=50 height=50>|https://github.com/nnsnodnb/kalyke|17|

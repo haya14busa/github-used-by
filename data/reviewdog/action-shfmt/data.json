@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 3528
+      "stars": 3560
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 937
+      "stars": 947
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 286
+      "stars": 288
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/yu-iskw/action-sqlfluff",
-      "stars": 69
+      "stars": 70
     },
     {
       "url": "https://github.com/lure-sh/lure-repo",
@@ -100,8 +100,8 @@
     }
   ],
   "count": {
-    "total": 182,
-    "public": 103,
+    "total": 183,
+    "public": 104,
     "private": 79,
     "more_than_zero_star": 43
   }

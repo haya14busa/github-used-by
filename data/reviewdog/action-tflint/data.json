@@ -8,7 +8,7 @@
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 1025
+      "stars": 1035
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
@@ -44,14 +44,14 @@
     },
     {
       "url": "https://github.com/GiganticMinecraft/seichi_infra",
-      "stars": 60
+      "stars": 61
     },
     {
       "url": "https://github.com/slalombuild/terraform-atmos-accelerator",
       "stars": 53
     },
     {
-      "url": "https://github.com/cloudposse/github-actions-workflows",
+      "url": "https://github.com/cloudposse-archives/github-actions-workflows",
       "stars": 37
     },
     {
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/timoa/terraform-oci-vscode-server",
-      "stars": 26
+      "stars": 27
     },
     {
       "url": "https://github.com/liatrio/lead-terraform",
@@ -265,8 +265,8 @@
   ],
   "count": {
     "total": 652,
-    "public": 408,
-    "private": 244,
-    "more_than_zero_star": 165
+    "public": 407,
+    "private": 245,
+    "more_than_zero_star": 166
   }
 }
