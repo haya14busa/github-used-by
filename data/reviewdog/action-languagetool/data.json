@@ -4,55 +4,55 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8395
+      "stars": 8407
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7600
+      "stars": 7607
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1597
+      "stars": 1599
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1145
+      "stars": 1147
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1024
+      "stars": 1030
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 959
+      "stars": 960
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 736
+      "stars": 740
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 625
+      "stars": 631
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 605
+      "stars": 606
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
-      "stars": 308
+      "stars": 309
     },
     {
       "url": "https://github.com/Shemnei/punktf",
       "stars": 288
     },
     {
-      "url": "https://github.com/openhab/openhab-google-assistant",
+      "url": "https://github.com/jeertmans/languagetool-rust",
       "stars": 173
     },
     {
-      "url": "https://github.com/jeertmans/languagetool-rust",
-      "stars": 172
+      "url": "https://github.com/openhab/openhab-google-assistant",
+      "stars": 173
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/GStones/moke-kit",
-      "stars": 90
+      "stars": 91
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/codewars/docs",
-      "stars": 58
+      "stars": 59
     },
     {
       "url": "https://github.com/shopware/docs",
@@ -132,7 +132,7 @@
     },
     {
       "url": "https://github.com/TheNeikos/type_description",
-      "stars": 19
+      "stars": 20
     },
     {
       "url": "https://github.com/hp-net/homebridge-nibe",
@@ -163,6 +163,10 @@
       "stars": 11
     },
     {
+      "url": "https://github.com/opentdf/otdfctl",
+      "stars": 9
+    },
+    {
       "url": "https://github.com/libp2p/blog",
       "stars": 9
     },
@@ -173,10 +177,6 @@
     {
       "url": "https://github.com/GoogleCloudPlatform/appengine-cloud-demo-portal",
       "stars": 9
-    },
-    {
-      "url": "https://github.com/opentdf/otdfctl",
-      "stars": 8
     },
     {
       "url": "https://github.com/VikeSec/CTF-Infrastructure",
@@ -233,8 +233,8 @@
   ],
   "count": {
     "total": 398,
-    "public": 249,
-    "private": 149,
+    "public": 248,
+    "private": 150,
     "more_than_zero_star": 105
   }
 }

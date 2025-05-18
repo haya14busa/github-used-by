@@ -8,7 +8,7 @@
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 1035
+      "stars": 1046
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
@@ -16,23 +16,23 @@
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 552
+      "stars": 554
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 515
+      "stars": 517
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 207
+      "stars": 209
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
-      "stars": 196
+      "stars": 195
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 189
+      "stars": 190
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
@@ -67,16 +67,16 @@
       "stars": 27
     },
     {
+      "url": "https://github.com/chainguard-dev/terraform-infra-common",
+      "stars": 20
+    },
+    {
       "url": "https://github.com/liatrio/lead-terraform",
       "stars": 20
     },
     {
       "url": "https://github.com/rhythmictech/terraform-aws-imagebuilder-pipeline",
       "stars": 20
-    },
-    {
-      "url": "https://github.com/chainguard-dev/terraform-infra-common",
-      "stars": 19
     },
     {
       "url": "https://github.com/rallyware/terraform-argocd-aws-eks-cluster-bootstrap",
@@ -115,6 +115,10 @@
       "stars": 11
     },
     {
+      "url": "https://github.com/chainguard-dev/go-grpc-kit",
+      "stars": 10
+    },
+    {
       "url": "https://github.com/Vlaaaaaaad/terraform-aws-fargate-refinery",
       "stars": 10
     },
@@ -136,10 +140,6 @@
     },
     {
       "url": "https://github.com/liatrio/terraform-caf-azure",
-      "stars": 9
-    },
-    {
-      "url": "https://github.com/chainguard-dev/go-grpc-kit",
       "stars": 9
     },
     {
@@ -177,6 +177,10 @@
     {
       "url": "https://github.com/rhythmictech/terraform-aws-cloudtrail-logging",
       "stars": 8
+    },
+    {
+      "url": "https://github.com/cloudposse/.github",
+      "stars": 7
     },
     {
       "url": "https://github.com/hazelops/terraform-aws-ec2-bastion",
@@ -235,10 +239,6 @@
       "stars": 6
     },
     {
-      "url": "https://github.com/sammcj/sqs-message-action",
-      "stars": 5
-    },
-    {
       "url": "https://github.com/rhythmictech/terraform-aws-datadog",
       "stars": 5
     },
@@ -264,9 +264,9 @@
     }
   ],
   "count": {
-    "total": 652,
+    "total": 655,
     "public": 407,
-    "private": 245,
-    "more_than_zero_star": 166
+    "private": 248,
+    "more_than_zero_star": 165
   }
 }

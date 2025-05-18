@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 376 | 246 | 130 | 100 |
+| 376 | 243 | 133 | 98 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-tfsec/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-tfsec)
@@ -21,8 +21,8 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/kube-hetzner.png" width=50 height=50>|https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner|2926|
-|2|<img src="https://github.com/TechToSpeech.png" width=50 height=50>|https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress|196|
+|1|<img src="https://github.com/kube-hetzner.png" width=50 height=50>|https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner|2944|
+|2|<img src="https://github.com/TechToSpeech.png" width=50 height=50>|https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress|195|
 |3|<img src="https://github.com/timoa.png" width=50 height=50>|https://github.com/timoa/terraform-oci-vscode-server|27|
 |4|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-imagebuilder-pipeline|20|
 |5|<img src="https://github.com/GrantBirki.png" width=50 height=50>|https://github.com/GrantBirki/k8s-discord|18|
@@ -49,10 +49,9 @@
 |26|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-alb-ecs-task|6|
 |27|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-nexus|6|
 |28|<img src="https://github.com/jharmison-redhat.png" width=50 height=50>|https://github.com/jharmison-redhat/disconnected-openshift-testbed|6|
-|29|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/sqs-message-action|5|
-|30|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-datadog|5|
-|31|<img src="https://github.com/hgsgtk.png" width=50 height=50>|https://github.com/hgsgtk/tf-guardduty|5|
-|32|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-efs-filesystem|5|
-|33|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-1password-scim-bridge|5|
-|34|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-eks-cluster|5|
-|35|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-nessus-appliance|5|
+|29|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-datadog|5|
+|30|<img src="https://github.com/hgsgtk.png" width=50 height=50>|https://github.com/hgsgtk/tf-guardduty|5|
+|31|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-efs-filesystem|5|
+|32|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-1password-scim-bridge|5|
+|33|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-eks-cluster|5|
+|34|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-nessus-appliance|5|

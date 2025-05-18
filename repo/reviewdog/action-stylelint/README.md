@@ -22,10 +22,10 @@
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
 |1|<img src="https://github.com/Tokyo-Metro-Gov.png" width=50 height=50>|https://github.com/Tokyo-Metro-Gov/covid19|6248|
-|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2414|
-|3|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-css|1230|
-|4|<img src="https://github.com/h3poteto.png" width=50 height=50>|https://github.com/h3poteto/whalebird-desktop|920|
-|5|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|281|
+|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2421|
+|3|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-css|1232|
+|4|<img src="https://github.com/h3poteto.png" width=50 height=50>|https://github.com/h3poteto/whalebird-desktop|918|
+|5|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|283|
 |6|<img src="https://github.com/th0th.png" width=50 height=50>|https://github.com/th0th/poeticmetric|260|
 |7|<img src="https://github.com/modx-pro.png" width=50 height=50>|https://github.com/modx-pro/miniShop2|151|
 |8|<img src="https://github.com/haya14busa.png" width=50 height=50>|https://github.com/haya14busa/github-action-brandings|147|

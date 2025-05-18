@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 3560
+      "stars": 3567
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 947
+      "stars": 949
     },
     {
       "url": "https://github.com/Shemnei/punktf",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/reviewdog/action-suggester",
-      "stars": 114
+      "stars": 115
     },
     {
       "url": "https://github.com/jiro4989/setup-nim-action",
@@ -51,12 +51,12 @@
       "stars": 46
     },
     {
-      "url": "https://github.com/franzs/fritzbox_upload_certificate",
+      "url": "https://github.com/mongolyy/reviewdog-action-biome",
       "stars": 43
     },
     {
-      "url": "https://github.com/mongolyy/reviewdog-action-biome",
-      "stars": 42
+      "url": "https://github.com/franzs/fritzbox_upload_certificate",
+      "stars": 43
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-prettier",
@@ -68,7 +68,7 @@
     },
     {
       "url": "https://github.com/UmbrellaDocs/action-linkspector",
-      "stars": 21
+      "stars": 22
     },
     {
       "url": "https://github.com/helpermethod/up",
@@ -100,8 +100,8 @@
     }
   ],
   "count": {
-    "total": 183,
-    "public": 104,
+    "total": 185,
+    "public": 106,
     "private": 79,
     "more_than_zero_star": 43
   }

@@ -4,47 +4,47 @@
   "repos": [
     {
       "url": "https://github.com/preservim/nerdtree",
-      "stars": 19878
+      "stars": 19876
     },
     {
       "url": "https://github.com/vim-airline/vim-airline",
-      "stars": 17897
+      "stars": 17904
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7600
+      "stars": 7607
     },
     {
       "url": "https://github.com/preservim/tagbar",
-      "stars": 6188
+      "stars": 6189
     },
     {
       "url": "https://github.com/preservim/nerdcommenter",
-      "stars": 4996
+      "stars": 4997
     },
     {
       "url": "https://github.com/preservim/vim-markdown",
-      "stars": 4742
+      "stars": 4744
     },
     {
       "url": "https://github.com/prabirshrestha/vim-lsp",
-      "stars": 3239
+      "stars": 3242
     },
     {
       "url": "https://github.com/liuchengxu/space-vim",
-      "stars": 2852
+      "stars": 2853
     },
     {
       "url": "https://github.com/preservim/vimux",
-      "stars": 2245
+      "stars": 2246
     },
     {
       "url": "https://github.com/liuchengxu/vim-clap",
-      "stars": 2127
+      "stars": 2128
     },
     {
       "url": "https://github.com/Xuyuanp/nerdtree-git-plugin",
-      "stars": 2086
+      "stars": 2085
     },
     {
       "url": "https://github.com/vim-airline/vim-airline-themes",
@@ -68,7 +68,7 @@
     },
     {
       "url": "https://github.com/lambdalisue/vim-fern",
-      "stars": 1317
+      "stars": 1315
     },
     {
       "url": "https://github.com/whatyouhide/vim-gotham",
@@ -76,11 +76,11 @@
     },
     {
       "url": "https://github.com/artur-shaik/vim-javacomplete2",
-      "stars": 971
+      "stars": 970
     },
     {
       "url": "https://github.com/prabirshrestha/asyncomplete.vim",
-      "stars": 949
+      "stars": 948
     },
     {
       "url": "https://github.com/yutkat/dotfiles",
@@ -128,11 +128,11 @@
     },
     {
       "url": "https://github.com/preservim/vim-textobj-quote",
-      "stars": 125
+      "stars": 124
     },
     {
       "url": "https://github.com/yasukotelin/shirotelin",
-      "stars": 90
+      "stars": 89
     },
     {
       "url": "https://github.com/lambdalisue/vim-fern-git-status",
@@ -159,12 +159,12 @@
       "stars": 29
     },
     {
-      "url": "https://github.com/lambdalisue/vital-Whisky",
+      "url": "https://github.com/ryicoh/deepl.vim",
       "stars": 28
     },
     {
-      "url": "https://github.com/ryicoh/deepl.vim",
-      "stars": 27
+      "url": "https://github.com/lambdalisue/vital-Whisky",
+      "stars": 28
     },
     {
       "url": "https://github.com/starifly/FlyVim",

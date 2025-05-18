@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9582
+      "stars": 9586
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8395
+      "stars": 8407
     },
     {
       "url": "https://github.com/mime-types/ruby-mime-types",
@@ -36,7 +36,7 @@
     },
     {
       "url": "https://github.com/xeho91/js-ast",
-      "stars": 13
+      "stars": 15
     },
     {
       "url": "https://github.com/svelte-docgen/svelte-docgen",

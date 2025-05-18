@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 334 | 186 | 148 | 73 |
+| 334 | 182 | 152 | 70 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-detect-secrets/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-detect-secrets)
@@ -21,11 +21,11 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/4paradigm.png" width=50 height=50>|https://github.com/4paradigm/OpenMLDB|1631|
-|2|<img src="https://github.com/PyPtt.png" width=50 height=50>|https://github.com/PyPtt/PyPtt|706|
+|1|<img src="https://github.com/4paradigm.png" width=50 height=50>|https://github.com/4paradigm/OpenMLDB|1633|
+|2|<img src="https://github.com/PyPtt.png" width=50 height=50>|https://github.com/PyPtt/PyPtt|707|
 |3|<img src="https://github.com/jackpocket.png" width=50 height=50>|https://github.com/jackpocket/android-scratchoff|450|
 |4|<img src="https://github.com/nix-united.png" width=50 height=50>|https://github.com/nix-united/golang-echo-boilerplate|307|
-|5|<img src="https://github.com/nix-united.png" width=50 height=50>|https://github.com/nix-united/golang-gin-boilerplate|110|
+|5|<img src="https://github.com/nix-united.png" width=50 height=50>|https://github.com/nix-united/golang-gin-boilerplate|109|
 |6|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/closeable-map|61|
 |7|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/malli-cli|56|
 |8|<img src="https://github.com/adam-rms.png" width=50 height=50>|https://github.com/adam-rms/adam-rms|35|
@@ -45,4 +45,3 @@
 |22|<img src="https://github.com/bitjourney.png" width=50 height=50>|https://github.com/bitjourney/ts_assets-rails|5|
 |23|<img src="https://github.com/ctc-uci.png" width=50 height=50>|https://github.com/ctc-uci/stand-up-to-trash-backend|5|
 |24|<img src="https://github.com/ctc-uci.png" width=50 height=50>|https://github.com/ctc-uci/stand-up-to-trash-frontend|5|
-|25|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/sqs-message-action|5|

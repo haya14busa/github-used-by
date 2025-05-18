@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
-      "stars": 2926
+      "stars": 2944
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
-      "stars": 196
+      "stars": 195
     },
     {
       "url": "https://github.com/timoa/terraform-oci-vscode-server",
@@ -115,10 +115,6 @@
       "stars": 6
     },
     {
-      "url": "https://github.com/sammcj/sqs-message-action",
-      "stars": 5
-    },
-    {
       "url": "https://github.com/rhythmictech/terraform-aws-datadog",
       "stars": 5
     },
@@ -145,8 +141,8 @@
   ],
   "count": {
     "total": 376,
-    "public": 246,
-    "private": 130,
-    "more_than_zero_star": 100
+    "public": 243,
+    "private": 133,
+    "more_than_zero_star": 98
   }
 }

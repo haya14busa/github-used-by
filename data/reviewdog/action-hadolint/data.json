@@ -4,31 +4,31 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 74502
+      "stars": 74573
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13552
+      "stars": 13557
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 6857
+      "stars": 6872
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 6789
+      "stars": 6802
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 4028
+      "stars": 4046
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
-      "stars": 3002
+      "stars": 3004
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1919
+      "stars": 1922
     },
     {
       "url": "https://github.com/magma/magma",
@@ -36,27 +36,27 @@
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1597
+      "stars": 1599
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1321
+      "stars": 1329
     },
     {
       "url": "https://github.com/truecharts/public",
-      "stars": 1208
+      "stars": 1210
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 1191
+      "stars": 1197
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 815
+      "stars": 819
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 446
+      "stars": 449
     },
     {
       "url": "https://github.com/K-Phoen/dark",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
-      "stars": 354
+      "stars": 355
     },
     {
       "url": "https://github.com/KCarretto/paragon",
@@ -72,15 +72,15 @@
     },
     {
       "url": "https://github.com/bgruening/docker-galaxy",
-      "stars": 233
+      "stars": 234
     },
     {
       "url": "https://github.com/openstack-exporter/openstack-exporter",
-      "stars": 227
+      "stars": 228
     },
     {
       "url": "https://github.com/dadrus/heimdall",
-      "stars": 185
+      "stars": 187
     },
     {
       "url": "https://github.com/raspbernetes/multi-arch-images",
@@ -107,12 +107,12 @@
       "stars": 93
     },
     {
-      "url": "https://github.com/Drakkar-Software/Triangular-Arbitrage",
-      "stars": 88
+      "url": "https://github.com/vanadium23/kompanion",
+      "stars": 92
     },
     {
-      "url": "https://github.com/vanadium23/kompanion",
-      "stars": 86
+      "url": "https://github.com/Drakkar-Software/Triangular-Arbitrage",
+      "stars": 89
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
@@ -135,11 +135,11 @@
       "stars": 73
     },
     {
-      "url": "https://github.com/akunzai/GSS.Authentication.CAS",
-      "stars": 71
+      "url": "https://github.com/netdata/community",
+      "stars": 72
     },
     {
-      "url": "https://github.com/netdata/community",
+      "url": "https://github.com/akunzai/GSS.Authentication.CAS",
       "stars": 71
     },
     {
@@ -195,12 +195,12 @@
       "stars": 27
     },
     {
-      "url": "https://github.com/dbelyaev/action-checkstyle",
+      "url": "https://github.com/Drakkar-Software/OctoBot-Script",
       "stars": 24
     },
     {
-      "url": "https://github.com/Drakkar-Software/OctoBot-Script",
-      "stars": 23
+      "url": "https://github.com/dbelyaev/action-checkstyle",
+      "stars": 24
     },
     {
       "url": "https://github.com/tuxpeople/docker-podsync",
@@ -228,7 +228,7 @@
     },
     {
       "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
-      "stars": 19
+      "stars": 18
     },
     {
       "url": "https://github.com/device-management-toolkit/console",
@@ -307,6 +307,10 @@
       "stars": 11
     },
     {
+      "url": "https://github.com/mrtousif/youtube-clone",
+      "stars": 11
+    },
+    {
       "url": "https://github.com/timoa/chrome-tab-rotate-server",
       "stars": 11
     },
@@ -319,8 +323,8 @@
       "stars": 11
     },
     {
-      "url": "https://github.com/mrtousif/youtube-clone",
-      "stars": 10
+      "url": "https://github.com/jiro4989/build-rpm-action",
+      "stars": 11
     },
     {
       "url": "https://github.com/ironpeakservices/iron-chart-go",
@@ -328,10 +332,6 @@
     },
     {
       "url": "https://github.com/yamap55/python_repository_simple",
-      "stars": 10
-    },
-    {
-      "url": "https://github.com/jiro4989/build-rpm-action",
       "stars": 10
     },
     {
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 1995,
-    "public": 1331,
-    "private": 664,
-    "more_than_zero_star": 346
+    "total": 1996,
+    "public": 1326,
+    "private": 670,
+    "more_than_zero_star": 344
   }
 }

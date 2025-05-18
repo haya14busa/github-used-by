@@ -21,12 +21,12 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/chanzuckerberg.png" width=50 height=50>|https://github.com/chanzuckerberg/czid-web|84|
+|1|<img src="https://github.com/chanzuckerberg.png" width=50 height=50>|https://github.com/chanzuckerberg/czid-web|85|
 |2|<img src="https://github.com/tricknotes.png" width=50 height=50>|https://github.com/tricknotes/starseeker|82|
-|3|<img src="https://github.com/openHPI.png" width=50 height=50>|https://github.com/openHPI/codeocean|67|
+|3|<img src="https://github.com/openHPI.png" width=50 height=50>|https://github.com/openHPI/codeocean|68|
 |4|<img src="https://github.com/veuelive.png" width=50 height=50>|https://github.com/veuelive/veue|55|
 |5|<img src="https://github.com/rubyforgood.png" width=50 height=50>|https://github.com/rubyforgood/Flaredown|43|
-|6|<img src="https://github.com/powerhome.png" width=50 height=50>|https://github.com/powerhome/playbook|32|
+|6|<img src="https://github.com/powerhome.png" width=50 height=50>|https://github.com/powerhome/playbook|33|
 |7|<img src="https://github.com/sokusekiya.png" width=50 height=50>|https://github.com/sokusekiya/sokuseki|24|
 |8|<img src="https://github.com/glowfic-constellation.png" width=50 height=50>|https://github.com/glowfic-constellation/glowfic|18|
 |9|<img src="https://github.com/etalab.png" width=50 height=50>|https://github.com/etalab/admin_api_entreprise|10|

@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 74502
+      "stars": 74573
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7183
+      "stars": 7198
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -16,11 +16,11 @@
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 679
+      "stars": 682
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 550
+      "stars": 556
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
@@ -36,11 +36,11 @@
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
-      "stars": 203
+      "stars": 205
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 177
+      "stars": 183
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
@@ -60,11 +60,11 @@
     },
     {
       "url": "https://github.com/ehpor/hcipy",
-      "stars": 108
+      "stars": 109
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
-      "stars": 106
+      "stars": 107
     },
     {
       "url": "https://github.com/LFPy/LFPy",
@@ -79,16 +79,16 @@
       "stars": 72
     },
     {
-      "url": "https://github.com/ThePornDatabase/scrapers",
-      "stars": 60
+      "url": "https://github.com/oracle/adaptivemm",
+      "stars": 65
     },
     {
-      "url": "https://github.com/oracle/adaptivemm",
-      "stars": 59
+      "url": "https://github.com/ThePornDatabase/scrapers",
+      "stars": 61
     },
     {
       "url": "https://github.com/f0uriest/quadax",
-      "stars": 58
+      "stars": 59
     },
     {
       "url": "https://github.com/ut-issl/c2a-core",
@@ -127,20 +127,20 @@
       "stars": 20
     },
     {
-      "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
-      "stars": 19
-    },
-    {
       "url": "https://github.com/nnsnodnb/django-ios-storekit",
       "stars": 19
     },
     {
-      "url": "https://github.com/mikhailprivalov/l2",
+      "url": "https://github.com/rickstaa/panda-gazebo",
       "stars": 18
     },
     {
-      "url": "https://github.com/rickstaa/panda-gazebo",
-      "stars": 17
+      "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
+      "stars": 18
+    },
+    {
+      "url": "https://github.com/mikhailprivalov/l2",
+      "stars": 18
     },
     {
       "url": "https://github.com/nnsnodnb/kalyke",
@@ -155,12 +155,12 @@
       "stars": 14
     },
     {
-      "url": "https://github.com/rickstaa/stable-gym",
+      "url": "https://github.com/ccdc-opensource/dash",
       "stars": 12
     },
     {
-      "url": "https://github.com/ccdc-opensource/dash",
-      "stars": 12
+      "url": "https://github.com/rickstaa/stable-gym",
+      "stars": 11
     },
     {
       "url": "https://github.com/michaelthomasletts/boto3-refresh-session",
@@ -212,9 +212,9 @@
     }
   ],
   "count": {
-    "total": 495,
-    "public": 354,
-    "private": 141,
+    "total": 497,
+    "public": 355,
+    "private": 142,
     "more_than_zero_star": 127
   }
 }
