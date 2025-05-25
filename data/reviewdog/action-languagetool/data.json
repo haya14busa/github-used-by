@@ -4,51 +4,51 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8407
+      "stars": 8420
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7607
+      "stars": 7612
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1599
+      "stars": 1601
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1147
+      "stars": 1148
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1030
+      "stars": 1032
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 960
+      "stars": 961
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 740
+      "stars": 745
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 631
+      "stars": 635
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 606
+      "stars": 612
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
-      "stars": 309
+      "stars": 310
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 288
+      "stars": 289
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
-      "stars": 173
+      "stars": 174
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -115,16 +115,16 @@
       "stars": 30
     },
     {
+      "url": "https://github.com/jeertmans/DiffeRT",
+      "stars": 28
+    },
+    {
       "url": "https://github.com/jeertmans/untex",
       "stars": 27
     },
     {
       "url": "https://github.com/opentdf/platform",
       "stars": 26
-    },
-    {
-      "url": "https://github.com/jeertmans/DiffeRT",
-      "stars": 25
     },
     {
       "url": "https://github.com/nownabe/go-bqloader",
@@ -232,9 +232,9 @@
     }
   ],
   "count": {
-    "total": 398,
-    "public": 248,
-    "private": 150,
+    "total": 400,
+    "public": 249,
+    "private": 151,
     "more_than_zero_star": 105
   }
 }

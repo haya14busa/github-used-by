@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 3567
+      "stars": 3583
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 949
+      "stars": 956
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 288
+      "stars": 289
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
@@ -59,11 +59,11 @@
       "stars": 43
     },
     {
-      "url": "https://github.com/EPMatt/reviewdog-action-prettier",
-      "stars": 23
+      "url": "https://github.com/EPMatt/reviewdog-action-tsc",
+      "stars": 24
     },
     {
-      "url": "https://github.com/EPMatt/reviewdog-action-tsc",
+      "url": "https://github.com/EPMatt/reviewdog-action-prettier",
       "stars": 23
     },
     {
@@ -101,8 +101,8 @@
   ],
   "count": {
     "total": 185,
-    "public": 106,
-    "private": 79,
+    "public": 104,
+    "private": 81,
     "more_than_zero_star": 43
   }
 }

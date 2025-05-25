@@ -4,71 +4,71 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 74573
+      "stars": 74610
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13557
+      "stars": 13569
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 6872
+      "stars": 6903
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 6802
+      "stars": 6815
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 4046
+      "stars": 4063
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
-      "stars": 3004
+      "stars": 3008
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1922
+      "stars": 1923
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1742
+      "stars": 1744
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1599
+      "stars": 1601
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1329
+      "stars": 1331
     },
     {
       "url": "https://github.com/truecharts/public",
-      "stars": 1210
+      "stars": 1211
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 1197
+      "stars": 1201
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 819
+      "stars": 823
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 449
+      "stars": 450
     },
     {
       "url": "https://github.com/K-Phoen/dark",
-      "stars": 434
+      "stars": 433
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
-      "stars": 355
+      "stars": 363
     },
     {
       "url": "https://github.com/KCarretto/paragon",
-      "stars": 299
+      "stars": 298
     },
     {
       "url": "https://github.com/bgruening/docker-galaxy",
@@ -76,11 +76,11 @@
     },
     {
       "url": "https://github.com/openstack-exporter/openstack-exporter",
-      "stars": 228
+      "stars": 229
     },
     {
       "url": "https://github.com/dadrus/heimdall",
-      "stars": 187
+      "stars": 186
     },
     {
       "url": "https://github.com/raspbernetes/multi-arch-images",
@@ -103,12 +103,12 @@
       "stars": 118
     },
     {
-      "url": "https://github.com/haya14busa/action-bumpr",
-      "stars": 93
+      "url": "https://github.com/vanadium23/kompanion",
+      "stars": 94
     },
     {
-      "url": "https://github.com/vanadium23/kompanion",
-      "stars": 92
+      "url": "https://github.com/haya14busa/action-bumpr",
+      "stars": 94
     },
     {
       "url": "https://github.com/Drakkar-Software/Triangular-Arbitrage",
@@ -159,11 +159,11 @@
       "stars": 56
     },
     {
-      "url": "https://github.com/HopopOps/k8s-ldap-auth",
-      "stars": 52
+      "url": "https://github.com/haya14busa/action-update-semver",
+      "stars": 53
     },
     {
-      "url": "https://github.com/haya14busa/action-update-semver",
+      "url": "https://github.com/HopopOps/k8s-ldap-auth",
       "stars": 52
     },
     {
@@ -255,12 +255,12 @@
       "stars": 15
     },
     {
-      "url": "https://github.com/netdata/ebpf-co-re",
+      "url": "https://github.com/kphrx/noxir",
       "stars": 14
     },
     {
-      "url": "https://github.com/kphrx/noxir",
-      "stars": 13
+      "url": "https://github.com/netdata/ebpf-co-re",
+      "stars": 14
     },
     {
       "url": "https://github.com/sammcj/zsh-bootstrap",
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 1996,
-    "public": 1326,
+    "total": 1999,
+    "public": 1329,
     "private": 670,
-    "more_than_zero_star": 344
+    "more_than_zero_star": 345
   }
 }

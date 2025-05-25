@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 185 | 106 | 79 | 43 |
+| 185 | 104 | 81 | 43 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-shfmt/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-shfmt)
@@ -21,9 +21,9 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/ChrisTitusTech.png" width=50 height=50>|https://github.com/ChrisTitusTech/linutil|3567|
-|2|<img src="https://github.com/sourcegraph.png" width=50 height=50>|https://github.com/sourcegraph/zoekt|949|
-|3|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|288|
+|1|<img src="https://github.com/ChrisTitusTech.png" width=50 height=50>|https://github.com/ChrisTitusTech/linutil|3583|
+|2|<img src="https://github.com/sourcegraph.png" width=50 height=50>|https://github.com/sourcegraph/zoekt|956|
+|3|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|289|
 |4|<img src="https://github.com/CrowdStrike.png" width=50 height=50>|https://github.com/CrowdStrike/falcon-scripts|168|
 |5|<img src="https://github.com/aerospike.png" width=50 height=50>|https://github.com/aerospike/aerospike-server.docker|143|
 |6|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/action-suggester|115|
@@ -35,8 +35,8 @@
 |12|<img src="https://github.com/sksat.png" width=50 height=50>|https://github.com/sksat/compose-cd|46|
 |13|<img src="https://github.com/mongolyy.png" width=50 height=50>|https://github.com/mongolyy/reviewdog-action-biome|43|
 |14|<img src="https://github.com/franzs.png" width=50 height=50>|https://github.com/franzs/fritzbox_upload_certificate|43|
-|15|<img src="https://github.com/EPMatt.png" width=50 height=50>|https://github.com/EPMatt/reviewdog-action-prettier|23|
-|16|<img src="https://github.com/EPMatt.png" width=50 height=50>|https://github.com/EPMatt/reviewdog-action-tsc|23|
+|15|<img src="https://github.com/EPMatt.png" width=50 height=50>|https://github.com/EPMatt/reviewdog-action-tsc|24|
+|16|<img src="https://github.com/EPMatt.png" width=50 height=50>|https://github.com/EPMatt/reviewdog-action-prettier|23|
 |17|<img src="https://github.com/UmbrellaDocs.png" width=50 height=50>|https://github.com/UmbrellaDocs/action-linkspector|22|
 |18|<img src="https://github.com/helpermethod.png" width=50 height=50>|https://github.com/helpermethod/up|18|
 |19|<img src="https://github.com/aerospike.png" width=50 height=50>|https://github.com/aerospike/aerospike-server-enterprise.docker|15|

@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/rubyforgood/Flaredown",
-      "stars": 43
+      "stars": 44
     },
     {
       "url": "https://github.com/powerhome/playbook",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/openHPI/codeharbor",
-      "stars": 7
+      "stars": 8
     },
     {
       "url": "https://github.com/linkvan/linkvan-api",
@@ -53,8 +53,8 @@
   ],
   "count": {
     "total": 116,
-    "public": 73,
-    "private": 43,
+    "public": 72,
+    "private": 44,
     "more_than_zero_star": 25
   }
 }
