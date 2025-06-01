@@ -4,43 +4,43 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8420
+      "stars": 8434
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7612
+      "stars": 7621
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1601
+      "stars": 1605
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1148
+      "stars": 1150
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1032
+      "stars": 1035
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 961
+      "stars": 962
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 745
+      "stars": 752
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 635
+      "stars": 643
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 612
+      "stars": 614
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
-      "stars": 310
+      "stars": 309
     },
     {
       "url": "https://github.com/Shemnei/punktf",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
-      "stars": 147
+      "stars": 148
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
@@ -76,11 +76,11 @@
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
-      "stars": 89
+      "stars": 90
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
-      "stars": 85
+      "stars": 84
     },
     {
       "url": "https://github.com/pheature-flags/pheature-flags",
@@ -104,7 +104,7 @@
     },
     {
       "url": "https://github.com/pkosiec/website",
-      "stars": 33
+      "stars": 34
     },
     {
       "url": "https://github.com/ZeroAssumptions/aide-de-camp",
@@ -116,15 +116,15 @@
     },
     {
       "url": "https://github.com/jeertmans/DiffeRT",
-      "stars": 28
+      "stars": 29
+    },
+    {
+      "url": "https://github.com/opentdf/platform",
+      "stars": 27
     },
     {
       "url": "https://github.com/jeertmans/untex",
       "stars": 27
-    },
-    {
-      "url": "https://github.com/opentdf/platform",
-      "stars": 26
     },
     {
       "url": "https://github.com/nownabe/go-bqloader",
@@ -232,8 +232,8 @@
     }
   ],
   "count": {
-    "total": 400,
-    "public": 249,
+    "total": 401,
+    "public": 250,
     "private": 151,
     "more_than_zero_star": 105
   }

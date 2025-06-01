@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 74610
+      "stars": 74670
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7210
+      "stars": 7223
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -16,15 +16,15 @@
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 685
+      "stars": 688
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 559
+      "stars": 560
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
-      "stars": 543
+      "stars": 545
     },
     {
       "url": "https://github.com/PersiaML/PERSIA",
@@ -32,15 +32,15 @@
     },
     {
       "url": "https://github.com/PAhelper/PhoenixAdult.bundle",
-      "stars": 370
+      "stars": 371
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
-      "stars": 205
+      "stars": 208
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 188
+      "stars": 190
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/ehpor/hcipy",
-      "stars": 109
+      "stars": 110
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/ydb-platform/nbs",
-      "stars": 73
+      "stars": 74
     },
     {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
@@ -111,6 +111,10 @@
       "stars": 29
     },
     {
+      "url": "https://github.com/michaelthomasletts/boto3-refresh-session",
+      "stars": 23
+    },
+    {
       "url": "https://github.com/NebularNerd/subtotxt",
       "stars": 22
     },
@@ -143,20 +147,16 @@
       "stars": 18
     },
     {
+      "url": "https://github.com/arkedge/c2a-core",
+      "stars": 17
+    },
+    {
       "url": "https://github.com/nnsnodnb/kalyke",
       "stars": 17
     },
     {
-      "url": "https://github.com/arkedge/c2a-core",
-      "stars": 16
-    },
-    {
       "url": "https://github.com/istellartech/GELATO",
       "stars": 14
-    },
-    {
-      "url": "https://github.com/michaelthomasletts/boto3-refresh-session",
-      "stars": 12
     },
     {
       "url": "https://github.com/ccdc-opensource/dash",
@@ -212,9 +212,9 @@
     }
   ],
   "count": {
-    "total": 502,
-    "public": 361,
-    "private": 141,
+    "total": 507,
+    "public": 365,
+    "private": 142,
     "more_than_zero_star": 127
   }
 }

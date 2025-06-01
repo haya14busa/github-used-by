@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 11095
+      "stars": 11135
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9586
+      "stars": 9587
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 2987
+      "stars": 2996
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
@@ -20,27 +20,27 @@
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
-      "stars": 2703
+      "stars": 2704
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2392
+      "stars": 2397
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1532
+      "stars": 1534
+    },
+    {
+      "url": "https://github.com/openfoodfoundation/openfoodnetwork",
+      "stars": 1172
     },
     {
       "url": "https://github.com/k1LoW/awspec",
       "stars": 1171
     },
     {
-      "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1171
-    },
-    {
       "url": "https://github.com/activeadmin/arbre",
-      "stars": 778
+      "stars": 780
     },
     {
       "url": "https://github.com/zilverline/sequent",
@@ -64,15 +64,11 @@
     },
     {
       "url": "https://github.com/vmware/dod-compliance-and-automation",
-      "stars": 167
+      "stars": 168
     },
     {
       "url": "https://github.com/ytti/oxidized-web",
       "stars": 128
-    },
-    {
-      "url": "https://github.com/hlascelles/que-scheduler",
-      "stars": 116
     },
     {
       "url": "https://github.com/chanzuckerberg/czid-web",
@@ -191,6 +187,10 @@
       "stars": 10
     },
     {
+      "url": "https://github.com/alphagov/govuk-mobile-ios-app",
+      "stars": 9
+    },
+    {
       "url": "https://github.com/phac-nml/irida-next",
       "stars": 9
     },
@@ -200,10 +200,6 @@
     },
     {
       "url": "https://github.com/puzzle/decidim-zuerich",
-      "stars": 8
-    },
-    {
-      "url": "https://github.com/alphagov/govuk-mobile-ios-app",
       "stars": 8
     },
     {
@@ -280,9 +276,9 @@
     }
   ],
   "count": {
-    "total": 719,
+    "total": 721,
     "public": 504,
-    "private": 215,
-    "more_than_zero_star": 165
+    "private": 217,
+    "more_than_zero_star": 164
   }
 }

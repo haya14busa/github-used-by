@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 400 | 249 | 151 | 105 |
+| 401 | 250 | 151 | 105 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-languagetool/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-languagetool)
@@ -21,37 +21,37 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|8420|
-|2|<img src="https://github.com/easymotion.png" width=50 height=50>|https://github.com/easymotion/vim-easymotion|7612|
-|3|<img src="https://github.com/vdaas.png" width=50 height=50>|https://github.com/vdaas/vald|1601|
-|4|<img src="https://github.com/markuspoerschke.png" width=50 height=50>|https://github.com/markuspoerschke/iCal|1148|
-|5|<img src="https://github.com/latchset.png" width=50 height=50>|https://github.com/latchset/clevis|1032|
-|6|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/CircuitVerse|961|
-|7|<img src="https://github.com/tuono-labs.png" width=50 height=50>|https://github.com/tuono-labs/tuono|745|
-|8|<img src="https://github.com/swiftwave-org.png" width=50 height=50>|https://github.com/swiftwave-org/swiftwave|635|
-|9|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/manim-slides|612|
-|10|<img src="https://github.com/ipfs.png" width=50 height=50>|https://github.com/ipfs/ipfs-docs|310|
+|1|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|8434|
+|2|<img src="https://github.com/easymotion.png" width=50 height=50>|https://github.com/easymotion/vim-easymotion|7621|
+|3|<img src="https://github.com/vdaas.png" width=50 height=50>|https://github.com/vdaas/vald|1605|
+|4|<img src="https://github.com/markuspoerschke.png" width=50 height=50>|https://github.com/markuspoerschke/iCal|1150|
+|5|<img src="https://github.com/latchset.png" width=50 height=50>|https://github.com/latchset/clevis|1035|
+|6|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/CircuitVerse|962|
+|7|<img src="https://github.com/tuono-labs.png" width=50 height=50>|https://github.com/tuono-labs/tuono|752|
+|8|<img src="https://github.com/swiftwave-org.png" width=50 height=50>|https://github.com/swiftwave-org/swiftwave|643|
+|9|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/manim-slides|614|
+|10|<img src="https://github.com/ipfs.png" width=50 height=50>|https://github.com/ipfs/ipfs-docs|309|
 |11|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|289|
 |12|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/languagetool-rust|174|
 |13|<img src="https://github.com/openhab.png" width=50 height=50>|https://github.com/openhab/openhab-google-assistant|173|
-|14|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/Interactive-Book|147|
+|14|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/Interactive-Book|148|
 |15|<img src="https://github.com/leandro-lugaresi.png" width=50 height=50>|https://github.com/leandro-lugaresi/hub|145|
 |16|<img src="https://github.com/Together-Java.png" width=50 height=50>|https://github.com/Together-Java/ModernJava|109|
 |17|<img src="https://github.com/mszostok.png" width=50 height=50>|https://github.com/mszostok/version|107|
 |18|<img src="https://github.com/GStones.png" width=50 height=50>|https://github.com/GStones/moke-kit|91|
-|19|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/CircuitVerseDocs|89|
-|20|<img src="https://github.com/agilepathway.png" width=50 height=50>|https://github.com/agilepathway/label-checker|85|
+|19|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/CircuitVerseDocs|90|
+|20|<img src="https://github.com/agilepathway.png" width=50 height=50>|https://github.com/agilepathway/label-checker|84|
 |21|<img src="https://github.com/pheature-flags.png" width=50 height=50>|https://github.com/pheature-flags/pheature-flags|81|
 |22|<img src="https://github.com/capactio.png" width=50 height=50>|https://github.com/capactio/capact|80|
 |23|<img src="https://github.com/codewars.png" width=50 height=50>|https://github.com/codewars/docs|59|
 |24|<img src="https://github.com/shopware.png" width=50 height=50>|https://github.com/shopware/docs|52|
 |25|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/rpdf|39|
-|26|<img src="https://github.com/pkosiec.png" width=50 height=50>|https://github.com/pkosiec/website|33|
+|26|<img src="https://github.com/pkosiec.png" width=50 height=50>|https://github.com/pkosiec/website|34|
 |27|<img src="https://github.com/ZeroAssumptions.png" width=50 height=50>|https://github.com/ZeroAssumptions/aide-de-camp|31|
 |28|<img src="https://github.com/ADE-Scheduler.png" width=50 height=50>|https://github.com/ADE-Scheduler/ADE-Scheduler|30|
-|29|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/DiffeRT|28|
-|30|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/untex|27|
-|31|<img src="https://github.com/opentdf.png" width=50 height=50>|https://github.com/opentdf/platform|26|
+|29|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/DiffeRT|29|
+|30|<img src="https://github.com/opentdf.png" width=50 height=50>|https://github.com/opentdf/platform|27|
+|31|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/untex|27|
 |32|<img src="https://github.com/nownabe.png" width=50 height=50>|https://github.com/nownabe/go-bqloader|21|
 |33|<img src="https://github.com/TheNeikos.png" width=50 height=50>|https://github.com/TheNeikos/type_description|20|
 |34|<img src="https://github.com/hp-net.png" width=50 height=50>|https://github.com/hp-net/homebridge-nibe|16|

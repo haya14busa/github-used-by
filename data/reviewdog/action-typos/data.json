@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9586
+      "stars": 9587
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8420
+      "stars": 8434
     },
     {
       "url": "https://github.com/mime-types/ruby-mime-types",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/mime-types/mime-types-data",
-      "stars": 47
+      "stars": 46
     },
     {
       "url": "https://github.com/halostatue/minitar",
@@ -43,7 +43,7 @@
       "stars": 12
     },
     {
-      "url": "https://github.com/uci-f1tenth/uci_f1tenth_workshop",
+      "url": "https://github.com/uci-f1tenth/UCI_race_stack",
       "stars": 6
     }
   ],
