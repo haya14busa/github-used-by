@@ -21,14 +21,14 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/Tokyo-Metro-Gov.png" width=50 height=50>|https://github.com/Tokyo-Metro-Gov/covid19|6238|
-|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2432|
-|3|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-css|1233|
-|4|<img src="https://github.com/h3poteto.png" width=50 height=50>|https://github.com/h3poteto/whalebird-desktop|922|
+|1|<img src="https://github.com/Tokyo-Metro-Gov.png" width=50 height=50>|https://github.com/Tokyo-Metro-Gov/covid19|6237|
+|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2438|
+|3|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-css|1232|
+|4|<img src="https://github.com/h3poteto.png" width=50 height=50>|https://github.com/h3poteto/whalebird-desktop|923|
 |5|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|283|
 |6|<img src="https://github.com/th0th.png" width=50 height=50>|https://github.com/th0th/poeticmetric|262|
 |7|<img src="https://github.com/modx-pro.png" width=50 height=50>|https://github.com/modx-pro/miniShop2|151|
-|8|<img src="https://github.com/haya14busa.png" width=50 height=50>|https://github.com/haya14busa/github-action-brandings|147|
+|8|<img src="https://github.com/haya14busa.png" width=50 height=50>|https://github.com/haya14busa/github-action-brandings|149|
 |9|<img src="https://github.com/10up.png" width=50 height=50>|https://github.com/10up/10up-experience|134|
 |10|<img src="https://github.com/department-of-veterans-affairs.png" width=50 height=50>|https://github.com/department-of-veterans-affairs/va.gov-cms|101|
 |11|<img src="https://github.com/nordcloud.png" width=50 height=50>|https://github.com/nordcloud/pat-frontend-template|57|
@@ -43,7 +43,7 @@
 |20|<img src="https://github.com/nomunomu0504.png" width=50 height=50>|https://github.com/nomunomu0504/covid19|28|
 |21|<img src="https://github.com/stopcovid19-okayama.png" width=50 height=50>|https://github.com/stopcovid19-okayama/covid19|27|
 |22|<img src="https://github.com/code-for-hamamatsu.png" width=50 height=50>|https://github.com/code-for-hamamatsu/covid19|26|
-|23|<img src="https://github.com/nonebot.png" width=50 height=50>|https://github.com/nonebot/registry|24|
+|23|<img src="https://github.com/nonebot.png" width=50 height=50>|https://github.com/nonebot/registry|25|
 |24|<img src="https://github.com/Lipoic.png" width=50 height=50>|https://github.com/Lipoic/Lipoic-Frontend|19|
 |25|<img src="https://github.com/glowfic-constellation.png" width=50 height=50>|https://github.com/glowfic-constellation/glowfic|18|
 |26|<img src="https://github.com/covid19-oita.png" width=50 height=50>|https://github.com/covid19-oita/covid19|15|

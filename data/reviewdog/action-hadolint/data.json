@@ -4,35 +4,35 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 74670
+      "stars": 74732
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13582
+      "stars": 13598
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 6934
+      "stars": 6950
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 6835
+      "stars": 6849
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 4086
+      "stars": 4111
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
-      "stars": 3011
+      "stars": 3013
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1928
+      "stars": 1931
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1745
+      "stars": 1747
     },
     {
       "url": "https://github.com/vdaas/vald",
@@ -40,23 +40,23 @@
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1332
+      "stars": 1336
     },
     {
       "url": "https://github.com/truecharts/public",
-      "stars": 1214
+      "stars": 1215
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 1206
+      "stars": 1208
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 828
+      "stars": 829
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 453
+      "stars": 458
     },
     {
       "url": "https://github.com/K-Phoen/dark",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
-      "stars": 364
+      "stars": 368
     },
     {
       "url": "https://github.com/KCarretto/paragon",
@@ -76,11 +76,11 @@
     },
     {
       "url": "https://github.com/openstack-exporter/openstack-exporter",
-      "stars": 229
+      "stars": 231
     },
     {
       "url": "https://github.com/dadrus/heimdall",
-      "stars": 190
+      "stars": 191
     },
     {
       "url": "https://github.com/raspbernetes/multi-arch-images",
@@ -103,12 +103,12 @@
       "stars": 118
     },
     {
-      "url": "https://github.com/vanadium23/kompanion",
-      "stars": 95
+      "url": "https://github.com/Drakkar-Software/Triangular-Arbitrage",
+      "stars": 96
     },
     {
-      "url": "https://github.com/Drakkar-Software/Triangular-Arbitrage",
-      "stars": 94
+      "url": "https://github.com/vanadium23/kompanion",
+      "stars": 95
     },
     {
       "url": "https://github.com/haya14busa/action-bumpr",
@@ -119,11 +119,11 @@
       "stars": 84
     },
     {
-      "url": "https://github.com/LFPy/LFPy",
-      "stars": 79
+      "url": "https://github.com/rickstaa/action-create-tag",
+      "stars": 80
     },
     {
-      "url": "https://github.com/rickstaa/action-create-tag",
+      "url": "https://github.com/LFPy/LFPy",
       "stars": 79
     },
     {
@@ -156,7 +156,7 @@
     },
     {
       "url": "https://github.com/jiro4989/build-deb-action",
-      "stars": 56
+      "stars": 57
     },
     {
       "url": "https://github.com/haya14busa/action-update-semver",
@@ -184,7 +184,7 @@
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot-Script",
-      "stars": 29
+      "stars": 31
     },
     {
       "url": "https://github.com/comorment/containers",
@@ -228,7 +228,7 @@
     },
     {
       "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
-      "stars": 18
+      "stars": 19
     },
     {
       "url": "https://github.com/device-management-toolkit/console",
@@ -359,6 +359,10 @@
       "stars": 9
     },
     {
+      "url": "https://github.com/Drakkar-Software/OctoBot-Market-Making",
+      "stars": 8
+    },
+    {
       "url": "https://github.com/srz-zumix/docker-googletest",
       "stars": 8
     },
@@ -397,16 +401,12 @@
     {
       "url": "https://github.com/hrysd/action-php_codesniffer",
       "stars": 7
-    },
-    {
-      "url": "https://github.com/deyaeddin/cert-manager-webhook-hetzner",
-      "stars": 7
     }
   ],
   "count": {
-    "total": 2016,
-    "public": 1343,
+    "total": 2019,
+    "public": 1346,
     "private": 673,
-    "more_than_zero_star": 344
+    "more_than_zero_star": 345
   }
 }

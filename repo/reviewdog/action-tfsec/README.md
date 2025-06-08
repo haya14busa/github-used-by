@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 376 | 243 | 133 | 98 |
+| 378 | 244 | 134 | 98 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-tfsec/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-tfsec)
@@ -21,11 +21,11 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/kube-hetzner.png" width=50 height=50>|https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner|2980|
-|2|<img src="https://github.com/TechToSpeech.png" width=50 height=50>|https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress|195|
+|1|<img src="https://github.com/kube-hetzner.png" width=50 height=50>|https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner|3001|
+|2|<img src="https://github.com/TechToSpeech.png" width=50 height=50>|https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress|196|
 |3|<img src="https://github.com/timoa.png" width=50 height=50>|https://github.com/timoa/terraform-oci-vscode-server|27|
 |4|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-imagebuilder-pipeline|20|
-|5|<img src="https://github.com/GrantBirki.png" width=50 height=50>|https://github.com/GrantBirki/k8s-discord|18|
+|5|<img src="https://github.com/GrantBirki.png" width=50 height=50>|https://github.com/GrantBirki/k8s-discord|19|
 |6|<img src="https://github.com/rallyware.png" width=50 height=50>|https://github.com/rallyware/terraform-argocd-aws-eks-cluster-bootstrap|18|
 |7|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-secure-password|18|
 |8|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/scripts|16|

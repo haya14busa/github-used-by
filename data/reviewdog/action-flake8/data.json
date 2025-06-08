@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 74670
+      "stars": 74732
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7223
+      "stars": 7239
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -16,15 +16,15 @@
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 688
+      "stars": 693
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 560
+      "stars": 563
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
-      "stars": 545
+      "stars": 547
     },
     {
       "url": "https://github.com/PersiaML/PERSIA",
@@ -40,11 +40,11 @@
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 190
+      "stars": 193
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
-      "stars": 163
+      "stars": 165
     },
     {
       "url": "https://github.com/TrangPham/django-admin-confirm",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
-      "stars": 124
+      "stars": 125
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/ydb-platform/nbs",
-      "stars": 74
+      "stars": 75
     },
     {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
@@ -99,6 +99,10 @@
       "stars": 42
     },
     {
+      "url": "https://github.com/michaelthomasletts/boto3-refresh-session",
+      "stars": 35
+    },
+    {
       "url": "https://github.com/Open-Model-Initiative/OMI-Data-Pipeline",
       "stars": 35
     },
@@ -109,10 +113,6 @@
     {
       "url": "https://github.com/ZPascal/grafana_api_sdk",
       "stars": 29
-    },
-    {
-      "url": "https://github.com/michaelthomasletts/boto3-refresh-session",
-      "stars": 23
     },
     {
       "url": "https://github.com/NebularNerd/subtotxt",
@@ -131,15 +131,15 @@
       "stars": 20
     },
     {
+      "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
+      "stars": 19
+    },
+    {
       "url": "https://github.com/nnsnodnb/django-ios-storekit",
       "stars": 19
     },
     {
       "url": "https://github.com/rickstaa/panda-gazebo",
-      "stars": 18
-    },
-    {
-      "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
       "stars": 18
     },
     {
@@ -159,12 +159,12 @@
       "stars": 14
     },
     {
-      "url": "https://github.com/ccdc-opensource/dash",
+      "url": "https://github.com/rickstaa/stable-gym",
       "stars": 12
     },
     {
-      "url": "https://github.com/rickstaa/stable-gym",
-      "stars": 11
+      "url": "https://github.com/ccdc-opensource/dash",
+      "stars": 12
     },
     {
       "url": "https://github.com/ccdc-opensource/science-paper-rf-machine-learned-scoring-2022",
@@ -183,6 +183,10 @@
       "stars": 7
     },
     {
+      "url": "https://github.com/Police-Data-Accessibility-Project/data-source-identification",
+      "stars": 6
+    },
+    {
       "url": "https://github.com/rickstaa/stable-learning-control",
       "stars": 6
     },
@@ -192,10 +196,6 @@
     },
     {
       "url": "https://github.com/Police-Data-Accessibility-Project/data-sources-app",
-      "stars": 5
-    },
-    {
-      "url": "https://github.com/Police-Data-Accessibility-Project/data-source-identification",
       "stars": 5
     },
     {
@@ -212,9 +212,9 @@
     }
   ],
   "count": {
-    "total": 507,
+    "total": 508,
     "public": 365,
-    "private": 142,
-    "more_than_zero_star": 127
+    "private": 143,
+    "more_than_zero_star": 128
   }
 }

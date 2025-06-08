@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 401 | 250 | 151 | 105 |
+| 403 | 252 | 151 | 107 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-languagetool/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-languagetool)
@@ -21,23 +21,23 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|8434|
-|2|<img src="https://github.com/easymotion.png" width=50 height=50>|https://github.com/easymotion/vim-easymotion|7621|
+|1|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|8457|
+|2|<img src="https://github.com/easymotion.png" width=50 height=50>|https://github.com/easymotion/vim-easymotion|7622|
 |3|<img src="https://github.com/vdaas.png" width=50 height=50>|https://github.com/vdaas/vald|1605|
 |4|<img src="https://github.com/markuspoerschke.png" width=50 height=50>|https://github.com/markuspoerschke/iCal|1150|
-|5|<img src="https://github.com/latchset.png" width=50 height=50>|https://github.com/latchset/clevis|1035|
-|6|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/CircuitVerse|962|
-|7|<img src="https://github.com/tuono-labs.png" width=50 height=50>|https://github.com/tuono-labs/tuono|752|
-|8|<img src="https://github.com/swiftwave-org.png" width=50 height=50>|https://github.com/swiftwave-org/swiftwave|643|
-|9|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/manim-slides|614|
-|10|<img src="https://github.com/ipfs.png" width=50 height=50>|https://github.com/ipfs/ipfs-docs|309|
+|5|<img src="https://github.com/latchset.png" width=50 height=50>|https://github.com/latchset/clevis|1040|
+|6|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/CircuitVerse|963|
+|7|<img src="https://github.com/tuono-labs.png" width=50 height=50>|https://github.com/tuono-labs/tuono|782|
+|8|<img src="https://github.com/swiftwave-org.png" width=50 height=50>|https://github.com/swiftwave-org/swiftwave|646|
+|9|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/manim-slides|616|
+|10|<img src="https://github.com/ipfs.png" width=50 height=50>|https://github.com/ipfs/ipfs-docs|312|
 |11|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|289|
 |12|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/languagetool-rust|174|
 |13|<img src="https://github.com/openhab.png" width=50 height=50>|https://github.com/openhab/openhab-google-assistant|173|
 |14|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/Interactive-Book|148|
 |15|<img src="https://github.com/leandro-lugaresi.png" width=50 height=50>|https://github.com/leandro-lugaresi/hub|145|
-|16|<img src="https://github.com/Together-Java.png" width=50 height=50>|https://github.com/Together-Java/ModernJava|109|
-|17|<img src="https://github.com/mszostok.png" width=50 height=50>|https://github.com/mszostok/version|107|
+|16|<img src="https://github.com/Together-Java.png" width=50 height=50>|https://github.com/Together-Java/ModernJava|110|
+|17|<img src="https://github.com/mszostok.png" width=50 height=50>|https://github.com/mszostok/version|108|
 |18|<img src="https://github.com/GStones.png" width=50 height=50>|https://github.com/GStones/moke-kit|91|
 |19|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/CircuitVerseDocs|90|
 |20|<img src="https://github.com/agilepathway.png" width=50 height=50>|https://github.com/agilepathway/label-checker|84|
@@ -50,7 +50,7 @@
 |27|<img src="https://github.com/ZeroAssumptions.png" width=50 height=50>|https://github.com/ZeroAssumptions/aide-de-camp|31|
 |28|<img src="https://github.com/ADE-Scheduler.png" width=50 height=50>|https://github.com/ADE-Scheduler/ADE-Scheduler|30|
 |29|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/DiffeRT|29|
-|30|<img src="https://github.com/opentdf.png" width=50 height=50>|https://github.com/opentdf/platform|27|
+|30|<img src="https://github.com/opentdf.png" width=50 height=50>|https://github.com/opentdf/platform|28|
 |31|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/untex|27|
 |32|<img src="https://github.com/nownabe.png" width=50 height=50>|https://github.com/nownabe/go-bqloader|21|
 |33|<img src="https://github.com/TheNeikos.png" width=50 height=50>|https://github.com/TheNeikos/type_description|20|

@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9587
+      "stars": 9589
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8434
+      "stars": 8457
     },
     {
       "url": "https://github.com/mime-types/ruby-mime-types",
-      "stars": 329
+      "stars": 330
     },
     {
       "url": "https://github.com/halostatue/diff-lcs",
-      "stars": 292
+      "stars": 293
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://github.com/halostatue/minitar",
-      "stars": 40
+      "stars": 41
     },
     {
       "url": "https://github.com/xeho91/js-ast",
@@ -48,9 +48,9 @@
     }
   ],
   "count": {
-    "total": 31,
-    "public": 24,
-    "private": 7,
-    "more_than_zero_star": 16
+    "total": 34,
+    "public": 26,
+    "private": 8,
+    "more_than_zero_star": 17
   }
 }

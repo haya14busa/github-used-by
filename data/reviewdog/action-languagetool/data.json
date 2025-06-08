@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8434
+      "stars": 8457
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7621
+      "stars": 7622
     },
     {
       "url": "https://github.com/vdaas/vald",
@@ -20,27 +20,27 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1035
+      "stars": 1040
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 962
+      "stars": 963
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 752
+      "stars": 782
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 643
+      "stars": 646
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 614
+      "stars": 616
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
-      "stars": 309
+      "stars": 312
     },
     {
       "url": "https://github.com/Shemnei/punktf",
@@ -64,11 +64,11 @@
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 109
+      "stars": 110
     },
     {
       "url": "https://github.com/mszostok/version",
-      "stars": 107
+      "stars": 108
     },
     {
       "url": "https://github.com/GStones/moke-kit",
@@ -120,7 +120,7 @@
     },
     {
       "url": "https://github.com/opentdf/platform",
-      "stars": 27
+      "stars": 28
     },
     {
       "url": "https://github.com/jeertmans/untex",
@@ -232,9 +232,9 @@
     }
   ],
   "count": {
-    "total": 401,
-    "public": 250,
+    "total": 403,
+    "public": 252,
     "private": 151,
-    "more_than_zero_star": 105
+    "more_than_zero_star": 107
   }
 }

@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1745
+      "stars": 1747
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 1056
+      "stars": 1058
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
@@ -16,23 +16,23 @@
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 561
+      "stars": 562
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 521
+      "stars": 523
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 213
+      "stars": 214
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
-      "stars": 195
+      "stars": 196
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 192
+      "stars": 193
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/chainguard-dev/terraform-infra-common",
-      "stars": 21
+      "stars": 23
     },
     {
       "url": "https://github.com/liatrio/lead-terraform",
@@ -260,9 +260,9 @@
     }
   ],
   "count": {
-    "total": 658,
-    "public": 409,
-    "private": 249,
-    "more_than_zero_star": 165
+    "total": 662,
+    "public": 411,
+    "private": 251,
+    "more_than_zero_star": 166
   }
 }
