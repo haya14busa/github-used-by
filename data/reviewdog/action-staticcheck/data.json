@@ -4,27 +4,27 @@
   "repos": [
     {
       "url": "https://github.com/zeromicro/go-zero",
-      "stars": 31150
+      "stars": 31209
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8457
+      "stars": 8473
     },
     {
       "url": "https://github.com/golang-jwt/jwt",
-      "stars": 8123
+      "stars": 8147
     },
     {
       "url": "https://github.com/cloudwego/kitex",
-      "stars": 7465
+      "stars": 7474
     },
     {
       "url": "https://github.com/drk1wi/Modlishka",
-      "stars": 5001
+      "stars": 5006
     },
     {
       "url": "https://github.com/kevwan/tproxy",
-      "stars": 3518
+      "stars": 3522
     },
     {
       "url": "https://github.com/TarsCloud/TarsGo",
@@ -32,27 +32,27 @@
     },
     {
       "url": "https://github.com/x-motemen/ghq",
-      "stars": 3237
+      "stars": 3246
     },
     {
       "url": "https://github.com/gookit/goutil",
-      "stars": 2164
+      "stars": 2166
     },
     {
       "url": "https://github.com/cloudwego/goref",
-      "stars": 851
+      "stars": 853
     },
     {
       "url": "https://github.com/shomali11/slacker",
       "stars": 806
     },
     {
-      "url": "https://github.com/zeromicro/go-queue",
-      "stars": 775
+      "url": "https://github.com/bytedance/mockey",
+      "stars": 777
     },
     {
-      "url": "https://github.com/bytedance/mockey",
-      "stars": 774
+      "url": "https://github.com/zeromicro/go-queue",
+      "stars": 775
     },
     {
       "url": "https://github.com/gookit/config",
@@ -64,11 +64,11 @@
     },
     {
       "url": "https://github.com/gookit/slog",
-      "stars": 471
+      "stars": 475
     },
     {
       "url": "https://github.com/cloudwego/shmipc-go",
-      "stars": 458
+      "stars": 461
     },
     {
       "url": "https://github.com/cloudwego/kitex-examples",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/Songmu/tagpr",
-      "stars": 229
+      "stars": 230
     },
     {
       "url": "https://github.com/karimra/gnmic",
@@ -116,7 +116,7 @@
     },
     {
       "url": "https://github.com/airbusgeo/godal",
-      "stars": 160
+      "stars": 161
     },
     {
       "url": "https://github.com/x-motemen/blogsync",
@@ -148,7 +148,7 @@
     },
     {
       "url": "https://github.com/moke-game/platform",
-      "stars": 120
+      "stars": 121
     },
     {
       "url": "https://github.com/go-gorm/opentelemetry",
@@ -163,24 +163,24 @@
       "stars": 97
     },
     {
-      "url": "https://github.com/gookit/rux",
+      "url": "https://github.com/cloudwego/fastpb",
       "stars": 97
     },
     {
-      "url": "https://github.com/cloudwego/fastpb",
-      "stars": 96
+      "url": "https://github.com/gookit/rux",
+      "stars": 97
     },
     {
       "url": "https://github.com/Songmu/goxz",
       "stars": 94
     },
     {
-      "url": "https://github.com/kevwan/stream",
+      "url": "https://github.com/GStones/moke-kit",
       "stars": 92
     },
     {
-      "url": "https://github.com/GStones/moke-kit",
-      "stars": 91
+      "url": "https://github.com/kevwan/stream",
+      "stars": 92
     },
     {
       "url": "https://github.com/jlucaspains/go-rest-template",
@@ -228,7 +228,7 @@
     },
     {
       "url": "https://github.com/cloudwego/gjson",
-      "stars": 38
+      "stars": 39
     },
     {
       "url": "https://github.com/moke-game/game",
@@ -379,6 +379,10 @@
       "stars": 13
     },
     {
+      "url": "https://github.com/hertz-contrib/http3",
+      "stars": 12
+    },
+    {
       "url": "https://github.com/timoa/secure-go-backend-clean-architecture",
       "stars": 12
     },
@@ -395,18 +399,14 @@
       "stars": 11
     },
     {
-      "url": "https://github.com/hertz-contrib/http3",
-      "stars": 11
-    },
-    {
       "url": "https://github.com/go-sweets/sweets",
       "stars": 10
     }
   ],
   "count": {
-    "total": 742,
+    "total": 744,
     "public": 538,
-    "private": 204,
-    "more_than_zero_star": 222
+    "private": 206,
+    "more_than_zero_star": 223
   }
 }

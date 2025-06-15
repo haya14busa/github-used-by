@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 3617
+      "stars": 3632
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 968
+      "stars": 974
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 289
+      "stars": 290
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/reviewdog/action-suggester",
-      "stars": 116
+      "stars": 118
     },
     {
       "url": "https://github.com/jiro4989/setup-nim-action",
@@ -36,7 +36,7 @@
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
-      "stars": 74
+      "stars": 75
     },
     {
       "url": "https://github.com/yu-iskw/action-sqlfluff",
@@ -44,7 +44,7 @@
     },
     {
       "url": "https://github.com/lure-sh/lure-repo",
-      "stars": 55
+      "stars": 56
     },
     {
       "url": "https://github.com/sksat/compose-cd",
@@ -100,9 +100,9 @@
     }
   ],
   "count": {
-    "total": 188,
-    "public": 104,
+    "total": 189,
+    "public": 105,
     "private": 84,
-    "more_than_zero_star": 42
+    "more_than_zero_star": 43
   }
 }

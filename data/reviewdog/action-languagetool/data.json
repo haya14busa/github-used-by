@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8457
+      "stars": 8473
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7622
+      "stars": 7624
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1605
+      "stars": 1607
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1150
+      "stars": 1151
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1040
+      "stars": 1043
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
@@ -28,23 +28,23 @@
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 782
+      "stars": 784
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 646
+      "stars": 647
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 616
+      "stars": 626
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
-      "stars": 312
+      "stars": 314
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 289
+      "stars": 290
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
@@ -68,11 +68,11 @@
     },
     {
       "url": "https://github.com/mszostok/version",
-      "stars": 108
+      "stars": 109
     },
     {
       "url": "https://github.com/GStones/moke-kit",
-      "stars": 91
+      "stars": 92
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
@@ -232,9 +232,9 @@
     }
   ],
   "count": {
-    "total": 403,
+    "total": 404,
     "public": 252,
-    "private": 151,
+    "private": 152,
     "more_than_zero_star": 107
   }
 }

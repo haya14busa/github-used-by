@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 74732
+      "stars": 74788
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13598
+      "stars": 13606
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 6950
+      "stars": 6964
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 6849
+      "stars": 6865
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 4111
+      "stars": 4141
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
@@ -28,27 +28,27 @@
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1931
+      "stars": 1937
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1747
+      "stars": 1748
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1605
+      "stars": 1607
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1336
+      "stars": 1339
     },
     {
       "url": "https://github.com/truecharts/public",
-      "stars": 1215
+      "stars": 1221
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 1208
+      "stars": 1214
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 458
+      "stars": 462
     },
     {
       "url": "https://github.com/K-Phoen/dark",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
-      "stars": 368
+      "stars": 372
     },
     {
       "url": "https://github.com/KCarretto/paragon",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/dadrus/heimdall",
-      "stars": 191
+      "stars": 192
     },
     {
       "url": "https://github.com/raspbernetes/multi-arch-images",
@@ -119,12 +119,12 @@
       "stars": 84
     },
     {
-      "url": "https://github.com/rickstaa/action-create-tag",
+      "url": "https://github.com/LFPy/LFPy",
       "stars": 80
     },
     {
-      "url": "https://github.com/LFPy/LFPy",
-      "stars": 79
+      "url": "https://github.com/rickstaa/action-create-tag",
+      "stars": 80
     },
     {
       "url": "https://github.com/ktsaou/netdata",
@@ -160,7 +160,7 @@
     },
     {
       "url": "https://github.com/haya14busa/action-update-semver",
-      "stars": 53
+      "stars": 54
     },
     {
       "url": "https://github.com/HopopOps/k8s-ldap-auth",
@@ -175,16 +175,16 @@
       "stars": 41
     },
     {
+      "url": "https://github.com/prefeitura-rio/pipelines",
+      "stars": 38
+    },
+    {
       "url": "https://github.com/basedosdados/pipelines",
       "stars": 37
     },
     {
-      "url": "https://github.com/prefeitura-rio/pipelines",
-      "stars": 37
-    },
-    {
       "url": "https://github.com/Drakkar-Software/OctoBot-Script",
-      "stars": 31
+      "stars": 32
     },
     {
       "url": "https://github.com/comorment/containers",
@@ -212,7 +212,7 @@
     },
     {
       "url": "https://github.com/reviewdog/action-template",
-      "stars": 22
+      "stars": 23
     },
     {
       "url": "https://github.com/chronosphereio/calyptia-vivo",
@@ -232,7 +232,7 @@
     },
     {
       "url": "https://github.com/device-management-toolkit/console",
-      "stars": 17
+      "stars": 18
     },
     {
       "url": "https://github.com/Arduino-CI/action",
@@ -359,6 +359,10 @@
       "stars": 9
     },
     {
+      "url": "https://github.com/prefeitura-rio/queries-rj-smtr",
+      "stars": 9
+    },
+    {
       "url": "https://github.com/Drakkar-Software/OctoBot-Market-Making",
       "stars": 8
     },
@@ -368,10 +372,6 @@
     },
     {
       "url": "https://github.com/basedosdados/queries-basedosdados",
-      "stars": 8
-    },
-    {
-      "url": "https://github.com/prefeitura-rio/queries-rj-smtr",
       "stars": 8
     },
     {
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 2019,
-    "public": 1346,
-    "private": 673,
-    "more_than_zero_star": 345
+    "total": 2024,
+    "public": 1348,
+    "private": 676,
+    "more_than_zero_star": 346
   }
 }

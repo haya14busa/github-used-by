@@ -21,7 +21,7 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/chanzuckerberg.png" width=50 height=50>|https://github.com/chanzuckerberg/czid-web|85|
+|1|<img src="https://github.com/chanzuckerberg.png" width=50 height=50>|https://github.com/chanzuckerberg/czid-web|86|
 |2|<img src="https://github.com/tricknotes.png" width=50 height=50>|https://github.com/tricknotes/starseeker|82|
 |3|<img src="https://github.com/openHPI.png" width=50 height=50>|https://github.com/openHPI/codeocean|68|
 |4|<img src="https://github.com/veuelive.png" width=50 height=50>|https://github.com/veuelive/veue|55|
