@@ -4,59 +4,59 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 74788
+      "stars": 74859
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13606
+      "stars": 13619
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 6964
+      "stars": 6987
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 6865
+      "stars": 6895
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 4141
+      "stars": 4171
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
-      "stars": 3013
+      "stars": 3016
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1937
+      "stars": 1939
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1748
+      "stars": 1749
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1607
+      "stars": 1609
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1339
+      "stars": 1342
     },
     {
       "url": "https://github.com/truecharts/public",
-      "stars": 1221
+      "stars": 1222
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 1214
+      "stars": 1220
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 829
+      "stars": 831
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 462
+      "stars": 465
     },
     {
       "url": "https://github.com/K-Phoen/dark",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
-      "stars": 372
+      "stars": 373
     },
     {
       "url": "https://github.com/KCarretto/paragon",
@@ -116,7 +116,7 @@
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
-      "stars": 84
+      "stars": 85
     },
     {
       "url": "https://github.com/LFPy/LFPy",
@@ -200,7 +200,7 @@
     },
     {
       "url": "https://github.com/dbelyaev/action-checkstyle",
-      "stars": 24
+      "stars": 25
     },
     {
       "url": "https://github.com/tuxpeople/docker-podsync",
@@ -263,6 +263,10 @@
       "stars": 14
     },
     {
+      "url": "https://github.com/flobernd/docker-minecraft-ftb",
+      "stars": 13
+    },
+    {
       "url": "https://github.com/sammcj/zsh-bootstrap",
       "stars": 13
     },
@@ -273,10 +277,6 @@
     {
       "url": "https://github.com/vbouchaud/nfs-client-provisioner",
       "stars": 13
-    },
-    {
-      "url": "https://github.com/flobernd/docker-minecraft-ftb",
-      "stars": 12
     },
     {
       "url": "https://github.com/basedosdados/backend",
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 2024,
-    "public": 1348,
-    "private": 676,
+    "total": 2027,
+    "public": 1350,
+    "private": 677,
     "more_than_zero_star": 346
   }
 }

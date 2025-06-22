@@ -21,21 +21,21 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/netdata|74788|
-|2|<img src="https://github.com/bndr.png" width=50 height=50>|https://github.com/bndr/pipreqs|7247|
+|1|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/netdata|74859|
+|2|<img src="https://github.com/bndr.png" width=50 height=50>|https://github.com/bndr/pipreqs|7253|
 |3|<img src="https://github.com/BaguaSys.png" width=50 height=50>|https://github.com/BaguaSys/bagua|883|
 |4|<img src="https://github.com/tradingstrategy-ai.png" width=50 height=50>|https://github.com/tradingstrategy-ai/web3-ethereum-defi|694|
-|5|<img src="https://github.com/simpeg.png" width=50 height=50>|https://github.com/simpeg/simpeg|564|
+|5|<img src="https://github.com/simpeg.png" width=50 height=50>|https://github.com/simpeg/simpeg|569|
 |6|<img src="https://github.com/pnuckowski.png" width=50 height=50>|https://github.com/pnuckowski/aioresponses|548|
 |7|<img src="https://github.com/PersiaML.png" width=50 height=50>|https://github.com/PersiaML/PERSIA|407|
-|8|<img src="https://github.com/PAhelper.png" width=50 height=50>|https://github.com/PAhelper/PhoenixAdult.bundle|372|
+|8|<img src="https://github.com/PAhelper.png" width=50 height=50>|https://github.com/PAhelper/PhoenixAdult.bundle|373|
 |9|<img src="https://github.com/ThePornDatabase.png" width=50 height=50>|https://github.com/ThePornDatabase/ThePornDB.bundle|208|
-|10|<img src="https://github.com/f0uriest.png" width=50 height=50>|https://github.com/f0uriest/interpax|193|
+|10|<img src="https://github.com/f0uriest.png" width=50 height=50>|https://github.com/f0uriest/interpax|195|
 |11|<img src="https://github.com/libcgroup.png" width=50 height=50>|https://github.com/libcgroup/libcgroup|165|
 |12|<img src="https://github.com/TrangPham.png" width=50 height=50>|https://github.com/TrangPham/django-admin-confirm|134|
 |13|<img src="https://github.com/PlasmaControl.png" width=50 height=50>|https://github.com/PlasmaControl/DESC|125|
 |14|<img src="https://github.com/mangdangroboticsclub.png" width=50 height=50>|https://github.com/mangdangroboticsclub/mini_pupper_ros|113|
-|15|<img src="https://github.com/ehpor.png" width=50 height=50>|https://github.com/ehpor/hcipy|110|
+|15|<img src="https://github.com/ehpor.png" width=50 height=50>|https://github.com/ehpor/hcipy|111|
 |16|<img src="https://github.com/fdintino.png" width=50 height=50>|https://github.com/fdintino/pillow-avif-plugin|108|
 |17|<img src="https://github.com/LFPy.png" width=50 height=50>|https://github.com/LFPy/LFPy|80|
 |18|<img src="https://github.com/ydb-platform.png" width=50 height=50>|https://github.com/ydb-platform/nbs|75|
@@ -59,7 +59,7 @@
 |36|<img src="https://github.com/mikhailprivalov.png" width=50 height=50>|https://github.com/mikhailprivalov/l2|18|
 |37|<img src="https://github.com/arkedge.png" width=50 height=50>|https://github.com/arkedge/c2a-core|17|
 |38|<img src="https://github.com/nnsnodnb.png" width=50 height=50>|https://github.com/nnsnodnb/kalyke|16|
-|39|<img src="https://github.com/istellartech.png" width=50 height=50>|https://github.com/istellartech/GELATO|14|
+|39|<img src="https://github.com/istellartech.png" width=50 height=50>|https://github.com/istellartech/GELATO|15|
 |40|<img src="https://github.com/rickstaa.png" width=50 height=50>|https://github.com/rickstaa/stable-gym|12|
 |41|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/dash|12|
 |42|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/science-paper-rf-machine-learned-scoring-2022|9|

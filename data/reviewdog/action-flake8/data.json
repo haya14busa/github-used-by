@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 74788
+      "stars": 74859
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7247
+      "stars": 7253
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 564
+      "stars": 569
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
@@ -32,7 +32,7 @@
     },
     {
       "url": "https://github.com/PAhelper/PhoenixAdult.bundle",
-      "stars": 372
+      "stars": 373
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 193
+      "stars": 195
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/ehpor/hcipy",
-      "stars": 110
+      "stars": 111
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
@@ -156,7 +156,7 @@
     },
     {
       "url": "https://github.com/istellartech/GELATO",
-      "stars": 14
+      "stars": 15
     },
     {
       "url": "https://github.com/rickstaa/stable-gym",

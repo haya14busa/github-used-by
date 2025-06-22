@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 11252
+      "stars": 11294
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9592
+      "stars": 9596
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 3008
+      "stars": 3011
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
@@ -24,15 +24,15 @@
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2402
+      "stars": 2400
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1548
+      "stars": 1554
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1174
+      "stars": 1178
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 283
+      "stars": 284
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/vmware/dod-compliance-and-automation",
-      "stars": 169
+      "stars": 171
     },
     {
       "url": "https://github.com/ytti/oxidized-web",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/Drieam/rspec-github",
-      "stars": 75
+      "stars": 76
     },
     {
       "url": "https://github.com/openHPI/codeocean",
@@ -187,12 +187,12 @@
       "stars": 10
     },
     {
-      "url": "https://github.com/mainio/ratonvirus-clamby",
+      "url": "https://github.com/phac-nml/irida-next",
       "stars": 10
     },
     {
-      "url": "https://github.com/phac-nml/irida-next",
-      "stars": 9
+      "url": "https://github.com/mainio/ratonvirus-clamby",
+      "stars": 10
     },
     {
       "url": "https://github.com/Church-of-Evan/the-bishop",

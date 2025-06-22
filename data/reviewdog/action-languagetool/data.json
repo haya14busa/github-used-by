@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8473
+      "stars": 8483
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
@@ -12,47 +12,47 @@
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1607
+      "stars": 1609
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1151
+      "stars": 1152
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1043
+      "stars": 1051
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 963
+      "stars": 966
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 784
+      "stars": 787
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 647
+      "stars": 653
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 626
+      "stars": 630
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
-      "stars": 314
+      "stars": 315
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 290
+      "stars": 289
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
-      "stars": 174
+      "stars": 176
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
-      "stars": 173
+      "stars": 174
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/GStones/moke-kit",
-      "stars": 92
+      "stars": 93
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
-      "stars": 84
+      "stars": 85
     },
     {
       "url": "https://github.com/pheature-flags/pheature-flags",
@@ -104,11 +104,15 @@
     },
     {
       "url": "https://github.com/pkosiec/website",
-      "stars": 34
+      "stars": 35
     },
     {
       "url": "https://github.com/ZeroAssumptions/aide-de-camp",
       "stars": 31
+    },
+    {
+      "url": "https://github.com/opentdf/platform",
+      "stars": 30
     },
     {
       "url": "https://github.com/ADE-Scheduler/ADE-Scheduler",
@@ -117,10 +121,6 @@
     {
       "url": "https://github.com/jeertmans/DiffeRT",
       "stars": 29
-    },
-    {
-      "url": "https://github.com/opentdf/platform",
-      "stars": 28
     },
     {
       "url": "https://github.com/jeertmans/untex",
@@ -137,6 +137,10 @@
     {
       "url": "https://github.com/hp-net/homebridge-nibe",
       "stars": 16
+    },
+    {
+      "url": "https://github.com/dotnet-project-file-analyzers/dotnet-project-file-analyzers",
+      "stars": 15
     },
     {
       "url": "https://github.com/hashbite/gatsby-mdx-suite",
@@ -232,9 +236,9 @@
     }
   ],
   "count": {
-    "total": 404,
+    "total": 408,
     "public": 252,
-    "private": 152,
-    "more_than_zero_star": 107
+    "private": 156,
+    "more_than_zero_star": 108
   }
 }

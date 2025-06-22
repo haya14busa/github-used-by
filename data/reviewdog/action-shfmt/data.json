@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 3632
+      "stars": 3655
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 974
+      "stars": 983
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 290
+      "stars": 289
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/reviewdog/action-suggester",
-      "stars": 118
+      "stars": 119
     },
     {
       "url": "https://github.com/jiro4989/setup-nim-action",
@@ -32,7 +32,7 @@
     },
     {
       "url": "https://github.com/jonathanmorley/asdf-pnpm",
-      "stars": 81
+      "stars": 82
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
@@ -59,16 +59,16 @@
       "stars": 43
     },
     {
+      "url": "https://github.com/EPMatt/reviewdog-action-prettier",
+      "stars": 24
+    },
+    {
       "url": "https://github.com/EPMatt/reviewdog-action-tsc",
       "stars": 24
     },
     {
-      "url": "https://github.com/EPMatt/reviewdog-action-prettier",
-      "stars": 23
-    },
-    {
       "url": "https://github.com/UmbrellaDocs/action-linkspector",
-      "stars": 22
+      "stars": 23
     },
     {
       "url": "https://github.com/helpermethod/up",
