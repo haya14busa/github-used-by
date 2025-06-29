@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8483
+      "stars": 8503
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7624
+      "stars": 7628
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1609
+      "stars": 1610
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
@@ -20,27 +20,27 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1051
+      "stars": 1052
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 966
+      "stars": 971
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 787
+      "stars": 789
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 653
+      "stars": 654
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 630
+      "stars": 631
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
-      "stars": 315
+      "stars": 316
     },
     {
       "url": "https://github.com/Shemnei/punktf",
@@ -52,19 +52,19 @@
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
-      "stars": 174
+      "stars": 175
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
-      "stars": 148
+      "stars": 149
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
-      "stars": 145
+      "stars": 146
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 110
+      "stars": 112
     },
     {
       "url": "https://github.com/mszostok/version",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/GStones/moke-kit",
-      "stars": 93
+      "stars": 95
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
@@ -107,20 +107,20 @@
       "stars": 35
     },
     {
-      "url": "https://github.com/ZeroAssumptions/aide-de-camp",
-      "stars": 31
-    },
-    {
       "url": "https://github.com/opentdf/platform",
-      "stars": 30
-    },
-    {
-      "url": "https://github.com/ADE-Scheduler/ADE-Scheduler",
-      "stars": 30
+      "stars": 32
     },
     {
       "url": "https://github.com/jeertmans/DiffeRT",
-      "stars": 29
+      "stars": 32
+    },
+    {
+      "url": "https://github.com/ADE-Scheduler/ADE-Scheduler",
+      "stars": 32
+    },
+    {
+      "url": "https://github.com/ZeroAssumptions/aide-de-camp",
+      "stars": 31
     },
     {
       "url": "https://github.com/jeertmans/untex",
@@ -237,8 +237,8 @@
   ],
   "count": {
     "total": 408,
-    "public": 252,
-    "private": 156,
-    "more_than_zero_star": 108
+    "public": 251,
+    "private": 157,
+    "more_than_zero_star": 107
   }
 }

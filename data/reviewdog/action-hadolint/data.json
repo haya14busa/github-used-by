@@ -4,59 +4,59 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 74859
+      "stars": 74921
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13619
+      "stars": 13626
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 6987
+      "stars": 7007
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 6895
+      "stars": 6909
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 4171
+      "stars": 4189
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
-      "stars": 3016
+      "stars": 3018
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1939
+      "stars": 1943
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1749
+      "stars": 1750
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1609
+      "stars": 1610
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1342
+      "stars": 1347
     },
     {
       "url": "https://github.com/truecharts/public",
-      "stars": 1222
+      "stars": 1225
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 1220
+      "stars": 1225
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 831
+      "stars": 834
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 465
+      "stars": 468
     },
     {
       "url": "https://github.com/K-Phoen/dark",
@@ -76,11 +76,11 @@
     },
     {
       "url": "https://github.com/openstack-exporter/openstack-exporter",
-      "stars": 231
+      "stars": 232
     },
     {
       "url": "https://github.com/dadrus/heimdall",
-      "stars": 192
+      "stars": 193
     },
     {
       "url": "https://github.com/raspbernetes/multi-arch-images",
@@ -100,7 +100,7 @@
     },
     {
       "url": "https://github.com/timoa/app-stores-prometheus-exporter",
-      "stars": 118
+      "stars": 119
     },
     {
       "url": "https://github.com/Drakkar-Software/Triangular-Arbitrage",
@@ -120,7 +120,7 @@
     },
     {
       "url": "https://github.com/LFPy/LFPy",
-      "stars": 80
+      "stars": 81
     },
     {
       "url": "https://github.com/rickstaa/action-create-tag",
@@ -160,7 +160,7 @@
     },
     {
       "url": "https://github.com/haya14busa/action-update-semver",
-      "stars": 54
+      "stars": 53
     },
     {
       "url": "https://github.com/HopopOps/k8s-ldap-auth",
@@ -168,7 +168,7 @@
     },
     {
       "url": "https://github.com/reviewdog/action-languagetool",
-      "stars": 43
+      "stars": 45
     },
     {
       "url": "https://github.com/rickstaa/action-black",
@@ -184,7 +184,7 @@
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot-Script",
-      "stars": 32
+      "stars": 31
     },
     {
       "url": "https://github.com/comorment/containers",
@@ -216,7 +216,7 @@
     },
     {
       "url": "https://github.com/chronosphereio/calyptia-vivo",
-      "stars": 21
+      "stars": 22
     },
     {
       "url": "https://github.com/reviewdog/action-depup",
@@ -259,15 +259,15 @@
       "stars": 14
     },
     {
+      "url": "https://github.com/sammcj/zsh-bootstrap",
+      "stars": 14
+    },
+    {
       "url": "https://github.com/netdata/ebpf-co-re",
       "stars": 14
     },
     {
       "url": "https://github.com/flobernd/docker-minecraft-ftb",
-      "stars": 13
-    },
-    {
-      "url": "https://github.com/sammcj/zsh-bootstrap",
       "stars": 13
     },
     {
@@ -363,6 +363,10 @@
       "stars": 9
     },
     {
+      "url": "https://github.com/chronosphereio/calyptia-plugin",
+      "stars": 9
+    },
+    {
       "url": "https://github.com/Drakkar-Software/OctoBot-Market-Making",
       "stars": 8
     },
@@ -372,10 +376,6 @@
     },
     {
       "url": "https://github.com/basedosdados/queries-basedosdados",
-      "stars": 8
-    },
-    {
-      "url": "https://github.com/chronosphereio/calyptia-plugin",
       "stars": 8
     },
     {
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 2027,
+    "total": 2028,
     "public": 1350,
-    "private": 677,
-    "more_than_zero_star": 346
+    "private": 678,
+    "more_than_zero_star": 345
   }
 }

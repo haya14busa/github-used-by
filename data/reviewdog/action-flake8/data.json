@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 74859
+      "stars": 74921
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7253
+      "stars": 7255
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
-      "stars": 883
+      "stars": 882
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 694
+      "stars": 696
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 569
+      "stars": 570
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://github.com/PersiaML/PERSIA",
-      "stars": 407
+      "stars": 408
     },
     {
       "url": "https://github.com/PAhelper/PhoenixAdult.bundle",
@@ -36,15 +36,15 @@
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
-      "stars": 208
+      "stars": 210
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 195
+      "stars": 196
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
-      "stars": 165
+      "stars": 166
     },
     {
       "url": "https://github.com/TrangPham/django-admin-confirm",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
-      "stars": 125
+      "stars": 126
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/ehpor/hcipy",
-      "stars": 111
+      "stars": 112
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
@@ -68,7 +68,7 @@
     },
     {
       "url": "https://github.com/LFPy/LFPy",
-      "stars": 80
+      "stars": 81
     },
     {
       "url": "https://github.com/ydb-platform/nbs",
@@ -80,11 +80,11 @@
     },
     {
       "url": "https://github.com/oracle/adaptivemm",
-      "stars": 65
+      "stars": 66
     },
     {
       "url": "https://github.com/f0uriest/quadax",
-      "stars": 65
+      "stars": 66
     },
     {
       "url": "https://github.com/ThePornDatabase/scrapers",
@@ -139,16 +139,16 @@
       "stars": 19
     },
     {
+      "url": "https://github.com/arkedge/c2a-core",
+      "stars": 18
+    },
+    {
       "url": "https://github.com/rickstaa/panda-gazebo",
       "stars": 18
     },
     {
       "url": "https://github.com/mikhailprivalov/l2",
       "stars": 18
-    },
-    {
-      "url": "https://github.com/arkedge/c2a-core",
-      "stars": 17
     },
     {
       "url": "https://github.com/nnsnodnb/kalyke",

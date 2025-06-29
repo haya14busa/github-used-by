@@ -8,15 +8,15 @@
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2448
+      "stars": 2451
     },
     {
       "url": "https://github.com/adobe/spectrum-web-components",
-      "stars": 1397
+      "stars": 1401
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
-      "stars": 1231
+      "stars": 1234
     },
     {
       "url": "https://github.com/h3poteto/whalebird-desktop",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 284
+      "stars": 285
     },
     {
       "url": "https://github.com/th0th/poeticmetric",
@@ -36,7 +36,7 @@
     },
     {
       "url": "https://github.com/haya14busa/github-action-brandings",
-      "stars": 149
+      "stars": 150
     },
     {
       "url": "https://github.com/10up/10up-experience",
@@ -59,12 +59,12 @@
       "stars": 41
     },
     {
-      "url": "https://github.com/WPMedia/arc-themes-blocks",
+      "url": "https://github.com/DepSpy/depspy",
       "stars": 40
     },
     {
-      "url": "https://github.com/DepSpy/depspy",
-      "stars": 39
+      "url": "https://github.com/WPMedia/arc-themes-blocks",
+      "stars": 40
     },
     {
       "url": "https://github.com/gdg-fukushima/covid19",
@@ -139,6 +139,10 @@
       "stars": 10
     },
     {
+      "url": "https://github.com/laurentmuller/calculation",
+      "stars": 9
+    },
+    {
       "url": "https://github.com/codeforjapan/remote-patient-monitoring-client",
       "stars": 9
     },
@@ -153,10 +157,6 @@
     {
       "url": "https://github.com/covid19-tochigi/covid19",
       "stars": 9
-    },
-    {
-      "url": "https://github.com/laurentmuller/calculation",
-      "stars": 8
     },
     {
       "url": "https://github.com/adobecom/dc",
@@ -213,8 +213,8 @@
   ],
   "count": {
     "total": 496,
-    "public": 369,
-    "private": 127,
-    "more_than_zero_star": 96
+    "public": 368,
+    "private": 128,
+    "more_than_zero_star": 95
   }
 }

@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 408 | 252 | 156 | 108 |
+| 408 | 251 | 157 | 107 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-languagetool/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-languagetool)
@@ -21,24 +21,24 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|8483|
-|2|<img src="https://github.com/easymotion.png" width=50 height=50>|https://github.com/easymotion/vim-easymotion|7624|
-|3|<img src="https://github.com/vdaas.png" width=50 height=50>|https://github.com/vdaas/vald|1609|
+|1|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|8503|
+|2|<img src="https://github.com/easymotion.png" width=50 height=50>|https://github.com/easymotion/vim-easymotion|7628|
+|3|<img src="https://github.com/vdaas.png" width=50 height=50>|https://github.com/vdaas/vald|1610|
 |4|<img src="https://github.com/markuspoerschke.png" width=50 height=50>|https://github.com/markuspoerschke/iCal|1152|
-|5|<img src="https://github.com/latchset.png" width=50 height=50>|https://github.com/latchset/clevis|1051|
-|6|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/CircuitVerse|966|
-|7|<img src="https://github.com/tuono-labs.png" width=50 height=50>|https://github.com/tuono-labs/tuono|787|
-|8|<img src="https://github.com/swiftwave-org.png" width=50 height=50>|https://github.com/swiftwave-org/swiftwave|653|
-|9|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/manim-slides|630|
-|10|<img src="https://github.com/ipfs.png" width=50 height=50>|https://github.com/ipfs/ipfs-docs|315|
+|5|<img src="https://github.com/latchset.png" width=50 height=50>|https://github.com/latchset/clevis|1052|
+|6|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/CircuitVerse|971|
+|7|<img src="https://github.com/tuono-labs.png" width=50 height=50>|https://github.com/tuono-labs/tuono|789|
+|8|<img src="https://github.com/swiftwave-org.png" width=50 height=50>|https://github.com/swiftwave-org/swiftwave|654|
+|9|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/manim-slides|631|
+|10|<img src="https://github.com/ipfs.png" width=50 height=50>|https://github.com/ipfs/ipfs-docs|316|
 |11|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|289|
 |12|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/languagetool-rust|176|
-|13|<img src="https://github.com/openhab.png" width=50 height=50>|https://github.com/openhab/openhab-google-assistant|174|
-|14|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/Interactive-Book|148|
-|15|<img src="https://github.com/leandro-lugaresi.png" width=50 height=50>|https://github.com/leandro-lugaresi/hub|145|
-|16|<img src="https://github.com/Together-Java.png" width=50 height=50>|https://github.com/Together-Java/ModernJava|110|
+|13|<img src="https://github.com/openhab.png" width=50 height=50>|https://github.com/openhab/openhab-google-assistant|175|
+|14|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/Interactive-Book|149|
+|15|<img src="https://github.com/leandro-lugaresi.png" width=50 height=50>|https://github.com/leandro-lugaresi/hub|146|
+|16|<img src="https://github.com/Together-Java.png" width=50 height=50>|https://github.com/Together-Java/ModernJava|112|
 |17|<img src="https://github.com/mszostok.png" width=50 height=50>|https://github.com/mszostok/version|109|
-|18|<img src="https://github.com/GStones.png" width=50 height=50>|https://github.com/GStones/moke-kit|93|
+|18|<img src="https://github.com/GStones.png" width=50 height=50>|https://github.com/GStones/moke-kit|95|
 |19|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/CircuitVerseDocs|90|
 |20|<img src="https://github.com/agilepathway.png" width=50 height=50>|https://github.com/agilepathway/label-checker|85|
 |21|<img src="https://github.com/pheature-flags.png" width=50 height=50>|https://github.com/pheature-flags/pheature-flags|81|
@@ -47,10 +47,10 @@
 |24|<img src="https://github.com/shopware.png" width=50 height=50>|https://github.com/shopware/docs|52|
 |25|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/rpdf|39|
 |26|<img src="https://github.com/pkosiec.png" width=50 height=50>|https://github.com/pkosiec/website|35|
-|27|<img src="https://github.com/ZeroAssumptions.png" width=50 height=50>|https://github.com/ZeroAssumptions/aide-de-camp|31|
-|28|<img src="https://github.com/opentdf.png" width=50 height=50>|https://github.com/opentdf/platform|30|
-|29|<img src="https://github.com/ADE-Scheduler.png" width=50 height=50>|https://github.com/ADE-Scheduler/ADE-Scheduler|30|
-|30|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/DiffeRT|29|
+|27|<img src="https://github.com/opentdf.png" width=50 height=50>|https://github.com/opentdf/platform|32|
+|28|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/DiffeRT|32|
+|29|<img src="https://github.com/ADE-Scheduler.png" width=50 height=50>|https://github.com/ADE-Scheduler/ADE-Scheduler|32|
+|30|<img src="https://github.com/ZeroAssumptions.png" width=50 height=50>|https://github.com/ZeroAssumptions/aide-de-camp|31|
 |31|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/untex|27|
 |32|<img src="https://github.com/nownabe.png" width=50 height=50>|https://github.com/nownabe/go-bqloader|21|
 |33|<img src="https://github.com/TheNeikos.png" width=50 height=50>|https://github.com/TheNeikos/type_description|20|

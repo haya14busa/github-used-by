@@ -8,27 +8,27 @@
     },
     {
       "url": "https://github.com/vim-airline/vim-airline",
-      "stars": 17919
+      "stars": 17920
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7624
+      "stars": 7628
     },
     {
       "url": "https://github.com/preservim/tagbar",
-      "stars": 6194
+      "stars": 6191
     },
     {
       "url": "https://github.com/preservim/nerdcommenter",
-      "stars": 4999
+      "stars": 4997
     },
     {
       "url": "https://github.com/preservim/vim-markdown",
-      "stars": 4761
+      "stars": 4762
     },
     {
       "url": "https://github.com/prabirshrestha/vim-lsp",
-      "stars": 3256
+      "stars": 3259
     },
     {
       "url": "https://github.com/liuchengxu/space-vim",
@@ -36,7 +36,7 @@
     },
     {
       "url": "https://github.com/preservim/vimux",
-      "stars": 2247
+      "stars": 2246
     },
     {
       "url": "https://github.com/liuchengxu/vim-clap",
@@ -48,11 +48,11 @@
     },
     {
       "url": "https://github.com/vim-airline/vim-airline-themes",
-      "stars": 2070
+      "stars": 2071
     },
     {
       "url": "https://github.com/liuchengxu/vista.vim",
-      "stars": 1931
+      "stars": 1932
     },
     {
       "url": "https://github.com/OmniSharp/omnisharp-vim",
@@ -64,11 +64,11 @@
     },
     {
       "url": "https://github.com/kassio/neoterm",
-      "stars": 1331
+      "stars": 1332
     },
     {
       "url": "https://github.com/lambdalisue/vim-fern",
-      "stars": 1319
+      "stars": 1320
     },
     {
       "url": "https://github.com/whatyouhide/vim-gotham",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://github.com/yutkat/dotfiles",
-      "stars": 847
+      "stars": 852
     },
     {
       "url": "https://github.com/lambdalisue/vim-gina",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/vim-jp/vital.vim",
-      "stars": 579
+      "stars": 578
     },
     {
       "url": "https://github.com/haya14busa/vim-asterisk",
@@ -140,7 +140,7 @@
     },
     {
       "url": "https://github.com/prabirshrestha/quickpick.vim",
-      "stars": 79
+      "stars": 78
     },
     {
       "url": "https://github.com/lambdalisue/vim-reword",
@@ -152,7 +152,7 @@
     },
     {
       "url": "https://github.com/tridactyl/vim-tridactyl",
-      "stars": 35
+      "stars": 36
     },
     {
       "url": "https://github.com/thinca/vim-ambicmd",

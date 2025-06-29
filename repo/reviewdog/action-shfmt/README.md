@@ -21,8 +21,8 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/ChrisTitusTech.png" width=50 height=50>|https://github.com/ChrisTitusTech/linutil|3655|
-|2|<img src="https://github.com/sourcegraph.png" width=50 height=50>|https://github.com/sourcegraph/zoekt|983|
+|1|<img src="https://github.com/ChrisTitusTech.png" width=50 height=50>|https://github.com/ChrisTitusTech/linutil|3692|
+|2|<img src="https://github.com/sourcegraph.png" width=50 height=50>|https://github.com/sourcegraph/zoekt|991|
 |3|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|289|
 |4|<img src="https://github.com/CrowdStrike.png" width=50 height=50>|https://github.com/CrowdStrike/falcon-scripts|172|
 |5|<img src="https://github.com/aerospike.png" width=50 height=50>|https://github.com/aerospike/aerospike-server.docker|143|
@@ -32,12 +32,12 @@
 |9|<img src="https://github.com/aaronhurt.png" width=50 height=50>|https://github.com/aaronhurt/zfs-replicate|75|
 |10|<img src="https://github.com/yu-iskw.png" width=50 height=50>|https://github.com/yu-iskw/action-sqlfluff|70|
 |11|<img src="https://github.com/lure-sh.png" width=50 height=50>|https://github.com/lure-sh/lure-repo|56|
-|12|<img src="https://github.com/sksat.png" width=50 height=50>|https://github.com/sksat/compose-cd|47|
+|12|<img src="https://github.com/sksat.png" width=50 height=50>|https://github.com/sksat/compose-cd|48|
 |13|<img src="https://github.com/franzs.png" width=50 height=50>|https://github.com/franzs/fritzbox_upload_certificate|44|
 |14|<img src="https://github.com/mongolyy.png" width=50 height=50>|https://github.com/mongolyy/reviewdog-action-biome|43|
 |15|<img src="https://github.com/EPMatt.png" width=50 height=50>|https://github.com/EPMatt/reviewdog-action-prettier|24|
 |16|<img src="https://github.com/EPMatt.png" width=50 height=50>|https://github.com/EPMatt/reviewdog-action-tsc|24|
-|17|<img src="https://github.com/UmbrellaDocs.png" width=50 height=50>|https://github.com/UmbrellaDocs/action-linkspector|23|
+|17|<img src="https://github.com/UmbrellaDocs.png" width=50 height=50>|https://github.com/UmbrellaDocs/action-linkspector|22|
 |18|<img src="https://github.com/helpermethod.png" width=50 height=50>|https://github.com/helpermethod/up|18|
 |19|<img src="https://github.com/aerospike.png" width=50 height=50>|https://github.com/aerospike/aerospike-server-enterprise.docker|15|
 |20|<img src="https://github.com/knative.png" width=50 height=50>|https://github.com/knative/actions|12|
