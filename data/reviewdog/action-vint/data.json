@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/preservim/nerdtree",
-      "stars": 19922
+      "stars": 19921
     },
     {
       "url": "https://github.com/vim-airline/vim-airline",
-      "stars": 17920
+      "stars": 17918
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
@@ -16,11 +16,11 @@
     },
     {
       "url": "https://github.com/preservim/tagbar",
-      "stars": 6191
+      "stars": 6190
     },
     {
       "url": "https://github.com/preservim/nerdcommenter",
-      "stars": 4997
+      "stars": 4998
     },
     {
       "url": "https://github.com/preservim/vim-markdown",
@@ -28,19 +28,19 @@
     },
     {
       "url": "https://github.com/prabirshrestha/vim-lsp",
-      "stars": 3259
+      "stars": 3262
     },
     {
       "url": "https://github.com/liuchengxu/space-vim",
-      "stars": 2852
+      "stars": 2851
     },
     {
       "url": "https://github.com/preservim/vimux",
-      "stars": 2246
+      "stars": 2250
     },
     {
       "url": "https://github.com/liuchengxu/vim-clap",
-      "stars": 2133
+      "stars": 2134
     },
     {
       "url": "https://github.com/Xuyuanp/nerdtree-git-plugin",
@@ -56,23 +56,23 @@
     },
     {
       "url": "https://github.com/OmniSharp/omnisharp-vim",
-      "stars": 1758
+      "stars": 1757
     },
     {
       "url": "https://github.com/mattn/vim-lsp-settings",
-      "stars": 1353
+      "stars": 1354
     },
     {
       "url": "https://github.com/kassio/neoterm",
-      "stars": 1332
+      "stars": 1333
     },
     {
       "url": "https://github.com/lambdalisue/vim-fern",
-      "stars": 1320
+      "stars": 1323
     },
     {
       "url": "https://github.com/whatyouhide/vim-gotham",
-      "stars": 1266
+      "stars": 1265
     },
     {
       "url": "https://github.com/artur-shaik/vim-javacomplete2",
@@ -80,11 +80,11 @@
     },
     {
       "url": "https://github.com/prabirshrestha/asyncomplete.vim",
-      "stars": 956
+      "stars": 957
     },
     {
       "url": "https://github.com/yutkat/dotfiles",
-      "stars": 852
+      "stars": 855
     },
     {
       "url": "https://github.com/lambdalisue/vim-gina",
@@ -92,11 +92,11 @@
     },
     {
       "url": "https://github.com/vim-jp/vital.vim",
-      "stars": 578
+      "stars": 580
     },
     {
       "url": "https://github.com/haya14busa/vim-asterisk",
-      "stars": 396
+      "stars": 397
     },
     {
       "url": "https://github.com/ledger/vim-ledger",
@@ -108,7 +108,7 @@
     },
     {
       "url": "https://github.com/tani/vim-jetpack",
-      "stars": 341
+      "stars": 342
     },
     {
       "url": "https://github.com/jeanguyomarch/eovim",
@@ -217,8 +217,8 @@
   ],
   "count": {
     "total": 368,
-    "public": 289,
-    "private": 79,
+    "public": 192,
+    "private": 176,
     "more_than_zero_star": 85
   }
 }

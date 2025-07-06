@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/4paradigm/OpenMLDB",
-      "stars": 1640
+      "stars": 1642
     },
     {
       "url": "https://github.com/PyPtt/PyPtt",
@@ -16,11 +16,11 @@
     },
     {
       "url": "https://github.com/nix-united/golang-echo-boilerplate",
-      "stars": 312
+      "stars": 313
     },
     {
       "url": "https://github.com/nix-united/golang-gin-boilerplate",
-      "stars": 110
+      "stars": 111
     },
     {
       "url": "https://github.com/piotr-yuxuan/closeable-map",
@@ -79,12 +79,12 @@
       "stars": 7
     },
     {
-      "url": "https://github.com/stackabletech/druid-opa-authorizer",
+      "url": "https://github.com/Avanade/ghcp-usage-dashboard",
       "stars": 6
     },
     {
-      "url": "https://github.com/Avanade/ghcp-usage-dashboard",
-      "stars": 5
+      "url": "https://github.com/stackabletech/druid-opa-authorizer",
+      "stars": 6
     },
     {
       "url": "https://github.com/bitjourney/ts_assets-rails",
@@ -101,8 +101,8 @@
   ],
   "count": {
     "total": 338,
-    "public": 184,
-    "private": 154,
+    "public": 173,
+    "private": 165,
     "more_than_zero_star": 70
   }
 }

@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 11330
+      "stars": 11380
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9602
+      "stars": 9600
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 3016
+      "stars": 3019
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2775
+      "stars": 2776
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
@@ -24,15 +24,15 @@
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2400
+      "stars": 2401
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1561
+      "stars": 1571
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1180
+      "stars": 1183
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/activeadmin/arbre",
-      "stars": 780
+      "stars": 781
     },
     {
       "url": "https://github.com/zilverline/sequent",
@@ -52,19 +52,19 @@
     },
     {
       "url": "https://github.com/YusukeIwaki/puppeteer-ruby",
-      "stars": 309
+      "stars": 310
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 285
+      "stars": 287
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
-      "stars": 204
+      "stars": 205
     },
     {
       "url": "https://github.com/vmware/dod-compliance-and-automation",
-      "stars": 172
+      "stars": 174
     },
     {
       "url": "https://github.com/ytti/oxidized-web",
@@ -180,14 +180,14 @@
     },
     {
       "url": "https://github.com/alphagov/govuk-mobile-ios-app",
-      "stars": 10
-    },
-    {
-      "url": "https://github.com/eScholarship/jschol",
-      "stars": 10
+      "stars": 11
     },
     {
       "url": "https://github.com/phac-nml/irida-next",
+      "stars": 11
+    },
+    {
+      "url": "https://github.com/eScholarship/jschol",
       "stars": 10
     },
     {
@@ -276,9 +276,9 @@
     }
   ],
   "count": {
-    "total": 727,
-    "public": 508,
-    "private": 219,
-    "more_than_zero_star": 166
+    "total": 729,
+    "public": 465,
+    "private": 264,
+    "more_than_zero_star": 167
   }
 }

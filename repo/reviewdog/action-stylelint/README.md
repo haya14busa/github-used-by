@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 496 | 368 | 128 | 95 |
+| 496 | 263 | 233 | 95 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-stylelint/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-stylelint)
@@ -22,24 +22,24 @@
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
 |1|<img src="https://github.com/Tokyo-Metro-Gov.png" width=50 height=50>|https://github.com/Tokyo-Metro-Gov/covid19|6234|
-|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2451|
-|3|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-web-components|1401|
+|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2456|
+|3|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-web-components|1404|
 |4|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-css|1234|
 |5|<img src="https://github.com/h3poteto.png" width=50 height=50>|https://github.com/h3poteto/whalebird-desktop|923|
-|6|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|285|
-|7|<img src="https://github.com/th0th.png" width=50 height=50>|https://github.com/th0th/poeticmetric|263|
+|6|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|287|
+|7|<img src="https://github.com/th0th.png" width=50 height=50>|https://github.com/th0th/poeticmetric|264|
 |8|<img src="https://github.com/modx-pro.png" width=50 height=50>|https://github.com/modx-pro/miniShop2|151|
 |9|<img src="https://github.com/haya14busa.png" width=50 height=50>|https://github.com/haya14busa/github-action-brandings|150|
 |10|<img src="https://github.com/10up.png" width=50 height=50>|https://github.com/10up/10up-experience|134|
 |11|<img src="https://github.com/department-of-veterans-affairs.png" width=50 height=50>|https://github.com/department-of-veterans-affairs/va.gov-cms|101|
 |12|<img src="https://github.com/nordcloud.png" width=50 height=50>|https://github.com/nordcloud/pat-frontend-template|57|
 |13|<img src="https://github.com/stop-covid19-hyogo.png" width=50 height=50>|https://github.com/stop-covid19-hyogo/covid19|54|
-|14|<img src="https://github.com/a01sa01to.png" width=50 height=50>|https://github.com/a01sa01to/covid19-ibaraki|41|
-|15|<img src="https://github.com/DepSpy.png" width=50 height=50>|https://github.com/DepSpy/depspy|40|
+|14|<img src="https://github.com/DepSpy.png" width=50 height=50>|https://github.com/DepSpy/depspy|41|
+|15|<img src="https://github.com/a01sa01to.png" width=50 height=50>|https://github.com/a01sa01to/covid19-ibaraki|41|
 |16|<img src="https://github.com/WPMedia.png" width=50 height=50>|https://github.com/WPMedia/arc-themes-blocks|40|
 |17|<img src="https://github.com/gdg-fukushima.png" width=50 height=50>|https://github.com/gdg-fukushima/covid19|33|
 |18|<img src="https://github.com/codeforjapan.png" width=50 height=50>|https://github.com/codeforjapan/StudyAtHome|31|
-|19|<img src="https://github.com/nordcloud.png" width=50 height=50>|https://github.com/nordcloud/GNUI|30|
+|19|<img src="https://github.com/nordcloud.png" width=50 height=50>|https://github.com/nordcloud/GNUI|29|
 |20|<img src="https://github.com/Code-for-OKINAWA.png" width=50 height=50>|https://github.com/Code-for-OKINAWA/covid19|29|
 |21|<img src="https://github.com/nomunomu0504.png" width=50 height=50>|https://github.com/nomunomu0504/covid19|28|
 |22|<img src="https://github.com/stopcovid19-okayama.png" width=50 height=50>|https://github.com/stopcovid19-okayama/covid19|27|

@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9602
+      "stars": 9600
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8503
+      "stars": 8516
     },
     {
       "url": "https://github.com/mime-types/ruby-mime-types",
@@ -19,8 +19,12 @@
       "stars": 294
     },
     {
+      "url": "https://github.com/halostatue/color",
+      "stars": 135
+    },
+    {
       "url": "https://github.com/aaronhurt/zfs-replicate",
-      "stars": 75
+      "stars": 76
     },
     {
       "url": "https://github.com/mime-types/mime-types-data",
@@ -43,14 +47,18 @@
       "stars": 12
     },
     {
+      "url": "https://github.com/halostatue/enviable",
+      "stars": 9
+    },
+    {
       "url": "https://github.com/uci-f1tenth/UCI_race_stack",
       "stars": 6
     }
   ],
   "count": {
-    "total": 35,
-    "public": 26,
+    "total": 41,
+    "public": 32,
     "private": 9,
-    "more_than_zero_star": 16
+    "more_than_zero_star": 22
   }
 }

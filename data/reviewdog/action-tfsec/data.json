@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
-      "stars": 3066
+      "stars": 3086
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -65,10 +65,6 @@
     {
       "url": "https://github.com/liatrio/terraform-caf-azure",
       "stars": 9
-    },
-    {
-      "url": "https://github.com/nuvibit/github-terraform-workflows",
-      "stars": 8
     },
     {
       "url": "https://github.com/rhythmictech/terraform-aws-okta-sso",
@@ -141,8 +137,8 @@
   ],
   "count": {
     "total": 378,
-    "public": 244,
-    "private": 134,
-    "more_than_zero_star": 98
+    "public": 229,
+    "private": 149,
+    "more_than_zero_star": 97
   }
 }

@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8503
+      "stars": 8516
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
@@ -12,7 +12,7 @@
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1610
+      "stars": 1613
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
@@ -20,23 +20,23 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1052
+      "stars": 1056
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 971
+      "stars": 973
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 789
+      "stars": 843
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 654
+      "stars": 661
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 631
+      "stars": 634
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
@@ -44,15 +44,15 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 289
+      "stars": 290
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
-      "stars": 176
+      "stars": 177
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
-      "stars": 175
+      "stars": 174
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
@@ -92,11 +92,11 @@
     },
     {
       "url": "https://github.com/codewars/docs",
-      "stars": 59
+      "stars": 60
     },
     {
       "url": "https://github.com/shopware/docs",
-      "stars": 52
+      "stars": 53
     },
     {
       "url": "https://github.com/jeertmans/rpdf",
@@ -105,10 +105,6 @@
     {
       "url": "https://github.com/pkosiec/website",
       "stars": 35
-    },
-    {
-      "url": "https://github.com/opentdf/platform",
-      "stars": 32
     },
     {
       "url": "https://github.com/jeertmans/DiffeRT",
@@ -236,9 +232,9 @@
     }
   ],
   "count": {
-    "total": 408,
-    "public": 251,
-    "private": 157,
-    "more_than_zero_star": 107
+    "total": 409,
+    "public": 225,
+    "private": 184,
+    "more_than_zero_star": 106
   }
 }

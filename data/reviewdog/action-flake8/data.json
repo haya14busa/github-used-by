@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 74921
+      "stars": 74982
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7255
+      "stars": 7261
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -16,15 +16,15 @@
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 696
+      "stars": 698
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 570
+      "stars": 572
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
-      "stars": 548
+      "stars": 549
     },
     {
       "url": "https://github.com/PersiaML/PERSIA",
@@ -32,7 +32,7 @@
     },
     {
       "url": "https://github.com/PAhelper/PhoenixAdult.bundle",
-      "stars": 373
+      "stars": 374
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 196
+      "stars": 197
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
@@ -48,7 +48,7 @@
     },
     {
       "url": "https://github.com/TrangPham/django-admin-confirm",
-      "stars": 134
+      "stars": 135
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
@@ -60,11 +60,11 @@
     },
     {
       "url": "https://github.com/ehpor/hcipy",
-      "stars": 112
+      "stars": 113
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
-      "stars": 108
+      "stars": 109
     },
     {
       "url": "https://github.com/LFPy/LFPy",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/ut-issl/c2a-core",
-      "stars": 53
+      "stars": 54
     },
     {
       "url": "https://github.com/rickstaa/ros-gazebo-gym",
@@ -100,7 +100,7 @@
     },
     {
       "url": "https://github.com/michaelthomasletts/boto3-refresh-session",
-      "stars": 39
+      "stars": 40
     },
     {
       "url": "https://github.com/Open-Model-Initiative/OMI-Data-Pipeline",
@@ -116,7 +116,7 @@
     },
     {
       "url": "https://github.com/NebularNerd/subtotxt",
-      "stars": 22
+      "stars": 23
     },
     {
       "url": "https://github.com/f0uriest/orthax",
@@ -195,10 +195,6 @@
       "stars": 6
     },
     {
-      "url": "https://github.com/Police-Data-Accessibility-Project/data-sources-app",
-      "stars": 5
-    },
-    {
       "url": "https://github.com/alkemyTech/OT281-python",
       "stars": 5
     },
@@ -213,8 +209,8 @@
   ],
   "count": {
     "total": 510,
-    "public": 367,
-    "private": 143,
-    "more_than_zero_star": 128
+    "public": 349,
+    "private": 161,
+    "more_than_zero_star": 127
   }
 }

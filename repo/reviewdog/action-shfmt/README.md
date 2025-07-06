@@ -21,15 +21,15 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/ChrisTitusTech.png" width=50 height=50>|https://github.com/ChrisTitusTech/linutil|3692|
-|2|<img src="https://github.com/sourcegraph.png" width=50 height=50>|https://github.com/sourcegraph/zoekt|991|
-|3|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|289|
-|4|<img src="https://github.com/CrowdStrike.png" width=50 height=50>|https://github.com/CrowdStrike/falcon-scripts|172|
+|1|<img src="https://github.com/ChrisTitusTech.png" width=50 height=50>|https://github.com/ChrisTitusTech/linutil|3715|
+|2|<img src="https://github.com/sourcegraph.png" width=50 height=50>|https://github.com/sourcegraph/zoekt|995|
+|3|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|290|
+|4|<img src="https://github.com/CrowdStrike.png" width=50 height=50>|https://github.com/CrowdStrike/falcon-scripts|174|
 |5|<img src="https://github.com/aerospike.png" width=50 height=50>|https://github.com/aerospike/aerospike-server.docker|143|
-|6|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/action-suggester|119|
+|6|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/action-suggester|120|
 |7|<img src="https://github.com/jiro4989.png" width=50 height=50>|https://github.com/jiro4989/setup-nim-action|106|
-|8|<img src="https://github.com/jonathanmorley.png" width=50 height=50>|https://github.com/jonathanmorley/asdf-pnpm|82|
-|9|<img src="https://github.com/aaronhurt.png" width=50 height=50>|https://github.com/aaronhurt/zfs-replicate|75|
+|8|<img src="https://github.com/jonathanmorley.png" width=50 height=50>|https://github.com/jonathanmorley/asdf-pnpm|83|
+|9|<img src="https://github.com/aaronhurt.png" width=50 height=50>|https://github.com/aaronhurt/zfs-replicate|76|
 |10|<img src="https://github.com/yu-iskw.png" width=50 height=50>|https://github.com/yu-iskw/action-sqlfluff|70|
 |11|<img src="https://github.com/lure-sh.png" width=50 height=50>|https://github.com/lure-sh/lure-repo|56|
 |12|<img src="https://github.com/sksat.png" width=50 height=50>|https://github.com/sksat/compose-cd|48|

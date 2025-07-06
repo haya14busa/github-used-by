@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 35 | 26 | 9 | 16 |
+| 41 | 32 | 9 | 22 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-typos/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-typos)
@@ -21,14 +21,16 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9602|
-|2|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|8503|
+|1|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9600|
+|2|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|8516|
 |3|<img src="https://github.com/mime-types.png" width=50 height=50>|https://github.com/mime-types/ruby-mime-types|331|
 |4|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/diff-lcs|294|
-|5|<img src="https://github.com/aaronhurt.png" width=50 height=50>|https://github.com/aaronhurt/zfs-replicate|75|
-|6|<img src="https://github.com/mime-types.png" width=50 height=50>|https://github.com/mime-types/mime-types-data|46|
-|7|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/minitar|42|
-|8|<img src="https://github.com/xeho91.png" width=50 height=50>|https://github.com/xeho91/js-ast|18|
-|9|<img src="https://github.com/ixm-one.png" width=50 height=50>|https://github.com/ixm-one/ixm|16|
-|10|<img src="https://github.com/svelte-docgen.png" width=50 height=50>|https://github.com/svelte-docgen/svelte-docgen|12|
-|11|<img src="https://github.com/uci-f1tenth.png" width=50 height=50>|https://github.com/uci-f1tenth/UCI_race_stack|6|
+|5|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/color|135|
+|6|<img src="https://github.com/aaronhurt.png" width=50 height=50>|https://github.com/aaronhurt/zfs-replicate|76|
+|7|<img src="https://github.com/mime-types.png" width=50 height=50>|https://github.com/mime-types/mime-types-data|46|
+|8|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/minitar|42|
+|9|<img src="https://github.com/xeho91.png" width=50 height=50>|https://github.com/xeho91/js-ast|18|
+|10|<img src="https://github.com/ixm-one.png" width=50 height=50>|https://github.com/ixm-one/ixm|16|
+|11|<img src="https://github.com/svelte-docgen.png" width=50 height=50>|https://github.com/svelte-docgen/svelte-docgen|12|
+|12|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/enviable|9|
+|13|<img src="https://github.com/uci-f1tenth.png" width=50 height=50>|https://github.com/uci-f1tenth/UCI_race_stack|6|

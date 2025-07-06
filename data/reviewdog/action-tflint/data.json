@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1750
+      "stars": 1752
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 1086
+      "stars": 1091
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
@@ -16,7 +16,7 @@
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 565
+      "stars": 568
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
@@ -24,11 +24,11 @@
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 216
+      "stars": 218
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 198
+      "stars": 204
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -67,12 +67,12 @@
       "stars": 23
     },
     {
-      "url": "https://github.com/liatrio/lead-terraform",
+      "url": "https://github.com/rhythmictech/terraform-aws-imagebuilder-pipeline",
       "stars": 20
     },
     {
-      "url": "https://github.com/rhythmictech/terraform-aws-imagebuilder-pipeline",
-      "stars": 20
+      "url": "https://github.com/liatrio/lead-terraform",
+      "stars": 19
     },
     {
       "url": "https://github.com/rallyware/terraform-argocd-aws-eks-cluster-bootstrap",
@@ -261,8 +261,8 @@
   ],
   "count": {
     "total": 663,
-    "public": 412,
-    "private": 251,
+    "public": 382,
+    "private": 281,
     "more_than_zero_star": 166
   }
 }

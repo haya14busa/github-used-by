@@ -8,11 +8,11 @@
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2451
+      "stars": 2456
     },
     {
       "url": "https://github.com/adobe/spectrum-web-components",
-      "stars": 1401
+      "stars": 1404
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
@@ -24,11 +24,11 @@
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 285
+      "stars": 287
     },
     {
       "url": "https://github.com/th0th/poeticmetric",
-      "stars": 263
+      "stars": 264
     },
     {
       "url": "https://github.com/modx-pro/miniShop2",
@@ -55,12 +55,12 @@
       "stars": 54
     },
     {
-      "url": "https://github.com/a01sa01to/covid19-ibaraki",
+      "url": "https://github.com/DepSpy/depspy",
       "stars": 41
     },
     {
-      "url": "https://github.com/DepSpy/depspy",
-      "stars": 40
+      "url": "https://github.com/a01sa01to/covid19-ibaraki",
+      "stars": 41
     },
     {
       "url": "https://github.com/WPMedia/arc-themes-blocks",
@@ -76,7 +76,7 @@
     },
     {
       "url": "https://github.com/nordcloud/GNUI",
-      "stars": 30
+      "stars": 29
     },
     {
       "url": "https://github.com/Code-for-OKINAWA/covid19",
@@ -213,8 +213,8 @@
   ],
   "count": {
     "total": 496,
-    "public": 368,
-    "private": 128,
+    "public": 263,
+    "private": 233,
     "more_than_zero_star": 95
   }
 }
