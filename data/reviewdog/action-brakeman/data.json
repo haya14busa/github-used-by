@@ -12,7 +12,7 @@
     },
     {
       "url": "https://github.com/openHPI/codeocean",
-      "stars": 68
+      "stars": 69
     },
     {
       "url": "https://github.com/veuelive/veue",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/powerhome/playbook",
-      "stars": 33
+      "stars": 35
     },
     {
       "url": "https://github.com/sokusekiya/sokuseki",
@@ -32,7 +32,7 @@
     },
     {
       "url": "https://github.com/glowfic-constellation/glowfic",
-      "stars": 18
+      "stars": 19
     },
     {
       "url": "https://github.com/etalab/admin_api_entreprise",
@@ -53,8 +53,8 @@
   ],
   "count": {
     "total": 116,
-    "public": 69,
-    "private": 47,
-    "more_than_zero_star": 25
+    "public": 64,
+    "private": 52,
+    "more_than_zero_star": 24
   }
 }

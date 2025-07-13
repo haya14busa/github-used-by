@@ -4,27 +4,27 @@
   "repos": [
     {
       "url": "https://github.com/Tokyo-Metro-Gov/covid19",
-      "stars": 6234
+      "stars": 6235
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2456
+      "stars": 2459
     },
     {
       "url": "https://github.com/adobe/spectrum-web-components",
-      "stars": 1404
+      "stars": 1405
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
-      "stars": 1234
+      "stars": 1235
     },
     {
       "url": "https://github.com/h3poteto/whalebird-desktop",
-      "stars": 923
+      "stars": 922
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 287
+      "stars": 288
     },
     {
       "url": "https://github.com/th0th/poeticmetric",
@@ -104,11 +104,15 @@
     },
     {
       "url": "https://github.com/glowfic-constellation/glowfic",
-      "stars": 18
+      "stars": 19
     },
     {
       "url": "https://github.com/covid19-oita/covid19",
       "stars": 15
+    },
+    {
+      "url": "https://github.com/codeforjapan/remote-patient-monitoring-dashboard",
+      "stars": 13
     },
     {
       "url": "https://github.com/reviewdog/errorformat-playground",
@@ -116,10 +120,6 @@
     },
     {
       "url": "https://github.com/ironpeakservices/iron-chart-hugo",
-      "stars": 12
-    },
-    {
-      "url": "https://github.com/codeforjapan/remote-patient-monitoring-dashboard",
       "stars": 12
     },
     {
@@ -155,10 +155,6 @@
       "stars": 9
     },
     {
-      "url": "https://github.com/covid19-tochigi/covid19",
-      "stars": 9
-    },
-    {
       "url": "https://github.com/adobecom/dc",
       "stars": 7
     },
@@ -168,10 +164,6 @@
     },
     {
       "url": "https://github.com/arkirchner/resourcer",
-      "stars": 7
-    },
-    {
-      "url": "https://github.com/kenjinote/kablog",
       "stars": 7
     },
     {
@@ -187,15 +179,7 @@
       "stars": 6
     },
     {
-      "url": "https://github.com/kazuomatz/covid19",
-      "stars": 6
-    },
-    {
       "url": "https://github.com/yamaserif/covid19",
-      "stars": 6
-    },
-    {
-      "url": "https://github.com/CodeForNagasaki/covid19",
       "stars": 6
     },
     {
@@ -212,9 +196,9 @@
     }
   ],
   "count": {
-    "total": 496,
-    "public": 263,
-    "private": 233,
-    "more_than_zero_star": 95
+    "total": 497,
+    "public": 216,
+    "private": 281,
+    "more_than_zero_star": 75
   }
 }

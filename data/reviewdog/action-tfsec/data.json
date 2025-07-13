@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
-      "stars": 3086
+      "stars": 3106
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -75,14 +75,6 @@
       "stars": 8
     },
     {
-      "url": "https://github.com/rhythmictech/terraform-aws-cloudtrail-logging",
-      "stars": 8
-    },
-    {
-      "url": "https://github.com/rhythmictech/terraform-aws-cis-cloudwatch-monitors",
-      "stars": 8
-    },
-    {
       "url": "https://github.com/rhythmictech/terraform-aws-backend",
       "stars": 7
     },
@@ -92,10 +84,6 @@
     },
     {
       "url": "https://github.com/rhythmictech/terraform-aws-ssm-patch-manager",
-      "stars": 7
-    },
-    {
-      "url": "https://github.com/rhythmictech/terraform-aws-elb-cognito-auth",
       "stars": 7
     },
     {
@@ -123,10 +111,6 @@
       "stars": 5
     },
     {
-      "url": "https://github.com/rhythmictech/terraform-aws-1password-scim-bridge",
-      "stars": 5
-    },
-    {
       "url": "https://github.com/rhythmictech/terraform-aws-eks-cluster",
       "stars": 5
     },
@@ -137,8 +121,8 @@
   ],
   "count": {
     "total": 378,
-    "public": 229,
-    "private": 149,
-    "more_than_zero_star": 97
+    "public": 205,
+    "private": 173,
+    "more_than_zero_star": 84
   }
 }

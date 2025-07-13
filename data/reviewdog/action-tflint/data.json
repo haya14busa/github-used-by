@@ -8,7 +8,7 @@
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 1091
+      "stars": 1096
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
@@ -20,15 +20,15 @@
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 530
+      "stars": 532
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 218
+      "stars": 220
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 204
+      "stars": 207
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/chainguard-dev/terraform-infra-common",
-      "stars": 23
+      "stars": 24
     },
     {
       "url": "https://github.com/rhythmictech/terraform-aws-imagebuilder-pipeline",
@@ -139,10 +139,6 @@
       "stars": 9
     },
     {
-      "url": "https://github.com/ldcorentin/aws-terratest-localstack",
-      "stars": 9
-    },
-    {
       "url": "https://github.com/bmbferreira/awesome-terraform-pipeline",
       "stars": 9
     },
@@ -167,14 +163,6 @@
       "stars": 8
     },
     {
-      "url": "https://github.com/rhythmictech/terraform-aws-cis-cloudwatch-monitors",
-      "stars": 8
-    },
-    {
-      "url": "https://github.com/rhythmictech/terraform-aws-cloudtrail-logging",
-      "stars": 8
-    },
-    {
       "url": "https://github.com/cloudposse/.github",
       "stars": 7
     },
@@ -195,10 +183,6 @@
       "stars": 7
     },
     {
-      "url": "https://github.com/yhzz/gihyo-terraform-sample",
-      "stars": 7
-    },
-    {
       "url": "https://github.com/sue445/terraform-aws-template",
       "stars": 7
     },
@@ -208,10 +192,6 @@
     },
     {
       "url": "https://github.com/scribd/terraform-aws-recycle-eks",
-      "stars": 7
-    },
-    {
-      "url": "https://github.com/rhythmictech/terraform-aws-elb-cognito-auth",
       "stars": 7
     },
     {
@@ -239,15 +219,15 @@
       "stars": 6
     },
     {
+      "url": "https://github.com/chainguard-dev/ghaudit",
+      "stars": 5
+    },
+    {
       "url": "https://github.com/rhythmictech/terraform-aws-datadog",
       "stars": 5
     },
     {
       "url": "https://github.com/rhythmictech/terraform-aws-efs-filesystem",
-      "stars": 5
-    },
-    {
-      "url": "https://github.com/rhythmictech/terraform-aws-1password-scim-bridge",
       "stars": 5
     },
     {
@@ -261,8 +241,8 @@
   ],
   "count": {
     "total": 663,
-    "public": 382,
-    "private": 281,
-    "more_than_zero_star": 166
+    "public": 347,
+    "private": 316,
+    "more_than_zero_star": 147
   }
 }

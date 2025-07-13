@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/idiv-biodiversity/ansible-role-lmod",
-      "stars": 16
+      "stars": 17
     },
     {
       "url": "https://github.com/galaxyproject/ansible-cvmfs",
@@ -49,8 +49,8 @@
   ],
   "count": {
     "total": 128,
-    "public": 96,
-    "private": 32,
-    "more_than_zero_star": 43
+    "public": 91,
+    "private": 37,
+    "more_than_zero_star": 40
   }
 }

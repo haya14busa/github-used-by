@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 11380
+      "stars": 11478
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9600
+      "stars": 9604
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 3019
+      "stars": 3024
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1571
+      "stars": 1587
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/activeadmin/arbre",
-      "stars": 781
+      "stars": 782
     },
     {
       "url": "https://github.com/zilverline/sequent",
@@ -48,15 +48,15 @@
     },
     {
       "url": "https://github.com/mysociety/alaveteli",
-      "stars": 401
+      "stars": 402
     },
     {
       "url": "https://github.com/YusukeIwaki/puppeteer-ruby",
-      "stars": 310
+      "stars": 311
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 287
+      "stars": 288
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://github.com/openHPI/codeocean",
-      "stars": 68
+      "stars": 69
     },
     {
       "url": "https://github.com/Unleash/unleash-client-ruby",
@@ -143,11 +143,11 @@
       "stars": 19
     },
     {
-      "url": "https://github.com/RaiderHQ/ruby_raider",
-      "stars": 18
+      "url": "https://github.com/glowfic-constellation/glowfic",
+      "stars": 19
     },
     {
-      "url": "https://github.com/glowfic-constellation/glowfic",
+      "url": "https://github.com/RaiderHQ/ruby_raider",
       "stars": 18
     },
     {
@@ -277,8 +277,8 @@
   ],
   "count": {
     "total": 729,
-    "public": 465,
-    "private": 264,
-    "more_than_zero_star": 167
+    "public": 420,
+    "private": 309,
+    "more_than_zero_star": 153
   }
 }

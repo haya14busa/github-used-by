@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 128 | 96 | 32 | 43 |
+| 128 | 91 | 37 | 40 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-ansiblelint/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-ansiblelint)
@@ -25,7 +25,7 @@
 |2|<img src="https://github.com/galaxyproject.png" width=50 height=50>|https://github.com/galaxyproject/ansible-slurm|103|
 |3|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/ansible-role-debloat-windows|19|
 |4|<img src="https://github.com/TerrorSquad.png" width=50 height=50>|https://github.com/TerrorSquad/ansible-post-installation|17|
-|5|<img src="https://github.com/idiv-biodiversity.png" width=50 height=50>|https://github.com/idiv-biodiversity/ansible-role-lmod|16|
+|5|<img src="https://github.com/idiv-biodiversity.png" width=50 height=50>|https://github.com/idiv-biodiversity/ansible-role-lmod|17|
 |6|<img src="https://github.com/galaxyproject.png" width=50 height=50>|https://github.com/galaxyproject/ansible-cvmfs|14|
 |7|<img src="https://github.com/galaxyproject.png" width=50 height=50>|https://github.com/galaxyproject/ansible-postgresql-objects|12|
 |8|<img src="https://github.com/RiskIdent.png" width=50 height=50>|https://github.com/RiskIdent/ansible-collection-luks|7|
