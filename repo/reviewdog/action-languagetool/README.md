@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 409 | 209 | 200 | 98 |
+| 410 | 210 | 200 | 98 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-languagetool/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-languagetool)
@@ -21,22 +21,22 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|8529|
-|2|<img src="https://github.com/easymotion.png" width=50 height=50>|https://github.com/easymotion/vim-easymotion|7629|
-|3|<img src="https://github.com/vdaas.png" width=50 height=50>|https://github.com/vdaas/vald|1619|
+|1|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|8544|
+|2|<img src="https://github.com/easymotion.png" width=50 height=50>|https://github.com/easymotion/vim-easymotion|7635|
+|3|<img src="https://github.com/vdaas.png" width=50 height=50>|https://github.com/vdaas/vald|1625|
 |4|<img src="https://github.com/markuspoerschke.png" width=50 height=50>|https://github.com/markuspoerschke/iCal|1153|
-|5|<img src="https://github.com/latchset.png" width=50 height=50>|https://github.com/latchset/clevis|1059|
-|6|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/CircuitVerse|977|
-|7|<img src="https://github.com/tuono-labs.png" width=50 height=50>|https://github.com/tuono-labs/tuono|874|
-|8|<img src="https://github.com/swiftwave-org.png" width=50 height=50>|https://github.com/swiftwave-org/swiftwave|664|
-|9|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/manim-slides|638|
-|10|<img src="https://github.com/ipfs.png" width=50 height=50>|https://github.com/ipfs/ipfs-docs|316|
-|11|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|291|
+|5|<img src="https://github.com/latchset.png" width=50 height=50>|https://github.com/latchset/clevis|1062|
+|6|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/CircuitVerse|980|
+|7|<img src="https://github.com/tuono-labs.png" width=50 height=50>|https://github.com/tuono-labs/tuono|885|
+|8|<img src="https://github.com/swiftwave-org.png" width=50 height=50>|https://github.com/swiftwave-org/swiftwave|665|
+|9|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/manim-slides|645|
+|10|<img src="https://github.com/ipfs.png" width=50 height=50>|https://github.com/ipfs/ipfs-docs|317|
+|11|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|292|
 |12|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/languagetool-rust|178|
 |13|<img src="https://github.com/openhab.png" width=50 height=50>|https://github.com/openhab/openhab-google-assistant|174|
 |14|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/Interactive-Book|149|
 |15|<img src="https://github.com/leandro-lugaresi.png" width=50 height=50>|https://github.com/leandro-lugaresi/hub|147|
-|16|<img src="https://github.com/Together-Java.png" width=50 height=50>|https://github.com/Together-Java/ModernJava|114|
+|16|<img src="https://github.com/Together-Java.png" width=50 height=50>|https://github.com/Together-Java/ModernJava|116|
 |17|<img src="https://github.com/mszostok.png" width=50 height=50>|https://github.com/mszostok/version|109|
 |18|<img src="https://github.com/GStones.png" width=50 height=50>|https://github.com/GStones/moke-kit|95|
 |19|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/CircuitVerseDocs|90|
@@ -53,7 +53,7 @@
 |30|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/untex|27|
 |31|<img src="https://github.com/nownabe.png" width=50 height=50>|https://github.com/nownabe/go-bqloader|21|
 |32|<img src="https://github.com/TheNeikos.png" width=50 height=50>|https://github.com/TheNeikos/type_description|20|
-|33|<img src="https://github.com/dotnet-project-file-analyzers.png" width=50 height=50>|https://github.com/dotnet-project-file-analyzers/dotnet-project-file-analyzers|16|
+|33|<img src="https://github.com/dotnet-project-file-analyzers.png" width=50 height=50>|https://github.com/dotnet-project-file-analyzers/dotnet-project-file-analyzers|18|
 |34|<img src="https://github.com/hp-net.png" width=50 height=50>|https://github.com/hp-net/homebridge-nibe|16|
 |35|<img src="https://github.com/hashbite.png" width=50 height=50>|https://github.com/hashbite/gatsby-mdx-suite|14|
 |36|<img src="https://github.com/leveeml.png" width=50 height=50>|https://github.com/leveeml/rabbids|14|

@@ -4,31 +4,31 @@
   "repos": [
     {
       "url": "https://github.com/Tokyo-Metro-Gov/covid19",
-      "stars": 6235
+      "stars": 6234
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2459
+      "stars": 2462
     },
     {
       "url": "https://github.com/adobe/spectrum-web-components",
-      "stars": 1405
+      "stars": 1406
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
-      "stars": 1235
+      "stars": 1238
     },
     {
       "url": "https://github.com/h3poteto/whalebird-desktop",
-      "stars": 922
+      "stars": 923
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 288
+      "stars": 289
     },
     {
       "url": "https://github.com/th0th/poeticmetric",
-      "stars": 264
+      "stars": 263
     },
     {
       "url": "https://github.com/modx-pro/miniShop2",
@@ -123,16 +123,16 @@
       "stars": 12
     },
     {
+      "url": "https://github.com/MooncellWiki/prts-widgets",
+      "stars": 11
+    },
+    {
       "url": "https://github.com/codeforkumamoto/covid19",
       "stars": 11
     },
     {
       "url": "https://github.com/PichuChen/covid19",
       "stars": 11
-    },
-    {
-      "url": "https://github.com/MooncellWiki/prts-widgets",
-      "stars": 10
     },
     {
       "url": "https://github.com/stop-covid19-kyoto/covid19-kyoto",
@@ -179,6 +179,10 @@
       "stars": 6
     },
     {
+      "url": "https://github.com/WPMedia/arc-themes-components",
+      "stars": 6
+    },
+    {
       "url": "https://github.com/yamaserif/covid19",
       "stars": 6
     },
@@ -187,17 +191,13 @@
       "stars": 5
     },
     {
-      "url": "https://github.com/WPMedia/arc-themes-components",
-      "stars": 5
-    },
-    {
       "url": "https://github.com/danskernesdigitalebibliotek/dpl-design-system",
       "stars": 5
     }
   ],
   "count": {
-    "total": 497,
-    "public": 216,
+    "total": 498,
+    "public": 217,
     "private": 281,
     "more_than_zero_star": 75
   }

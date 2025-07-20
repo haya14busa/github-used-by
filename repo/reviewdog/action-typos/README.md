@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 41 | 32 | 9 | 22 |
+| 43 | 34 | 9 | 22 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-typos/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-typos)
@@ -21,11 +21,11 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9604|
-|2|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|8529|
+|1|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9607|
+|2|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|8544|
 |3|<img src="https://github.com/mime-types.png" width=50 height=50>|https://github.com/mime-types/ruby-mime-types|332|
 |4|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/diff-lcs|294|
-|5|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/color|147|
+|5|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/color|151|
 |6|<img src="https://github.com/aaronhurt.png" width=50 height=50>|https://github.com/aaronhurt/zfs-replicate|76|
 |7|<img src="https://github.com/mime-types.png" width=50 height=50>|https://github.com/mime-types/mime-types-data|46|
 |8|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/minitar|42|

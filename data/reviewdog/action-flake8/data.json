@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 75064
+      "stars": 75137
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7273
+      "stars": 7280
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -16,7 +16,7 @@
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 703
+      "stars": 705
     },
     {
       "url": "https://github.com/simpeg/simpeg",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://github.com/PersiaML/PERSIA",
-      "stars": 408
+      "stars": 409
     },
     {
       "url": "https://github.com/PAhelper/PhoenixAdult.bundle",
@@ -40,11 +40,11 @@
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 200
+      "stars": 202
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
-      "stars": 166
+      "stars": 167
     },
     {
       "url": "https://github.com/TrangPham/django-admin-confirm",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
-      "stars": 127
+      "stars": 133
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/ehpor/hcipy",
-      "stars": 113
+      "stars": 114
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
@@ -76,7 +76,7 @@
     },
     {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
-      "stars": 73
+      "stars": 74
     },
     {
       "url": "https://github.com/oracle/adaptivemm",
@@ -96,7 +96,7 @@
     },
     {
       "url": "https://github.com/michaelthomasletts/boto3-refresh-session",
-      "stars": 42
+      "stars": 43
     },
     {
       "url": "https://github.com/rickstaa/ros-gazebo-gym",
@@ -116,14 +116,14 @@
     },
     {
       "url": "https://github.com/NebularNerd/subtotxt",
+      "stars": 24
+    },
+    {
+      "url": "https://github.com/DirtyRacer1337/PhoenixAdult.bundle",
       "stars": 23
     },
     {
       "url": "https://github.com/f0uriest/orthax",
-      "stars": 22
-    },
-    {
-      "url": "https://github.com/DirtyRacer1337/PhoenixAdult.bundle",
       "stars": 22
     },
     {
@@ -208,9 +208,9 @@
     }
   ],
   "count": {
-    "total": 514,
-    "public": 325,
-    "private": 189,
+    "total": 515,
+    "public": 323,
+    "private": 192,
     "more_than_zero_star": 120
   }
 }

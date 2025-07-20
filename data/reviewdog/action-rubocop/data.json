@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 11478
+      "stars": 11531
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9604
+      "stars": 9607
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 3024
+      "stars": 3031
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2776
+      "stars": 2777
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
@@ -24,15 +24,15 @@
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2401
+      "stars": 2409
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1587
+      "stars": 1603
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1183
+      "stars": 1184
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
-      "stars": 288
+      "stars": 289
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/chanzuckerberg/czid-web",
-      "stars": 86
+      "stars": 87
     },
     {
       "url": "https://github.com/GetStream/stream-ruby",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/Drieam/rspec-github",
-      "stars": 76
+      "stars": 77
     },
     {
       "url": "https://github.com/openHPI/codeocean",
@@ -88,7 +88,7 @@
     },
     {
       "url": "https://github.com/Unleash/unleash-client-ruby",
-      "stars": 60
+      "stars": 61
     },
     {
       "url": "https://github.com/veuelive/veue",
@@ -104,7 +104,7 @@
     },
     {
       "url": "https://github.com/puzzle/puzzletime",
-      "stars": 45
+      "stars": 46
     },
     {
       "url": "https://github.com/machinio/solrb",
@@ -116,7 +116,7 @@
     },
     {
       "url": "https://github.com/mysociety/whatdotheyknow-theme",
-      "stars": 32
+      "stars": 33
     },
     {
       "url": "https://github.com/GetStream/stream-chat-ruby",
@@ -128,7 +128,7 @@
     },
     {
       "url": "https://github.com/neinteractiveliterature/intercode",
-      "stars": 24
+      "stars": 25
     },
     {
       "url": "https://github.com/bitjourney/mato",
@@ -140,7 +140,7 @@
     },
     {
       "url": "https://github.com/skcc321/deploy_pin",
-      "stars": 19
+      "stars": 20
     },
     {
       "url": "https://github.com/glowfic-constellation/glowfic",
@@ -155,16 +155,16 @@
       "stars": 18
     },
     {
+      "url": "https://github.com/vol1ura/Sat_9am_5km",
+      "stars": 16
+    },
+    {
       "url": "https://github.com/mihailpozarski/chilean-rutify",
       "stars": 16
     },
     {
       "url": "https://github.com/oddcamp/mrml-rails",
       "stars": 16
-    },
-    {
-      "url": "https://github.com/vol1ura/Sat_9am_5km",
-      "stars": 15
     },
     {
       "url": "https://github.com/thooams/ui_bibz",
@@ -276,9 +276,9 @@
     }
   ],
   "count": {
-    "total": 729,
-    "public": 420,
-    "private": 309,
-    "more_than_zero_star": 153
+    "total": 733,
+    "public": 423,
+    "private": 310,
+    "more_than_zero_star": 152
   }
 }

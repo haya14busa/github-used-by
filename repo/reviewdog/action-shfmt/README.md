@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 189 | 102 | 87 | 43 |
+| 190 | 103 | 87 | 44 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-shfmt/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-shfmt)
@@ -21,12 +21,12 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/ChrisTitusTech.png" width=50 height=50>|https://github.com/ChrisTitusTech/linutil|3747|
-|2|<img src="https://github.com/sourcegraph.png" width=50 height=50>|https://github.com/sourcegraph/zoekt|1006|
-|3|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|291|
+|1|<img src="https://github.com/ChrisTitusTech.png" width=50 height=50>|https://github.com/ChrisTitusTech/linutil|3774|
+|2|<img src="https://github.com/sourcegraph.png" width=50 height=50>|https://github.com/sourcegraph/zoekt|1011|
+|3|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|292|
 |4|<img src="https://github.com/CrowdStrike.png" width=50 height=50>|https://github.com/CrowdStrike/falcon-scripts|176|
-|5|<img src="https://github.com/aerospike.png" width=50 height=50>|https://github.com/aerospike/aerospike-server.docker|143|
-|6|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/action-suggester|120|
+|5|<img src="https://github.com/aerospike.png" width=50 height=50>|https://github.com/aerospike/aerospike-server.docker|144|
+|6|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/action-suggester|121|
 |7|<img src="https://github.com/jiro4989.png" width=50 height=50>|https://github.com/jiro4989/setup-nim-action|106|
 |8|<img src="https://github.com/jonathanmorley.png" width=50 height=50>|https://github.com/jonathanmorley/asdf-pnpm|85|
 |9|<img src="https://github.com/aaronhurt.png" width=50 height=50>|https://github.com/aaronhurt/zfs-replicate|76|

@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8529
+      "stars": 8544
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7629
+      "stars": 7635
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1619
+      "stars": 1625
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
@@ -20,31 +20,31 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1059
+      "stars": 1062
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 977
+      "stars": 980
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 874
+      "stars": 885
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 664
+      "stars": 665
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 638
+      "stars": 645
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
-      "stars": 316
+      "stars": 317
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 291
+      "stars": 292
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 114
+      "stars": 116
     },
     {
       "url": "https://github.com/mszostok/version",
@@ -132,7 +132,7 @@
     },
     {
       "url": "https://github.com/dotnet-project-file-analyzers/dotnet-project-file-analyzers",
-      "stars": 16
+      "stars": 18
     },
     {
       "url": "https://github.com/hp-net/homebridge-nibe",
@@ -228,8 +228,8 @@
     }
   ],
   "count": {
-    "total": 409,
-    "public": 209,
+    "total": 410,
+    "public": 210,
     "private": 200,
     "more_than_zero_star": 98
   }

@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/chanzuckerberg/czid-web",
-      "stars": 86
+      "stars": 87
     },
     {
       "url": "https://github.com/tricknotes/starseeker",
@@ -53,8 +53,8 @@
   ],
   "count": {
     "total": 116,
-    "public": 64,
-    "private": 52,
+    "public": 63,
+    "private": 53,
     "more_than_zero_star": 24
   }
 }

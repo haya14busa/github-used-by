@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 3747
+      "stars": 3774
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 1006
+      "stars": 1011
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 291
+      "stars": 292
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
@@ -20,11 +20,11 @@
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
-      "stars": 143
+      "stars": 144
     },
     {
       "url": "https://github.com/reviewdog/action-suggester",
-      "stars": 120
+      "stars": 121
     },
     {
       "url": "https://github.com/jiro4989/setup-nim-action",
@@ -100,9 +100,9 @@
     }
   ],
   "count": {
-    "total": 189,
-    "public": 102,
+    "total": 190,
+    "public": 103,
     "private": 87,
-    "more_than_zero_star": 43
+    "more_than_zero_star": 44
   }
 }

@@ -22,7 +22,7 @@
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
 |1|<img src="https://github.com/4paradigm.png" width=50 height=50>|https://github.com/4paradigm/OpenMLDB|1644|
-|2|<img src="https://github.com/PyPtt.png" width=50 height=50>|https://github.com/PyPtt/PyPtt|708|
+|2|<img src="https://github.com/PyPtt.png" width=50 height=50>|https://github.com/PyPtt/PyPtt|709|
 |3|<img src="https://github.com/jackpocket.png" width=50 height=50>|https://github.com/jackpocket/android-scratchoff|450|
 |4|<img src="https://github.com/nix-united.png" width=50 height=50>|https://github.com/nix-united/golang-echo-boilerplate|314|
 |5|<img src="https://github.com/nix-united.png" width=50 height=50>|https://github.com/nix-united/golang-gin-boilerplate|111|
