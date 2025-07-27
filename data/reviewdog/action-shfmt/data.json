@@ -4,27 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 3774
+      "stars": 3796
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 1011
+      "stars": 1018
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 292
+      "stars": 293
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
-      "stars": 176
+      "stars": 177
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
       "stars": 144
-    },
-    {
-      "url": "https://github.com/reviewdog/action-suggester",
-      "stars": 121
     },
     {
       "url": "https://github.com/jiro4989/setup-nim-action",
@@ -36,7 +32,7 @@
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
-      "stars": 76
+      "stars": 77
     },
     {
       "url": "https://github.com/yu-iskw/action-sqlfluff",
@@ -44,7 +40,7 @@
     },
     {
       "url": "https://github.com/lure-sh/lure-repo",
-      "stars": 56
+      "stars": 57
     },
     {
       "url": "https://github.com/sksat/compose-cd",
@@ -52,11 +48,7 @@
     },
     {
       "url": "https://github.com/mongolyy/reviewdog-action-biome",
-      "stars": 44
-    },
-    {
-      "url": "https://github.com/franzs/fritzbox_upload_certificate",
-      "stars": 44
+      "stars": 45
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-prettier",
@@ -68,15 +60,11 @@
     },
     {
       "url": "https://github.com/UmbrellaDocs/action-linkspector",
-      "stars": 22
+      "stars": 21
     },
     {
       "url": "https://github.com/helpermethod/up",
       "stars": 18
-    },
-    {
-      "url": "https://github.com/aerospike/aerospike-server-enterprise.docker",
-      "stars": 15
     },
     {
       "url": "https://github.com/knative/actions",
@@ -100,9 +88,9 @@
     }
   ],
   "count": {
-    "total": 190,
-    "public": 103,
-    "private": 87,
-    "more_than_zero_star": 44
+    "total": 191,
+    "public": 99,
+    "private": 92,
+    "more_than_zero_star": 40
   }
 }

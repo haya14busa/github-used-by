@@ -4,39 +4,39 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8544
+      "stars": 8565
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7635
+      "stars": 7640
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1625
+      "stars": 1627
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1153
+      "stars": 1154
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1062
+      "stars": 1067
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 980
+      "stars": 981
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 885
+      "stars": 899
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 665
+      "stars": 667
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 645
+      "stars": 647
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
@@ -44,7 +44,7 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 292
+      "stars": 293
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
@@ -108,7 +108,7 @@
     },
     {
       "url": "https://github.com/jeertmans/DiffeRT",
-      "stars": 32
+      "stars": 33
     },
     {
       "url": "https://github.com/ADE-Scheduler/ADE-Scheduler",
@@ -121,10 +121,6 @@
     {
       "url": "https://github.com/jeertmans/untex",
       "stars": 27
-    },
-    {
-      "url": "https://github.com/nownabe/go-bqloader",
-      "stars": 21
     },
     {
       "url": "https://github.com/TheNeikos/type_description",
@@ -157,10 +153,6 @@
     {
       "url": "https://github.com/vipulgupta2048/talkswith2048",
       "stars": 12
-    },
-    {
-      "url": "https://github.com/phoenix-rtos/phoenix-rtos-doc",
-      "stars": 11
     },
     {
       "url": "https://github.com/opentdf/otdfctl",
@@ -229,8 +221,8 @@
   ],
   "count": {
     "total": 410,
-    "public": 210,
-    "private": 200,
-    "more_than_zero_star": 98
+    "public": 194,
+    "private": 216,
+    "more_than_zero_star": 93
   }
 }

@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1753
+      "stars": 1755
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 1099
+      "stars": 1103
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
@@ -20,27 +20,23 @@
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 533
+      "stars": 535
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 220
+      "stars": 222
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 208
+      "stars": 210
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
-      "stars": 196
+      "stars": 195
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
       "stars": 115
-    },
-    {
-      "url": "https://github.com/provectus/sak-kubeflow",
-      "stars": 64
     },
     {
       "url": "https://github.com/GiganticMinecraft/seichi_infra",
@@ -123,10 +119,6 @@
       "stars": 10
     },
     {
-      "url": "https://github.com/bmbferreira/awesome-terraform-pipeline",
-      "stars": 10
-    },
-    {
       "url": "https://github.com/Bobirmirzo/infra-ci-cd",
       "stars": 10
     },
@@ -156,10 +148,6 @@
     },
     {
       "url": "https://github.com/rhythmictech/terraform-aws-okta-sso",
-      "stars": 8
-    },
-    {
-      "url": "https://github.com/rhythmictech/terraform-terraform-errorcheck",
       "stars": 8
     },
     {
@@ -227,10 +215,6 @@
       "stars": 5
     },
     {
-      "url": "https://github.com/rhythmictech/terraform-aws-efs-filesystem",
-      "stars": 5
-    },
-    {
       "url": "https://github.com/rhythmictech/terraform-aws-eks-cluster",
       "stars": 5
     },
@@ -241,8 +225,8 @@
   ],
   "count": {
     "total": 663,
-    "public": 347,
-    "private": 316,
-    "more_than_zero_star": 147
+    "public": 321,
+    "private": 342,
+    "more_than_zero_star": 135
   }
 }

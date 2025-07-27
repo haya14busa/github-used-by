@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/4paradigm/OpenMLDB",
-      "stars": 1644
+      "stars": 1646
     },
     {
       "url": "https://github.com/PyPtt/PyPtt",
@@ -12,15 +12,7 @@
     },
     {
       "url": "https://github.com/jackpocket/android-scratchoff",
-      "stars": 450
-    },
-    {
-      "url": "https://github.com/nix-united/golang-echo-boilerplate",
-      "stars": 314
-    },
-    {
-      "url": "https://github.com/nix-united/golang-gin-boilerplate",
-      "stars": 111
+      "stars": 449
     },
     {
       "url": "https://github.com/piotr-yuxuan/closeable-map",
@@ -101,8 +93,8 @@
   ],
   "count": {
     "total": 338,
-    "public": 157,
-    "private": 181,
-    "more_than_zero_star": 67
+    "public": 151,
+    "private": 187,
+    "more_than_zero_star": 65
   }
 }

@@ -15,10 +15,6 @@
       "stars": 19
     },
     {
-      "url": "https://github.com/TerrorSquad/ansible-post-installation",
-      "stars": 17
-    },
-    {
       "url": "https://github.com/idiv-biodiversity/ansible-role-lmod",
       "stars": 17
     },
@@ -48,9 +44,9 @@
     }
   ],
   "count": {
-    "total": 128,
-    "public": 91,
-    "private": 37,
-    "more_than_zero_star": 40
+    "total": 129,
+    "public": 87,
+    "private": 42,
+    "more_than_zero_star": 38
   }
 }

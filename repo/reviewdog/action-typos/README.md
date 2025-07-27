@@ -21,12 +21,12 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9607|
-|2|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|8544|
+|1|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9608|
+|2|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|8565|
 |3|<img src="https://github.com/mime-types.png" width=50 height=50>|https://github.com/mime-types/ruby-mime-types|332|
 |4|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/diff-lcs|294|
-|5|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/color|151|
-|6|<img src="https://github.com/aaronhurt.png" width=50 height=50>|https://github.com/aaronhurt/zfs-replicate|76|
+|5|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/color|154|
+|6|<img src="https://github.com/aaronhurt.png" width=50 height=50>|https://github.com/aaronhurt/zfs-replicate|77|
 |7|<img src="https://github.com/mime-types.png" width=50 height=50>|https://github.com/mime-types/mime-types-data|46|
 |8|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/minitar|42|
 |9|<img src="https://github.com/xeho91.png" width=50 height=50>|https://github.com/xeho91/js-ast|18|

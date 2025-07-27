@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
-      "stars": 3117
+      "stars": 3121
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
-      "stars": 196
+      "stars": 195
     },
     {
       "url": "https://github.com/timoa/terraform-oci-vscode-server",
@@ -71,10 +71,6 @@
       "stars": 8
     },
     {
-      "url": "https://github.com/rhythmictech/terraform-terraform-errorcheck",
-      "stars": 8
-    },
-    {
       "url": "https://github.com/rhythmictech/terraform-aws-backend",
       "stars": 7
     },
@@ -103,14 +99,6 @@
       "stars": 5
     },
     {
-      "url": "https://github.com/hgsgtk/tf-guardduty",
-      "stars": 5
-    },
-    {
-      "url": "https://github.com/rhythmictech/terraform-aws-efs-filesystem",
-      "stars": 5
-    },
-    {
       "url": "https://github.com/rhythmictech/terraform-aws-eks-cluster",
       "stars": 5
     },
@@ -121,8 +109,8 @@
   ],
   "count": {
     "total": 378,
-    "public": 205,
-    "private": 173,
-    "more_than_zero_star": 84
+    "public": 182,
+    "private": 196,
+    "more_than_zero_star": 74
   }
 }
