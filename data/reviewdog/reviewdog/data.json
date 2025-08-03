@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/FerretDB/FerretDB",
-      "stars": 10299
+      "stars": 10307
     },
     {
       "url": "https://github.com/go-reform/reform",
@@ -12,19 +12,23 @@
     },
     {
       "url": "https://github.com/percona/mongodb_exporter",
-      "stars": 1274
+      "stars": 1275
     },
     {
       "url": "https://github.com/percona/pmm",
-      "stars": 809
+      "stars": 817
     },
     {
       "url": "https://github.com/percona/everest",
-      "stars": 310
+      "stars": 312
     },
     {
       "url": "https://github.com/percona/go-mysql",
       "stars": 241
+    },
+    {
+      "url": "https://github.com/percona/rds_exporter",
+      "stars": 141
     },
     {
       "url": "https://github.com/aspect-build/rules_lint",
@@ -144,9 +148,9 @@
     }
   ],
   "count": {
-    "total": 274,
-    "public": 129,
+    "total": 275,
+    "public": 130,
     "private": 145,
-    "more_than_zero_star": 58
+    "more_than_zero_star": 59
   }
 }

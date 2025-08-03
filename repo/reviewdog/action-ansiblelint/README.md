@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 129 | 87 | 42 | 38 |
+| 129 | 86 | 43 | 38 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-ansiblelint/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-ansiblelint)
@@ -22,7 +22,7 @@
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
 |1|<img src="https://github.com/galaxyproject.png" width=50 height=50>|https://github.com/galaxyproject/ansible-postgresql|124|
-|2|<img src="https://github.com/galaxyproject.png" width=50 height=50>|https://github.com/galaxyproject/ansible-slurm|105|
+|2|<img src="https://github.com/galaxyproject.png" width=50 height=50>|https://github.com/galaxyproject/ansible-slurm|106|
 |3|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/ansible-role-debloat-windows|19|
 |4|<img src="https://github.com/idiv-biodiversity.png" width=50 height=50>|https://github.com/idiv-biodiversity/ansible-role-lmod|17|
 |5|<img src="https://github.com/galaxyproject.png" width=50 height=50>|https://github.com/galaxyproject/ansible-cvmfs|14|

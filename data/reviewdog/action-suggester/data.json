@@ -4,31 +4,31 @@
   "repos": [
     {
       "url": "https://github.com/neovim/neovim",
-      "stars": 91411
+      "stars": 91616
     },
     {
       "url": "https://github.com/starship/starship",
-      "stars": 50154
+      "stars": 50260
     },
     {
       "url": "https://github.com/svc-develop-team/so-vits-svc",
-      "stars": 27433
+      "stars": 27467
     },
     {
       "url": "https://github.com/OI-wiki/OI-wiki",
-      "stars": 23705
+      "stars": 23785
     },
     {
       "url": "https://github.com/optuna/optuna",
-      "stars": 12365
+      "stars": 12407
     },
     {
       "url": "https://github.com/organicmaps/organicmaps",
-      "stars": 11533
+      "stars": 11575
     },
     {
       "url": "https://github.com/CleverRaven/Cataclysm-DDA",
-      "stars": 11472
+      "stars": 11486
     },
     {
       "url": "https://github.com/Mrs4s/go-cqhttp",
@@ -36,35 +36,35 @@
     },
     {
       "url": "https://github.com/openvinotoolkit/openvino",
-      "stars": 8643
+      "stars": 8664
     },
     {
       "url": "https://github.com/crytic/slither",
-      "stars": 5795
+      "stars": 5808
     },
     {
       "url": "https://github.com/tidyverse/dplyr",
-      "stars": 4907
+      "stars": 4915
     },
     {
       "url": "https://github.com/leanprover-community/mathlib4",
-      "stars": 2196
+      "stars": 2220
     },
     {
       "url": "https://github.com/TuringLang/Turing.jl",
-      "stars": 2151
+      "stars": 2149
     },
     {
       "url": "https://github.com/tidyverse/tidyr",
-      "stars": 1407
+      "stars": 1408
     },
     {
       "url": "https://github.com/openblack/openblack",
-      "stars": 1383
+      "stars": 1389
     },
     {
       "url": "https://github.com/JuliaLang/juliaup",
-      "stars": 1148
+      "stars": 1150
     },
     {
       "url": "https://github.com/wartremover/wartremover",
@@ -76,15 +76,15 @@
     },
     {
       "url": "https://github.com/secure-software-engineering/phasar",
-      "stars": 994
+      "stars": 993
     },
     {
       "url": "https://github.com/ThinkR-open/golem",
-      "stars": 926
+      "stars": 927
     },
     {
       "url": "https://github.com/r-lib/usethis",
-      "stars": 883
+      "stars": 884
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -96,7 +96,7 @@
     },
     {
       "url": "https://github.com/gugod/App-perlbrew",
-      "stars": 729
+      "stars": 730
     },
     {
       "url": "https://github.com/bangumi/server",
@@ -112,11 +112,11 @@
     },
     {
       "url": "https://github.com/JuliaDiff/ChainRules.jl",
-      "stars": 454
+      "stars": 453
     },
     {
       "url": "https://github.com/Xilinx/mlir-aie",
-      "stars": 447
+      "stars": 451
     },
     {
       "url": "https://github.com/JuliaStats/MixedModels.jl",
@@ -136,7 +136,7 @@
     },
     {
       "url": "https://github.com/JuliaManifolds/Manopt.jl",
-      "stars": 371
+      "stars": 372
     },
     {
       "url": "https://github.com/tidymodels/rsample",
@@ -148,19 +148,23 @@
     },
     {
       "url": "https://github.com/percona/percona-postgresql-operator",
-      "stars": 324
-    },
-    {
-      "url": "https://github.com/r-lib/slider",
-      "stars": 306
+      "stars": 325
     },
     {
       "url": "https://github.com/buger/probe",
-      "stars": 302
+      "stars": 316
+    },
+    {
+      "url": "https://github.com/tidymodels/tune",
+      "stars": 308
+    },
+    {
+      "url": "https://github.com/r-lib/slider",
+      "stars": 307
     },
     {
       "url": "https://github.com/TuringLang/AdvancedHMC.jl",
-      "stars": 299
+      "stars": 300
     },
     {
       "url": "https://github.com/NREL-Sienna/PowerSimulations.jl",
@@ -168,7 +172,7 @@
     },
     {
       "url": "https://github.com/percona/percona-backup-mongodb",
-      "stars": 287
+      "stars": 289
     },
     {
       "url": "https://github.com/CUBRID/cubrid",
@@ -179,28 +183,28 @@
       "stars": 274
     },
     {
-      "url": "https://github.com/JuliaGaussianProcesses/AbstractGPs.jl",
-      "stars": 266
+      "url": "https://github.com/maplibre/maplibre-compose",
+      "stars": 267
     },
     {
-      "url": "https://github.com/maplibre/maplibre-compose",
-      "stars": 262
+      "url": "https://github.com/JuliaGaussianProcesses/AbstractGPs.jl",
+      "stars": 266
     },
     {
       "url": "https://github.com/JuliaDiff/ChainRulesCore.jl",
       "stars": 261
     },
     {
-      "url": "https://github.com/TuringLang/Bijectors.jl",
+      "url": "https://github.com/ProtocolScience/AstralGocq",
       "stars": 248
     },
     {
-      "url": "https://github.com/ProtocolScience/AstralGocq",
+      "url": "https://github.com/TuringLang/Bijectors.jl",
       "stars": 247
     },
     {
       "url": "https://github.com/applejag/kubectl-klock",
-      "stars": 237
+      "stars": 238
     },
     {
       "url": "https://github.com/TuringLang/DynamicPPL.jl",
@@ -208,23 +212,23 @@
     },
     {
       "url": "https://github.com/philips-software/amp-embedded-infra-lib",
-      "stars": 230
+      "stars": 231
     },
     {
       "url": "https://github.com/sinspired/cnNetTool",
       "stars": 226
     },
     {
+      "url": "https://github.com/poppingmoon/aria",
+      "stars": 223
+    },
+    {
       "url": "https://github.com/PicnicSupermarket/error-prone-support",
       "stars": 222
     },
     {
-      "url": "https://github.com/poppingmoon/aria",
-      "stars": 220
-    },
-    {
       "url": "https://github.com/JuliaDatabases/LibPQ.jl",
-      "stars": 220
+      "stars": 221
     },
     {
       "url": "https://github.com/SOZ-Faut-etre-Sub/SOZ-FiveM-Server",
@@ -236,15 +240,15 @@
     },
     {
       "url": "https://github.com/noseglasses/elf_diff",
-      "stars": 218
+      "stars": 217
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 204
+      "stars": 209
     },
     {
       "url": "https://github.com/Cataclysm-TLG/Cataclysm-TLG",
-      "stars": 202
+      "stars": 205
     },
     {
       "url": "https://github.com/percona/percona-server-mysql-operator",
@@ -260,7 +264,7 @@
     },
     {
       "url": "https://github.com/boozook/playdate",
-      "stars": 172
+      "stars": 173
     },
     {
       "url": "https://github.com/JuliaCloud/AWS.jl",
@@ -272,7 +276,7 @@
     },
     {
       "url": "https://github.com/pystra/pystra",
-      "stars": 158
+      "stars": 159
     },
     {
       "url": "https://github.com/getkirby/kql",
@@ -287,6 +291,10 @@
       "stars": 142
     },
     {
+      "url": "https://github.com/HelgeGehring/femwell",
+      "stars": 142
+    },
+    {
       "url": "https://github.com/rstudio/rsconnect",
       "stars": 140
     },
@@ -295,12 +303,8 @@
       "stars": 140
     },
     {
-      "url": "https://github.com/HelgeGehring/femwell",
-      "stars": 140
-    },
-    {
       "url": "https://github.com/PlasmaControl/DESC",
-      "stars": 133
+      "stars": 132
     },
     {
       "url": "https://github.com/hoc081098/Refresh-Token-Sample",
@@ -311,16 +315,16 @@
       "stars": 124
     },
     {
+      "url": "https://github.com/philips-software/amp-devcontainer",
+      "stars": 123
+    },
+    {
       "url": "https://github.com/JuliaGraphs/MultilayerGraphs.jl",
       "stars": 123
     },
     {
       "url": "https://github.com/JuliaTrustworthyAI/CounterfactualExplanations.jl",
       "stars": 122
-    },
-    {
-      "url": "https://github.com/philips-software/amp-devcontainer",
-      "stars": 121
     },
     {
       "url": "https://github.com/tidymodels/dials",
@@ -332,23 +336,23 @@
     },
     {
       "url": "https://github.com/OpenSTEF/openstef",
-      "stars": 107
+      "stars": 108
     },
     {
       "url": "https://github.com/ropensci/nasapower",
       "stars": 105
     },
     {
-      "url": "https://github.com/CliMA/ClimaCore.jl",
-      "stars": 103
-    },
-    {
       "url": "https://github.com/JuliaOptimalTransport/OptimalTransport.jl",
-      "stars": 103
+      "stars": 104
     },
     {
       "url": "https://github.com/Xilinx/mlir-air",
-      "stars": 102
+      "stars": 103
+    },
+    {
+      "url": "https://github.com/CliMA/ClimaCore.jl",
+      "stars": 103
     },
     {
       "url": "https://github.com/unode/polypomo",
@@ -356,7 +360,7 @@
     },
     {
       "url": "https://github.com/petertrr/kotlin-multiplatform-diff",
-      "stars": 94
+      "stars": 95
     },
     {
       "url": "https://github.com/TuringLang/AbstractMCMC.jl",
@@ -391,22 +395,18 @@
       "stars": 81
     },
     {
+      "url": "https://github.com/bemanproject/execution",
+      "stars": 80
+    },
+    {
       "url": "https://github.com/kadas-albireo/kadas-albireo2",
       "stars": 79
-    },
-    {
-      "url": "https://github.com/bemanproject/execution",
-      "stars": 78
-    },
-    {
-      "url": "https://github.com/DavisVaughan/almanac",
-      "stars": 76
     }
   ],
   "count": {
-    "total": 1736,
-    "public": 1070,
-    "private": 666,
+    "total": 1745,
+    "public": 1064,
+    "private": 681,
     "more_than_zero_star": 505
   }
 }

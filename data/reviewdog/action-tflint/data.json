@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1755
+      "stars": 1756
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 1103
+      "stars": 1110
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
@@ -16,7 +16,7 @@
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 571
+      "stars": 572
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
@@ -24,11 +24,11 @@
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 222
+      "stars": 223
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 210
+      "stars": 213
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -111,6 +111,10 @@
       "stars": 11
     },
     {
+      "url": "https://github.com/adelinosousa/terrafirma",
+      "stars": 10
+    },
+    {
       "url": "https://github.com/Vlaaaaaaad/terraform-aws-fargate-refinery",
       "stars": 10
     },
@@ -121,10 +125,6 @@
     {
       "url": "https://github.com/Bobirmirzo/infra-ci-cd",
       "stars": 10
-    },
-    {
-      "url": "https://github.com/adelinosousa/terrafirma",
-      "stars": 9
     },
     {
       "url": "https://github.com/sammcj/smart_diskinfo",
@@ -224,9 +224,9 @@
     }
   ],
   "count": {
-    "total": 663,
-    "public": 321,
-    "private": 342,
+    "total": 664,
+    "public": 318,
+    "private": 346,
     "more_than_zero_star": 135
   }
 }

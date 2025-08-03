@@ -8,7 +8,7 @@
     },
     {
       "url": "https://github.com/galaxyproject/ansible-slurm",
-      "stars": 105
+      "stars": 106
     },
     {
       "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
@@ -45,8 +45,8 @@
   ],
   "count": {
     "total": 129,
-    "public": 87,
-    "private": 42,
+    "public": 86,
+    "private": 43,
     "more_than_zero_star": 38
   }
 }

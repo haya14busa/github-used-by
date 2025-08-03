@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 75213
+      "stars": 75299
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7285
+      "stars": 7290
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -16,11 +16,11 @@
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 708
+      "stars": 711
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 574
+      "stars": 576
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
@@ -36,26 +36,26 @@
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
-      "stars": 211
+      "stars": 212
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 204
+      "stars": 209
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
-      "stars": 167
+      "stars": 168
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
-      "stars": 133
-    },
-    {
-      "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
-      "stars": 114
+      "stars": 132
     },
     {
       "url": "https://github.com/ehpor/hcipy",
+      "stars": 115
+    },
+    {
+      "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
       "stars": 114
     },
     {
@@ -68,7 +68,7 @@
     },
     {
       "url": "https://github.com/ydb-platform/nbs",
-      "stars": 75
+      "stars": 76
     },
     {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
@@ -92,11 +92,11 @@
     },
     {
       "url": "https://github.com/michaelthomasletts/boto3-refresh-session",
-      "stars": 44
+      "stars": 45
     },
     {
       "url": "https://github.com/rickstaa/ros-gazebo-gym",
-      "stars": 42
+      "stars": 43
     },
     {
       "url": "https://github.com/Open-Model-Initiative/OMI-Data-Pipeline",
@@ -112,7 +112,7 @@
     },
     {
       "url": "https://github.com/NebularNerd/subtotxt",
-      "stars": 25
+      "stars": 26
     },
     {
       "url": "https://github.com/DirtyRacer1337/PhoenixAdult.bundle",
@@ -187,6 +187,10 @@
       "stars": 6
     },
     {
+      "url": "https://github.com/rickstaa/ros-gazebo-gym-examples",
+      "stars": 5
+    },
+    {
       "url": "https://github.com/alkemyTech/OT281-python",
       "stars": 5
     },
@@ -201,8 +205,8 @@
   ],
   "count": {
     "total": 516,
-    "public": 315,
-    "private": 201,
-    "more_than_zero_star": 118
+    "public": 311,
+    "private": 205,
+    "more_than_zero_star": 115
   }
 }

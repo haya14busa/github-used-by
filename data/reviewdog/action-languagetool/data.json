@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8565
+      "stars": 8585
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7640
+      "stars": 7643
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1627
+      "stars": 1630
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1067
+      "stars": 1072
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
@@ -28,27 +28,27 @@
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 899
+      "stars": 954
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 667
+      "stars": 675
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 647
+      "stars": 651
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
-      "stars": 317
+      "stars": 320
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 293
+      "stars": 294
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
-      "stars": 178
+      "stars": 179
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/codewars/docs",
-      "stars": 60
+      "stars": 61
     },
     {
       "url": "https://github.com/shopware/docs",
@@ -108,7 +108,7 @@
     },
     {
       "url": "https://github.com/jeertmans/DiffeRT",
-      "stars": 33
+      "stars": 34
     },
     {
       "url": "https://github.com/ADE-Scheduler/ADE-Scheduler",
@@ -203,6 +203,10 @@
       "stars": 5
     },
     {
+      "url": "https://github.com/swiftwave-org/swiftwave.org",
+      "stars": 5
+    },
+    {
       "url": "https://github.com/stakater/employee-handbook",
       "stars": 5
     },
@@ -221,8 +225,8 @@
   ],
   "count": {
     "total": 410,
-    "public": 194,
-    "private": 216,
+    "public": 192,
+    "private": 218,
     "more_than_zero_star": 93
   }
 }

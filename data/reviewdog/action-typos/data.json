@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9608
+      "stars": 9613
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8565
+      "stars": 8585
     },
     {
       "url": "https://github.com/mime-types/ruby-mime-types",
-      "stars": 332
+      "stars": 333
     },
     {
       "url": "https://github.com/halostatue/diff-lcs",
@@ -31,12 +31,20 @@
       "stars": 46
     },
     {
+      "url": "https://github.com/halostatue/fish-macos",
+      "stars": 43
+    },
+    {
       "url": "https://github.com/halostatue/minitar",
       "stars": 42
     },
     {
       "url": "https://github.com/xeho91/js-ast",
       "stars": 18
+    },
+    {
+      "url": "https://github.com/halostatue/fish-rust",
+      "stars": 17
     },
     {
       "url": "https://github.com/ixm-one/ixm",
@@ -47,18 +55,46 @@
       "stars": 12
     },
     {
+      "url": "https://github.com/halostatue/fish-haskell",
+      "stars": 11
+    },
+    {
+      "url": "https://github.com/halostatue/fish-brew",
+      "stars": 11
+    },
+    {
+      "url": "https://github.com/halostatue/fish-direnv",
+      "stars": 10
+    },
+    {
       "url": "https://github.com/halostatue/enviable",
       "stars": 10
     },
     {
+      "url": "https://github.com/halostatue/fish-go",
+      "stars": 9
+    },
+    {
+      "url": "https://github.com/halostatue/fish-elixir",
+      "stars": 8
+    },
+    {
+      "url": "https://github.com/halostatue/fish-utils",
+      "stars": 6
+    },
+    {
       "url": "https://github.com/uci-f1tenth/UCI_race_stack",
       "stars": 6
+    },
+    {
+      "url": "https://github.com/halostatue/fish-chezmoi",
+      "stars": 5
     }
   ],
   "count": {
-    "total": 43,
-    "public": 34,
+    "total": 58,
+    "public": 49,
     "private": 9,
-    "more_than_zero_star": 22
+    "more_than_zero_star": 32
   }
 }

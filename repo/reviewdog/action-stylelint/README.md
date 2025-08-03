@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 498 | 189 | 309 | 74 |
+| 499 | 188 | 311 | 74 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-stylelint/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-stylelint)
@@ -21,12 +21,12 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/Tokyo-Metro-Gov.png" width=50 height=50>|https://github.com/Tokyo-Metro-Gov/covid19|6233|
-|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2467|
+|1|<img src="https://github.com/Tokyo-Metro-Gov.png" width=50 height=50>|https://github.com/Tokyo-Metro-Gov/covid19|6231|
+|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2473|
 |3|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-web-components|1407|
 |4|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-css|1238|
-|5|<img src="https://github.com/h3poteto.png" width=50 height=50>|https://github.com/h3poteto/whalebird-desktop|922|
-|6|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|289|
+|5|<img src="https://github.com/h3poteto.png" width=50 height=50>|https://github.com/h3poteto/whalebird-desktop|923|
+|6|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|290|
 |7|<img src="https://github.com/th0th.png" width=50 height=50>|https://github.com/th0th/poeticmetric|264|
 |8|<img src="https://github.com/modx-pro.png" width=50 height=50>|https://github.com/modx-pro/miniShop2|151|
 |9|<img src="https://github.com/haya14busa.png" width=50 height=50>|https://github.com/haya14busa/github-action-brandings|150|
