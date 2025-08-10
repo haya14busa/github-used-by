@@ -21,10 +21,10 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/ChrisTitusTech.png" width=50 height=50>|https://github.com/ChrisTitusTech/linutil|3838|
-|2|<img src="https://github.com/sourcegraph.png" width=50 height=50>|https://github.com/sourcegraph/zoekt|1028|
-|3|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|294|
-|4|<img src="https://github.com/CrowdStrike.png" width=50 height=50>|https://github.com/CrowdStrike/falcon-scripts|179|
+|1|<img src="https://github.com/ChrisTitusTech.png" width=50 height=50>|https://github.com/ChrisTitusTech/linutil|3869|
+|2|<img src="https://github.com/sourcegraph.png" width=50 height=50>|https://github.com/sourcegraph/zoekt|1033|
+|3|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|298|
+|4|<img src="https://github.com/CrowdStrike.png" width=50 height=50>|https://github.com/CrowdStrike/falcon-scripts|180|
 |5|<img src="https://github.com/aerospike.png" width=50 height=50>|https://github.com/aerospike/aerospike-server.docker|144|
 |6|<img src="https://github.com/jiro4989.png" width=50 height=50>|https://github.com/jiro4989/setup-nim-action|106|
 |7|<img src="https://github.com/jonathanmorley.png" width=50 height=50>|https://github.com/jonathanmorley/asdf-pnpm|86|

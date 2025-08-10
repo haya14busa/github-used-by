@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 339 | 151 | 188 | 65 |
+| 341 | 152 | 189 | 65 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-detect-secrets/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-detect-secrets)
@@ -21,8 +21,8 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/4paradigm.png" width=50 height=50>|https://github.com/4paradigm/OpenMLDB|1649|
-|2|<img src="https://github.com/PyPtt.png" width=50 height=50>|https://github.com/PyPtt/PyPtt|711|
+|1|<img src="https://github.com/4paradigm.png" width=50 height=50>|https://github.com/4paradigm/OpenMLDB|1650|
+|2|<img src="https://github.com/PyPtt.png" width=50 height=50>|https://github.com/PyPtt/PyPtt|712|
 |3|<img src="https://github.com/jackpocket.png" width=50 height=50>|https://github.com/jackpocket/android-scratchoff|449|
 |4|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/closeable-map|61|
 |5|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/malli-cli|56|
@@ -31,7 +31,7 @@
 |8|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/dove|27|
 |9|<img src="https://github.com/bitjourney.png" width=50 height=50>|https://github.com/bitjourney/mato|23|
 |10|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/scripts|16|
-|11|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/zsh-bootstrap|14|
+|11|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/zsh-bootstrap|15|
 |12|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/nabab|13|
 |13|<img src="https://github.com/sammcj.png" width=50 height=50>|https://github.com/sammcj/smart_diskinfo|9|
 |14|<img src="https://github.com/Paradise-Pi.png" width=50 height=50>|https://github.com/Paradise-Pi/ParadisePi|8|

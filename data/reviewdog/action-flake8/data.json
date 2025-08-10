@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 75299
+      "stars": 75388
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7290
+      "stars": 7303
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -16,7 +16,7 @@
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 711
+      "stars": 712
     },
     {
       "url": "https://github.com/simpeg/simpeg",
@@ -28,47 +28,47 @@
     },
     {
       "url": "https://github.com/PersiaML/PERSIA",
-      "stars": 409
+      "stars": 408
     },
     {
       "url": "https://github.com/PAhelper/PhoenixAdult.bundle",
-      "stars": 376
+      "stars": 377
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
-      "stars": 212
+      "stars": 216
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 209
+      "stars": 210
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
-      "stars": 168
+      "stars": 169
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
-      "stars": 132
+      "stars": 133
     },
     {
       "url": "https://github.com/ehpor/hcipy",
-      "stars": 115
+      "stars": 116
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
-      "stars": 114
+      "stars": 115
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
-      "stars": 109
+      "stars": 111
     },
     {
       "url": "https://github.com/LFPy/LFPy",
-      "stars": 82
+      "stars": 83
     },
     {
       "url": "https://github.com/ydb-platform/nbs",
-      "stars": 76
+      "stars": 77
     },
     {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/michaelthomasletts/boto3-refresh-session",
-      "stars": 45
+      "stars": 46
     },
     {
       "url": "https://github.com/rickstaa/ros-gazebo-gym",
@@ -116,7 +116,7 @@
     },
     {
       "url": "https://github.com/DirtyRacer1337/PhoenixAdult.bundle",
-      "stars": 23
+      "stars": 24
     },
     {
       "url": "https://github.com/f0uriest/orthax",
@@ -171,12 +171,12 @@
       "stars": 9
     },
     {
-      "url": "https://github.com/BedrockStreaming/hsdo",
+      "url": "https://github.com/Police-Data-Accessibility-Project/data-source-identification",
       "stars": 7
     },
     {
-      "url": "https://github.com/Police-Data-Accessibility-Project/data-source-identification",
-      "stars": 6
+      "url": "https://github.com/BedrockStreaming/hsdo",
+      "stars": 7
     },
     {
       "url": "https://github.com/rickstaa/stable-learning-control",
@@ -204,9 +204,9 @@
     }
   ],
   "count": {
-    "total": 516,
+    "total": 517,
     "public": 311,
-    "private": 205,
+    "private": 206,
     "more_than_zero_star": 115
   }
 }

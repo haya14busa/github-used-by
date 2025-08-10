@@ -8,7 +8,7 @@
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 1110
+      "stars": 1121
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
@@ -16,11 +16,11 @@
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 572
+      "stars": 573
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 535
+      "stars": 534
     },
     {
       "url": "https://github.com/gruberdev/homelab",
@@ -88,7 +88,7 @@
     },
     {
       "url": "https://github.com/sammcj/zsh-bootstrap",
-      "stars": 14
+      "stars": 15
     },
     {
       "url": "https://github.com/rhythmictech/terraform-terraform-template",
@@ -224,9 +224,9 @@
     }
   ],
   "count": {
-    "total": 664,
+    "total": 667,
     "public": 318,
-    "private": 346,
-    "more_than_zero_star": 135
+    "private": 349,
+    "more_than_zero_star": 137
   }
 }

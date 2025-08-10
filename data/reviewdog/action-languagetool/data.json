@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8585
+      "stars": 8609
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7643
+      "stars": 7644
     },
     {
       "url": "https://github.com/vdaas/vald",
@@ -20,23 +20,23 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1072
+      "stars": 1073
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 981
+      "stars": 987
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 954
+      "stars": 976
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 675
+      "stars": 682
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 651
+      "stars": 660
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
@@ -44,7 +44,7 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 294
+      "stars": 298
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 116
+      "stars": 118
     },
     {
       "url": "https://github.com/mszostok/version",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
-      "stars": 85
+      "stars": 86
     },
     {
       "url": "https://github.com/pheature-flags/pheature-flags",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/codewars/docs",
-      "stars": 61
+      "stars": 62
     },
     {
       "url": "https://github.com/shopware/docs",
@@ -171,6 +171,10 @@
       "stars": 9
     },
     {
+      "url": "https://github.com/jeertmans/jeertmans.github.io",
+      "stars": 8
+    },
+    {
       "url": "https://github.com/VikeSec/CTF-Infrastructure",
       "stars": 8
     },
@@ -180,10 +184,6 @@
     },
     {
       "url": "https://github.com/kubeshop/botkube-docs",
-      "stars": 7
-    },
-    {
-      "url": "https://github.com/jeertmans/jeertmans.github.io",
       "stars": 7
     },
     {
@@ -225,8 +225,8 @@
   ],
   "count": {
     "total": 410,
-    "public": 192,
-    "private": 218,
+    "public": 191,
+    "private": 219,
     "more_than_zero_star": 93
   }
 }
