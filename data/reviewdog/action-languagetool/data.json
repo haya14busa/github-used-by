@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8609
+      "stars": 8631
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7644
+      "stars": 7649
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1630
+      "stars": 1631
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
@@ -20,23 +20,23 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1073
+      "stars": 1074
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 987
+      "stars": 990
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 976
+      "stars": 989
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 682
+      "stars": 687
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 660
+      "stars": 663
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
@@ -44,7 +44,7 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 298
+      "stars": 296
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 118
+      "stars": 120
     },
     {
       "url": "https://github.com/mszostok/version",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/GStones/moke-kit",
-      "stars": 95
+      "stars": 96
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
-      "stars": 86
+      "stars": 87
     },
     {
       "url": "https://github.com/pheature-flags/pheature-flags",
@@ -103,12 +103,12 @@
       "stars": 39
     },
     {
-      "url": "https://github.com/pkosiec/website",
+      "url": "https://github.com/jeertmans/DiffeRT",
       "stars": 35
     },
     {
-      "url": "https://github.com/jeertmans/DiffeRT",
-      "stars": 34
+      "url": "https://github.com/pkosiec/website",
+      "stars": 35
     },
     {
       "url": "https://github.com/ADE-Scheduler/ADE-Scheduler",
@@ -155,11 +155,11 @@
       "stars": 12
     },
     {
-      "url": "https://github.com/opentdf/otdfctl",
-      "stars": 9
+      "url": "https://github.com/libp2p/blog",
+      "stars": 10
     },
     {
-      "url": "https://github.com/libp2p/blog",
+      "url": "https://github.com/opentdf/otdfctl",
       "stars": 9
     },
     {
@@ -195,10 +195,6 @@
       "stars": 6
     },
     {
-      "url": "https://github.com/fission/fission.io",
-      "stars": 6
-    },
-    {
       "url": "https://github.com/margau/bahn.day",
       "stars": 5
     },
@@ -215,6 +211,10 @@
       "stars": 5
     },
     {
+      "url": "https://github.com/fission/fission.io",
+      "stars": 5
+    },
+    {
       "url": "https://github.com/AMS21/Phi",
       "stars": 5
     },
@@ -227,6 +227,6 @@
     "total": 410,
     "public": 191,
     "private": 219,
-    "more_than_zero_star": 93
+    "more_than_zero_star": 92
   }
 }

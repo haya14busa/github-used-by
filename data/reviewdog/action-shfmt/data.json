@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 3869
+      "stars": 4121
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 1033
+      "stars": 1041
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 298
+      "stars": 296
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
-      "stars": 180
+      "stars": 181
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/lure-sh/lure-repo",
-      "stars": 57
+      "stars": 58
     },
     {
       "url": "https://github.com/sksat/compose-cd",
@@ -75,12 +75,12 @@
       "stars": 8
     },
     {
-      "url": "https://github.com/btkostner/jumar",
+      "url": "https://github.com/reviewdog/action-typos",
       "stars": 6
     },
     {
-      "url": "https://github.com/reviewdog/action-typos",
-      "stars": 5
+      "url": "https://github.com/btkostner/jumar",
+      "stars": 6
     },
     {
       "url": "https://github.com/AMS21/Phi",

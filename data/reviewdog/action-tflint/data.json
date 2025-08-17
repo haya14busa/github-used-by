@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1756
+      "stars": 1757
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 1121
+      "stars": 1124
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
@@ -16,11 +16,11 @@
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 573
+      "stars": 576
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 534
+      "stars": 537
     },
     {
       "url": "https://github.com/gruberdev/homelab",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 213
+      "stars": 217
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -119,10 +119,6 @@
       "stars": 10
     },
     {
-      "url": "https://github.com/fluent/fluent-bit-ci",
-      "stars": 10
-    },
-    {
       "url": "https://github.com/Bobirmirzo/infra-ci-cd",
       "stars": 10
     },
@@ -132,6 +128,10 @@
     },
     {
       "url": "https://github.com/liatrio/terraform-caf-azure",
+      "stars": 9
+    },
+    {
+      "url": "https://github.com/fluent/fluent-bit-ci",
       "stars": 9
     },
     {
@@ -156,6 +156,10 @@
     },
     {
       "url": "https://github.com/hazelops/terraform-aws-ec2-bastion",
+      "stars": 7
+    },
+    {
+      "url": "https://github.com/DFE-Digital/teaching-record-system",
       "stars": 7
     },
     {
@@ -191,10 +195,6 @@
       "stars": 6
     },
     {
-      "url": "https://github.com/DFE-Digital/teaching-record-system",
-      "stars": 6
-    },
-    {
       "url": "https://github.com/rhythmictech/terraform-aws-alb-ecs-task",
       "stars": 6
     },
@@ -224,9 +224,9 @@
     }
   ],
   "count": {
-    "total": 667,
-    "public": 318,
+    "total": 668,
+    "public": 319,
     "private": 349,
-    "more_than_zero_star": 137
+    "more_than_zero_star": 136
   }
 }

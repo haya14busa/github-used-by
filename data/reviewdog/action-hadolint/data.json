@@ -4,27 +4,27 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 75388
+      "stars": 75554
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13690
+      "stars": 13714
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 7133
+      "stars": 7148
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 6999
+      "stars": 7006
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 4306
+      "stars": 4319
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
-      "stars": 3019
+      "stars": 3021
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
@@ -32,27 +32,27 @@
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1756
+      "stars": 1757
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1630
+      "stars": 1631
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1381
+      "stars": 1384
     },
     {
       "url": "https://github.com/trueforge-org/truecharts",
-      "stars": 1253
+      "stars": 1257
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 1248
+      "stars": 1249
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 842
+      "stars": 845
     },
     {
       "url": "https://github.com/opentibiabr/canary",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
-      "stars": 385
+      "stars": 384
     },
     {
       "url": "https://github.com/KCarretto/paragon",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/dadrus/heimdall",
-      "stars": 201
+      "stars": 202
     },
     {
       "url": "https://github.com/raspbernetes/multi-arch-images",
@@ -95,28 +95,28 @@
       "stars": 144
     },
     {
+      "url": "https://github.com/timoa/app-stores-prometheus-exporter",
+      "stars": 120
+    },
+    {
       "url": "https://github.com/filipowm/BooGi",
       "stars": 119
     },
     {
-      "url": "https://github.com/timoa/app-stores-prometheus-exporter",
-      "stars": 119
-    },
-    {
       "url": "https://github.com/Drakkar-Software/Triangular-Arbitrage",
-      "stars": 102
+      "stars": 104
     },
     {
       "url": "https://github.com/vanadium23/kompanion",
-      "stars": 99
+      "stars": 101
     },
     {
       "url": "https://github.com/haya14busa/action-bumpr",
-      "stars": 95
+      "stars": 96
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
-      "stars": 86
+      "stars": 87
     },
     {
       "url": "https://github.com/LFPy/LFPy",
@@ -124,7 +124,7 @@
     },
     {
       "url": "https://github.com/rickstaa/action-create-tag",
-      "stars": 80
+      "stars": 81
     },
     {
       "url": "https://github.com/ktsaou/netdata",
@@ -132,7 +132,7 @@
     },
     {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
-      "stars": 75
+      "stars": 76
     },
     {
       "url": "https://github.com/netdata/community",
@@ -159,12 +159,12 @@
       "stars": 57
     },
     {
-      "url": "https://github.com/haya14busa/action-update-semver",
-      "stars": 54
+      "url": "https://github.com/HopopOps/k8s-ldap-auth",
+      "stars": 55
     },
     {
-      "url": "https://github.com/HopopOps/k8s-ldap-auth",
-      "stars": 52
+      "url": "https://github.com/haya14busa/action-update-semver",
+      "stars": 55
     },
     {
       "url": "https://github.com/reviewdog/action-languagetool",
@@ -176,15 +176,15 @@
     },
     {
       "url": "https://github.com/prefeitura-rio/pipelines",
-      "stars": 39
+      "stars": 40
     },
     {
       "url": "https://github.com/basedosdados/pipelines",
-      "stars": 37
+      "stars": 38
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot-Script",
-      "stars": 32
+      "stars": 33
     },
     {
       "url": "https://github.com/comorment/containers",
@@ -212,10 +212,14 @@
     },
     {
       "url": "https://github.com/reviewdog/action-depup",
-      "stars": 21
+      "stars": 22
     },
     {
       "url": "https://github.com/device-management-toolkit/console",
+      "stars": 20
+    },
+    {
+      "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
       "stars": 20
     },
     {
@@ -223,12 +227,8 @@
       "stars": 20
     },
     {
-      "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
-      "stars": 19
-    },
-    {
       "url": "https://github.com/AnchorFree/ssl-watch",
-      "stars": 17
+      "stars": 18
     },
     {
       "url": "https://github.com/SovereignCloudStack/openstack-health-monitor",
@@ -275,6 +275,10 @@
       "stars": 12
     },
     {
+      "url": "https://github.com/timoa/chrome-tab-rotate-server",
+      "stars": 12
+    },
+    {
       "url": "https://github.com/ironpeakservices/iron-chart-hugo",
       "stars": 12
     },
@@ -295,12 +299,12 @@
       "stars": 11
     },
     {
-      "url": "https://github.com/timoa/chrome-tab-rotate-server",
+      "url": "https://github.com/timoa/nodejs-encryption-api-example",
       "stars": 11
     },
     {
-      "url": "https://github.com/timoa/nodejs-encryption-api-example",
-      "stars": 11
+      "url": "https://github.com/Drakkar-Software/OctoBot-Market-Making",
+      "stars": 10
     },
     {
       "url": "https://github.com/prefeitura-rio/queries-rj-smtr",
@@ -317,14 +321,6 @@
     {
       "url": "https://github.com/reviewdog/action-nimlint",
       "stars": 10
-    },
-    {
-      "url": "https://github.com/fluent/fluent-bit-ci",
-      "stars": 10
-    },
-    {
-      "url": "https://github.com/Drakkar-Software/OctoBot-Market-Making",
-      "stars": 9
     },
     {
       "url": "https://github.com/basedosdados/queries-basedosdados",
@@ -348,6 +344,10 @@
     },
     {
       "url": "https://github.com/chronosphereio/calyptia-plugin",
+      "stars": 9
+    },
+    {
+      "url": "https://github.com/fluent/fluent-bit-ci",
       "stars": 9
     },
     {
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 2041,
+    "total": 2045,
     "public": 1024,
-    "private": 1017,
+    "private": 1021,
     "more_than_zero_star": 284
   }
 }

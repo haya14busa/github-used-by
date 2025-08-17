@@ -4,35 +4,35 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 11680
+      "stars": 11736
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9614
+      "stars": 9616
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 3058
+      "stars": 3065
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2774
+      "stars": 2775
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
-      "stars": 2704
+      "stars": 2705
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2412
+      "stars": 2414
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1621
+      "stars": 1624
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1192
+      "stars": 1193
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/YusukeIwaki/puppeteer-ruby",
-      "stars": 313
+      "stars": 314
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
-      "stars": 207
+      "stars": 208
     },
     {
       "url": "https://github.com/vmware/dod-compliance-and-automation",
@@ -68,7 +68,7 @@
     },
     {
       "url": "https://github.com/ytti/oxidized-web",
-      "stars": 132
+      "stars": 135
     },
     {
       "url": "https://github.com/chanzuckerberg/czid-web",
@@ -96,7 +96,7 @@
     },
     {
       "url": "https://github.com/gabriel-dehan/dyson-sphere-blueprints",
-      "stars": 50
+      "stars": 51
     },
     {
       "url": "https://github.com/ytti/oxidized-script",
@@ -144,7 +144,7 @@
     },
     {
       "url": "https://github.com/glowfic-constellation/glowfic",
-      "stars": 19
+      "stars": 20
     },
     {
       "url": "https://github.com/RaiderHQ/ruby_raider",
@@ -203,6 +203,10 @@
       "stars": 8
     },
     {
+      "url": "https://github.com/berkeley-cdss/berkeley-class-site",
+      "stars": 8
+    },
+    {
       "url": "https://github.com/openHPI/codeharbor",
       "stars": 8
     },
@@ -213,10 +217,6 @@
     {
       "url": "https://github.com/Narnach/groupie",
       "stars": 8
-    },
-    {
-      "url": "https://github.com/berkeley-cdss/berkeley-class-site",
-      "stars": 7
     },
     {
       "url": "https://github.com/momentohq/client-sdk-ruby",
@@ -272,9 +272,9 @@
     }
   ],
   "count": {
-    "total": 738,
-    "public": 389,
-    "private": 349,
-    "more_than_zero_star": 147
+    "total": 743,
+    "public": 393,
+    "private": 350,
+    "more_than_zero_star": 153
   }
 }

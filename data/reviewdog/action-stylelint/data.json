@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/Tokyo-Metro-Gov/covid19",
-      "stars": 6232
+      "stars": 6230
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2483
+      "stars": 2488
     },
     {
       "url": "https://github.com/adobe/spectrum-web-components",
-      "stars": 1411
+      "stars": 1413
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
-      "stars": 1241
+      "stars": 1242
     },
     {
       "url": "https://github.com/h3poteto/whalebird-desktop",
-      "stars": 923
+      "stars": 924
     },
     {
       "url": "https://github.com/Retrospring/retrospring",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/10up/10up-experience",
-      "stars": 134
+      "stars": 135
     },
     {
       "url": "https://github.com/department-of-veterans-affairs/va.gov-cms",
@@ -99,11 +99,11 @@
       "stars": 25
     },
     {
-      "url": "https://github.com/Lipoic/Lipoic-Frontend",
-      "stars": 19
+      "url": "https://github.com/glowfic-constellation/glowfic",
+      "stars": 20
     },
     {
-      "url": "https://github.com/glowfic-constellation/glowfic",
+      "url": "https://github.com/Lipoic/Lipoic-Frontend",
       "stars": 19
     },
     {
@@ -196,8 +196,8 @@
     }
   ],
   "count": {
-    "total": 500,
-    "public": 188,
+    "total": 501,
+    "public": 189,
     "private": 312,
     "more_than_zero_star": 74
   }
