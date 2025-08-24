@@ -4,59 +4,59 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 75554
+      "stars": 75643
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13714
+      "stars": 13728
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 7148
+      "stars": 7164
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 7006
+      "stars": 7027
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 4319
+      "stars": 4344
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
-      "stars": 3021
+      "stars": 3023
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1965
+      "stars": 1970
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1757
+      "stars": 1761
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1631
+      "stars": 1633
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1384
+      "stars": 1388
     },
     {
       "url": "https://github.com/trueforge-org/truecharts",
-      "stars": 1257
+      "stars": 1260
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 1249
+      "stars": 1251
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 845
+      "stars": 847
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 476
+      "stars": 478
     },
     {
       "url": "https://github.com/K-Phoen/dark",
@@ -104,11 +104,11 @@
     },
     {
       "url": "https://github.com/Drakkar-Software/Triangular-Arbitrage",
-      "stars": 104
+      "stars": 106
     },
     {
       "url": "https://github.com/vanadium23/kompanion",
-      "stars": 101
+      "stars": 102
     },
     {
       "url": "https://github.com/haya14busa/action-bumpr",
@@ -116,7 +116,7 @@
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
-      "stars": 87
+      "stars": 88
     },
     {
       "url": "https://github.com/LFPy/LFPy",
@@ -124,7 +124,7 @@
     },
     {
       "url": "https://github.com/rickstaa/action-create-tag",
-      "stars": 81
+      "stars": 82
     },
     {
       "url": "https://github.com/ktsaou/netdata",
@@ -216,7 +216,7 @@
     },
     {
       "url": "https://github.com/device-management-toolkit/console",
-      "stars": 20
+      "stars": 21
     },
     {
       "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
@@ -291,6 +291,10 @@
       "stars": 12
     },
     {
+      "url": "https://github.com/Drakkar-Software/OctoBot-Market-Making",
+      "stars": 11
+    },
+    {
       "url": "https://github.com/yanorei32/discord-tts",
       "stars": 11
     },
@@ -301,10 +305,6 @@
     {
       "url": "https://github.com/timoa/nodejs-encryption-api-example",
       "stars": 11
-    },
-    {
-      "url": "https://github.com/Drakkar-Software/OctoBot-Market-Making",
-      "stars": 10
     },
     {
       "url": "https://github.com/prefeitura-rio/queries-rj-smtr",
@@ -405,8 +405,8 @@
   ],
   "count": {
     "total": 2045,
-    "public": 1024,
-    "private": 1021,
+    "public": 1016,
+    "private": 1029,
     "more_than_zero_star": 284
   }
 }

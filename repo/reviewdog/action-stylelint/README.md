@@ -21,13 +21,13 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/Tokyo-Metro-Gov.png" width=50 height=50>|https://github.com/Tokyo-Metro-Gov/covid19|6230|
-|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2488|
-|3|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-web-components|1413|
+|1|<img src="https://github.com/Tokyo-Metro-Gov.png" width=50 height=50>|https://github.com/Tokyo-Metro-Gov/covid19|6229|
+|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2500|
+|3|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-web-components|1414|
 |4|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-css|1242|
-|5|<img src="https://github.com/h3poteto.png" width=50 height=50>|https://github.com/h3poteto/whalebird-desktop|924|
+|5|<img src="https://github.com/h3poteto.png" width=50 height=50>|https://github.com/h3poteto/whalebird-desktop|925|
 |6|<img src="https://github.com/Retrospring.png" width=50 height=50>|https://github.com/Retrospring/retrospring|290|
-|7|<img src="https://github.com/th0th.png" width=50 height=50>|https://github.com/th0th/poeticmetric|264|
+|7|<img src="https://github.com/th0th.png" width=50 height=50>|https://github.com/th0th/poeticmetric|265|
 |8|<img src="https://github.com/modx-pro.png" width=50 height=50>|https://github.com/modx-pro/miniShop2|151|
 |9|<img src="https://github.com/haya14busa.png" width=50 height=50>|https://github.com/haya14busa/github-action-brandings|151|
 |10|<img src="https://github.com/10up.png" width=50 height=50>|https://github.com/10up/10up-experience|135|
@@ -48,9 +48,9 @@
 |25|<img src="https://github.com/glowfic-constellation.png" width=50 height=50>|https://github.com/glowfic-constellation/glowfic|20|
 |26|<img src="https://github.com/Lipoic.png" width=50 height=50>|https://github.com/Lipoic/Lipoic-Frontend|19|
 |27|<img src="https://github.com/covid19-oita.png" width=50 height=50>|https://github.com/covid19-oita/covid19|15|
-|28|<img src="https://github.com/codeforjapan.png" width=50 height=50>|https://github.com/codeforjapan/remote-patient-monitoring-dashboard|13|
-|29|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/errorformat-playground|13|
-|30|<img src="https://github.com/MooncellWiki.png" width=50 height=50>|https://github.com/MooncellWiki/prts-widgets|12|
+|28|<img src="https://github.com/MooncellWiki.png" width=50 height=50>|https://github.com/MooncellWiki/prts-widgets|13|
+|29|<img src="https://github.com/codeforjapan.png" width=50 height=50>|https://github.com/codeforjapan/remote-patient-monitoring-dashboard|13|
+|30|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/errorformat-playground|13|
 |31|<img src="https://github.com/ironpeakservices.png" width=50 height=50>|https://github.com/ironpeakservices/iron-chart-hugo|12|
 |32|<img src="https://github.com/codeforkumamoto.png" width=50 height=50>|https://github.com/codeforkumamoto/covid19|11|
 |33|<img src="https://github.com/PichuChen.png" width=50 height=50>|https://github.com/PichuChen/covid19|11|

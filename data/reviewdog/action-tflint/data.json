@@ -4,31 +4,31 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1757
+      "stars": 1761
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 1124
-    },
-    {
-      "url": "https://github.com/aztfmod/terraform-azurerm-caf",
-      "stars": 578
+      "stars": 1126
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 576
+      "stars": 579
+    },
+    {
+      "url": "https://github.com/aztfmod/terraform-azurerm-caf",
+      "stars": 577
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 537
+      "stars": 541
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 223
+      "stars": 224
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 217
+      "stars": 219
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -44,7 +44,7 @@
     },
     {
       "url": "https://github.com/cloudposse-archives/github-actions-workflows",
-      "stars": 39
+      "stars": 40
     },
     {
       "url": "https://github.com/clouddrove/terraform-aws-sftp",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/chainguard-dev/terraform-infra-common",
-      "stars": 24
+      "stars": 25
     },
     {
       "url": "https://github.com/rhythmictech/terraform-aws-imagebuilder-pipeline",
@@ -224,9 +224,9 @@
     }
   ],
   "count": {
-    "total": 668,
-    "public": 319,
+    "total": 669,
+    "public": 320,
     "private": 349,
-    "more_than_zero_star": 136
+    "more_than_zero_star": 137
   }
 }

@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/4paradigm/OpenMLDB",
-      "stars": 1654
+      "stars": 1656
     },
     {
       "url": "https://github.com/PyPtt/PyPtt",
-      "stars": 714
+      "stars": 713
     },
     {
       "url": "https://github.com/jackpocket/android-scratchoff",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/Paradise-Pi/ParadisePi",
-      "stars": 8
+      "stars": 9
     },
     {
       "url": "https://github.com/Badger-Finance/v2-ui",
@@ -92,8 +92,8 @@
     }
   ],
   "count": {
-    "total": 341,
-    "public": 152,
+    "total": 342,
+    "public": 153,
     "private": 189,
     "more_than_zero_star": 65
   }

@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9616
+      "stars": 9618
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8631
+      "stars": 8653
     },
     {
       "url": "https://github.com/mime-types/ruby-mime-types",
-      "stars": 333
+      "stars": 334
     },
     {
       "url": "https://github.com/halostatue/diff-lcs",
@@ -79,16 +79,16 @@
       "stars": 8
     },
     {
+      "url": "https://github.com/halostatue/fish-chezmoi",
+      "stars": 6
+    },
+    {
       "url": "https://github.com/halostatue/fish-utils",
       "stars": 6
     },
     {
       "url": "https://github.com/uci-f1tenth/UCI_race_stack",
       "stars": 6
-    },
-    {
-      "url": "https://github.com/halostatue/fish-chezmoi",
-      "stars": 5
     }
   ],
   "count": {

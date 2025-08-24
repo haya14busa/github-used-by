@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8631
+      "stars": 8653
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7649
+      "stars": 7652
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1631
+      "stars": 1633
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
@@ -20,27 +20,27 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1074
-    },
-    {
-      "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 990
+      "stars": 1078
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 989
+      "stars": 996
+    },
+    {
+      "url": "https://github.com/CircuitVerse/CircuitVerse",
+      "stars": 993
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 687
+      "stars": 691
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 663
+      "stars": 669
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
-      "stars": 320
+      "stars": 321
     },
     {
       "url": "https://github.com/Shemnei/punktf",
@@ -48,7 +48,7 @@
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
-      "stars": 179
+      "stars": 180
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 120
+      "stars": 122
     },
     {
       "url": "https://github.com/mszostok/version",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
-      "stars": 87
+      "stars": 88
     },
     {
       "url": "https://github.com/pheature-flags/pheature-flags",
@@ -100,7 +100,7 @@
     },
     {
       "url": "https://github.com/jeertmans/rpdf",
-      "stars": 39
+      "stars": 40
     },
     {
       "url": "https://github.com/jeertmans/DiffeRT",
@@ -225,8 +225,8 @@
   ],
   "count": {
     "total": 410,
-    "public": 191,
-    "private": 219,
+    "public": 190,
+    "private": 220,
     "more_than_zero_star": 92
   }
 }

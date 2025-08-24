@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 4121
+      "stars": 4189
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 1041
+      "stars": 1057
     },
     {
       "url": "https://github.com/Shemnei/punktf",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/jiro4989/setup-nim-action",
-      "stars": 106
+      "stars": 107
     },
     {
       "url": "https://github.com/jonathanmorley/asdf-pnpm",
@@ -51,11 +51,11 @@
       "stars": 45
     },
     {
-      "url": "https://github.com/EPMatt/reviewdog-action-prettier",
-      "stars": 24
+      "url": "https://github.com/EPMatt/reviewdog-action-tsc",
+      "stars": 25
     },
     {
-      "url": "https://github.com/EPMatt/reviewdog-action-tsc",
+      "url": "https://github.com/EPMatt/reviewdog-action-prettier",
       "stars": 24
     },
     {
