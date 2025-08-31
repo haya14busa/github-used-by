@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1761
+      "stars": 1763
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 1126
+      "stars": 1134
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 541
+      "stars": 543
     },
     {
       "url": "https://github.com/gruberdev/homelab",
@@ -36,7 +36,7 @@
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
-      "stars": 115
+      "stars": 116
     },
     {
       "url": "https://github.com/GiganticMinecraft/seichi_infra",
@@ -191,6 +191,10 @@
       "stars": 7
     },
     {
+      "url": "https://github.com/chainguard-dev/ghaudit",
+      "stars": 6
+    },
+    {
       "url": "https://github.com/piiano/vault-deployments",
       "stars": 6
     },
@@ -207,10 +211,6 @@
       "stars": 6
     },
     {
-      "url": "https://github.com/chainguard-dev/ghaudit",
-      "stars": 5
-    },
-    {
       "url": "https://github.com/rhythmictech/terraform-aws-datadog",
       "stars": 5
     },
@@ -224,9 +224,9 @@
     }
   ],
   "count": {
-    "total": 669,
-    "public": 320,
-    "private": 349,
-    "more_than_zero_star": 137
+    "total": 672,
+    "public": 322,
+    "private": 350,
+    "more_than_zero_star": 136
   }
 }

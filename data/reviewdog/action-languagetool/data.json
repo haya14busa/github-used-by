@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8653
+      "stars": 8669
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7652
+      "stars": 7657
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1633
+      "stars": 1634
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
@@ -20,31 +20,31 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1078
+      "stars": 1083
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 996
+      "stars": 1001
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 993
+      "stars": 998
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 691
+      "stars": 693
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 669
+      "stars": 677
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
-      "stars": 321
+      "stars": 322
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 296
+      "stars": 297
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
@@ -104,7 +104,7 @@
     },
     {
       "url": "https://github.com/jeertmans/DiffeRT",
-      "stars": 35
+      "stars": 36
     },
     {
       "url": "https://github.com/pkosiec/website",
@@ -167,12 +167,12 @@
       "stars": 9
     },
     {
-      "url": "https://github.com/GoogleCloudPlatform/appengine-cloud-demo-portal",
+      "url": "https://github.com/jeertmans/jeertmans.github.io",
       "stars": 9
     },
     {
-      "url": "https://github.com/jeertmans/jeertmans.github.io",
-      "stars": 8
+      "url": "https://github.com/GoogleCloudPlatform/appengine-cloud-demo-portal",
+      "stars": 9
     },
     {
       "url": "https://github.com/VikeSec/CTF-Infrastructure",
@@ -199,10 +199,6 @@
       "stars": 5
     },
     {
-      "url": "https://github.com/swiftwave-org/swiftwave.org",
-      "stars": 5
-    },
-    {
       "url": "https://github.com/stakater/employee-handbook",
       "stars": 5
     },
@@ -225,8 +221,8 @@
   ],
   "count": {
     "total": 410,
-    "public": 190,
-    "private": 220,
-    "more_than_zero_star": 92
+    "public": 189,
+    "private": 221,
+    "more_than_zero_star": 91
   }
 }

@@ -8,7 +8,7 @@
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8653
+      "stars": 8669
     },
     {
       "url": "https://github.com/mime-types/ruby-mime-types",
@@ -79,11 +79,11 @@
       "stars": 8
     },
     {
-      "url": "https://github.com/halostatue/fish-chezmoi",
-      "stars": 6
+      "url": "https://github.com/halostatue/fish-utils",
+      "stars": 7
     },
     {
-      "url": "https://github.com/halostatue/fish-utils",
+      "url": "https://github.com/halostatue/fish-chezmoi",
       "stars": 6
     },
     {
@@ -92,9 +92,9 @@
     }
   ],
   "count": {
-    "total": 60,
-    "public": 50,
+    "total": 61,
+    "public": 51,
     "private": 10,
-    "more_than_zero_star": 32
+    "more_than_zero_star": 33
   }
 }

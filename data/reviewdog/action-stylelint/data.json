@@ -8,7 +8,7 @@
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2500
+      "stars": 2505
     },
     {
       "url": "https://github.com/adobe/spectrum-web-components",
@@ -16,7 +16,7 @@
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
-      "stars": 1242
+      "stars": 1244
     },
     {
       "url": "https://github.com/h3poteto/whalebird-desktop",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://github.com/th0th/poeticmetric",
-      "stars": 265
+      "stars": 266
     },
     {
       "url": "https://github.com/modx-pro/miniShop2",
@@ -44,7 +44,7 @@
     },
     {
       "url": "https://github.com/department-of-veterans-affairs/va.gov-cms",
-      "stars": 101
+      "stars": 102
     },
     {
       "url": "https://github.com/nordcloud/pat-frontend-template",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/DepSpy/depspy",
-      "stars": 41
+      "stars": 42
     },
     {
       "url": "https://github.com/WPMedia/arc-themes-blocks",
@@ -196,9 +196,9 @@
     }
   ],
   "count": {
-    "total": 501,
+    "total": 502,
     "public": 189,
-    "private": 312,
+    "private": 313,
     "more_than_zero_star": 74
   }
 }

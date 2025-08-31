@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 60 | 50 | 10 | 32 |
+| 61 | 51 | 10 | 33 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-typos/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-typos)
@@ -22,7 +22,7 @@
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
 |1|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9618|
-|2|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|8653|
+|2|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|8669|
 |3|<img src="https://github.com/mime-types.png" width=50 height=50>|https://github.com/mime-types/ruby-mime-types|334|
 |4|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/diff-lcs|294|
 |5|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/color|154|
@@ -40,6 +40,6 @@
 |17|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/enviable|11|
 |18|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/fish-go|9|
 |19|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/fish-elixir|8|
-|20|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/fish-chezmoi|6|
-|21|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/fish-utils|6|
+|20|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/fish-utils|7|
+|21|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/fish-chezmoi|6|
 |22|<img src="https://github.com/uci-f1tenth.png" width=50 height=50>|https://github.com/uci-f1tenth/UCI_race_stack|6|
