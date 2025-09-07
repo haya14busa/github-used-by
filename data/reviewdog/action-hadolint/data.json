@@ -4,27 +4,27 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 75686
+      "stars": 75754
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13743
+      "stars": 13757
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 7186
+      "stars": 7207
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 7044
+      "stars": 7052
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 4629
+      "stars": 4693
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
-      "stars": 3023
+      "stars": 3026
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
@@ -32,27 +32,27 @@
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1763
+      "stars": 1769
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1634
+      "stars": 1635
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1387
+      "stars": 1389
     },
     {
       "url": "https://github.com/trueforge-org/truecharts",
-      "stars": 1265
+      "stars": 1269
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 1252
+      "stars": 1255
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 847
+      "stars": 848
     },
     {
       "url": "https://github.com/opentibiabr/canary",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
-      "stars": 385
+      "stars": 386
     },
     {
       "url": "https://github.com/KCarretto/paragon",
@@ -104,7 +104,7 @@
     },
     {
       "url": "https://github.com/Drakkar-Software/Triangular-Arbitrage",
-      "stars": 107
+      "stars": 108
     },
     {
       "url": "https://github.com/vanadium23/kompanion",
@@ -192,7 +192,7 @@
     },
     {
       "url": "https://github.com/dbelyaev/action-checkstyle",
-      "stars": 29
+      "stars": 30
     },
     {
       "url": "https://github.com/program-world-labs/DDDGo",
@@ -219,11 +219,11 @@
       "stars": 21
     },
     {
-      "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
-      "stars": 20
+      "url": "https://github.com/reviewdog/action-staticcheck",
+      "stars": 21
     },
     {
-      "url": "https://github.com/reviewdog/action-staticcheck",
+      "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
       "stars": 20
     },
     {
@@ -240,22 +240,22 @@
     },
     {
       "url": "https://github.com/sammcj/zsh-bootstrap",
-      "stars": 15
+      "stars": 16
     },
     {
       "url": "https://github.com/flobernd/docker-minecraft-ftb",
-      "stars": 14
+      "stars": 15
     },
     {
       "url": "https://github.com/netdata/ebpf-co-re",
       "stars": 14
     },
     {
-      "url": "https://github.com/basedosdados/backend",
+      "url": "https://github.com/Drakkar-Software/OctoBot-Market-Making",
       "stars": 13
     },
     {
-      "url": "https://github.com/kphrx/noxir",
+      "url": "https://github.com/basedosdados/backend",
       "stars": 13
     },
     {
@@ -267,7 +267,7 @@
       "stars": 13
     },
     {
-      "url": "https://github.com/Drakkar-Software/OctoBot-Market-Making",
+      "url": "https://github.com/kphrx/noxir",
       "stars": 12
     },
     {
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 2052,
+    "total": 2054,
     "public": 1020,
-    "private": 1032,
-    "more_than_zero_star": 286
+    "private": 1034,
+    "more_than_zero_star": 287
   }
 }

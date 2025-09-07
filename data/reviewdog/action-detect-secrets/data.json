@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/4paradigm/OpenMLDB",
-      "stars": 1661
+      "stars": 1663
     },
     {
       "url": "https://github.com/PyPtt/PyPtt",
@@ -44,7 +44,7 @@
     },
     {
       "url": "https://github.com/sammcj/zsh-bootstrap",
-      "stars": 15
+      "stars": 16
     },
     {
       "url": "https://github.com/piotr-yuxuan/nabab",
@@ -93,8 +93,8 @@
   ],
   "count": {
     "total": 342,
-    "public": 153,
-    "private": 189,
+    "public": 152,
+    "private": 190,
     "more_than_zero_star": 65
   }
 }

@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1763
+      "stars": 1769
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 1134
+      "stars": 1140
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 579
+      "stars": 582
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 543
+      "stars": 546
     },
     {
       "url": "https://github.com/gruberdev/homelab",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/GiganticMinecraft/seichi_infra",
-      "stars": 63
+      "stars": 64
     },
     {
       "url": "https://github.com/cloudposse-archives/github-actions-workflows",
@@ -83,12 +83,12 @@
       "stars": 16
     },
     {
-      "url": "https://github.com/SweetOps/terraform-google-storage-bucket",
+      "url": "https://github.com/sammcj/zsh-bootstrap",
       "stars": 16
     },
     {
-      "url": "https://github.com/sammcj/zsh-bootstrap",
-      "stars": 15
+      "url": "https://github.com/SweetOps/terraform-google-storage-bucket",
+      "stars": 16
     },
     {
       "url": "https://github.com/rhythmictech/terraform-terraform-template",
@@ -107,15 +107,15 @@
       "stars": 11
     },
     {
-      "url": "https://github.com/provectus/sak-incubator",
-      "stars": 11
-    },
-    {
       "url": "https://github.com/adelinosousa/terrafirma",
       "stars": 10
     },
     {
       "url": "https://github.com/Vlaaaaaaad/terraform-aws-fargate-refinery",
+      "stars": 10
+    },
+    {
+      "url": "https://github.com/provectus/sak-incubator",
       "stars": 10
     },
     {
@@ -224,9 +224,9 @@
     }
   ],
   "count": {
-    "total": 672,
+    "total": 674,
     "public": 322,
-    "private": 350,
+    "private": 352,
     "more_than_zero_star": 136
   }
 }

@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 12494
+      "stars": 12566
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9618
+      "stars": 9623
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 3085
+      "stars": 3094
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
@@ -24,19 +24,19 @@
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2418
+      "stars": 2419
     },
     {
       "url": "https://github.com/castwide/solargraph",
-      "stars": 1971
+      "stars": 1972
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1642
+      "stars": 1645
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1194
+      "stars": 1196
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -56,11 +56,7 @@
     },
     {
       "url": "https://github.com/YusukeIwaki/puppeteer-ruby",
-      "stars": 314
-    },
-    {
-      "url": "https://github.com/Retrospring/retrospring",
-      "stars": 290
+      "stars": 315
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
@@ -76,7 +72,7 @@
     },
     {
       "url": "https://github.com/chanzuckerberg/czid-web",
-      "stars": 87
+      "stars": 86
     },
     {
       "url": "https://github.com/GetStream/stream-ruby",
@@ -132,7 +128,7 @@
     },
     {
       "url": "https://github.com/workato/workato-connector-sdk",
-      "stars": 29
+      "stars": 28
     },
     {
       "url": "https://github.com/neinteractiveliterature/intercode",
@@ -276,9 +272,9 @@
     }
   ],
   "count": {
-    "total": 745,
-    "public": 394,
-    "private": 351,
-    "more_than_zero_star": 154
+    "total": 748,
+    "public": 396,
+    "private": 352,
+    "more_than_zero_star": 153
   }
 }

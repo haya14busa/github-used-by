@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 4217
+      "stars": 4266
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 1069
+      "stars": 1079
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 297
+      "stars": 298
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
-      "stars": 182
+      "stars": 183
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://github.com/jonathanmorley/asdf-pnpm",
-      "stars": 87
+      "stars": 88
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
@@ -52,11 +52,11 @@
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-tsc",
-      "stars": 25
+      "stars": 26
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-prettier",
-      "stars": 24
+      "stars": 25
     },
     {
       "url": "https://github.com/UmbrellaDocs/action-linkspector",
@@ -75,6 +75,10 @@
       "stars": 8
     },
     {
+      "url": "https://github.com/sourcebot-dev/zoekt",
+      "stars": 6
+    },
+    {
       "url": "https://github.com/reviewdog/action-typos",
       "stars": 6
     },
@@ -88,9 +92,9 @@
     }
   ],
   "count": {
-    "total": 193,
-    "public": 97,
-    "private": 96,
-    "more_than_zero_star": 41
+    "total": 198,
+    "public": 101,
+    "private": 97,
+    "more_than_zero_star": 43
   }
 }

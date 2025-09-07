@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9618
+      "stars": 9623
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8669
+      "stars": 8684
     },
     {
       "url": "https://github.com/mime-types/ruby-mime-types",
@@ -32,7 +32,7 @@
     },
     {
       "url": "https://github.com/halostatue/fish-macos",
-      "stars": 43
+      "stars": 44
     },
     {
       "url": "https://github.com/halostatue/minitar",
@@ -88,12 +88,12 @@
     },
     {
       "url": "https://github.com/uci-f1tenth/UCI_race_stack",
-      "stars": 6
+      "stars": 5
     }
   ],
   "count": {
-    "total": 61,
-    "public": 51,
+    "total": 63,
+    "public": 53,
     "private": 10,
     "more_than_zero_star": 33
   }

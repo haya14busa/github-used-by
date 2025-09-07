@@ -4,31 +4,31 @@
   "repos": [
     {
       "url": "https://github.com/zeromicro/go-zero",
-      "stars": 31705
+      "stars": 31740
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8669
+      "stars": 8684
     },
     {
       "url": "https://github.com/golang-jwt/jwt",
-      "stars": 8443
+      "stars": 8466
     },
     {
       "url": "https://github.com/cloudwego/kitex",
-      "stars": 7632
+      "stars": 7644
     },
     {
       "url": "https://github.com/drk1wi/Modlishka",
-      "stars": 5077
+      "stars": 5082
     },
     {
       "url": "https://github.com/TarsCloud/TarsGo",
-      "stars": 3359
+      "stars": 3360
     },
     {
       "url": "https://github.com/x-motemen/ghq",
-      "stars": 3281
+      "stars": 3291
     },
     {
       "url": "https://github.com/XiaoMi/Gaea",
@@ -36,39 +36,39 @@
     },
     {
       "url": "https://github.com/gookit/goutil",
-      "stars": 2259
+      "stars": 2262
     },
     {
       "url": "https://github.com/cloudwego/goref",
       "stars": 893
     },
     {
+      "url": "https://github.com/bytedance/mockey",
+      "stars": 809
+    },
+    {
       "url": "https://github.com/shomali11/slacker",
       "stars": 807
     },
     {
-      "url": "https://github.com/bytedance/mockey",
-      "stars": 806
-    },
-    {
       "url": "https://github.com/gookit/config",
-      "stars": 562
+      "stars": 563
     },
     {
       "url": "https://github.com/gookit/event",
-      "stars": 555
+      "stars": 559
     },
     {
       "url": "https://github.com/gookit/slog",
-      "stars": 488
+      "stars": 496
     },
     {
       "url": "https://github.com/cloudwego/shmipc-go",
-      "stars": 471
+      "stars": 475
     },
     {
       "url": "https://github.com/cloudwego/kitex-examples",
-      "stars": 406
+      "stars": 407
     },
     {
       "url": "https://github.com/gookit/gcli",
@@ -84,11 +84,11 @@
     },
     {
       "url": "https://github.com/Songmu/tagpr",
-      "stars": 245
+      "stars": 247
     },
     {
       "url": "https://github.com/openconfig/gnmic",
-      "stars": 240
+      "stars": 242
     },
     {
       "url": "https://github.com/toshimaru/nyan",
@@ -112,15 +112,15 @@
     },
     {
       "url": "https://github.com/airbusgeo/godal",
-      "stars": 168
+      "stars": 169
     },
     {
       "url": "https://github.com/x-motemen/blogsync",
-      "stars": 162
+      "stars": 164
     },
     {
       "url": "https://github.com/Songmu/horenso",
-      "stars": 155
+      "stars": 156
     },
     {
       "url": "https://github.com/gookit/filter",
@@ -144,7 +144,7 @@
     },
     {
       "url": "https://github.com/go-gorm/opentelemetry",
-      "stars": 123
+      "stars": 124
     },
     {
       "url": "https://github.com/Songmu/gocredits",
@@ -176,11 +176,11 @@
     },
     {
       "url": "https://github.com/jlucaspains/go-rest-template",
-      "stars": 89
+      "stars": 90
     },
     {
       "url": "https://github.com/Ouyangan/go-zero-annotation",
-      "stars": 85
+      "stars": 86
     },
     {
       "url": "https://github.com/gookit/ini",
@@ -196,7 +196,7 @@
     },
     {
       "url": "https://github.com/slack-io/slacker",
-      "stars": 56
+      "stars": 57
     },
     {
       "url": "https://github.com/cloudwego/hertz-benchmark",
@@ -204,7 +204,7 @@
     },
     {
       "url": "https://github.com/cloudwego/gjson",
-      "stars": 43
+      "stars": 44
     },
     {
       "url": "https://github.com/leg100/surl",
@@ -267,6 +267,10 @@
       "stars": 24
     },
     {
+      "url": "https://github.com/cloudwego/thrift-gen-validator",
+      "stars": 22
+    },
+    {
       "url": "https://github.com/kitex-contrib/monitor-prometheus",
       "stars": 22
     },
@@ -279,11 +283,11 @@
       "stars": 21
     },
     {
-      "url": "https://github.com/cloudwego/thrift-gen-validator",
-      "stars": 21
+      "url": "https://github.com/kitex-contrib/registry-etcd",
+      "stars": 20
     },
     {
-      "url": "https://github.com/kitex-contrib/registry-etcd",
+      "url": "https://github.com/hertz-contrib/reverseproxy",
       "stars": 20
     },
     {
@@ -292,10 +296,6 @@
     },
     {
       "url": "https://github.com/gookit/i18n",
-      "stars": 19
-    },
-    {
-      "url": "https://github.com/hertz-contrib/reverseproxy",
       "stars": 19
     },
     {
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 756,
-    "public": 452,
+    "total": 757,
+    "public": 453,
     "private": 304,
-    "more_than_zero_star": 201
+    "more_than_zero_star": 202
   }
 }

@@ -4,31 +4,31 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 75686
+      "stars": 75754
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7325
+      "stars": 7327
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
-      "stars": 884
+      "stars": 883
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 719
+      "stars": 721
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 582
+      "stars": 583
     },
     {
       "url": "https://github.com/lavenderdotpet/LibreQuake",
-      "stars": 565
+      "stars": 566
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
-      "stars": 551
+      "stars": 550
     },
     {
       "url": "https://github.com/PersiaML/PERSIA",
@@ -44,7 +44,7 @@
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 213
+      "stars": 214
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/ehpor/hcipy",
-      "stars": 120
+      "stars": 121
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
@@ -76,7 +76,7 @@
     },
     {
       "url": "https://github.com/ydb-platform/nbs",
-      "stars": 77
+      "stars": 78
     },
     {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/ThePornDatabase/scrapers",
-      "stars": 63
+      "stars": 64
     },
     {
       "url": "https://github.com/ut-issl/c2a-core",
@@ -124,7 +124,7 @@
     },
     {
       "url": "https://github.com/f0uriest/orthax",
-      "stars": 24
+      "stars": 25
     },
     {
       "url": "https://github.com/DirtyRacer1337/PhoenixAdult.bundle",
@@ -156,7 +156,7 @@
     },
     {
       "url": "https://github.com/nnsnodnb/kalyke",
-      "stars": 17
+      "stars": 18
     },
     {
       "url": "https://github.com/istellartech/GELATO",
@@ -219,6 +219,6 @@
     "total": 536,
     "public": 324,
     "private": 212,
-    "more_than_zero_star": 122
+    "more_than_zero_star": 123
   }
 }
