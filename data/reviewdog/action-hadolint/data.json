@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 75754
+      "stars": 75872
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13757
+      "stars": 13767
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 7207
+      "stars": 7225
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 7052
+      "stars": 7060
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 4693
+      "stars": 4720
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
@@ -28,15 +28,15 @@
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1975
+      "stars": 1981
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1769
+      "stars": 1770
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1635
+      "stars": 1638
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
@@ -44,19 +44,19 @@
     },
     {
       "url": "https://github.com/trueforge-org/truecharts",
-      "stars": 1269
+      "stars": 1270
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 1255
+      "stars": 1256
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 848
+      "stars": 849
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 482
+      "stars": 483
     },
     {
       "url": "https://github.com/K-Phoen/dark",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
-      "stars": 386
+      "stars": 388
     },
     {
       "url": "https://github.com/KCarretto/paragon",
@@ -76,15 +76,15 @@
     },
     {
       "url": "https://github.com/bgruening/docker-galaxy",
-      "stars": 234
+      "stars": 233
     },
     {
       "url": "https://github.com/dadrus/heimdall",
-      "stars": 204
+      "stars": 207
     },
     {
       "url": "https://github.com/raspbernetes/multi-arch-images",
-      "stars": 173
+      "stars": 174
     },
     {
       "url": "https://github.com/netdata/go.d.plugin",
@@ -104,11 +104,11 @@
     },
     {
       "url": "https://github.com/Drakkar-Software/Triangular-Arbitrage",
-      "stars": 108
+      "stars": 109
     },
     {
       "url": "https://github.com/vanadium23/kompanion",
-      "stars": 104
+      "stars": 105
     },
     {
       "url": "https://github.com/haya14busa/action-bumpr",
@@ -132,7 +132,7 @@
     },
     {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
-      "stars": 76
+      "stars": 77
     },
     {
       "url": "https://github.com/netdata/community",
@@ -187,16 +187,20 @@
       "stars": 33
     },
     {
-      "url": "https://github.com/comorment/containers",
-      "stars": 30
+      "url": "https://github.com/dbelyaev/action-checkstyle",
+      "stars": 31
     },
     {
-      "url": "https://github.com/dbelyaev/action-checkstyle",
+      "url": "https://github.com/comorment/containers",
       "stars": 30
     },
     {
       "url": "https://github.com/program-world-labs/DDDGo",
       "stars": 28
+    },
+    {
+      "url": "https://github.com/chronosphereio/calyptia-vivo",
+      "stars": 23
     },
     {
       "url": "https://github.com/arkedge/hubhook",
@@ -205,10 +209,6 @@
     {
       "url": "https://github.com/reviewdog/action-template",
       "stars": 23
-    },
-    {
-      "url": "https://github.com/chronosphereio/calyptia-vivo",
-      "stars": 22
     },
     {
       "url": "https://github.com/reviewdog/action-depup",
@@ -235,6 +235,10 @@
       "stars": 17
     },
     {
+      "url": "https://github.com/Drakkar-Software/OctoBot-Market-Making",
+      "stars": 16
+    },
+    {
       "url": "https://github.com/sammcj/scripts",
       "stars": 16
     },
@@ -249,10 +253,6 @@
     {
       "url": "https://github.com/netdata/ebpf-co-re",
       "stars": 14
-    },
-    {
-      "url": "https://github.com/Drakkar-Software/OctoBot-Market-Making",
-      "stars": 13
     },
     {
       "url": "https://github.com/basedosdados/backend",
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 2054,
-    "public": 1020,
-    "private": 1034,
+    "total": 2057,
+    "public": 1018,
+    "private": 1039,
     "more_than_zero_star": 287
   }
 }

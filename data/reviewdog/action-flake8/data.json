@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 75754
+      "stars": 75872
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7327
+      "stars": 7328
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -16,15 +16,15 @@
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 721
+      "stars": 725
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 583
+      "stars": 582
     },
     {
       "url": "https://github.com/lavenderdotpet/LibreQuake",
-      "stars": 566
+      "stars": 565
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
@@ -36,19 +36,19 @@
     },
     {
       "url": "https://github.com/PAhelper/PhoenixAdult.bundle",
-      "stars": 377
+      "stars": 378
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
-      "stars": 219
+      "stars": 221
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 214
+      "stars": 215
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
-      "stars": 169
+      "stars": 170
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
@@ -76,31 +76,31 @@
     },
     {
       "url": "https://github.com/ydb-platform/nbs",
-      "stars": 78
+      "stars": 79
     },
     {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
-      "stars": 76
+      "stars": 77
     },
     {
       "url": "https://github.com/f0uriest/quadax",
-      "stars": 68
+      "stars": 69
     },
     {
       "url": "https://github.com/oracle/adaptivemm",
-      "stars": 66
+      "stars": 67
     },
     {
       "url": "https://github.com/ThePornDatabase/scrapers",
-      "stars": 64
+      "stars": 65
     },
     {
       "url": "https://github.com/ut-issl/c2a-core",
-      "stars": 55
+      "stars": 56
     },
     {
       "url": "https://github.com/michaelthomasletts/boto3-refresh-session",
-      "stars": 46
+      "stars": 47
     },
     {
       "url": "https://github.com/rickstaa/ros-gazebo-gym",
@@ -124,7 +124,7 @@
     },
     {
       "url": "https://github.com/f0uriest/orthax",
-      "stars": 25
+      "stars": 26
     },
     {
       "url": "https://github.com/DirtyRacer1337/PhoenixAdult.bundle",
@@ -132,7 +132,7 @@
     },
     {
       "url": "https://github.com/arkedge/c2a-core",
-      "stars": 20
+      "stars": 21
     },
     {
       "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
@@ -217,8 +217,8 @@
   ],
   "count": {
     "total": 536,
-    "public": 324,
-    "private": 212,
-    "more_than_zero_star": 123
+    "public": 323,
+    "private": 213,
+    "more_than_zero_star": 122
   }
 }

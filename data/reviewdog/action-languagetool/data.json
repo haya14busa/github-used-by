@@ -4,39 +4,39 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8684
+      "stars": 8707
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7659
+      "stars": 7660
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1635
+      "stars": 1638
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1154
+      "stars": 1156
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1088
+      "stars": 1090
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 1006
+      "stars": 1011
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 1004
+      "stars": 1006
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 697
+      "stars": 703
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 682
+      "stars": 684
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
@@ -44,11 +44,11 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 298
+      "stars": 299
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
-      "stars": 180
+      "stars": 181
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -56,11 +56,11 @@
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
-      "stars": 149
+      "stars": 151
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
-      "stars": 147
+      "stars": 146
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
@@ -92,11 +92,11 @@
     },
     {
       "url": "https://github.com/codewars/docs",
-      "stars": 63
+      "stars": 64
     },
     {
       "url": "https://github.com/shopware/docs",
-      "stars": 53
+      "stars": 54
     },
     {
       "url": "https://github.com/jeertmans/rpdf",
@@ -128,7 +128,7 @@
     },
     {
       "url": "https://github.com/dotnet-project-file-analyzers/dotnet-project-file-analyzers",
-      "stars": 18
+      "stars": 19
     },
     {
       "url": "https://github.com/hp-net/homebridge-nibe",

@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/4paradigm/OpenMLDB",
-      "stars": 1663
+      "stars": 1664
     },
     {
       "url": "https://github.com/PyPtt/PyPtt",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/adam-rms/adam-rms",
-      "stars": 38
+      "stars": 39
     },
     {
       "url": "https://github.com/bitjourney/react-simple-image",
@@ -95,6 +95,6 @@
     "total": 342,
     "public": 152,
     "private": 190,
-    "more_than_zero_star": 65
+    "more_than_zero_star": 64
   }
 }
