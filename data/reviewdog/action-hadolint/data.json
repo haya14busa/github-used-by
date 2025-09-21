@@ -4,31 +4,31 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 75872
+      "stars": 75969
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13767
+      "stars": 13784
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 7225
+      "stars": 7250
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 7060
+      "stars": 7070
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 4720
+      "stars": 4748
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
-      "stars": 3026
+      "stars": 3027
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1981
+      "stars": 1987
     },
     {
       "url": "https://github.com/magma/magma",
@@ -36,11 +36,11 @@
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1638
+      "stars": 1642
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1389
+      "stars": 1392
     },
     {
       "url": "https://github.com/trueforge-org/truecharts",
@@ -48,15 +48,15 @@
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 1256
+      "stars": 1261
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 849
+      "stars": 850
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 483
+      "stars": 486
     },
     {
       "url": "https://github.com/K-Phoen/dark",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
-      "stars": 388
+      "stars": 392
     },
     {
       "url": "https://github.com/KCarretto/paragon",
@@ -108,7 +108,7 @@
     },
     {
       "url": "https://github.com/vanadium23/kompanion",
-      "stars": 105
+      "stars": 107
     },
     {
       "url": "https://github.com/haya14busa/action-bumpr",
@@ -116,15 +116,15 @@
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
-      "stars": 88
+      "stars": 89
+    },
+    {
+      "url": "https://github.com/rickstaa/action-create-tag",
+      "stars": 84
     },
     {
       "url": "https://github.com/LFPy/LFPy",
       "stars": 83
-    },
-    {
-      "url": "https://github.com/rickstaa/action-create-tag",
-      "stars": 82
     },
     {
       "url": "https://github.com/ktsaou/netdata",
@@ -132,11 +132,11 @@
     },
     {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
-      "stars": 77
+      "stars": 78
     },
     {
       "url": "https://github.com/netdata/community",
-      "stars": 74
+      "stars": 75
     },
     {
       "url": "https://github.com/akunzai/GSS.Authentication.CAS",
@@ -211,12 +211,12 @@
       "stars": 23
     },
     {
-      "url": "https://github.com/reviewdog/action-depup",
+      "url": "https://github.com/device-management-toolkit/console",
       "stars": 22
     },
     {
-      "url": "https://github.com/device-management-toolkit/console",
-      "stars": 21
+      "url": "https://github.com/reviewdog/action-depup",
+      "stars": 22
     },
     {
       "url": "https://github.com/reviewdog/action-staticcheck",
@@ -307,8 +307,12 @@
       "stars": 11
     },
     {
+      "url": "https://github.com/ccdc-opensource/science-paper-rf-machine-learned-scoring-2022",
+      "stars": 10
+    },
+    {
       "url": "https://github.com/timoa/nodejs-encryption-api-example",
-      "stars": 11
+      "stars": 10
     },
     {
       "url": "https://github.com/ironpeakservices/iron-chart-go",
@@ -332,10 +336,6 @@
     },
     {
       "url": "https://github.com/sammcj/smart_diskinfo",
-      "stars": 9
-    },
-    {
-      "url": "https://github.com/ccdc-opensource/science-paper-rf-machine-learned-scoring-2022",
       "stars": 9
     },
     {
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 2057,
-    "public": 1018,
-    "private": 1039,
-    "more_than_zero_star": 287
+    "total": 2060,
+    "public": 1019,
+    "private": 1041,
+    "more_than_zero_star": 288
   }
 }

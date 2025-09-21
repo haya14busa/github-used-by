@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 63 | 52 | 11 | 33 |
+| 64 | 53 | 11 | 33 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-typos/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-typos)
@@ -21,14 +21,14 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9626|
-|2|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|8707|
-|3|<img src="https://github.com/mime-types.png" width=50 height=50>|https://github.com/mime-types/ruby-mime-types|334|
+|1|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9629|
+|2|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|8728|
+|3|<img src="https://github.com/mime-types.png" width=50 height=50>|https://github.com/mime-types/ruby-mime-types|335|
 |4|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/diff-lcs|295|
 |5|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/color|154|
-|6|<img src="https://github.com/aaronhurt.png" width=50 height=50>|https://github.com/aaronhurt/zfs-replicate|77|
+|6|<img src="https://github.com/aaronhurt.png" width=50 height=50>|https://github.com/aaronhurt/zfs-replicate|78|
 |7|<img src="https://github.com/mime-types.png" width=50 height=50>|https://github.com/mime-types/mime-types-data|46|
-|8|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/fish-macos|44|
+|8|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/fish-macos|45|
 |9|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/minitar|42|
 |10|<img src="https://github.com/ixm-one.png" width=50 height=50>|https://github.com/ixm-one/ixm|19|
 |11|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/fish-rust|17|
@@ -42,4 +42,4 @@
 |19|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/fish-elixir|8|
 |20|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/fish-utils|7|
 |21|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/fish-chezmoi|6|
-|22|<img src="https://github.com/uci-f1tenth.png" width=50 height=50>|https://github.com/uci-f1tenth/UCI_race_stack|5|
+|22|<img src="https://github.com/uci-f1tenth.png" width=50 height=50>|https://github.com/uci-f1tenth/UCI_race_stack|6|

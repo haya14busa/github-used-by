@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/Tokyo-Metro-Gov/covid19",
-      "stars": 6229
+      "stars": 6228
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2514
+      "stars": 2519
     },
     {
       "url": "https://github.com/adobe/spectrum-web-components",
-      "stars": 1428
+      "stars": 1430
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
@@ -39,8 +39,12 @@
       "stars": 135
     },
     {
+      "url": "https://github.com/MWDelaney/ZeroPoint",
+      "stars": 111
+    },
+    {
       "url": "https://github.com/department-of-veterans-affairs/va.gov-cms",
-      "stars": 103
+      "stars": 104
     },
     {
       "url": "https://github.com/nordcloud/pat-frontend-template",
@@ -192,9 +196,9 @@
     }
   ],
   "count": {
-    "total": 502,
-    "public": 185,
+    "total": 504,
+    "public": 187,
     "private": 317,
-    "more_than_zero_star": 73
+    "more_than_zero_star": 75
   }
 }

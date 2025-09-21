@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 199 | 102 | 97 | 44 |
+| 201 | 104 | 97 | 45 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-shfmt/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-shfmt)
@@ -21,18 +21,18 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/ChrisTitusTech.png" width=50 height=50>|https://github.com/ChrisTitusTech/linutil|4287|
-|2|<img src="https://github.com/sourcegraph.png" width=50 height=50>|https://github.com/sourcegraph/zoekt|1091|
-|3|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|299|
-|4|<img src="https://github.com/CrowdStrike.png" width=50 height=50>|https://github.com/CrowdStrike/falcon-scripts|184|
+|1|<img src="https://github.com/ChrisTitusTech.png" width=50 height=50>|https://github.com/ChrisTitusTech/linutil|4307|
+|2|<img src="https://github.com/sourcegraph.png" width=50 height=50>|https://github.com/sourcegraph/zoekt|1090|
+|3|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|298|
+|4|<img src="https://github.com/CrowdStrike.png" width=50 height=50>|https://github.com/CrowdStrike/falcon-scripts|187|
 |5|<img src="https://github.com/aerospike.png" width=50 height=50>|https://github.com/aerospike/aerospike-server.docker|144|
 |6|<img src="https://github.com/jiro4989.png" width=50 height=50>|https://github.com/jiro4989/setup-nim-action|107|
 |7|<img src="https://github.com/jonathanmorley.png" width=50 height=50>|https://github.com/jonathanmorley/asdf-pnpm|89|
-|8|<img src="https://github.com/aaronhurt.png" width=50 height=50>|https://github.com/aaronhurt/zfs-replicate|77|
+|8|<img src="https://github.com/aaronhurt.png" width=50 height=50>|https://github.com/aaronhurt/zfs-replicate|78|
 |9|<img src="https://github.com/yu-iskw.png" width=50 height=50>|https://github.com/yu-iskw/action-sqlfluff|70|
 |10|<img src="https://github.com/lure-sh.png" width=50 height=50>|https://github.com/lure-sh/lure-repo|57|
 |11|<img src="https://github.com/sksat.png" width=50 height=50>|https://github.com/sksat/compose-cd|48|
-|12|<img src="https://github.com/mongolyy.png" width=50 height=50>|https://github.com/mongolyy/reviewdog-action-biome|46|
+|12|<img src="https://github.com/mongolyy.png" width=50 height=50>|https://github.com/mongolyy/reviewdog-action-biome|47|
 |13|<img src="https://github.com/EPMatt.png" width=50 height=50>|https://github.com/EPMatt/reviewdog-action-tsc|26|
 |14|<img src="https://github.com/EPMatt.png" width=50 height=50>|https://github.com/EPMatt/reviewdog-action-prettier|25|
 |15|<img src="https://github.com/UmbrellaDocs.png" width=50 height=50>|https://github.com/UmbrellaDocs/action-linkspector|22|

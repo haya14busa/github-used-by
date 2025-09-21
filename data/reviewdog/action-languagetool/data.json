@@ -4,55 +4,55 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8707
+      "stars": 8728
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7660
+      "stars": 7665
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1638
+      "stars": 1642
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1156
+      "stars": 1157
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1090
-    },
-    {
-      "url": "https://github.com/tuono-labs/tuono",
-      "stars": 1011
+      "stars": 1092
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 1006
+      "stars": 1030
+    },
+    {
+      "url": "https://github.com/tuono-labs/tuono",
+      "stars": 1019
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 703
+      "stars": 707
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 684
+      "stars": 686
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
-      "stars": 322
+      "stars": 323
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 299
+      "stars": 298
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
-      "stars": 181
+      "stars": 185
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
-      "stars": 174
+      "stars": 175
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 124
+      "stars": 128
     },
     {
       "url": "https://github.com/mszostok/version",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
-      "stars": 88
+      "stars": 89
     },
     {
       "url": "https://github.com/pheature-flags/pheature-flags",
@@ -104,7 +104,7 @@
     },
     {
       "url": "https://github.com/jeertmans/DiffeRT",
-      "stars": 36
+      "stars": 35
     },
     {
       "url": "https://github.com/pkosiec/website",
@@ -112,7 +112,7 @@
     },
     {
       "url": "https://github.com/ADE-Scheduler/ADE-Scheduler",
-      "stars": 32
+      "stars": 33
     },
     {
       "url": "https://github.com/ZeroAssumptions/aide-de-camp",
@@ -220,8 +220,8 @@
     }
   ],
   "count": {
-    "total": 412,
-    "public": 191,
+    "total": 413,
+    "public": 192,
     "private": 221,
     "more_than_zero_star": 93
   }
