@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 675 | 319 | 356 | 135 |
+| 677 | 320 | 357 | 134 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-tflint/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-tflint)
@@ -21,12 +21,12 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/magma.png" width=50 height=50>|https://github.com/magma/magma|1770|
-|2|<img src="https://github.com/cloudposse.png" width=50 height=50>|https://github.com/cloudposse/atmos|1150|
-|3|<img src="https://github.com/xunholy.png" width=50 height=50>|https://github.com/xunholy/k8s-gitops|586|
+|1|<img src="https://github.com/magma.png" width=50 height=50>|https://github.com/magma/magma|1771|
+|2|<img src="https://github.com/cloudposse.png" width=50 height=50>|https://github.com/cloudposse/atmos|1158|
+|3|<img src="https://github.com/xunholy.png" width=50 height=50>|https://github.com/xunholy/k8s-gitops|588|
 |4|<img src="https://github.com/aztfmod.png" width=50 height=50>|https://github.com/aztfmod/terraform-azurerm-caf|577|
-|5|<img src="https://github.com/chainguard-dev.png" width=50 height=50>|https://github.com/chainguard-dev/malcontent|554|
-|6|<img src="https://github.com/octo-sts.png" width=50 height=50>|https://github.com/octo-sts/app|228|
+|5|<img src="https://github.com/chainguard-dev.png" width=50 height=50>|https://github.com/chainguard-dev/malcontent|555|
+|6|<img src="https://github.com/octo-sts.png" width=50 height=50>|https://github.com/octo-sts/app|229|
 |7|<img src="https://github.com/gruberdev.png" width=50 height=50>|https://github.com/gruberdev/homelab|225|
 |8|<img src="https://github.com/TechToSpeech.png" width=50 height=50>|https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress|195|
 |9|<img src="https://github.com/raspbernetes.png" width=50 height=50>|https://github.com/raspbernetes/k8s-cluster-installation|116|
@@ -35,7 +35,7 @@
 |12|<img src="https://github.com/clouddrove.png" width=50 height=50>|https://github.com/clouddrove/terraform-aws-sftp|36|
 |13|<img src="https://github.com/MatthiasScholz.png" width=50 height=50>|https://github.com/MatthiasScholz/cos|34|
 |14|<img src="https://github.com/timoa.png" width=50 height=50>|https://github.com/timoa/terraform-oci-vscode-server|27|
-|15|<img src="https://github.com/chainguard-dev.png" width=50 height=50>|https://github.com/chainguard-dev/terraform-infra-common|25|
+|15|<img src="https://github.com/chainguard-dev.png" width=50 height=50>|https://github.com/chainguard-dev/terraform-infra-common|26|
 |16|<img src="https://github.com/rhythmictech.png" width=50 height=50>|https://github.com/rhythmictech/terraform-aws-imagebuilder-pipeline|20|
 |17|<img src="https://github.com/liatrio.png" width=50 height=50>|https://github.com/liatrio/lead-terraform|19|
 |18|<img src="https://github.com/rallyware.png" width=50 height=50>|https://github.com/rallyware/terraform-argocd-aws-eks-cluster-bootstrap|18|

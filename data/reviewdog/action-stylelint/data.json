@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/Tokyo-Metro-Gov/covid19",
-      "stars": 6228
+      "stars": 6227
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2519
+      "stars": 2523
     },
     {
       "url": "https://github.com/adobe/spectrum-web-components",
-      "stars": 1430
+      "stars": 1431
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
-      "stars": 1245
+      "stars": 1246
     },
     {
       "url": "https://github.com/h3poteto/whalebird-desktop",
-      "stars": 925
+      "stars": 924
     },
     {
       "url": "https://github.com/th0th/poeticmetric",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/WPMedia/arc-themes-blocks",
-      "stars": 40
+      "stars": 41
     },
     {
       "url": "https://github.com/a01sa01to/covid19-ibaraki",
@@ -100,7 +100,7 @@
     },
     {
       "url": "https://github.com/glowfic-constellation/glowfic",
-      "stars": 20
+      "stars": 21
     },
     {
       "url": "https://github.com/Lipoic/Lipoic-Frontend",
@@ -156,7 +156,7 @@
     },
     {
       "url": "https://github.com/adobecom/dc",
-      "stars": 7
+      "stars": 8
     },
     {
       "url": "https://github.com/chiefpansancolt/simplecov-material",
@@ -168,6 +168,10 @@
     },
     {
       "url": "https://github.com/harrialeksi/poetic_metric",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/wildberries-tech/ui-react",
       "stars": 6
     },
     {
@@ -185,10 +189,6 @@
     {
       "url": "https://github.com/yamaserif/covid19",
       "stars": 6
-    },
-    {
-      "url": "https://github.com/wildberries-tech/ui-react",
-      "stars": 5
     },
     {
       "url": "https://github.com/danskernesdigitalebibliotek/dpl-design-system",

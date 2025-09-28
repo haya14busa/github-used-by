@@ -4,55 +4,55 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 75969
+      "stars": 76203
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13784
+      "stars": 13792
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 7250
+      "stars": 7272
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 7070
+      "stars": 7083
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 4748
+      "stars": 4770
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
-      "stars": 3027
+      "stars": 3026
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1987
+      "stars": 1993
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1770
+      "stars": 1771
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1642
+      "stars": 1643
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1392
+      "stars": 1394
     },
     {
       "url": "https://github.com/trueforge-org/truecharts",
-      "stars": 1270
+      "stars": 1273
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 1261
+      "stars": 1263
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 850
+      "stars": 851
     },
     {
       "url": "https://github.com/opentibiabr/canary",
@@ -77,10 +77,6 @@
     {
       "url": "https://github.com/bgruening/docker-galaxy",
       "stars": 233
-    },
-    {
-      "url": "https://github.com/dadrus/heimdall",
-      "stars": 207
     },
     {
       "url": "https://github.com/raspbernetes/multi-arch-images",
@@ -112,7 +108,7 @@
     },
     {
       "url": "https://github.com/haya14busa/action-bumpr",
-      "stars": 96
+      "stars": 97
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
@@ -127,12 +123,12 @@
       "stars": 83
     },
     {
-      "url": "https://github.com/ktsaou/netdata",
-      "stars": 79
+      "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
+      "stars": 80
     },
     {
-      "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
-      "stars": 78
+      "url": "https://github.com/ktsaou/netdata",
+      "stars": 79
     },
     {
       "url": "https://github.com/netdata/community",
@@ -180,11 +176,11 @@
     },
     {
       "url": "https://github.com/basedosdados/pipelines",
-      "stars": 38
+      "stars": 39
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot-Script",
-      "stars": 33
+      "stars": 34
     },
     {
       "url": "https://github.com/dbelyaev/action-checkstyle",
@@ -239,16 +235,16 @@
       "stars": 16
     },
     {
+      "url": "https://github.com/flobernd/docker-minecraft-ftb",
+      "stars": 16
+    },
+    {
       "url": "https://github.com/sammcj/scripts",
       "stars": 16
     },
     {
       "url": "https://github.com/sammcj/zsh-bootstrap",
       "stars": 16
-    },
-    {
-      "url": "https://github.com/flobernd/docker-minecraft-ftb",
-      "stars": 15
     },
     {
       "url": "https://github.com/netdata/ebpf-co-re",
@@ -401,12 +397,16 @@
     {
       "url": "https://github.com/RJ-SMTR/mobilidade-rio-api",
       "stars": 6
+    },
+    {
+      "url": "https://github.com/tycho/netdata",
+      "stars": 6
     }
   ],
   "count": {
-    "total": 2060,
-    "public": 1019,
-    "private": 1041,
+    "total": 2063,
+    "public": 1021,
+    "private": 1042,
     "more_than_zero_star": 288
   }
 }

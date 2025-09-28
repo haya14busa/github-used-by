@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8728
+      "stars": 8740
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7665
+      "stars": 7667
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1642
+      "stars": 1643
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
@@ -20,23 +20,23 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1092
-    },
-    {
-      "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 1030
+      "stars": 1094
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 1019
+      "stars": 1038
+    },
+    {
+      "url": "https://github.com/CircuitVerse/CircuitVerse",
+      "stars": 1038
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 707
+      "stars": 709
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 686
+      "stars": 687
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
@@ -44,7 +44,7 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 298
+      "stars": 299
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
@@ -52,15 +52,15 @@
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
-      "stars": 175
+      "stars": 174
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
-      "stars": 151
+      "stars": 150
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
-      "stars": 146
+      "stars": 147
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
@@ -159,10 +159,6 @@
       "stars": 10
     },
     {
-      "url": "https://github.com/opentdf/otdfctl",
-      "stars": 9
-    },
-    {
       "url": "https://github.com/liftwizard/liftwizard",
       "stars": 9
     },
@@ -223,6 +219,6 @@
     "total": 413,
     "public": 192,
     "private": 221,
-    "more_than_zero_star": 93
+    "more_than_zero_star": 92
   }
 }

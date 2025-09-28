@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1770
+      "stars": 1771
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 1150
+      "stars": 1158
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 586
+      "stars": 588
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
@@ -20,11 +20,11 @@
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 554
+      "stars": 555
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 228
+      "stars": 229
     },
     {
       "url": "https://github.com/gruberdev/homelab",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/chainguard-dev/terraform-infra-common",
-      "stars": 25
+      "stars": 26
     },
     {
       "url": "https://github.com/rhythmictech/terraform-aws-imagebuilder-pipeline",
@@ -224,9 +224,9 @@
     }
   ],
   "count": {
-    "total": 675,
-    "public": 319,
-    "private": 356,
-    "more_than_zero_star": 135
+    "total": 677,
+    "public": 320,
+    "private": 357,
+    "more_than_zero_star": 134
   }
 }

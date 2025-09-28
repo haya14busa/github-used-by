@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 75969
+      "stars": 76203
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7334
+      "stars": 7341
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
-      "stars": 883
+      "stars": 882
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 727
+      "stars": 733
     },
     {
       "url": "https://github.com/simpeg/simpeg",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/lavenderdotpet/LibreQuake",
-      "stars": 567
+      "stars": 571
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
@@ -44,11 +44,11 @@
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 220
+      "stars": 221
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
-      "stars": 169
+      "stars": 168
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
-      "stars": 121
+      "stars": 123
     },
     {
       "url": "https://github.com/ehpor/hcipy",
@@ -71,16 +71,16 @@
       "stars": 83
     },
     {
+      "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
+      "stars": 80
+    },
+    {
       "url": "https://github.com/ktsaou/netdata",
       "stars": 79
     },
     {
       "url": "https://github.com/ydb-platform/nbs",
       "stars": 79
-    },
-    {
-      "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
-      "stars": 78
     },
     {
       "url": "https://github.com/f0uriest/quadax",
@@ -115,12 +115,12 @@
       "stars": 30
     },
     {
-      "url": "https://github.com/ZPascal/grafana_api_sdk",
+      "url": "https://github.com/NebularNerd/subtotxt",
       "stars": 29
     },
     {
-      "url": "https://github.com/NebularNerd/subtotxt",
-      "stars": 28
+      "url": "https://github.com/ZPascal/grafana_api_sdk",
+      "stars": 29
     },
     {
       "url": "https://github.com/f0uriest/orthax",
@@ -132,7 +132,7 @@
     },
     {
       "url": "https://github.com/arkedge/c2a-core",
-      "stars": 21
+      "stars": 22
     },
     {
       "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
@@ -207,18 +207,14 @@
       "stars": 5
     },
     {
-      "url": "https://github.com/alkemyTech/OT281-python",
-      "stars": 5
-    },
-    {
       "url": "https://github.com/NurOrNuLL/ESDP-AP-5-6-TEAM-2",
       "stars": 5
     }
   ],
   "count": {
     "total": 536,
-    "public": 322,
-    "private": 214,
-    "more_than_zero_star": 122
+    "public": 321,
+    "private": 215,
+    "more_than_zero_star": 121
   }
 }
