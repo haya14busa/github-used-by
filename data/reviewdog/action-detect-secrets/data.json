@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/4paradigm/OpenMLDB",
-      "stars": 1665
+      "stars": 1667
     },
     {
       "url": "https://github.com/PyPtt/PyPtt",
@@ -12,7 +12,7 @@
     },
     {
       "url": "https://github.com/jackpocket/android-scratchoff",
-      "stars": 449
+      "stars": 448
     },
     {
       "url": "https://github.com/piotr-yuxuan/closeable-map",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/adam-rms/adam-rms",
-      "stars": 39
+      "stars": 40
     },
     {
       "url": "https://github.com/bitjourney/react-simple-image",
@@ -92,9 +92,9 @@
     }
   ],
   "count": {
-    "total": 343,
-    "public": 153,
-    "private": 190,
-    "more_than_zero_star": 64
+    "total": 344,
+    "public": 152,
+    "private": 192,
+    "more_than_zero_star": 63
   }
 }

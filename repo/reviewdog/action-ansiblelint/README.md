@@ -23,8 +23,8 @@
 | -- | -- | -- | -- | 
 |1|<img src="https://github.com/galaxyproject.png" width=50 height=50>|https://github.com/galaxyproject/ansible-postgresql|124|
 |2|<img src="https://github.com/galaxyproject.png" width=50 height=50>|https://github.com/galaxyproject/ansible-slurm|108|
-|3|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/ansible-role-debloat-windows|20|
-|4|<img src="https://github.com/idiv-biodiversity.png" width=50 height=50>|https://github.com/idiv-biodiversity/ansible-role-lmod|17|
+|3|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/ansible-role-debloat-windows|19|
+|4|<img src="https://github.com/idiv-biodiversity.png" width=50 height=50>|https://github.com/idiv-biodiversity/ansible-role-lmod|16|
 |5|<img src="https://github.com/galaxyproject.png" width=50 height=50>|https://github.com/galaxyproject/ansible-cvmfs|14|
 |6|<img src="https://github.com/galaxyproject.png" width=50 height=50>|https://github.com/galaxyproject/ansible-postgresql-objects|12|
 |7|<img src="https://github.com/RiskIdent.png" width=50 height=50>|https://github.com/RiskIdent/ansible-collection-luks|7|

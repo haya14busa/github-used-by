@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 12729
+      "stars": 12761
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9635
+      "stars": 9637
     },
     {
       "url": "https://github.com/ytti/oxidized",
@@ -16,7 +16,7 @@
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2783
+      "stars": 2785
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
@@ -24,23 +24,23 @@
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2422
+      "stars": 2421
     },
     {
       "url": "https://github.com/castwide/solargraph",
-      "stars": 1979
+      "stars": 1980
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1664
+      "stars": 1669
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1199
+      "stars": 1200
     },
     {
       "url": "https://github.com/k1LoW/awspec",
-      "stars": 1172
+      "stars": 1171
     },
     {
       "url": "https://github.com/activeadmin/arbre",
@@ -52,11 +52,11 @@
     },
     {
       "url": "https://github.com/mysociety/alaveteli",
-      "stars": 406
+      "stars": 407
     },
     {
       "url": "https://github.com/YusukeIwaki/puppeteer-ruby",
-      "stars": 315
+      "stars": 314
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/Drieam/rspec-github",
-      "stars": 77
+      "stars": 78
     },
     {
       "url": "https://github.com/openHPI/codeocean",
@@ -100,7 +100,7 @@
     },
     {
       "url": "https://github.com/ytti/oxidized-script",
-      "stars": 48
+      "stars": 49
     },
     {
       "url": "https://github.com/puzzle/puzzletime",
@@ -172,7 +172,7 @@
     },
     {
       "url": "https://github.com/rwx-research/rspec-abq",
-      "stars": 12
+      "stars": 13
     },
     {
       "url": "https://github.com/ukazap/permisi",
@@ -231,10 +231,6 @@
       "stars": 7
     },
     {
-      "url": "https://github.com/Strappazzon/www",
-      "stars": 6
-    },
-    {
       "url": "https://github.com/goodscary/firstrubyfriend",
       "stars": 6
     },
@@ -272,9 +268,9 @@
     }
   ],
   "count": {
-    "total": 754,
-    "public": 396,
-    "private": 358,
+    "total": 755,
+    "public": 394,
+    "private": 361,
     "more_than_zero_star": 152
   }
 }

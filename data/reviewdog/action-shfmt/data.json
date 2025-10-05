@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 4344
+      "stars": 4357
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 1095
+      "stars": 1098
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 299
+      "stars": 300
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
@@ -87,14 +87,18 @@
       "stars": 6
     },
     {
+      "url": "https://github.com/tolkonepiu/keencli",
+      "stars": 5
+    },
+    {
       "url": "https://github.com/AMS21/Phi",
       "stars": 5
     }
   ],
   "count": {
     "total": 201,
-    "public": 104,
-    "private": 97,
-    "more_than_zero_star": 45
+    "public": 103,
+    "private": 98,
+    "more_than_zero_star": 44
   }
 }

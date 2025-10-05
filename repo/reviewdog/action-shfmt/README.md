@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 201 | 104 | 97 | 45 |
+| 201 | 103 | 98 | 44 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-shfmt/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-shfmt)
@@ -21,9 +21,9 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/ChrisTitusTech.png" width=50 height=50>|https://github.com/ChrisTitusTech/linutil|4344|
-|2|<img src="https://github.com/sourcegraph.png" width=50 height=50>|https://github.com/sourcegraph/zoekt|1095|
-|3|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|299|
+|1|<img src="https://github.com/ChrisTitusTech.png" width=50 height=50>|https://github.com/ChrisTitusTech/linutil|4357|
+|2|<img src="https://github.com/sourcegraph.png" width=50 height=50>|https://github.com/sourcegraph/zoekt|1098|
+|3|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|300|
 |4|<img src="https://github.com/CrowdStrike.png" width=50 height=50>|https://github.com/CrowdStrike/falcon-scripts|188|
 |5|<img src="https://github.com/aerospike.png" width=50 height=50>|https://github.com/aerospike/aerospike-server.docker|144|
 |6|<img src="https://github.com/jiro4989.png" width=50 height=50>|https://github.com/jiro4989/setup-nim-action|107|
@@ -42,4 +42,5 @@
 |19|<img src="https://github.com/sourcebot-dev.png" width=50 height=50>|https://github.com/sourcebot-dev/zoekt|6|
 |20|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/action-typos|6|
 |21|<img src="https://github.com/btkostner.png" width=50 height=50>|https://github.com/btkostner/jumar|6|
-|22|<img src="https://github.com/AMS21.png" width=50 height=50>|https://github.com/AMS21/Phi|5|
+|22|<img src="https://github.com/tolkonepiu.png" width=50 height=50>|https://github.com/tolkonepiu/keencli|5|
+|23|<img src="https://github.com/AMS21.png" width=50 height=50>|https://github.com/AMS21/Phi|5|

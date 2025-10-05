@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9635
+      "stars": 9637
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8740
+      "stars": 8751
     },
     {
       "url": "https://github.com/mime-types/ruby-mime-types",
@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/halostatue/color",
-      "stars": 154
+      "stars": 155
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/ixm-one/ixm",
-      "stars": 19
+      "stars": 18
     },
     {
       "url": "https://github.com/halostatue/fish-rust",

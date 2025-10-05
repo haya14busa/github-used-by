@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8740
+      "stars": 8751
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
@@ -12,7 +12,7 @@
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1643
+      "stars": 1647
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
@@ -20,23 +20,23 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1094
+      "stars": 1097
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 1038
+      "stars": 1051
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 1038
+      "stars": 1042
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 709
+      "stars": 718
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 687
+      "stars": 691
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
@@ -44,7 +44,7 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 299
+      "stars": 300
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
-      "stars": 174
+      "stars": 173
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 128
+      "stars": 129
     },
     {
       "url": "https://github.com/mszostok/version",
@@ -135,16 +135,16 @@
       "stars": 16
     },
     {
+      "url": "https://github.com/unknowIfGuestInDream/javafxTool",
+      "stars": 14
+    },
+    {
       "url": "https://github.com/hashbite/gatsby-mdx-suite",
       "stars": 14
     },
     {
       "url": "https://github.com/leveeml/rabbids",
       "stars": 14
-    },
-    {
-      "url": "https://github.com/unknowIfGuestInDream/javafxTool",
-      "stars": 13
     },
     {
       "url": "https://github.com/jeertmans/manim-tutorial",
@@ -159,15 +159,15 @@
       "stars": 10
     },
     {
+      "url": "https://github.com/GoogleCloudPlatform/appengine-cloud-demo-portal",
+      "stars": 10
+    },
+    {
       "url": "https://github.com/liftwizard/liftwizard",
       "stars": 9
     },
     {
       "url": "https://github.com/jeertmans/jeertmans.github.io",
-      "stars": 9
-    },
-    {
-      "url": "https://github.com/GoogleCloudPlatform/appengine-cloud-demo-portal",
       "stars": 9
     },
     {
@@ -216,9 +216,9 @@
     }
   ],
   "count": {
-    "total": 413,
-    "public": 192,
-    "private": 221,
+    "total": 414,
+    "public": 191,
+    "private": 223,
     "more_than_zero_star": 92
   }
 }

@@ -4,55 +4,55 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 76203
+      "stars": 76278
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13792
+      "stars": 13794
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 7272
+      "stars": 7288
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 7083
+      "stars": 7097
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 4770
+      "stars": 4792
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
-      "stars": 3026
+      "stars": 3027
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1993
+      "stars": 1997
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1771
+      "stars": 1770
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1643
+      "stars": 1647
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1394
+      "stars": 1395
     },
     {
       "url": "https://github.com/trueforge-org/truecharts",
-      "stars": 1273
+      "stars": 1274
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 1263
+      "stars": 1267
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 851
+      "stars": 853
     },
     {
       "url": "https://github.com/opentibiabr/canary",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
-      "stars": 392
+      "stars": 395
     },
     {
       "url": "https://github.com/KCarretto/paragon",
@@ -152,7 +152,7 @@
     },
     {
       "url": "https://github.com/jiro4989/build-deb-action",
-      "stars": 57
+      "stars": 58
     },
     {
       "url": "https://github.com/HopopOps/k8s-ldap-auth",
@@ -168,7 +168,7 @@
     },
     {
       "url": "https://github.com/rickstaa/action-black",
-      "stars": 42
+      "stars": 43
     },
     {
       "url": "https://github.com/prefeitura-rio/pipelines",
@@ -195,6 +195,10 @@
       "stars": 28
     },
     {
+      "url": "https://github.com/device-management-toolkit/console",
+      "stars": 23
+    },
+    {
       "url": "https://github.com/chronosphereio/calyptia-vivo",
       "stars": 23
     },
@@ -207,10 +211,6 @@
       "stars": 23
     },
     {
-      "url": "https://github.com/device-management-toolkit/console",
-      "stars": 22
-    },
-    {
       "url": "https://github.com/reviewdog/action-depup",
       "stars": 22
     },
@@ -220,14 +220,10 @@
     },
     {
       "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
-      "stars": 20
+      "stars": 19
     },
     {
       "url": "https://github.com/AnchorFree/ssl-watch",
-      "stars": 18
-    },
-    {
-      "url": "https://github.com/SovereignCloudStack/openstack-health-monitor",
       "stars": 17
     },
     {
@@ -244,6 +240,10 @@
     },
     {
       "url": "https://github.com/sammcj/zsh-bootstrap",
+      "stars": 16
+    },
+    {
+      "url": "https://github.com/SovereignCloudStack/openstack-health-monitor",
       "stars": 16
     },
     {
@@ -387,6 +387,10 @@
       "stars": 6
     },
     {
+      "url": "https://github.com/HollowMan6/sarif4reviewdog",
+      "stars": 6
+    },
+    {
       "url": "https://github.com/btkostner/jumar",
       "stars": 6
     },
@@ -397,16 +401,12 @@
     {
       "url": "https://github.com/RJ-SMTR/mobilidade-rio-api",
       "stars": 6
-    },
-    {
-      "url": "https://github.com/tycho/netdata",
-      "stars": 6
     }
   ],
   "count": {
-    "total": 2063,
-    "public": 1021,
-    "private": 1042,
+    "total": 2065,
+    "public": 1020,
+    "private": 1045,
     "more_than_zero_star": 288
   }
 }

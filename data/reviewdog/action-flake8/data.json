@@ -4,27 +4,27 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 76203
+      "stars": 76278
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7341
+      "stars": 7343
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
-      "stars": 882
+      "stars": 881
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 733
+      "stars": 735
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 583
+      "stars": 585
     },
     {
       "url": "https://github.com/lavenderdotpet/LibreQuake",
-      "stars": 571
+      "stars": 573
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
@@ -39,12 +39,12 @@
       "stars": 377
     },
     {
-      "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
-      "stars": 222
+      "url": "https://github.com/f0uriest/interpax",
+      "stars": 224
     },
     {
-      "url": "https://github.com/f0uriest/interpax",
-      "stars": 221
+      "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
+      "stars": 222
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
@@ -52,15 +52,15 @@
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
-      "stars": 138
+      "stars": 139
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
-      "stars": 123
+      "stars": 124
     },
     {
       "url": "https://github.com/ehpor/hcipy",
-      "stars": 121
+      "stars": 122
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
@@ -71,6 +71,10 @@
       "stars": 83
     },
     {
+      "url": "https://github.com/ydb-platform/nbs",
+      "stars": 80
+    },
+    {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
       "stars": 80
     },
@@ -79,12 +83,8 @@
       "stars": 79
     },
     {
-      "url": "https://github.com/ydb-platform/nbs",
-      "stars": 79
-    },
-    {
       "url": "https://github.com/f0uriest/quadax",
-      "stars": 69
+      "stars": 70
     },
     {
       "url": "https://github.com/oracle/adaptivemm",
@@ -92,11 +92,11 @@
     },
     {
       "url": "https://github.com/ThePornDatabase/scrapers",
-      "stars": 65
+      "stars": 66
     },
     {
       "url": "https://github.com/ut-issl/c2a-core",
-      "stars": 56
+      "stars": 55
     },
     {
       "url": "https://github.com/michaelthomasletts/boto3-refresh-session",
@@ -104,19 +104,19 @@
     },
     {
       "url": "https://github.com/rickstaa/ros-gazebo-gym",
-      "stars": 44
+      "stars": 45
     },
     {
       "url": "https://github.com/Open-Model-Initiative/OMI-Data-Pipeline",
       "stars": 35
     },
     {
-      "url": "https://github.com/comorment/containers",
+      "url": "https://github.com/NebularNerd/subtotxt",
       "stars": 30
     },
     {
-      "url": "https://github.com/NebularNerd/subtotxt",
-      "stars": 29
+      "url": "https://github.com/comorment/containers",
+      "stars": 30
     },
     {
       "url": "https://github.com/ZPascal/grafana_api_sdk",
@@ -124,23 +124,23 @@
     },
     {
       "url": "https://github.com/f0uriest/orthax",
-      "stars": 26
+      "stars": 25
     },
     {
       "url": "https://github.com/DirtyRacer1337/PhoenixAdult.bundle",
-      "stars": 24
+      "stars": 23
     },
     {
       "url": "https://github.com/arkedge/c2a-core",
-      "stars": 22
+      "stars": 21
     },
     {
       "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
-      "stars": 20
+      "stars": 19
     },
     {
       "url": "https://github.com/danishi/dynamodb-csv",
-      "stars": 20
+      "stars": 19
     },
     {
       "url": "https://github.com/nnsnodnb/django-ios-storekit",
@@ -163,12 +163,12 @@
       "stars": 16
     },
     {
-      "url": "https://github.com/rickstaa/stable-gym",
+      "url": "https://github.com/ccdc-opensource/dash",
       "stars": 12
     },
     {
-      "url": "https://github.com/ccdc-opensource/dash",
-      "stars": 12
+      "url": "https://github.com/rickstaa/stable-gym",
+      "stars": 11
     },
     {
       "url": "https://github.com/ccdc-opensource/science-paper-rf-machine-learned-scoring-2022",
@@ -212,9 +212,9 @@
     }
   ],
   "count": {
-    "total": 536,
+    "total": 538,
     "public": 321,
-    "private": 215,
-    "more_than_zero_star": 121
+    "private": 217,
+    "more_than_zero_star": 120
   }
 }
