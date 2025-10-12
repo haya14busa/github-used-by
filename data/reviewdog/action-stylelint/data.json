@@ -8,11 +8,11 @@
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2527
+      "stars": 2529
     },
     {
       "url": "https://github.com/adobe/spectrum-web-components",
-      "stars": 1434
+      "stars": 1436
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
@@ -27,20 +27,20 @@
       "stars": 267
     },
     {
-      "url": "https://github.com/modx-pro/miniShop2",
-      "stars": 152
+      "url": "https://github.com/haya14busa/github-action-brandings",
+      "stars": 154
     },
     {
-      "url": "https://github.com/haya14busa/github-action-brandings",
-      "stars": 152
+      "url": "https://github.com/modx-pro/miniShop2",
+      "stars": 151
     },
     {
       "url": "https://github.com/10up/10up-experience",
-      "stars": 135
+      "stars": 136
     },
     {
       "url": "https://github.com/MWDelaney/ZeroPoint",
-      "stars": 111
+      "stars": 112
     },
     {
       "url": "https://github.com/department-of-veterans-affairs/va.gov-cms",
@@ -76,7 +76,7 @@
     },
     {
       "url": "https://github.com/nordcloud/GNUI",
-      "stars": 29
+      "stars": 30
     },
     {
       "url": "https://github.com/Code-for-OKINAWA/covid19",
@@ -196,8 +196,8 @@
     }
   ],
   "count": {
-    "total": 504,
-    "public": 186,
+    "total": 505,
+    "public": 187,
     "private": 318,
     "more_than_zero_star": 75
   }

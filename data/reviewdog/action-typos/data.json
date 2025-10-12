@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9637
+      "stars": 9639
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8751
+      "stars": 8768
     },
     {
       "url": "https://github.com/mime-types/ruby-mime-types",
@@ -39,15 +39,15 @@
       "stars": 42
     },
     {
+      "url": "https://github.com/xeho91/js-ast",
+      "stars": 19
+    },
+    {
       "url": "https://github.com/ixm-one/ixm",
-      "stars": 18
+      "stars": 19
     },
     {
       "url": "https://github.com/halostatue/fish-rust",
-      "stars": 17
-    },
-    {
-      "url": "https://github.com/xeho91/js-ast",
       "stars": 17
     },
     {

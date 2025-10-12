@@ -21,8 +21,8 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9637|
-|2|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|8751|
+|1|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9639|
+|2|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|8768|
 |3|<img src="https://github.com/mime-types.png" width=50 height=50>|https://github.com/mime-types/ruby-mime-types|335|
 |4|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/diff-lcs|295|
 |5|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/color|155|
@@ -30,9 +30,9 @@
 |7|<img src="https://github.com/mime-types.png" width=50 height=50>|https://github.com/mime-types/mime-types-data|46|
 |8|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/fish-macos|45|
 |9|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/minitar|42|
-|10|<img src="https://github.com/ixm-one.png" width=50 height=50>|https://github.com/ixm-one/ixm|18|
-|11|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/fish-rust|17|
-|12|<img src="https://github.com/xeho91.png" width=50 height=50>|https://github.com/xeho91/js-ast|17|
+|10|<img src="https://github.com/xeho91.png" width=50 height=50>|https://github.com/xeho91/js-ast|19|
+|11|<img src="https://github.com/ixm-one.png" width=50 height=50>|https://github.com/ixm-one/ixm|19|
+|12|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/fish-rust|17|
 |13|<img src="https://github.com/svelte-docgen.png" width=50 height=50>|https://github.com/svelte-docgen/svelte-docgen|12|
 |14|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/fish-direnv|11|
 |15|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/fish-haskell|11|

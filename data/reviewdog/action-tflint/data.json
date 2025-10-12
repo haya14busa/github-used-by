@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1770
+      "stars": 1769
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 1160
+      "stars": 1164
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 588
+      "stars": 592
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
-      "stars": 575
+      "stars": 576
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 555
+      "stars": 557
     },
     {
       "url": "https://github.com/octo-sts/app",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 225
+      "stars": 227
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/chainguard-dev/terraform-infra-common",
-      "stars": 25
+      "stars": 26
     },
     {
       "url": "https://github.com/rhythmictech/terraform-aws-imagebuilder-pipeline",
@@ -159,6 +159,10 @@
       "stars": 7
     },
     {
+      "url": "https://github.com/chainguard-dev/ghaudit",
+      "stars": 7
+    },
+    {
       "url": "https://github.com/DFE-Digital/teaching-record-system",
       "stars": 7
     },
@@ -191,10 +195,6 @@
       "stars": 7
     },
     {
-      "url": "https://github.com/chainguard-dev/ghaudit",
-      "stars": 6
-    },
-    {
       "url": "https://github.com/piiano/vault-deployments",
       "stars": 6
     },
@@ -224,9 +224,9 @@
     }
   ],
   "count": {
-    "total": 677,
+    "total": 678,
     "public": 319,
-    "private": 358,
-    "more_than_zero_star": 135
+    "private": 359,
+    "more_than_zero_star": 134
   }
 }

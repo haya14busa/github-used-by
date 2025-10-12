@@ -8,7 +8,7 @@
     },
     {
       "url": "https://github.com/PyPtt/PyPtt",
-      "stars": 714
+      "stars": 715
     },
     {
       "url": "https://github.com/jackpocket/android-scratchoff",
@@ -93,8 +93,8 @@
   ],
   "count": {
     "total": 344,
-    "public": 152,
-    "private": 192,
+    "public": 151,
+    "private": 193,
     "more_than_zero_star": 63
   }
 }

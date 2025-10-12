@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 12761
+      "stars": 12798
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9637
+      "stars": 9639
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 3131
+      "stars": 3138
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
@@ -28,15 +28,15 @@
     },
     {
       "url": "https://github.com/castwide/solargraph",
-      "stars": 1980
+      "stars": 1981
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1669
+      "stars": 1668
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1200
+      "stars": 1201
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/YusukeIwaki/puppeteer-ruby",
-      "stars": 314
+      "stars": 316
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://github.com/openHPI/codeocean",
-      "stars": 69
+      "stars": 70
     },
     {
       "url": "https://github.com/Unleash/unleash-ruby-sdk",
@@ -175,12 +175,12 @@
       "stars": 13
     },
     {
-      "url": "https://github.com/ukazap/permisi",
+      "url": "https://github.com/alphagov/govuk-mobile-ios-app",
       "stars": 12
     },
     {
-      "url": "https://github.com/alphagov/govuk-mobile-ios-app",
-      "stars": 11
+      "url": "https://github.com/ukazap/permisi",
+      "stars": 12
     },
     {
       "url": "https://github.com/phac-nml/irida-next",
@@ -268,9 +268,9 @@
     }
   ],
   "count": {
-    "total": 755,
-    "public": 394,
-    "private": 361,
-    "more_than_zero_star": 152
+    "total": 756,
+    "public": 391,
+    "private": 365,
+    "more_than_zero_star": 153
   }
 }

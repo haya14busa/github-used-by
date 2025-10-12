@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8751
+      "stars": 8768
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7667
+      "stars": 7671
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1647
+      "stars": 1648
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
@@ -20,23 +20,23 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1097
+      "stars": 1101
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 1051
+      "stars": 1053
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 1042
+      "stars": 1050
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 718
+      "stars": 722
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 691
+      "stars": 694
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
@@ -44,11 +44,11 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 300
+      "stars": 301
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
-      "stars": 185
+      "stars": 186
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 129
+      "stars": 132
     },
     {
       "url": "https://github.com/mszostok/version",
@@ -96,7 +96,7 @@
     },
     {
       "url": "https://github.com/shopware/docs",
-      "stars": 54
+      "stars": 55
     },
     {
       "url": "https://github.com/jeertmans/rpdf",
@@ -123,20 +123,16 @@
       "stars": 27
     },
     {
+      "url": "https://github.com/dotnet-project-file-analyzers/dotnet-project-file-analyzers",
+      "stars": 20
+    },
+    {
       "url": "https://github.com/TheNeikos/type_description",
       "stars": 20
     },
     {
-      "url": "https://github.com/dotnet-project-file-analyzers/dotnet-project-file-analyzers",
-      "stars": 19
-    },
-    {
       "url": "https://github.com/hp-net/homebridge-nibe",
       "stars": 16
-    },
-    {
-      "url": "https://github.com/unknowIfGuestInDream/javafxTool",
-      "stars": 14
     },
     {
       "url": "https://github.com/hashbite/gatsby-mdx-suite",
@@ -217,8 +213,8 @@
   ],
   "count": {
     "total": 414,
-    "public": 191,
-    "private": 223,
-    "more_than_zero_star": 92
+    "public": 190,
+    "private": 224,
+    "more_than_zero_star": 91
   }
 }
