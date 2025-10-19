@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 12798
+      "stars": 12866
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9639
+      "stars": 9640
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 3138
+      "stars": 3149
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2785
+      "stars": 2786
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
@@ -28,19 +28,19 @@
     },
     {
       "url": "https://github.com/castwide/solargraph",
-      "stars": 1981
+      "stars": 1982
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1668
+      "stars": 1676
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1201
+      "stars": 1203
     },
     {
       "url": "https://github.com/k1LoW/awspec",
-      "stars": 1171
+      "stars": 1172
     },
     {
       "url": "https://github.com/activeadmin/arbre",
@@ -60,11 +60,11 @@
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
-      "stars": 209
+      "stars": 210
     },
     {
       "url": "https://github.com/vmware/dod-compliance-and-automation",
-      "stars": 177
+      "stars": 178
     },
     {
       "url": "https://github.com/ytti/oxidized-web",
@@ -167,16 +167,16 @@
       "stars": 16
     },
     {
+      "url": "https://github.com/alphagov/govuk-mobile-ios-app",
+      "stars": 14
+    },
+    {
       "url": "https://github.com/thooams/ui_bibz",
       "stars": 13
     },
     {
       "url": "https://github.com/rwx-research/rspec-abq",
       "stars": 13
-    },
-    {
-      "url": "https://github.com/alphagov/govuk-mobile-ios-app",
-      "stars": 12
     },
     {
       "url": "https://github.com/ukazap/permisi",
@@ -268,9 +268,9 @@
     }
   ],
   "count": {
-    "total": 756,
-    "public": 391,
-    "private": 365,
-    "more_than_zero_star": 153
+    "total": 757,
+    "public": 390,
+    "private": 367,
+    "more_than_zero_star": 154
   }
 }

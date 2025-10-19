@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9639
+      "stars": 9640
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8768
+      "stars": 8777
     },
     {
       "url": "https://github.com/mime-types/ruby-mime-types",
@@ -92,8 +92,8 @@
     }
   ],
   "count": {
-    "total": 64,
-    "public": 53,
+    "total": 65,
+    "public": 54,
     "private": 11,
     "more_than_zero_star": 33
   }

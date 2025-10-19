@@ -4,23 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/zeromicro/go-zero",
-      "stars": 31917
+      "stars": 31949
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8768
+      "stars": 8777
     },
     {
       "url": "https://github.com/golang-jwt/jwt",
-      "stars": 8572
-    },
-    {
-      "url": "https://github.com/cloudwego/kitex",
-      "stars": 7683
+      "stars": 8587
     },
     {
       "url": "https://github.com/drk1wi/Modlishka",
-      "stars": 5177
+      "stars": 5179
     },
     {
       "url": "https://github.com/TarsCloud/TarsGo",
@@ -28,23 +24,23 @@
     },
     {
       "url": "https://github.com/x-motemen/ghq",
-      "stars": 3305
+      "stars": 3307
     },
     {
       "url": "https://github.com/XiaoMi/Gaea",
-      "stars": 2743
+      "stars": 2748
     },
     {
       "url": "https://github.com/gookit/goutil",
-      "stars": 2279
+      "stars": 2282
     },
     {
       "url": "https://github.com/cloudwego/goref",
-      "stars": 928
+      "stars": 954
     },
     {
       "url": "https://github.com/bytedance/mockey",
-      "stars": 820
+      "stars": 821
     },
     {
       "url": "https://github.com/shomali11/slacker",
@@ -60,7 +56,7 @@
     },
     {
       "url": "https://github.com/gookit/slog",
-      "stars": 507
+      "stars": 508
     },
     {
       "url": "https://github.com/cloudwego/shmipc-go",
@@ -88,7 +84,7 @@
     },
     {
       "url": "https://github.com/openconfig/gnmic",
-      "stars": 250
+      "stars": 251
     },
     {
       "url": "https://github.com/toshimaru/nyan",
@@ -104,7 +100,7 @@
     },
     {
       "url": "https://github.com/Songmu/ecschedule",
-      "stars": 190
+      "stars": 191
     },
     {
       "url": "https://github.com/kevwan/mapreduce",
@@ -176,11 +172,11 @@
     },
     {
       "url": "https://github.com/jlucaspains/go-rest-template",
-      "stars": 90
+      "stars": 89
     },
     {
       "url": "https://github.com/Ouyangan/go-zero-annotation",
-      "stars": 88
+      "stars": 89
     },
     {
       "url": "https://github.com/gookit/ini",
@@ -196,7 +192,7 @@
     },
     {
       "url": "https://github.com/slack-io/slacker",
-      "stars": 58
+      "stars": 59
     },
     {
       "url": "https://github.com/cloudwego/gjson",
@@ -268,7 +264,7 @@
     },
     {
       "url": "https://github.com/Songmu/podbard",
-      "stars": 22
+      "stars": 23
     },
     {
       "url": "https://github.com/cloudwego/thrift-gen-validator",
@@ -401,12 +397,16 @@
     {
       "url": "https://github.com/mashiike/prepalert",
       "stars": 9
+    },
+    {
+      "url": "https://github.com/TraEalum/go-zero-mine",
+      "stars": 9
     }
   ],
   "count": {
     "total": 765,
-    "public": 457,
-    "private": 308,
-    "more_than_zero_star": 202
+    "public": 456,
+    "private": 309,
+    "more_than_zero_star": 201
   }
 }

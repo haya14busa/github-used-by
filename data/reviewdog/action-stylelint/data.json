@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/Tokyo-Metro-Gov/covid19",
-      "stars": 6226
+      "stars": 6220
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2529
+      "stars": 2536
     },
     {
       "url": "https://github.com/adobe/spectrum-web-components",
-      "stars": 1436
+      "stars": 1439
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/h3poteto/whalebird-desktop",
-      "stars": 923
+      "stars": 924
     },
     {
       "url": "https://github.com/th0th/poeticmetric",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://github.com/haya14busa/github-action-brandings",
-      "stars": 154
+      "stars": 157
     },
     {
       "url": "https://github.com/modx-pro/miniShop2",
@@ -147,10 +147,6 @@
       "stars": 9
     },
     {
-      "url": "https://github.com/hiroyuki-ichikawa/covid19",
-      "stars": 9
-    },
-    {
       "url": "https://github.com/Retsuki/covid19-ishikawa",
       "stars": 9
     },
@@ -197,8 +193,8 @@
   ],
   "count": {
     "total": 505,
-    "public": 187,
-    "private": 318,
-    "more_than_zero_star": 75
+    "public": 184,
+    "private": 321,
+    "more_than_zero_star": 73
   }
 }

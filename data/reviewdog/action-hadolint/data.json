@@ -4,59 +4,55 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 76278
+      "stars": 76423
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13794
+      "stars": 13810
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 7288
+      "stars": 7328
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 7097
+      "stars": 7119
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 4792
+      "stars": 4833
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
-      "stars": 3027
+      "stars": 3031
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 1997
+      "stars": 2005
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1770
+      "stars": 1768
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1647
+      "stars": 1650
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1395
-    },
-    {
-      "url": "https://github.com/trueforge-org/truecharts",
-      "stars": 1274
+      "stars": 1398
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 1267
+      "stars": 1270
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
-      "stars": 853
+      "stars": 856
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 486
+      "stars": 492
     },
     {
       "url": "https://github.com/K-Phoen/dark",
@@ -64,7 +60,7 @@
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
-      "stars": 395
+      "stars": 396
     },
     {
       "url": "https://github.com/KCarretto/paragon",
@@ -72,11 +68,15 @@
     },
     {
       "url": "https://github.com/openstack-exporter/openstack-exporter",
-      "stars": 236
+      "stars": 237
     },
     {
       "url": "https://github.com/bgruening/docker-galaxy",
       "stars": 233
+    },
+    {
+      "url": "https://github.com/dadrus/heimdall",
+      "stars": 212
     },
     {
       "url": "https://github.com/raspbernetes/multi-arch-images",
@@ -99,12 +99,12 @@
       "stars": 119
     },
     {
-      "url": "https://github.com/Drakkar-Software/Triangular-Arbitrage",
-      "stars": 109
+      "url": "https://github.com/vanadium23/kompanion",
+      "stars": 110
     },
     {
-      "url": "https://github.com/vanadium23/kompanion",
-      "stars": 107
+      "url": "https://github.com/Drakkar-Software/Triangular-Arbitrage",
+      "stars": 110
     },
     {
       "url": "https://github.com/haya14busa/action-bumpr",
@@ -124,7 +124,7 @@
     },
     {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
-      "stars": 80
+      "stars": 82
     },
     {
       "url": "https://github.com/ktsaou/netdata",
@@ -160,7 +160,7 @@
     },
     {
       "url": "https://github.com/haya14busa/action-update-semver",
-      "stars": 55
+      "stars": 54
     },
     {
       "url": "https://github.com/reviewdog/action-languagetool",
@@ -224,11 +224,15 @@
     },
     {
       "url": "https://github.com/AnchorFree/ssl-watch",
-      "stars": 17
+      "stars": 18
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot-Market-Making",
-      "stars": 16
+      "stars": 17
+    },
+    {
+      "url": "https://github.com/SovereignCloudStack/openstack-health-monitor",
+      "stars": 17
     },
     {
       "url": "https://github.com/flobernd/docker-minecraft-ftb",
@@ -243,16 +247,12 @@
       "stars": 16
     },
     {
-      "url": "https://github.com/SovereignCloudStack/openstack-health-monitor",
-      "stars": 16
+      "url": "https://github.com/basedosdados/backend",
+      "stars": 14
     },
     {
       "url": "https://github.com/netdata/ebpf-co-re",
       "stars": 14
-    },
-    {
-      "url": "https://github.com/basedosdados/backend",
-      "stars": 13
     },
     {
       "url": "https://github.com/tmknom/prettier",
@@ -363,6 +363,10 @@
       "stars": 8
     },
     {
+      "url": "https://github.com/precimed/mix3r",
+      "stars": 7
+    },
+    {
       "url": "https://github.com/JasperWey/MyGoTest",
       "stars": 7
     },
@@ -379,7 +383,7 @@
       "stars": 7
     },
     {
-      "url": "https://github.com/precimed/mix3r",
+      "url": "https://github.com/FluentDo/agent",
       "stars": 6
     },
     {
@@ -397,16 +401,12 @@
     {
       "url": "https://github.com/yoheimuta/action-protolint",
       "stars": 6
-    },
-    {
-      "url": "https://github.com/RJ-SMTR/mobilidade-rio-api",
-      "stars": 6
     }
   ],
   "count": {
-    "total": 2065,
-    "public": 1020,
-    "private": 1045,
-    "more_than_zero_star": 288
+    "total": 2069,
+    "public": 1015,
+    "private": 1054,
+    "more_than_zero_star": 289
   }
 }

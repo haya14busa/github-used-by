@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 414 | 190 | 224 | 91 |
+| 415 | 191 | 224 | 92 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-languagetool/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-languagetool)
@@ -21,18 +21,18 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|8768|
-|2|<img src="https://github.com/easymotion.png" width=50 height=50>|https://github.com/easymotion/vim-easymotion|7671|
-|3|<img src="https://github.com/vdaas.png" width=50 height=50>|https://github.com/vdaas/vald|1648|
-|4|<img src="https://github.com/markuspoerschke.png" width=50 height=50>|https://github.com/markuspoerschke/iCal|1157|
-|5|<img src="https://github.com/latchset.png" width=50 height=50>|https://github.com/latchset/clevis|1101|
-|6|<img src="https://github.com/tuono-labs.png" width=50 height=50>|https://github.com/tuono-labs/tuono|1053|
-|7|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/CircuitVerse|1050|
+|1|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|8777|
+|2|<img src="https://github.com/easymotion.png" width=50 height=50>|https://github.com/easymotion/vim-easymotion|7672|
+|3|<img src="https://github.com/vdaas.png" width=50 height=50>|https://github.com/vdaas/vald|1650|
+|4|<img src="https://github.com/markuspoerschke.png" width=50 height=50>|https://github.com/markuspoerschke/iCal|1158|
+|5|<img src="https://github.com/latchset.png" width=50 height=50>|https://github.com/latchset/clevis|1103|
+|6|<img src="https://github.com/tuono-labs.png" width=50 height=50>|https://github.com/tuono-labs/tuono|1058|
+|7|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/CircuitVerse|1051|
 |8|<img src="https://github.com/swiftwave-org.png" width=50 height=50>|https://github.com/swiftwave-org/swiftwave|722|
-|9|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/manim-slides|694|
-|10|<img src="https://github.com/ipfs.png" width=50 height=50>|https://github.com/ipfs/ipfs-docs|323|
-|11|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|301|
-|12|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/languagetool-rust|186|
+|9|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/manim-slides|696|
+|10|<img src="https://github.com/ipfs.png" width=50 height=50>|https://github.com/ipfs/ipfs-docs|324|
+|11|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|302|
+|12|<img src="https://github.com/jeertmans.png" width=50 height=50>|https://github.com/jeertmans/languagetool-rust|187|
 |13|<img src="https://github.com/openhab.png" width=50 height=50>|https://github.com/openhab/openhab-google-assistant|173|
 |14|<img src="https://github.com/CircuitVerse.png" width=50 height=50>|https://github.com/CircuitVerse/Interactive-Book|150|
 |15|<img src="https://github.com/leandro-lugaresi.png" width=50 height=50>|https://github.com/leandro-lugaresi/hub|147|

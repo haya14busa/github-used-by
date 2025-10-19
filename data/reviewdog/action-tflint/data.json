@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1769
+      "stars": 1768
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 1164
+      "stars": 1170
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 592
+      "stars": 595
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
@@ -20,15 +20,15 @@
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 557
+      "stars": 561
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 231
+      "stars": 233
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 227
+      "stars": 231
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -55,12 +55,12 @@
       "stars": 34
     },
     {
-      "url": "https://github.com/timoa/terraform-oci-vscode-server",
+      "url": "https://github.com/chainguard-dev/terraform-infra-common",
       "stars": 27
     },
     {
-      "url": "https://github.com/chainguard-dev/terraform-infra-common",
-      "stars": 26
+      "url": "https://github.com/timoa/terraform-oci-vscode-server",
+      "stars": 27
     },
     {
       "url": "https://github.com/rhythmictech/terraform-aws-imagebuilder-pipeline",
@@ -211,6 +211,10 @@
       "stars": 6
     },
     {
+      "url": "https://github.com/aztfmodnew/terraform-azurerm-caf",
+      "stars": 5
+    },
+    {
       "url": "https://github.com/rhythmictech/terraform-aws-datadog",
       "stars": 5
     },
@@ -224,9 +228,9 @@
     }
   ],
   "count": {
-    "total": 678,
+    "total": 679,
     "public": 319,
-    "private": 359,
-    "more_than_zero_star": 134
+    "private": 360,
+    "more_than_zero_star": 135
   }
 }

@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 756 | 391 | 365 | 153 |
+| 757 | 390 | 367 | 154 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-rubocop/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-rubocop)
@@ -21,22 +21,22 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/opf.png" width=50 height=50>|https://github.com/opf/openproject|12798|
-|2|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9639|
-|3|<img src="https://github.com/ytti.png" width=50 height=50>|https://github.com/ytti/oxidized|3138|
-|4|<img src="https://github.com/CartoDB.png" width=50 height=50>|https://github.com/CartoDB/cartodb|2785|
+|1|<img src="https://github.com/opf.png" width=50 height=50>|https://github.com/opf/openproject|12866|
+|2|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9640|
+|3|<img src="https://github.com/ytti.png" width=50 height=50>|https://github.com/ytti/oxidized|3149|
+|4|<img src="https://github.com/CartoDB.png" width=50 height=50>|https://github.com/CartoDB/cartodb|2786|
 |5|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/inherited_resources|2705|
 |6|<img src="https://github.com/chromebrew.png" width=50 height=50>|https://github.com/chromebrew/chromebrew|2421|
-|7|<img src="https://github.com/castwide.png" width=50 height=50>|https://github.com/castwide/solargraph|1981|
-|8|<img src="https://github.com/otwcode.png" width=50 height=50>|https://github.com/otwcode/otwarchive|1668|
-|9|<img src="https://github.com/openfoodfoundation.png" width=50 height=50>|https://github.com/openfoodfoundation/openfoodnetwork|1201|
-|10|<img src="https://github.com/k1LoW.png" width=50 height=50>|https://github.com/k1LoW/awspec|1171|
+|7|<img src="https://github.com/castwide.png" width=50 height=50>|https://github.com/castwide/solargraph|1982|
+|8|<img src="https://github.com/otwcode.png" width=50 height=50>|https://github.com/otwcode/otwarchive|1676|
+|9|<img src="https://github.com/openfoodfoundation.png" width=50 height=50>|https://github.com/openfoodfoundation/openfoodnetwork|1203|
+|10|<img src="https://github.com/k1LoW.png" width=50 height=50>|https://github.com/k1LoW/awspec|1172|
 |11|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/arbre|784|
 |12|<img src="https://github.com/zilverline.png" width=50 height=50>|https://github.com/zilverline/sequent|554|
 |13|<img src="https://github.com/mysociety.png" width=50 height=50>|https://github.com/mysociety/alaveteli|407|
 |14|<img src="https://github.com/YusukeIwaki.png" width=50 height=50>|https://github.com/YusukeIwaki/puppeteer-ruby|316|
-|15|<img src="https://github.com/Strech.png" width=50 height=50>|https://github.com/Strech/sidekiq-prometheus-exporter|209|
-|16|<img src="https://github.com/vmware.png" width=50 height=50>|https://github.com/vmware/dod-compliance-and-automation|177|
+|15|<img src="https://github.com/Strech.png" width=50 height=50>|https://github.com/Strech/sidekiq-prometheus-exporter|210|
+|16|<img src="https://github.com/vmware.png" width=50 height=50>|https://github.com/vmware/dod-compliance-and-automation|178|
 |17|<img src="https://github.com/ytti.png" width=50 height=50>|https://github.com/ytti/oxidized-web|137|
 |18|<img src="https://github.com/chanzuckerberg.png" width=50 height=50>|https://github.com/chanzuckerberg/czid-web|86|
 |19|<img src="https://github.com/GetStream.png" width=50 height=50>|https://github.com/GetStream/stream-ruby|85|
@@ -62,9 +62,9 @@
 |39|<img src="https://github.com/RaiderHQ.png" width=50 height=50>|https://github.com/RaiderHQ/ruby_raider|17|
 |40|<img src="https://github.com/mihailpozarski.png" width=50 height=50>|https://github.com/mihailpozarski/chilean-rutify|16|
 |41|<img src="https://github.com/oddcamp.png" width=50 height=50>|https://github.com/oddcamp/mrml-rails|16|
-|42|<img src="https://github.com/thooams.png" width=50 height=50>|https://github.com/thooams/ui_bibz|13|
-|43|<img src="https://github.com/rwx-research.png" width=50 height=50>|https://github.com/rwx-research/rspec-abq|13|
-|44|<img src="https://github.com/alphagov.png" width=50 height=50>|https://github.com/alphagov/govuk-mobile-ios-app|12|
+|42|<img src="https://github.com/alphagov.png" width=50 height=50>|https://github.com/alphagov/govuk-mobile-ios-app|14|
+|43|<img src="https://github.com/thooams.png" width=50 height=50>|https://github.com/thooams/ui_bibz|13|
+|44|<img src="https://github.com/rwx-research.png" width=50 height=50>|https://github.com/rwx-research/rspec-abq|13|
 |45|<img src="https://github.com/ukazap.png" width=50 height=50>|https://github.com/ukazap/permisi|12|
 |46|<img src="https://github.com/phac-nml.png" width=50 height=50>|https://github.com/phac-nml/irida-next|11|
 |47|<img src="https://github.com/eScholarship.png" width=50 height=50>|https://github.com/eScholarship/jschol|10|
