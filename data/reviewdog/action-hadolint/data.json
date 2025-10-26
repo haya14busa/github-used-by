@@ -4,35 +4,51 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 76423
+      "stars": 76490
+    },
+    {
+      "url": "https://github.com/dockur/windows",
+      "stars": 47955
+    },
+    {
+      "url": "https://github.com/dockur/macos",
+      "stars": 17617
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13810
+      "stars": 13822
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 7328
+      "stars": 7344
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 7119
+      "stars": 7135
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 4833
+      "stars": 4873
+    },
+    {
+      "url": "https://github.com/vdsm/virtual-dsm",
+      "stars": 3432
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
-      "stars": 3031
+      "stars": 3034
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 2005
+      "stars": 2014
+    },
+    {
+      "url": "https://github.com/dockur/windows-arm",
+      "stars": 1950
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1768
+      "stars": 1769
     },
     {
       "url": "https://github.com/vdaas/vald",
@@ -40,15 +56,23 @@
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1398
+      "stars": 1402
+    },
+    {
+      "url": "https://github.com/qemus/qemu",
+      "stars": 1274
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 1270
+      "stars": 1272
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
       "stars": 856
+    },
+    {
+      "url": "https://github.com/dockur/samba",
+      "stars": 515
     },
     {
       "url": "https://github.com/opentibiabr/canary",
@@ -60,7 +84,11 @@
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
-      "stars": 396
+      "stars": 397
+    },
+    {
+      "url": "https://github.com/dockur/umbrel",
+      "stars": 317
     },
     {
       "url": "https://github.com/KCarretto/paragon",
@@ -87,23 +115,35 @@
       "stars": 166
     },
     {
+      "url": "https://github.com/qemus/qemu-arm",
+      "stars": 160
+    },
+    {
       "url": "https://github.com/aerospike/aerospike-server.docker",
       "stars": 144
     },
     {
+      "url": "https://github.com/dockur/casa",
+      "stars": 133
+    },
+    {
       "url": "https://github.com/timoa/app-stores-prometheus-exporter",
-      "stars": 121
+      "stars": 122
     },
     {
       "url": "https://github.com/filipowm/BooGi",
       "stars": 119
     },
     {
-      "url": "https://github.com/vanadium23/kompanion",
-      "stars": 110
+      "url": "https://github.com/dockur/dnsmasq",
+      "stars": 111
     },
     {
       "url": "https://github.com/Drakkar-Software/Triangular-Arbitrage",
+      "stars": 111
+    },
+    {
+      "url": "https://github.com/vanadium23/kompanion",
       "stars": 110
     },
     {
@@ -136,7 +176,11 @@
     },
     {
       "url": "https://github.com/akunzai/GSS.Authentication.CAS",
-      "stars": 71
+      "stars": 72
+    },
+    {
+      "url": "https://github.com/dockur/chrony",
+      "stars": 69
     },
     {
       "url": "https://github.com/kscarlett/nginx-log-generator",
@@ -148,7 +192,7 @@
     },
     {
       "url": "https://github.com/netdata/kernel-collector",
-      "stars": 64
+      "stars": 65
     },
     {
       "url": "https://github.com/jiro4989/build-deb-action",
@@ -180,7 +224,11 @@
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot-Script",
-      "stars": 34
+      "stars": 36
+    },
+    {
+      "url": "https://github.com/dockur/munin",
+      "stars": 32
     },
     {
       "url": "https://github.com/dbelyaev/action-checkstyle",
@@ -220,15 +268,15 @@
     },
     {
       "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
+      "stars": 20
+    },
+    {
+      "url": "https://github.com/Drakkar-Software/OctoBot-Market-Making",
       "stars": 19
     },
     {
       "url": "https://github.com/AnchorFree/ssl-watch",
       "stars": 18
-    },
-    {
-      "url": "https://github.com/Drakkar-Software/OctoBot-Market-Making",
-      "stars": 17
     },
     {
       "url": "https://github.com/SovereignCloudStack/openstack-health-monitor",
@@ -303,6 +351,10 @@
       "stars": 11
     },
     {
+      "url": "https://github.com/mobilecoinofficial/gha-runner",
+      "stars": 10
+    },
+    {
       "url": "https://github.com/ccdc-opensource/science-paper-rf-machine-learned-scoring-2022",
       "stars": 10
     },
@@ -327,10 +379,6 @@
       "stars": 9
     },
     {
-      "url": "https://github.com/mobilecoinofficial/gha-runner",
-      "stars": 9
-    },
-    {
       "url": "https://github.com/sammcj/smart_diskinfo",
       "stars": 9
     },
@@ -339,15 +387,11 @@
       "stars": 9
     },
     {
-      "url": "https://github.com/chronosphereio/calyptia-plugin",
-      "stars": 9
-    },
-    {
-      "url": "https://github.com/fluent/fluent-bit-ci",
-      "stars": 9
-    },
-    {
       "url": "https://github.com/srz-zumix/docker-googletest",
+      "stars": 8
+    },
+    {
+      "url": "https://github.com/chronosphereio/calyptia-plugin",
       "stars": 8
     },
     {
@@ -357,56 +401,12 @@
     {
       "url": "https://github.com/reviewdog/action-alex",
       "stars": 8
-    },
-    {
-      "url": "https://github.com/netdata/helper-images",
-      "stars": 8
-    },
-    {
-      "url": "https://github.com/precimed/mix3r",
-      "stars": 7
-    },
-    {
-      "url": "https://github.com/JasperWey/MyGoTest",
-      "stars": 7
-    },
-    {
-      "url": "https://github.com/rickstaa/action-contains-tag",
-      "stars": 7
-    },
-    {
-      "url": "https://github.com/hrysd/action-php_codesniffer",
-      "stars": 7
-    },
-    {
-      "url": "https://github.com/deyaeddin/cert-manager-webhook-hetzner",
-      "stars": 7
-    },
-    {
-      "url": "https://github.com/FluentDo/agent",
-      "stars": 6
-    },
-    {
-      "url": "https://github.com/sammcj/Ender-3-V2-Neo",
-      "stars": 6
-    },
-    {
-      "url": "https://github.com/HollowMan6/sarif4reviewdog",
-      "stars": 6
-    },
-    {
-      "url": "https://github.com/btkostner/jumar",
-      "stars": 6
-    },
-    {
-      "url": "https://github.com/yoheimuta/action-protolint",
-      "stars": 6
     }
   ],
   "count": {
-    "total": 2069,
-    "public": 1015,
-    "private": 1054,
-    "more_than_zero_star": 289
+    "total": 2088,
+    "public": 1033,
+    "private": 1055,
+    "more_than_zero_star": 302
   }
 }

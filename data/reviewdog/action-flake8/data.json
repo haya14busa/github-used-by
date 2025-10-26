@@ -4,27 +4,27 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 76423
+      "stars": 76490
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7348
+      "stars": 7361
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
-      "stars": 883
+      "stars": 882
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 741
+      "stars": 745
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 586
+      "stars": 587
     },
     {
       "url": "https://github.com/lavenderdotpet/LibreQuake",
-      "stars": 577
+      "stars": 583
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
-      "stars": 139
+      "stars": 142
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
@@ -60,15 +60,15 @@
     },
     {
       "url": "https://github.com/ehpor/hcipy",
-      "stars": 123
+      "stars": 125
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
-      "stars": 112
+      "stars": 113
     },
     {
       "url": "https://github.com/ydb-platform/nbs",
-      "stars": 86
+      "stars": 88
     },
     {
       "url": "https://github.com/LFPy/LFPy",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://github.com/f0uriest/quadax",
-      "stars": 71
+      "stars": 72
     },
     {
       "url": "https://github.com/oracle/adaptivemm",
@@ -128,19 +128,19 @@
     },
     {
       "url": "https://github.com/DirtyRacer1337/PhoenixAdult.bundle",
-      "stars": 24
+      "stars": 23
     },
     {
       "url": "https://github.com/arkedge/c2a-core",
       "stars": 21
     },
     {
-      "url": "https://github.com/danishi/dynamodb-csv",
+      "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
       "stars": 20
     },
     {
-      "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
-      "stars": 19
+      "url": "https://github.com/danishi/dynamodb-csv",
+      "stars": 20
     },
     {
       "url": "https://github.com/nnsnodnb/kalyke",
@@ -180,7 +180,7 @@
     },
     {
       "url": "https://github.com/BedrockStreaming/hsdo",
-      "stars": 7
+      "stars": 8
     },
     {
       "url": "https://github.com/Police-Data-Accessibility-Project/data-source-manager",
@@ -216,9 +216,9 @@
     }
   ],
   "count": {
-    "total": 541,
-    "public": 322,
-    "private": 219,
+    "total": 542,
+    "public": 320,
+    "private": 222,
     "more_than_zero_star": 121
   }
 }

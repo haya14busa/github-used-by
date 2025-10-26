@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 12866
+      "stars": 12923
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9640
+      "stars": 9642
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 3149
+      "stars": 3157
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2786
+      "stars": 2785
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
@@ -24,23 +24,23 @@
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2421
+      "stars": 2422
     },
     {
       "url": "https://github.com/castwide/solargraph",
-      "stars": 1982
+      "stars": 1981
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1676
+      "stars": 1685
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1203
+      "stars": 1205
     },
     {
       "url": "https://github.com/k1LoW/awspec",
-      "stars": 1172
+      "stars": 1171
     },
     {
       "url": "https://github.com/activeadmin/arbre",
@@ -52,11 +52,11 @@
     },
     {
       "url": "https://github.com/mysociety/alaveteli",
-      "stars": 407
+      "stars": 408
     },
     {
       "url": "https://github.com/YusukeIwaki/puppeteer-ruby",
-      "stars": 316
+      "stars": 319
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
@@ -268,9 +268,9 @@
     }
   ],
   "count": {
-    "total": 757,
-    "public": 390,
-    "private": 367,
+    "total": 759,
+    "public": 388,
+    "private": 371,
     "more_than_zero_star": 154
   }
 }

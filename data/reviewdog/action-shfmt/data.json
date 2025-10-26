@@ -3,12 +3,40 @@
   "repo": "action-shfmt",
   "repos": [
     {
+      "url": "https://github.com/dockur/windows",
+      "stars": 47955
+    },
+    {
+      "url": "https://github.com/dockur/macos",
+      "stars": 17617
+    },
+    {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 4417
+      "stars": 4448
+    },
+    {
+      "url": "https://github.com/vdsm/virtual-dsm",
+      "stars": 3432
+    },
+    {
+      "url": "https://github.com/dockur/windows-arm",
+      "stars": 1950
+    },
+    {
+      "url": "https://github.com/qemus/qemu",
+      "stars": 1274
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 1109
+      "stars": 1119
+    },
+    {
+      "url": "https://github.com/dockur/samba",
+      "stars": 515
+    },
+    {
+      "url": "https://github.com/dockur/umbrel",
+      "stars": 317
     },
     {
       "url": "https://github.com/Shemnei/punktf",
@@ -19,8 +47,20 @@
       "stars": 189
     },
     {
+      "url": "https://github.com/qemus/qemu-arm",
+      "stars": 160
+    },
+    {
       "url": "https://github.com/aerospike/aerospike-server.docker",
       "stars": 144
+    },
+    {
+      "url": "https://github.com/dockur/casa",
+      "stars": 133
+    },
+    {
+      "url": "https://github.com/dockur/dnsmasq",
+      "stars": 111
     },
     {
       "url": "https://github.com/jiro4989/setup-nim-action",
@@ -39,6 +79,10 @@
       "stars": 70
     },
     {
+      "url": "https://github.com/dockur/chrony",
+      "stars": 69
+    },
+    {
       "url": "https://github.com/lure-sh/lure-repo",
       "stars": 58
     },
@@ -49,6 +93,10 @@
     {
       "url": "https://github.com/mongolyy/reviewdog-action-biome",
       "stars": 47
+    },
+    {
+      "url": "https://github.com/dockur/munin",
+      "stars": 32
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-tsc",
@@ -100,9 +148,9 @@
     }
   ],
   "count": {
-    "total": 202,
-    "public": 103,
+    "total": 217,
+    "public": 118,
     "private": 99,
-    "more_than_zero_star": 45
+    "more_than_zero_star": 57
   }
 }
