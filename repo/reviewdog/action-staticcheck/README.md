@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 765 | 455 | 310 | 201 |
+| 767 | 455 | 312 | 201 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-staticcheck/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-staticcheck)
@@ -21,31 +21,31 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/zeromicro.png" width=50 height=50>|https://github.com/zeromicro/go-zero|31989|
-|2|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|8796|
-|3|<img src="https://github.com/golang-jwt.png" width=50 height=50>|https://github.com/golang-jwt/jwt|8610|
-|4|<img src="https://github.com/drk1wi.png" width=50 height=50>|https://github.com/drk1wi/Modlishka|5184|
-|5|<img src="https://github.com/TarsCloud.png" width=50 height=50>|https://github.com/TarsCloud/TarsGo|3364|
-|6|<img src="https://github.com/x-motemen.png" width=50 height=50>|https://github.com/x-motemen/ghq|3314|
-|7|<img src="https://github.com/XiaoMi.png" width=50 height=50>|https://github.com/XiaoMi/Gaea|2750|
-|8|<img src="https://github.com/gookit.png" width=50 height=50>|https://github.com/gookit/goutil|2287|
-|9|<img src="https://github.com/cloudwego.png" width=50 height=50>|https://github.com/cloudwego/goref|957|
-|10|<img src="https://github.com/bytedance.png" width=50 height=50>|https://github.com/bytedance/mockey|825|
+|1|<img src="https://github.com/zeromicro.png" width=50 height=50>|https://github.com/zeromicro/go-zero|32034|
+|2|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|8806|
+|3|<img src="https://github.com/golang-jwt.png" width=50 height=50>|https://github.com/golang-jwt/jwt|8633|
+|4|<img src="https://github.com/drk1wi.png" width=50 height=50>|https://github.com/drk1wi/Modlishka|5198|
+|5|<img src="https://github.com/TarsCloud.png" width=50 height=50>|https://github.com/TarsCloud/TarsGo|3365|
+|6|<img src="https://github.com/x-motemen.png" width=50 height=50>|https://github.com/x-motemen/ghq|3317|
+|7|<img src="https://github.com/XiaoMi.png" width=50 height=50>|https://github.com/XiaoMi/Gaea|2751|
+|8|<img src="https://github.com/gookit.png" width=50 height=50>|https://github.com/gookit/goutil|2291|
+|9|<img src="https://github.com/cloudwego.png" width=50 height=50>|https://github.com/cloudwego/goref|956|
+|10|<img src="https://github.com/bytedance.png" width=50 height=50>|https://github.com/bytedance/mockey|828|
 |11|<img src="https://github.com/shomali11.png" width=50 height=50>|https://github.com/shomali11/slacker|806|
 |12|<img src="https://github.com/gookit.png" width=50 height=50>|https://github.com/gookit/config|570|
 |13|<img src="https://github.com/gookit.png" width=50 height=50>|https://github.com/gookit/event|563|
-|14|<img src="https://github.com/gookit.png" width=50 height=50>|https://github.com/gookit/slog|510|
-|15|<img src="https://github.com/cloudwego.png" width=50 height=50>|https://github.com/cloudwego/shmipc-go|485|
+|14|<img src="https://github.com/gookit.png" width=50 height=50>|https://github.com/gookit/slog|511|
+|15|<img src="https://github.com/cloudwego.png" width=50 height=50>|https://github.com/cloudwego/shmipc-go|486|
 |16|<img src="https://github.com/cloudwego.png" width=50 height=50>|https://github.com/cloudwego/kitex-examples|412|
 |17|<img src="https://github.com/gookit.png" width=50 height=50>|https://github.com/gookit/gcli|377|
 |18|<img src="https://github.com/arana-db.png" width=50 height=50>|https://github.com/arana-db/arana|300|
 |19|<img src="https://github.com/chenquan.png" width=50 height=50>|https://github.com/chenquan/diskusage|294|
-|20|<img src="https://github.com/Songmu.png" width=50 height=50>|https://github.com/Songmu/tagpr|256|
-|21|<img src="https://github.com/openconfig.png" width=50 height=50>|https://github.com/openconfig/gnmic|254|
+|20|<img src="https://github.com/Songmu.png" width=50 height=50>|https://github.com/Songmu/tagpr|257|
+|21|<img src="https://github.com/openconfig.png" width=50 height=50>|https://github.com/openconfig/gnmic|255|
 |22|<img src="https://github.com/toshimaru.png" width=50 height=50>|https://github.com/toshimaru/nyan|225|
 |23|<img src="https://github.com/karimra.png" width=50 height=50>|https://github.com/karimra/gnmic|221|
 |24|<img src="https://github.com/gookit.png" width=50 height=50>|https://github.com/gookit/cache|199|
-|25|<img src="https://github.com/Songmu.png" width=50 height=50>|https://github.com/Songmu/ecschedule|192|
+|25|<img src="https://github.com/Songmu.png" width=50 height=50>|https://github.com/Songmu/ecschedule|193|
 |26|<img src="https://github.com/kevwan.png" width=50 height=50>|https://github.com/kevwan/mapreduce|174|
 |27|<img src="https://github.com/airbusgeo.png" width=50 height=50>|https://github.com/airbusgeo/godal|172|
 |28|<img src="https://github.com/x-motemen.png" width=50 height=50>|https://github.com/x-motemen/blogsync|165|
@@ -55,9 +55,9 @@
 |32|<img src="https://github.com/leandro-lugaresi.png" width=50 height=50>|https://github.com/leandro-lugaresi/hub|147|
 |33|<img src="https://github.com/cloudwego.png" width=50 height=50>|https://github.com/cloudwego/frugal|127|
 |34|<img src="https://github.com/moke-game.png" width=50 height=50>|https://github.com/moke-game/platform|127|
-|35|<img src="https://github.com/go-gorm.png" width=50 height=50>|https://github.com/go-gorm/opentelemetry|126|
+|35|<img src="https://github.com/go-gorm.png" width=50 height=50>|https://github.com/go-gorm/opentelemetry|127|
 |36|<img src="https://github.com/Songmu.png" width=50 height=50>|https://github.com/Songmu/gocredits|113|
-|37|<img src="https://github.com/cloudwego.png" width=50 height=50>|https://github.com/cloudwego/fastpb|102|
+|37|<img src="https://github.com/cloudwego.png" width=50 height=50>|https://github.com/cloudwego/fastpb|103|
 |38|<img src="https://github.com/Songmu.png" width=50 height=50>|https://github.com/Songmu/ghg|98|
 |39|<img src="https://github.com/gookit.png" width=50 height=50>|https://github.com/gookit/rux|97|
 |40|<img src="https://github.com/GStones.png" width=50 height=50>|https://github.com/GStones/moke-kit|96|
@@ -75,10 +75,10 @@
 |52|<img src="https://github.com/meiraka.png" width=50 height=50>|https://github.com/meiraka/vv|41|
 |53|<img src="https://github.com/moke-game.png" width=50 height=50>|https://github.com/moke-game/game|38|
 |54|<img src="https://github.com/kitex-contrib.png" width=50 height=50>|https://github.com/kitex-contrib/xds|36|
-|55|<img src="https://github.com/hertz-contrib.png" width=50 height=50>|https://github.com/hertz-contrib/swagger|35|
-|56|<img src="https://github.com/brunopadz.png" width=50 height=50>|https://github.com/brunopadz/amictl|35|
-|57|<img src="https://github.com/golang-jwt.png" width=50 height=50>|https://github.com/golang-jwt/jwe|34|
-|58|<img src="https://github.com/hertz-contrib.png" width=50 height=50>|https://github.com/hertz-contrib/obs-opentelemetry|34|
+|55|<img src="https://github.com/golang-jwt.png" width=50 height=50>|https://github.com/golang-jwt/jwe|35|
+|56|<img src="https://github.com/hertz-contrib.png" width=50 height=50>|https://github.com/hertz-contrib/obs-opentelemetry|35|
+|57|<img src="https://github.com/hertz-contrib.png" width=50 height=50>|https://github.com/hertz-contrib/swagger|35|
+|58|<img src="https://github.com/brunopadz.png" width=50 height=50>|https://github.com/brunopadz/amictl|35|
 |59|<img src="https://github.com/hertz-contrib.png" width=50 height=50>|https://github.com/hertz-contrib/jwt|34|
 |60|<img src="https://github.com/empathyco.png" width=50 height=50>|https://github.com/empathyco/kubernetes-cost-report|29|
 |61|<img src="https://github.com/gookit.png" width=50 height=50>|https://github.com/gookit/gitw|27|
@@ -87,8 +87,8 @@
 |64|<img src="https://github.com/kitex-contrib.png" width=50 height=50>|https://github.com/kitex-contrib/kitexcall|24|
 |65|<img src="https://github.com/bogosj.png" width=50 height=50>|https://github.com/bogosj/tesla|24|
 |66|<img src="https://github.com/Songmu.png" width=50 height=50>|https://github.com/Songmu/podbard|23|
-|67|<img src="https://github.com/cloudwego.png" width=50 height=50>|https://github.com/cloudwego/thrift-gen-validator|22|
-|68|<img src="https://github.com/kitex-contrib.png" width=50 height=50>|https://github.com/kitex-contrib/monitor-prometheus|22|
+|67|<img src="https://github.com/kitex-contrib.png" width=50 height=50>|https://github.com/kitex-contrib/monitor-prometheus|23|
+|68|<img src="https://github.com/cloudwego.png" width=50 height=50>|https://github.com/cloudwego/thrift-gen-validator|22|
 |69|<img src="https://github.com/cloudwego.png" width=50 height=50>|https://github.com/cloudwego/gopkg|21|
 |70|<img src="https://github.com/hertz-contrib.png" width=50 height=50>|https://github.com/hertz-contrib/reverseproxy|21|
 |71|<img src="https://github.com/kitex-contrib.png" width=50 height=50>|https://github.com/kitex-contrib/registry-etcd|20|

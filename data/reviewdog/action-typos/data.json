@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9642
+      "stars": 9645
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8796
+      "stars": 8806
     },
     {
       "url": "https://github.com/mime-types/ruby-mime-types",
@@ -16,7 +16,7 @@
     },
     {
       "url": "https://github.com/halostatue/diff-lcs",
-      "stars": 296
+      "stars": 298
     },
     {
       "url": "https://github.com/halostatue/color",
@@ -51,6 +51,10 @@
       "stars": 17
     },
     {
+      "url": "https://github.com/halostatue/fish-brew",
+      "stars": 12
+    },
+    {
       "url": "https://github.com/svelte-docgen/svelte-docgen",
       "stars": 12
     },
@@ -60,10 +64,6 @@
     },
     {
       "url": "https://github.com/halostatue/fish-haskell",
-      "stars": 11
-    },
-    {
-      "url": "https://github.com/halostatue/fish-brew",
       "stars": 11
     },
     {
@@ -95,6 +95,6 @@
     "total": 65,
     "public": 54,
     "private": 11,
-    "more_than_zero_star": 33
+    "more_than_zero_star": 34
   }
 }

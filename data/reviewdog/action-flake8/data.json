@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 76490
+      "stars": 76551
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7361
+      "stars": 7366
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -16,7 +16,7 @@
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 745
+      "stars": 749
     },
     {
       "url": "https://github.com/simpeg/simpeg",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/lavenderdotpet/LibreQuake",
-      "stars": 583
+      "stars": 586
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
@@ -40,11 +40,11 @@
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
-      "stars": 226
+      "stars": 229
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 225
+      "stars": 226
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
-      "stars": 126
+      "stars": 127
     },
     {
       "url": "https://github.com/ehpor/hcipy",
@@ -68,7 +68,7 @@
     },
     {
       "url": "https://github.com/ydb-platform/nbs",
-      "stars": 88
+      "stars": 89
     },
     {
       "url": "https://github.com/LFPy/LFPy",
@@ -87,11 +87,11 @@
       "stars": 72
     },
     {
-      "url": "https://github.com/oracle/adaptivemm",
-      "stars": 67
+      "url": "https://github.com/ThePornDatabase/scrapers",
+      "stars": 68
     },
     {
-      "url": "https://github.com/ThePornDatabase/scrapers",
+      "url": "https://github.com/oracle/adaptivemm",
       "stars": 67
     },
     {
@@ -112,7 +112,7 @@
     },
     {
       "url": "https://github.com/NebularNerd/subtotxt",
-      "stars": 30
+      "stars": 31
     },
     {
       "url": "https://github.com/comorment/containers",
@@ -172,7 +172,7 @@
     },
     {
       "url": "https://github.com/ccdc-opensource/science-paper-rf-machine-learned-scoring-2022",
-      "stars": 10
+      "stars": 11
     },
     {
       "url": "https://github.com/stackabletech/spark-operator",
@@ -217,8 +217,8 @@
   ],
   "count": {
     "total": 542,
-    "public": 320,
-    "private": 222,
-    "more_than_zero_star": 121
+    "public": 317,
+    "private": 225,
+    "more_than_zero_star": 120
   }
 }

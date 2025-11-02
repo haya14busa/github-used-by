@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 12923
+      "stars": 13015
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9642
+      "stars": 9645
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 3157
+      "stars": 3165
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2785
+      "stars": 2786
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
@@ -24,19 +24,19 @@
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2422
+      "stars": 2423
     },
     {
       "url": "https://github.com/castwide/solargraph",
-      "stars": 1981
+      "stars": 1982
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1685
+      "stars": 1692
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1205
+      "stars": 1203
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -44,19 +44,19 @@
     },
     {
       "url": "https://github.com/activeadmin/arbre",
-      "stars": 784
+      "stars": 786
     },
     {
       "url": "https://github.com/zilverline/sequent",
-      "stars": 554
+      "stars": 555
     },
     {
       "url": "https://github.com/mysociety/alaveteli",
-      "stars": 408
+      "stars": 406
     },
     {
       "url": "https://github.com/YusukeIwaki/puppeteer-ruby",
-      "stars": 319
+      "stars": 317
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/vmware/dod-compliance-and-automation",
-      "stars": 178
+      "stars": 180
     },
     {
       "url": "https://github.com/ytti/oxidized-web",
@@ -80,11 +80,11 @@
     },
     {
       "url": "https://github.com/Drieam/rspec-github",
-      "stars": 78
+      "stars": 79
     },
     {
       "url": "https://github.com/openHPI/codeocean",
-      "stars": 70
+      "stars": 71
     },
     {
       "url": "https://github.com/Unleash/unleash-ruby-sdk",
@@ -171,11 +171,11 @@
       "stars": 14
     },
     {
-      "url": "https://github.com/thooams/ui_bibz",
-      "stars": 13
+      "url": "https://github.com/rwx-research/rspec-abq",
+      "stars": 14
     },
     {
-      "url": "https://github.com/rwx-research/rspec-abq",
+      "url": "https://github.com/thooams/ui_bibz",
       "stars": 13
     },
     {
@@ -231,10 +231,6 @@
       "stars": 7
     },
     {
-      "url": "https://github.com/goodscary/firstrubyfriend",
-      "stars": 6
-    },
-    {
       "url": "https://github.com/ayarotsky/rack-shield",
       "stars": 6
     },
@@ -245,6 +241,10 @@
     {
       "url": "https://github.com/StudistCorporation/scimaenaga",
       "stars": 6
+    },
+    {
+      "url": "https://github.com/goodscary/firstrubyfriend",
+      "stars": 5
     },
     {
       "url": "https://github.com/SwedbankPay/swedbank-pay-design-guide-jekyll-theme",
@@ -269,8 +269,8 @@
   ],
   "count": {
     "total": 759,
-    "public": 388,
-    "private": 371,
+    "public": 385,
+    "private": 374,
     "more_than_zero_star": 154
   }
 }

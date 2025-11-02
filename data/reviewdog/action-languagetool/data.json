@@ -4,39 +4,39 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8796
+      "stars": 8806
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7674
+      "stars": 7677
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1650
+      "stars": 1651
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1158
+      "stars": 1160
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1105
+      "stars": 1114
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 1061
+      "stars": 1065
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 1056
+      "stars": 1062
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 730
+      "stars": 735
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 698
+      "stars": 711
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
@@ -76,11 +76,11 @@
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
-      "stars": 90
+      "stars": 91
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
-      "stars": 89
+      "stars": 90
     },
     {
       "url": "https://github.com/pheature-flags/pheature-flags",
@@ -104,7 +104,7 @@
     },
     {
       "url": "https://github.com/jeertmans/DiffeRT",
-      "stars": 37
+      "stars": 38
     },
     {
       "url": "https://github.com/pkosiec/website",
@@ -112,7 +112,7 @@
     },
     {
       "url": "https://github.com/ADE-Scheduler/ADE-Scheduler",
-      "stars": 33
+      "stars": 32
     },
     {
       "url": "https://github.com/ZeroAssumptions/aide-de-camp",
@@ -141,6 +141,10 @@
     {
       "url": "https://github.com/leveeml/rabbids",
       "stars": 14
+    },
+    {
+      "url": "https://github.com/unknowIfGuestInDream/javafxTool",
+      "stars": 13
     },
     {
       "url": "https://github.com/jeertmans/manim-tutorial",

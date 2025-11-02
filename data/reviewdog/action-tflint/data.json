@@ -8,11 +8,11 @@
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 1173
+      "stars": 1179
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 597
+      "stars": 600
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
@@ -20,15 +20,15 @@
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 563
+      "stars": 564
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 234
+      "stars": 235
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 232
+      "stars": 234
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -228,8 +228,8 @@
     }
   ],
   "count": {
-    "total": 680,
-    "public": 318,
+    "total": 681,
+    "public": 319,
     "private": 362,
     "more_than_zero_star": 136
   }
