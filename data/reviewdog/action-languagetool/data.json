@@ -4,39 +4,39 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8806
+      "stars": 8815
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7677
+      "stars": 7682
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1651
+      "stars": 1657
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1160
+      "stars": 1162
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1114
+      "stars": 1116
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 1065
+      "stars": 1066
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 1062
+      "stars": 1064
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 735
+      "stars": 739
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 711
+      "stars": 712
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
-      "stars": 150
+      "stars": 151
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 133
+      "stars": 134
     },
     {
       "url": "https://github.com/mszostok/version",
@@ -216,9 +216,9 @@
     }
   ],
   "count": {
-    "total": 415,
-    "public": 191,
+    "total": 416,
+    "public": 192,
     "private": 224,
-    "more_than_zero_star": 92
+    "more_than_zero_star": 93
   }
 }

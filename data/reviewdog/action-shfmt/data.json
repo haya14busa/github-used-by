@@ -4,39 +4,39 @@
   "repos": [
     {
       "url": "https://github.com/dockur/windows",
-      "stars": 48151
+      "stars": 48425
     },
     {
       "url": "https://github.com/dockur/macos",
-      "stars": 17712
+      "stars": 17778
     },
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 4462
+      "stars": 4491
     },
     {
       "url": "https://github.com/vdsm/virtual-dsm",
-      "stars": 3440
+      "stars": 3445
     },
     {
       "url": "https://github.com/dockur/windows-arm",
-      "stars": 1955
+      "stars": 1962
     },
     {
       "url": "https://github.com/qemus/qemu",
-      "stars": 1292
+      "stars": 1310
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 1128
+      "stars": 1138
     },
     {
       "url": "https://github.com/dockur/samba",
-      "stars": 523
+      "stars": 530
     },
     {
       "url": "https://github.com/dockur/umbrel",
-      "stars": 317
+      "stars": 320
     },
     {
       "url": "https://github.com/Shemnei/punktf",
@@ -44,23 +44,23 @@
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
-      "stars": 189
+      "stars": 192
     },
     {
       "url": "https://github.com/qemus/qemu-arm",
-      "stars": 164
+      "stars": 165
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
-      "stars": 144
+      "stars": 145
     },
     {
       "url": "https://github.com/dockur/casa",
-      "stars": 135
+      "stars": 138
     },
     {
       "url": "https://github.com/dockur/dnsmasq",
-      "stars": 113
+      "stars": 114
     },
     {
       "url": "https://github.com/jiro4989/setup-nim-action",
@@ -68,19 +68,19 @@
     },
     {
       "url": "https://github.com/jonathanmorley/asdf-pnpm",
-      "stars": 91
+      "stars": 92
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
       "stars": 78
     },
     {
-      "url": "https://github.com/yu-iskw/action-sqlfluff",
-      "stars": 70
+      "url": "https://github.com/dockur/chrony",
+      "stars": 71
     },
     {
-      "url": "https://github.com/dockur/chrony",
-      "stars": 69
+      "url": "https://github.com/yu-iskw/action-sqlfluff",
+      "stars": 70
     },
     {
       "url": "https://github.com/lure-sh/lure-repo",
@@ -88,7 +88,7 @@
     },
     {
       "url": "https://github.com/mongolyy/reviewdog-action-biome",
-      "stars": 48
+      "stars": 50
     },
     {
       "url": "https://github.com/sksat/compose-cd",
@@ -100,11 +100,11 @@
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-tsc",
-      "stars": 27
+      "stars": 28
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-prettier",
-      "stars": 25
+      "stars": 26
     },
     {
       "url": "https://github.com/UmbrellaDocs/action-linkspector",
@@ -120,7 +120,7 @@
     },
     {
       "url": "https://github.com/reviewdog/action-ast-grep",
-      "stars": 8
+      "stars": 9
     },
     {
       "url": "https://github.com/sourcebot-dev/zoekt",
@@ -128,6 +128,10 @@
     },
     {
       "url": "https://github.com/reviewdog/action-typos",
+      "stars": 6
+    },
+    {
+      "url": "https://github.com/tolkonepiu/keencli",
       "stars": 6
     },
     {
@@ -139,18 +143,14 @@
       "stars": 5
     },
     {
-      "url": "https://github.com/tolkonepiu/keencli",
-      "stars": 5
-    },
-    {
       "url": "https://github.com/AMS21/Phi",
       "stars": 5
     }
   ],
   "count": {
-    "total": 222,
-    "public": 123,
+    "total": 224,
+    "public": 125,
     "private": 99,
-    "more_than_zero_star": 57
+    "more_than_zero_star": 58
   }
 }

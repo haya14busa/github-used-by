@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 76551
+      "stars": 76607
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7366
+      "stars": 7368
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -16,23 +16,23 @@
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 749
-    },
-    {
-      "url": "https://github.com/simpeg/simpeg",
-      "stars": 587
+      "stars": 751
     },
     {
       "url": "https://github.com/lavenderdotpet/LibreQuake",
-      "stars": 586
+      "stars": 595
+    },
+    {
+      "url": "https://github.com/simpeg/simpeg",
+      "stars": 590
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
-      "stars": 550
+      "stars": 548
     },
     {
       "url": "https://github.com/PersiaML/PERSIA",
-      "stars": 409
+      "stars": 410
     },
     {
       "url": "https://github.com/PAhelper/PhoenixAdult.bundle",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
-      "stars": 229
+      "stars": 231
     },
     {
       "url": "https://github.com/f0uriest/interpax",
@@ -52,11 +52,11 @@
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
-      "stars": 142
+      "stars": 143
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
-      "stars": 127
+      "stars": 134
     },
     {
       "url": "https://github.com/ehpor/hcipy",
@@ -99,12 +99,12 @@
       "stars": 55
     },
     {
-      "url": "https://github.com/michaelthomasletts/boto3-refresh-session",
+      "url": "https://github.com/rickstaa/ros-gazebo-gym",
       "stars": 48
     },
     {
-      "url": "https://github.com/rickstaa/ros-gazebo-gym",
-      "stars": 46
+      "url": "https://github.com/michaelthomasletts/boto3-refresh-session",
+      "stars": 47
     },
     {
       "url": "https://github.com/Open-Model-Initiative/OMI-Data-Pipeline",
@@ -132,7 +132,7 @@
     },
     {
       "url": "https://github.com/arkedge/c2a-core",
-      "stars": 21
+      "stars": 22
     },
     {
       "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",

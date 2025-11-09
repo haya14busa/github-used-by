@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 13015
+      "stars": 13117
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9645
+      "stars": 9648
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 3165
+      "stars": 3172
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
-      "stars": 2705
+      "stars": 2704
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
@@ -28,15 +28,15 @@
     },
     {
       "url": "https://github.com/castwide/solargraph",
-      "stars": 1982
+      "stars": 1986
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1692
+      "stars": 1696
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1203
+      "stars": 1206
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -44,11 +44,11 @@
     },
     {
       "url": "https://github.com/activeadmin/arbre",
-      "stars": 786
+      "stars": 785
     },
     {
       "url": "https://github.com/zilverline/sequent",
-      "stars": 555
+      "stars": 556
     },
     {
       "url": "https://github.com/mysociety/alaveteli",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/YusukeIwaki/puppeteer-ruby",
-      "stars": 317
+      "stars": 318
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/vmware/dod-compliance-and-automation",
-      "stars": 180
+      "stars": 182
     },
     {
       "url": "https://github.com/ytti/oxidized-web",
@@ -268,8 +268,8 @@
     }
   ],
   "count": {
-    "total": 759,
-    "public": 385,
+    "total": 761,
+    "public": 387,
     "private": 374,
     "more_than_zero_star": 154
   }

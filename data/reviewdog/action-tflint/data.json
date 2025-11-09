@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1769
+      "stars": 1772
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 1179
+      "stars": 1181
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 600
+      "stars": 603
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
-      "stars": 576
+      "stars": 577
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
@@ -24,11 +24,11 @@
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 235
+      "stars": 237
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 234
+      "stars": 236
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -79,11 +79,11 @@
       "stars": 18
     },
     {
-      "url": "https://github.com/sammcj/scripts",
-      "stars": 16
+      "url": "https://github.com/sammcj/zsh-bootstrap",
+      "stars": 17
     },
     {
-      "url": "https://github.com/sammcj/zsh-bootstrap",
+      "url": "https://github.com/sammcj/scripts",
       "stars": 16
     },
     {
@@ -228,9 +228,9 @@
     }
   ],
   "count": {
-    "total": 681,
+    "total": 682,
     "public": 319,
-    "private": 362,
+    "private": 363,
     "more_than_zero_star": 136
   }
 }

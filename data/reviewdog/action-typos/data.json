@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9645
+      "stars": 9648
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8806
+      "stars": 8815
     },
     {
       "url": "https://github.com/mime-types/ruby-mime-types",
@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/halostatue/color",
-      "stars": 156
+      "stars": 157
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
@@ -48,7 +48,7 @@
     },
     {
       "url": "https://github.com/halostatue/fish-rust",
-      "stars": 17
+      "stars": 18
     },
     {
       "url": "https://github.com/halostatue/fish-brew",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/halostatue/fish-go",
-      "stars": 9
+      "stars": 10
     },
     {
       "url": "https://github.com/halostatue/fish-elixir",
