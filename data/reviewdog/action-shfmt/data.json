@@ -4,51 +4,51 @@
   "repos": [
     {
       "url": "https://github.com/dockur/windows",
-      "stars": 48425
+      "stars": 48564
     },
     {
       "url": "https://github.com/dockur/macos",
-      "stars": 17778
+      "stars": 17823
     },
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 4491
+      "stars": 4505
     },
     {
       "url": "https://github.com/vdsm/virtual-dsm",
-      "stars": 3445
+      "stars": 3447
     },
     {
       "url": "https://github.com/dockur/windows-arm",
-      "stars": 1962
+      "stars": 1976
     },
     {
       "url": "https://github.com/qemus/qemu",
-      "stars": 1310
+      "stars": 1472
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 1138
+      "stars": 1151
     },
     {
       "url": "https://github.com/dockur/samba",
-      "stars": 530
+      "stars": 538
     },
     {
       "url": "https://github.com/dockur/umbrel",
-      "stars": 320
+      "stars": 321
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 302
+      "stars": 301
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
-      "stars": 192
+      "stars": 194
     },
     {
       "url": "https://github.com/qemus/qemu-arm",
-      "stars": 165
+      "stars": 167
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/dockur/dnsmasq",
-      "stars": 114
+      "stars": 113
     },
     {
       "url": "https://github.com/jiro4989/setup-nim-action",
@@ -72,15 +72,15 @@
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
-      "stars": 78
+      "stars": 79
     },
     {
       "url": "https://github.com/dockur/chrony",
-      "stars": 71
+      "stars": 73
     },
     {
       "url": "https://github.com/yu-iskw/action-sqlfluff",
-      "stars": 70
+      "stars": 71
     },
     {
       "url": "https://github.com/lure-sh/lure-repo",
@@ -120,7 +120,7 @@
     },
     {
       "url": "https://github.com/reviewdog/action-ast-grep",
-      "stars": 9
+      "stars": 11
     },
     {
       "url": "https://github.com/sourcebot-dev/zoekt",
@@ -145,11 +145,15 @@
     {
       "url": "https://github.com/AMS21/Phi",
       "stars": 5
+    },
+    {
+      "url": "https://github.com/reviewdog/action-composite-template",
+      "stars": 5
     }
   ],
   "count": {
-    "total": 224,
-    "public": 125,
+    "total": 225,
+    "public": 126,
     "private": 99,
     "more_than_zero_star": 58
   }

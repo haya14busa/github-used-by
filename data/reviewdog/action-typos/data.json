@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9648
+      "stars": 9650
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8815
+      "stars": 8831
     },
     {
       "url": "https://github.com/mime-types/ruby-mime-types",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
-      "stars": 78
+      "stars": 79
     },
     {
       "url": "https://github.com/mime-types/mime-types-data",
@@ -92,9 +92,9 @@
     }
   ],
   "count": {
-    "total": 65,
-    "public": 54,
+    "total": 66,
+    "public": 55,
     "private": 11,
-    "more_than_zero_star": 34
+    "more_than_zero_star": 35
   }
 }

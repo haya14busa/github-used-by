@@ -4,39 +4,39 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 13117
+      "stars": 13176
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9648
+      "stars": 9650
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 3172
+      "stars": 3180
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2786
+      "stars": 2785
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
-      "stars": 2704
+      "stars": 2702
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2423
+      "stars": 2422
     },
     {
       "url": "https://github.com/castwide/solargraph",
-      "stars": 1986
+      "stars": 1984
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1696
+      "stars": 1705
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1206
+      "stars": 1212
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -88,7 +88,7 @@
     },
     {
       "url": "https://github.com/Unleash/unleash-ruby-sdk",
-      "stars": 61
+      "stars": 62
     },
     {
       "url": "https://github.com/veuelive/veue",
@@ -124,7 +124,7 @@
     },
     {
       "url": "https://github.com/GetStream/stream-chat-ruby",
-      "stars": 32
+      "stars": 33
     },
     {
       "url": "https://github.com/workato/workato-connector-sdk",
@@ -132,7 +132,7 @@
     },
     {
       "url": "https://github.com/neinteractiveliterature/intercode",
-      "stars": 25
+      "stars": 26
     },
     {
       "url": "https://github.com/bitjourney/mato",
@@ -147,12 +147,12 @@
       "stars": 20
     },
     {
-      "url": "https://github.com/fog/fog-libvirt",
+      "url": "https://github.com/vol1ura/Sat_9am_5km",
       "stars": 18
     },
     {
-      "url": "https://github.com/vol1ura/Sat_9am_5km",
-      "stars": 17
+      "url": "https://github.com/fog/fog-libvirt",
+      "stars": 18
     },
     {
       "url": "https://github.com/RaiderHQ/ruby_raider",
@@ -269,8 +269,8 @@
   ],
   "count": {
     "total": 761,
-    "public": 387,
-    "private": 374,
+    "public": 383,
+    "private": 378,
     "more_than_zero_star": 154
   }
 }

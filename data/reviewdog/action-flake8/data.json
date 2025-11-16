@@ -4,27 +4,27 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 76607
+      "stars": 76718
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7368
+      "stars": 7379
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
-      "stars": 882
+      "stars": 881
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 751
+      "stars": 752
     },
     {
       "url": "https://github.com/lavenderdotpet/LibreQuake",
-      "stars": 595
+      "stars": 600
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 590
+      "stars": 592
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
@@ -40,11 +40,11 @@
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
-      "stars": 231
+      "stars": 232
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 226
+      "stars": 230
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
@@ -52,15 +52,15 @@
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
-      "stars": 143
+      "stars": 145
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
-      "stars": 134
+      "stars": 137
     },
     {
       "url": "https://github.com/ehpor/hcipy",
-      "stars": 125
+      "stars": 126
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
@@ -68,15 +68,15 @@
     },
     {
       "url": "https://github.com/ydb-platform/nbs",
-      "stars": 89
+      "stars": 90
+    },
+    {
+      "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
+      "stars": 83
     },
     {
       "url": "https://github.com/LFPy/LFPy",
       "stars": 83
-    },
-    {
-      "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
-      "stars": 82
     },
     {
       "url": "https://github.com/ktsaou/netdata",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://github.com/f0uriest/quadax",
-      "stars": 72
+      "stars": 73
     },
     {
       "url": "https://github.com/ThePornDatabase/scrapers",
@@ -111,12 +111,12 @@
       "stars": 35
     },
     {
-      "url": "https://github.com/NebularNerd/subtotxt",
-      "stars": 31
+      "url": "https://github.com/comorment/containers",
+      "stars": 33
     },
     {
-      "url": "https://github.com/comorment/containers",
-      "stars": 30
+      "url": "https://github.com/NebularNerd/subtotxt",
+      "stars": 31
     },
     {
       "url": "https://github.com/ZPascal/grafana_api_sdk",
@@ -216,9 +216,9 @@
     }
   ],
   "count": {
-    "total": 542,
-    "public": 317,
-    "private": 225,
+    "total": 544,
+    "public": 315,
+    "private": 229,
     "more_than_zero_star": 120
   }
 }

@@ -63,12 +63,12 @@
       "stars": 8
     },
     {
-      "url": "https://github.com/piotr-yuxuan/slava",
+      "url": "https://github.com/Avanade/ghcp-usage-dashboard",
       "stars": 7
     },
     {
-      "url": "https://github.com/Avanade/ghcp-usage-dashboard",
-      "stars": 6
+      "url": "https://github.com/piotr-yuxuan/slava",
+      "stars": 7
     },
     {
       "url": "https://github.com/stackabletech/druid-opa-authorizer",
@@ -89,8 +89,8 @@
   ],
   "count": {
     "total": 344,
-    "public": 149,
-    "private": 195,
+    "public": 147,
+    "private": 197,
     "more_than_zero_star": 62
   }
 }

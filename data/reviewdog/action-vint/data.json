@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/preservim/nerdtree",
-      "stars": 20005
+      "stars": 20008
     },
     {
       "url": "https://github.com/vim-airline/vim-airline",
-      "stars": 17921
+      "stars": 17924
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7682
+      "stars": 7683
     },
     {
       "url": "https://github.com/preservim/tagbar",
@@ -20,15 +20,15 @@
     },
     {
       "url": "https://github.com/preservim/nerdcommenter",
-      "stars": 5008
+      "stars": 5010
     },
     {
       "url": "https://github.com/preservim/vim-markdown",
-      "stars": 4779
+      "stars": 4782
     },
     {
       "url": "https://github.com/prabirshrestha/vim-lsp",
-      "stars": 3317
+      "stars": 3319
     },
     {
       "url": "https://github.com/liuchengxu/space-vim",
@@ -48,15 +48,15 @@
     },
     {
       "url": "https://github.com/vim-airline/vim-airline-themes",
-      "stars": 2076
+      "stars": 2068
     },
     {
       "url": "https://github.com/liuchengxu/vista.vim",
-      "stars": 1939
+      "stars": 1940
     },
     {
       "url": "https://github.com/OmniSharp/omnisharp-vim",
-      "stars": 1766
+      "stars": 1765
     },
     {
       "url": "https://github.com/mattn/vim-lsp-settings",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/whatyouhide/vim-gotham",
-      "stars": 1283
+      "stars": 1286
     },
     {
       "url": "https://github.com/artur-shaik/vim-javacomplete2",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://github.com/yutkat/dotfiles",
-      "stars": 892
+      "stars": 893
     },
     {
       "url": "https://github.com/lambdalisue/vim-gina",
@@ -108,7 +108,7 @@
     },
     {
       "url": "https://github.com/tani/vim-jetpack",
-      "stars": 344
+      "stars": 345
     },
     {
       "url": "https://github.com/ilyachur/cmake4vim",
@@ -173,16 +173,12 @@
     {
       "url": "https://github.com/benbusby/vim-hubbub",
       "stars": 6
-    },
-    {
-      "url": "https://github.com/ilyachur/gtest-vim",
-      "stars": 5
     }
   ],
   "count": {
     "total": 371,
-    "public": 145,
-    "private": 226,
-    "more_than_zero_star": 63
+    "public": 144,
+    "private": 227,
+    "more_than_zero_star": 62
   }
 }

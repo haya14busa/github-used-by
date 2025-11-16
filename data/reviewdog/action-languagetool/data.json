@@ -4,39 +4,39 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8815
+      "stars": 8831
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7682
+      "stars": 7683
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1657
+      "stars": 1658
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1162
+      "stars": 1163
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1116
-    },
-    {
-      "url": "https://github.com/tuono-labs/tuono",
-      "stars": 1066
+      "stars": 1123
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 1064
+      "stars": 1073
+    },
+    {
+      "url": "https://github.com/tuono-labs/tuono",
+      "stars": 1068
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 739
+      "stars": 745
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 712
+      "stars": 719
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
@@ -44,11 +44,11 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 302
+      "stars": 301
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
-      "stars": 187
+      "stars": 188
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
-      "stars": 151
+      "stars": 152
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
@@ -76,7 +76,7 @@
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
-      "stars": 91
+      "stars": 92
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
@@ -100,11 +100,11 @@
     },
     {
       "url": "https://github.com/jeertmans/rpdf",
-      "stars": 41
+      "stars": 42
     },
     {
       "url": "https://github.com/jeertmans/DiffeRT",
-      "stars": 38
+      "stars": 41
     },
     {
       "url": "https://github.com/pkosiec/website",
@@ -112,7 +112,7 @@
     },
     {
       "url": "https://github.com/ADE-Scheduler/ADE-Scheduler",
-      "stars": 32
+      "stars": 33
     },
     {
       "url": "https://github.com/ZeroAssumptions/aide-de-camp",
@@ -124,7 +124,7 @@
     },
     {
       "url": "https://github.com/dotnet-project-file-analyzers/dotnet-project-file-analyzers",
-      "stars": 20
+      "stars": 21
     },
     {
       "url": "https://github.com/TheNeikos/type_description",
@@ -187,15 +187,19 @@
       "stars": 6
     },
     {
+      "url": "https://github.com/stakater/employee-handbook",
+      "stars": 6
+    },
+    {
       "url": "https://github.com/will-fong/data-science",
       "stars": 6
     },
     {
-      "url": "https://github.com/margau/bahn.day",
-      "stars": 5
+      "url": "https://github.com/CircuitVerse/Blog",
+      "stars": 6
     },
     {
-      "url": "https://github.com/stakater/employee-handbook",
+      "url": "https://github.com/margau/bahn.day",
       "stars": 5
     },
     {
@@ -209,16 +213,12 @@
     {
       "url": "https://github.com/AMS21/Phi",
       "stars": 5
-    },
-    {
-      "url": "https://github.com/CircuitVerse/Blog",
-      "stars": 5
     }
   ],
   "count": {
-    "total": 416,
-    "public": 192,
-    "private": 224,
-    "more_than_zero_star": 93
+    "total": 417,
+    "public": 191,
+    "private": 226,
+    "more_than_zero_star": 92
   }
 }

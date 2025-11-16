@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/zeromicro/go-zero",
-      "stars": 32076
+      "stars": 32112
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8815
+      "stars": 8831
     },
     {
       "url": "https://github.com/golang-jwt/jwt",
-      "stars": 8651
+      "stars": 8669
     },
     {
       "url": "https://github.com/drk1wi/Modlishka",
-      "stars": 5210
+      "stars": 5211
     },
     {
       "url": "https://github.com/TarsCloud/TarsGo",
@@ -24,23 +24,23 @@
     },
     {
       "url": "https://github.com/x-motemen/ghq",
-      "stars": 3325
+      "stars": 3328
     },
     {
       "url": "https://github.com/XiaoMi/Gaea",
-      "stars": 2750
+      "stars": 2753
     },
     {
       "url": "https://github.com/gookit/goutil",
-      "stars": 2298
+      "stars": 2299
     },
     {
       "url": "https://github.com/cloudwego/goref",
-      "stars": 959
+      "stars": 964
     },
     {
       "url": "https://github.com/bytedance/mockey",
-      "stars": 832
+      "stars": 836
     },
     {
       "url": "https://github.com/shomali11/slacker",
@@ -56,11 +56,11 @@
     },
     {
       "url": "https://github.com/gookit/slog",
-      "stars": 513
+      "stars": 516
     },
     {
       "url": "https://github.com/cloudwego/shmipc-go",
-      "stars": 487
+      "stars": 490
     },
     {
       "url": "https://github.com/cloudwego/kitex-examples",
@@ -76,15 +76,15 @@
     },
     {
       "url": "https://github.com/chenquan/diskusage",
-      "stars": 295
-    },
-    {
-      "url": "https://github.com/Songmu/tagpr",
-      "stars": 257
+      "stars": 296
     },
     {
       "url": "https://github.com/openconfig/gnmic",
-      "stars": 255
+      "stars": 258
+    },
+    {
+      "url": "https://github.com/Songmu/tagpr",
+      "stars": 258
     },
     {
       "url": "https://github.com/toshimaru/nyan",
@@ -112,7 +112,7 @@
     },
     {
       "url": "https://github.com/x-motemen/blogsync",
-      "stars": 165
+      "stars": 166
     },
     {
       "url": "https://github.com/Songmu/horenso",
@@ -124,19 +124,19 @@
     },
     {
       "url": "https://github.com/Songmu/prompter",
-      "stars": 150
+      "stars": 151
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
       "stars": 147
     },
     {
-      "url": "https://github.com/moke-game/platform",
+      "url": "https://github.com/cloudwego/frugal",
       "stars": 128
     },
     {
-      "url": "https://github.com/cloudwego/frugal",
-      "stars": 127
+      "url": "https://github.com/moke-game/platform",
+      "stars": 128
     },
     {
       "url": "https://github.com/go-gorm/opentelemetry",
@@ -405,8 +405,8 @@
   ],
   "count": {
     "total": 768,
-    "public": 455,
-    "private": 313,
+    "public": 454,
+    "private": 314,
     "more_than_zero_star": 201
   }
 }
