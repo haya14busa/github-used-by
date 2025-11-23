@@ -23,7 +23,7 @@
 | -- | -- | -- | -- | 
 |1|<img src="https://github.com/chanzuckerberg.png" width=50 height=50>|https://github.com/chanzuckerberg/czid-web|86|
 |2|<img src="https://github.com/tricknotes.png" width=50 height=50>|https://github.com/tricknotes/starseeker|81|
-|3|<img src="https://github.com/openHPI.png" width=50 height=50>|https://github.com/openHPI/codeocean|71|
+|3|<img src="https://github.com/openHPI.png" width=50 height=50>|https://github.com/openHPI/codeocean|72|
 |4|<img src="https://github.com/veuelive.png" width=50 height=50>|https://github.com/veuelive/veue|55|
 |5|<img src="https://github.com/rubyforgood.png" width=50 height=50>|https://github.com/rubyforgood/Flaredown|45|
 |6|<img src="https://github.com/powerhome.png" width=50 height=50>|https://github.com/powerhome/playbook|37|

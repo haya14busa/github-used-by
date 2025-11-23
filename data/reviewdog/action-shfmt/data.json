@@ -4,47 +4,47 @@
   "repos": [
     {
       "url": "https://github.com/dockur/windows",
-      "stars": 48564
+      "stars": 48705
     },
     {
       "url": "https://github.com/dockur/macos",
-      "stars": 17823
+      "stars": 17860
     },
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 4505
+      "stars": 4518
     },
     {
       "url": "https://github.com/vdsm/virtual-dsm",
-      "stars": 3447
+      "stars": 3455
     },
     {
       "url": "https://github.com/dockur/windows-arm",
-      "stars": 1976
+      "stars": 1983
     },
     {
       "url": "https://github.com/qemus/qemu",
-      "stars": 1472
+      "stars": 1507
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 1151
+      "stars": 1163
     },
     {
       "url": "https://github.com/dockur/samba",
-      "stars": 538
+      "stars": 547
     },
     {
       "url": "https://github.com/dockur/umbrel",
-      "stars": 321
+      "stars": 324
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 301
+      "stars": 302
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
-      "stars": 194
+      "stars": 196
     },
     {
       "url": "https://github.com/qemus/qemu-arm",
@@ -56,11 +56,11 @@
     },
     {
       "url": "https://github.com/dockur/casa",
-      "stars": 138
+      "stars": 140
     },
     {
       "url": "https://github.com/dockur/dnsmasq",
-      "stars": 113
+      "stars": 115
     },
     {
       "url": "https://github.com/jiro4989/setup-nim-action",
@@ -76,7 +76,7 @@
     },
     {
       "url": "https://github.com/dockur/chrony",
-      "stars": 73
+      "stars": 77
     },
     {
       "url": "https://github.com/yu-iskw/action-sqlfluff",
@@ -88,15 +88,15 @@
     },
     {
       "url": "https://github.com/mongolyy/reviewdog-action-biome",
-      "stars": 50
+      "stars": 51
     },
     {
       "url": "https://github.com/sksat/compose-cd",
-      "stars": 48
+      "stars": 49
     },
     {
       "url": "https://github.com/dockur/munin",
-      "stars": 32
+      "stars": 34
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-tsc",
@@ -108,7 +108,7 @@
     },
     {
       "url": "https://github.com/UmbrellaDocs/action-linkspector",
-      "stars": 22
+      "stars": 23
     },
     {
       "url": "https://github.com/helpermethod/up",
@@ -152,9 +152,9 @@
     }
   ],
   "count": {
-    "total": 225,
+    "total": 226,
     "public": 126,
-    "private": 99,
+    "private": 100,
     "more_than_zero_star": 58
   }
 }

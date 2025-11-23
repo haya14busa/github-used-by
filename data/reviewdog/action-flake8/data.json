@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 76718
+      "stars": 76775
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7379
+      "stars": 7384
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -16,15 +16,15 @@
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 752
+      "stars": 755
     },
     {
       "url": "https://github.com/lavenderdotpet/LibreQuake",
-      "stars": 600
+      "stars": 608
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 592
+      "stars": 593
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
@@ -36,11 +36,11 @@
     },
     {
       "url": "https://github.com/PAhelper/PhoenixAdult.bundle",
-      "stars": 377
+      "stars": 378
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
-      "stars": 232
+      "stars": 235
     },
     {
       "url": "https://github.com/f0uriest/interpax",
@@ -48,7 +48,7 @@
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
-      "stars": 168
+      "stars": 169
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
@@ -56,11 +56,11 @@
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
-      "stars": 137
+      "stars": 140
     },
     {
       "url": "https://github.com/ehpor/hcipy",
-      "stars": 126
+      "stars": 127
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
@@ -68,7 +68,7 @@
     },
     {
       "url": "https://github.com/ydb-platform/nbs",
-      "stars": 90
+      "stars": 91
     },
     {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
@@ -87,12 +87,12 @@
       "stars": 73
     },
     {
-      "url": "https://github.com/ThePornDatabase/scrapers",
+      "url": "https://github.com/oracle/adaptivemm",
       "stars": 68
     },
     {
-      "url": "https://github.com/oracle/adaptivemm",
-      "stars": 67
+      "url": "https://github.com/ThePornDatabase/scrapers",
+      "stars": 68
     },
     {
       "url": "https://github.com/ut-issl/c2a-core",
@@ -100,7 +100,7 @@
     },
     {
       "url": "https://github.com/rickstaa/ros-gazebo-gym",
-      "stars": 48
+      "stars": 50
     },
     {
       "url": "https://github.com/michaelthomasletts/boto3-refresh-session",
@@ -112,7 +112,7 @@
     },
     {
       "url": "https://github.com/comorment/containers",
-      "stars": 33
+      "stars": 34
     },
     {
       "url": "https://github.com/NebularNerd/subtotxt",
@@ -136,7 +136,7 @@
     },
     {
       "url": "https://github.com/ccdc-opensource/ansible-role-debloat-windows",
-      "stars": 20
+      "stars": 22
     },
     {
       "url": "https://github.com/danishi/dynamodb-csv",
@@ -216,8 +216,8 @@
     }
   ],
   "count": {
-    "total": 544,
-    "public": 315,
+    "total": 545,
+    "public": 316,
     "private": 229,
     "more_than_zero_star": 120
   }

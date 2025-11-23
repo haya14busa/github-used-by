@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9650
+      "stars": 9654
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8831
+      "stars": 8842
     },
     {
       "url": "https://github.com/mime-types/ruby-mime-types",
@@ -16,7 +16,7 @@
     },
     {
       "url": "https://github.com/halostatue/diff-lcs",
-      "stars": 298
+      "stars": 299
     },
     {
       "url": "https://github.com/halostatue/color",
@@ -92,8 +92,8 @@
     }
   ],
   "count": {
-    "total": 66,
-    "public": 55,
+    "total": 67,
+    "public": 56,
     "private": 11,
     "more_than_zero_star": 35
   }

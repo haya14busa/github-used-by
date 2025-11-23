@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 13176
+      "stars": 13210
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9650
+      "stars": 9654
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 3180
+      "stars": 3188
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2785
+      "stars": 2787
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2422
+      "stars": 2437
     },
     {
       "url": "https://github.com/castwide/solargraph",
@@ -32,11 +32,11 @@
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1705
+      "stars": 1716
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1212
+      "stars": 1214
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://github.com/openHPI/codeocean",
-      "stars": 71
+      "stars": 72
     },
     {
       "url": "https://github.com/Unleash/unleash-ruby-sdk",
@@ -147,12 +147,12 @@
       "stars": 20
     },
     {
-      "url": "https://github.com/vol1ura/Sat_9am_5km",
+      "url": "https://github.com/fog/fog-libvirt",
       "stars": 18
     },
     {
-      "url": "https://github.com/fog/fog-libvirt",
-      "stars": 18
+      "url": "https://github.com/vol1ura/Sat_9am_5km",
+      "stars": 17
     },
     {
       "url": "https://github.com/RaiderHQ/ruby_raider",
@@ -239,6 +239,10 @@
       "stars": 6
     },
     {
+      "url": "https://github.com/ibm-skills-network/sn_filterable",
+      "stars": 6
+    },
+    {
       "url": "https://github.com/StudistCorporation/scimaenaga",
       "stars": 6
     },
@@ -248,10 +252,6 @@
     },
     {
       "url": "https://github.com/SwedbankPay/swedbank-pay-design-guide-jekyll-theme",
-      "stars": 5
-    },
-    {
-      "url": "https://github.com/ibm-skills-network/sn_filterable",
       "stars": 5
     },
     {
@@ -269,8 +269,8 @@
   ],
   "count": {
     "total": 761,
-    "public": 383,
-    "private": 378,
-    "more_than_zero_star": 154
+    "public": 384,
+    "private": 377,
+    "more_than_zero_star": 155
   }
 }
