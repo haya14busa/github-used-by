@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8842
+      "stars": 8857
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7684
+      "stars": 7692
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1660
+      "stars": 1663
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
@@ -20,27 +20,27 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1128
+      "stars": 1130
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 1082
+      "stars": 1089
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 1068
+      "stars": 1073
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 749
+      "stars": 752
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 724
+      "stars": 728
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
-      "stars": 324
+      "stars": 323
     },
     {
       "url": "https://github.com/Shemnei/punktf",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
-      "stars": 173
+      "stars": 175
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 136
+      "stars": 135
     },
     {
       "url": "https://github.com/mszostok/version",
@@ -104,7 +104,7 @@
     },
     {
       "url": "https://github.com/jeertmans/rpdf",
-      "stars": 42
+      "stars": 43
     },
     {
       "url": "https://github.com/pkosiec/website",
@@ -216,9 +216,9 @@
     }
   ],
   "count": {
-    "total": 417,
+    "total": 418,
     "public": 190,
-    "private": 227,
+    "private": 228,
     "more_than_zero_star": 92
   }
 }

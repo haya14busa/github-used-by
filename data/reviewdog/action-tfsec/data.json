@@ -3,8 +3,8 @@
   "repo": "action-tfsec",
   "repos": [
     {
-      "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
-      "stars": 3450
+      "url": "https://github.com/mysticaltech/terraform-hcloud-kube-hetzner",
+      "stars": 3502
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -108,9 +108,9 @@
     }
   ],
   "count": {
-    "total": 384,
-    "public": 179,
-    "private": 205,
+    "total": 386,
+    "public": 177,
+    "private": 209,
     "more_than_zero_star": 71
   }
 }

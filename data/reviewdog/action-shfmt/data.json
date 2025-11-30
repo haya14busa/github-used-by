@@ -4,39 +4,39 @@
   "repos": [
     {
       "url": "https://github.com/dockur/windows",
-      "stars": 48705
+      "stars": 48829
     },
     {
       "url": "https://github.com/dockur/macos",
-      "stars": 17860
+      "stars": 17900
     },
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 4518
+      "stars": 4535
     },
     {
       "url": "https://github.com/vdsm/virtual-dsm",
-      "stars": 3455
+      "stars": 3468
     },
     {
       "url": "https://github.com/dockur/windows-arm",
-      "stars": 1983
+      "stars": 1993
     },
     {
       "url": "https://github.com/qemus/qemu",
-      "stars": 1507
+      "stars": 1523
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 1163
+      "stars": 1177
     },
     {
       "url": "https://github.com/dockur/samba",
-      "stars": 547
+      "stars": 556
     },
     {
       "url": "https://github.com/dockur/umbrel",
-      "stars": 324
+      "stars": 330
     },
     {
       "url": "https://github.com/Shemnei/punktf",
@@ -48,7 +48,7 @@
     },
     {
       "url": "https://github.com/qemus/qemu-arm",
-      "stars": 167
+      "stars": 170
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -56,11 +56,11 @@
     },
     {
       "url": "https://github.com/dockur/casa",
-      "stars": 140
+      "stars": 141
     },
     {
       "url": "https://github.com/dockur/dnsmasq",
-      "stars": 115
+      "stars": 116
     },
     {
       "url": "https://github.com/jiro4989/setup-nim-action",
@@ -71,16 +71,20 @@
       "stars": 92
     },
     {
+      "url": "https://github.com/dockur/chrony",
+      "stars": 81
+    },
+    {
       "url": "https://github.com/aaronhurt/zfs-replicate",
       "stars": 79
     },
     {
-      "url": "https://github.com/dockur/chrony",
-      "stars": 77
-    },
-    {
       "url": "https://github.com/yu-iskw/action-sqlfluff",
       "stars": 71
+    },
+    {
+      "url": "https://github.com/aiKrice/homebrew-badgetizr",
+      "stars": 62
     },
     {
       "url": "https://github.com/lure-sh/lure-repo",
@@ -88,7 +92,7 @@
     },
     {
       "url": "https://github.com/mongolyy/reviewdog-action-biome",
-      "stars": 51
+      "stars": 52
     },
     {
       "url": "https://github.com/sksat/compose-cd",
@@ -96,7 +100,7 @@
     },
     {
       "url": "https://github.com/dockur/munin",
-      "stars": 34
+      "stars": 36
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-tsc",
@@ -152,9 +156,9 @@
     }
   ],
   "count": {
-    "total": 226,
-    "public": 126,
+    "total": 228,
+    "public": 128,
     "private": 100,
-    "more_than_zero_star": 58
+    "more_than_zero_star": 59
   }
 }

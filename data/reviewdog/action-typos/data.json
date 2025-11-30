@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9654
+      "stars": 9655
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8842
+      "stars": 8857
     },
     {
       "url": "https://github.com/mime-types/ruby-mime-types",
@@ -55,6 +55,10 @@
       "stars": 12
     },
     {
+      "url": "https://github.com/halostatue/enviable",
+      "stars": 12
+    },
+    {
       "url": "https://github.com/svelte-docgen/svelte-docgen",
       "stars": 12
     },
@@ -67,10 +71,6 @@
       "stars": 11
     },
     {
-      "url": "https://github.com/halostatue/enviable",
-      "stars": 11
-    },
-    {
       "url": "https://github.com/halostatue/fish-go",
       "stars": 10
     },
@@ -79,22 +79,22 @@
       "stars": 8
     },
     {
-      "url": "https://github.com/halostatue/fish-utils",
-      "stars": 7
-    },
-    {
       "url": "https://github.com/uci-f1tenth/UCI_race_stack",
       "stars": 7
     },
     {
       "url": "https://github.com/halostatue/fish-chezmoi",
       "stars": 6
+    },
+    {
+      "url": "https://github.com/halostatue/fish-utils",
+      "stars": 6
     }
   ],
   "count": {
-    "total": 67,
-    "public": 56,
+    "total": 68,
+    "public": 57,
     "private": 11,
-    "more_than_zero_star": 35
+    "more_than_zero_star": 36
   }
 }
