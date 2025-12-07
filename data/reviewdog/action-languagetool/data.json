@@ -4,47 +4,47 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8857
+      "stars": 8872
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7692
+      "stars": 7700
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1663
+      "stars": 1669
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1163
+      "stars": 1164
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1130
+      "stars": 1131
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 1089
+      "stars": 1098
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 1073
+      "stars": 1078
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 752
+      "stars": 753
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 728
+      "stars": 731
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
-      "stars": 323
+      "stars": 324
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 302
+      "stars": 301
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
-      "stars": 153
+      "stars": 154
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 135
+      "stars": 137
     },
     {
       "url": "https://github.com/mszostok/version",
@@ -135,20 +135,20 @@
       "stars": 16
     },
     {
+      "url": "https://github.com/unknowIfGuestInDream/javafxTool",
+      "stars": 14
+    },
+    {
       "url": "https://github.com/hashbite/gatsby-mdx-suite",
+      "stars": 14
+    },
+    {
+      "url": "https://github.com/jeertmans/manim-tutorial",
       "stars": 14
     },
     {
       "url": "https://github.com/leveeml/rabbids",
       "stars": 14
-    },
-    {
-      "url": "https://github.com/unknowIfGuestInDream/javafxTool",
-      "stars": 13
-    },
-    {
-      "url": "https://github.com/jeertmans/manim-tutorial",
-      "stars": 13
     },
     {
       "url": "https://github.com/vipulgupta2048/talkswith2048",
@@ -175,6 +175,10 @@
       "stars": 8
     },
     {
+      "url": "https://github.com/CircuitVerse/Blog",
+      "stars": 8
+    },
+    {
       "url": "https://github.com/chocolatey/boxstarter.org",
       "stars": 7
     },
@@ -195,10 +199,6 @@
       "stars": 6
     },
     {
-      "url": "https://github.com/CircuitVerse/Blog",
-      "stars": 6
-    },
-    {
       "url": "https://github.com/margau/bahn.day",
       "stars": 5
     },
@@ -216,9 +216,9 @@
     }
   ],
   "count": {
-    "total": 418,
+    "total": 419,
     "public": 190,
-    "private": 228,
-    "more_than_zero_star": 92
+    "private": 229,
+    "more_than_zero_star": 91
   }
 }

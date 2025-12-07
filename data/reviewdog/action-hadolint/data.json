@@ -4,35 +4,35 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 76848
+      "stars": 76928
     },
     {
       "url": "https://github.com/dockur/windows",
-      "stars": 48829
+      "stars": 48961
     },
     {
       "url": "https://github.com/dockur/macos",
-      "stars": 17900
+      "stars": 17943
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13855
+      "stars": 13865
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 7477
+      "stars": 7500
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 7205
+      "stars": 7212
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 4973
+      "stars": 4992
     },
     {
       "url": "https://github.com/vdsm/virtual-dsm",
-      "stars": 3468
+      "stars": 3479
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
@@ -40,31 +40,31 @@
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 2026
+      "stars": 2032
     },
     {
       "url": "https://github.com/dockur/windows-arm",
-      "stars": 1993
+      "stars": 1997
     },
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1774
+      "stars": 1777
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1663
+      "stars": 1669
     },
     {
       "url": "https://github.com/qemus/qemu",
-      "stars": 1523
+      "stars": 1547
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1409
+      "stars": 1412
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 1296
+      "stars": 1302
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
@@ -72,11 +72,11 @@
     },
     {
       "url": "https://github.com/dockur/samba",
-      "stars": 556
+      "stars": 565
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 510
+      "stars": 514
     },
     {
       "url": "https://github.com/K-Phoen/dark",
@@ -84,19 +84,19 @@
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
-      "stars": 416
+      "stars": 419
     },
     {
       "url": "https://github.com/dockur/umbrel",
-      "stars": 330
+      "stars": 335
     },
     {
       "url": "https://github.com/KCarretto/paragon",
-      "stars": 302
+      "stars": 303
     },
     {
       "url": "https://github.com/openstack-exporter/openstack-exporter",
-      "stars": 239
+      "stars": 240
     },
     {
       "url": "https://github.com/bgruening/docker-galaxy",
@@ -116,7 +116,11 @@
     },
     {
       "url": "https://github.com/netdata/go.d.plugin",
-      "stars": 166
+      "stars": 167
+    },
+    {
+      "url": "https://github.com/allthingslinux/tux",
+      "stars": 146
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -124,7 +128,7 @@
     },
     {
       "url": "https://github.com/dockur/casa",
-      "stars": 141
+      "stars": 143
     },
     {
       "url": "https://github.com/timoa/app-stores-prometheus-exporter",
@@ -168,7 +172,7 @@
     },
     {
       "url": "https://github.com/dockur/chrony",
-      "stars": 81
+      "stars": 82
     },
     {
       "url": "https://github.com/ktsaou/netdata",
@@ -228,7 +232,7 @@
     },
     {
       "url": "https://github.com/dockur/munin",
-      "stars": 36
+      "stars": 37
     },
     {
       "url": "https://github.com/comorment/containers",
@@ -303,8 +307,16 @@
       "stars": 14
     },
     {
+      "url": "https://github.com/yanorei32/discord-tts",
+      "stars": 14
+    },
+    {
       "url": "https://github.com/tmknom/prettier",
       "stars": 13
+    },
+    {
+      "url": "https://github.com/mobilecoinofficial/gha-runner",
+      "stars": 12
     },
     {
       "url": "https://github.com/kphrx/noxir",
@@ -339,15 +351,7 @@
       "stars": 12
     },
     {
-      "url": "https://github.com/mobilecoinofficial/gha-runner",
-      "stars": 11
-    },
-    {
       "url": "https://github.com/ccdc-opensource/science-paper-rf-machine-learned-scoring-2022",
-      "stars": 11
-    },
-    {
-      "url": "https://github.com/yanorei32/discord-tts",
       "stars": 11
     },
     {
@@ -387,26 +391,22 @@
       "stars": 9
     },
     {
+      "url": "https://github.com/chronosphereio/calyptia-plugin",
+      "stars": 9
+    },
+    {
       "url": "https://github.com/precimed/mix3r",
       "stars": 8
     },
     {
       "url": "https://github.com/srz-zumix/docker-googletest",
       "stars": 8
-    },
-    {
-      "url": "https://github.com/chronosphereio/calyptia-plugin",
-      "stars": 8
-    },
-    {
-      "url": "https://github.com/cresta/gitdb",
-      "stars": 8
     }
   ],
   "count": {
-    "total": 2105,
-    "public": 1034,
-    "private": 1071,
-    "more_than_zero_star": 298
+    "total": 2111,
+    "public": 1030,
+    "private": 1081,
+    "more_than_zero_star": 297
   }
 }

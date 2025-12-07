@@ -7,6 +7,10 @@
       "stars": 86
     },
     {
+      "url": "https://github.com/MushroomObserver/mushroom-observer",
+      "stars": 82
+    },
+    {
       "url": "https://github.com/tricknotes/starseeker",
       "stars": 81
     },
@@ -52,9 +56,9 @@
     }
   ],
   "count": {
-    "total": 116,
-    "public": 63,
+    "total": 117,
+    "public": 64,
     "private": 53,
-    "more_than_zero_star": 25
+    "more_than_zero_star": 26
   }
 }

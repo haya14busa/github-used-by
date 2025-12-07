@@ -4,35 +4,35 @@
   "repos": [
     {
       "url": "https://github.com/preservim/nerdtree",
-      "stars": 20021
+      "stars": 20027
     },
     {
       "url": "https://github.com/vim-airline/vim-airline",
-      "stars": 17924
+      "stars": 17932
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7692
+      "stars": 7700
     },
     {
       "url": "https://github.com/preservim/tagbar",
-      "stars": 6212
+      "stars": 6215
     },
     {
       "url": "https://github.com/preservim/nerdcommenter",
-      "stars": 5012
+      "stars": 5010
     },
     {
       "url": "https://github.com/preservim/vim-markdown",
-      "stars": 4785
+      "stars": 4786
     },
     {
       "url": "https://github.com/prabirshrestha/vim-lsp",
-      "stars": 3326
+      "stars": 3329
     },
     {
       "url": "https://github.com/liuchengxu/space-vim",
-      "stars": 2855
+      "stars": 2854
     },
     {
       "url": "https://github.com/preservim/vimux",
@@ -44,11 +44,11 @@
     },
     {
       "url": "https://github.com/Xuyuanp/nerdtree-git-plugin",
-      "stars": 2088
+      "stars": 2089
     },
     {
       "url": "https://github.com/vim-airline/vim-airline-themes",
-      "stars": 2069
+      "stars": 2070
     },
     {
       "url": "https://github.com/liuchengxu/vista.vim",
@@ -56,15 +56,15 @@
     },
     {
       "url": "https://github.com/OmniSharp/omnisharp-vim",
-      "stars": 1767
+      "stars": 1770
     },
     {
       "url": "https://github.com/mattn/vim-lsp-settings",
-      "stars": 1387
+      "stars": 1388
     },
     {
       "url": "https://github.com/lambdalisue/vim-fern",
-      "stars": 1343
+      "stars": 1342
     },
     {
       "url": "https://github.com/kassio/neoterm",
@@ -80,11 +80,7 @@
     },
     {
       "url": "https://github.com/prabirshrestha/asyncomplete.vim",
-      "stars": 967
-    },
-    {
-      "url": "https://github.com/yutkat/dotfiles",
-      "stars": 896
+      "stars": 971
     },
     {
       "url": "https://github.com/lambdalisue/vim-gina",
@@ -180,9 +176,9 @@
     }
   ],
   "count": {
-    "total": 371,
-    "public": 143,
-    "private": 228,
-    "more_than_zero_star": 62
+    "total": 377,
+    "public": 140,
+    "private": 237,
+    "more_than_zero_star": 61
   }
 }

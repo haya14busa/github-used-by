@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 48 | 36 | 12 | 11 |
+| 49 | 37 | 12 | 12 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-trivy/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-trivy)
@@ -21,5 +21,6 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/cookpad.png" width=50 height=50>|https://github.com/cookpad/terraform-aws-eks|70|
-|2|<img src="https://github.com/nuvibit.png" width=50 height=50>|https://github.com/nuvibit/github-terraform-workflows|8|
+|1|<img src="https://github.com/allthingslinux.png" width=50 height=50>|https://github.com/allthingslinux/tux|146|
+|2|<img src="https://github.com/cookpad.png" width=50 height=50>|https://github.com/cookpad/terraform-aws-eks|70|
+|3|<img src="https://github.com/nuvibit.png" width=50 height=50>|https://github.com/nuvibit/github-terraform-workflows|8|

@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 13250
+      "stars": 13304
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9655
+      "stars": 9653
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 3195
+      "stars": 3201
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2789
+      "stars": 2791
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
@@ -24,19 +24,19 @@
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2443
+      "stars": 2445
     },
     {
       "url": "https://github.com/castwide/solargraph",
-      "stars": 1986
+      "stars": 1985
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1721
+      "stars": 1730
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1215
+      "stars": 1216
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -48,7 +48,7 @@
     },
     {
       "url": "https://github.com/zilverline/sequent",
-      "stars": 556
+      "stars": 555
     },
     {
       "url": "https://github.com/mysociety/alaveteli",
@@ -56,15 +56,15 @@
     },
     {
       "url": "https://github.com/YusukeIwaki/puppeteer-ruby",
-      "stars": 320
+      "stars": 322
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
-      "stars": 210
+      "stars": 209
     },
     {
       "url": "https://github.com/vmware/dod-compliance-and-automation",
-      "stars": 182
+      "stars": 183
     },
     {
       "url": "https://github.com/kumahq/kuma-website",
@@ -124,7 +124,7 @@
     },
     {
       "url": "https://github.com/mysociety/whatdotheyknow-theme",
-      "stars": 33
+      "stars": 34
     },
     {
       "url": "https://github.com/GetStream/stream-chat-ruby",
@@ -185,6 +185,10 @@
     {
       "url": "https://github.com/ukazap/permisi",
       "stars": 12
+    },
+    {
+      "url": "https://github.com/Fullscript/yabeda-activejob",
+      "stars": 11
     },
     {
       "url": "https://github.com/phac-nml/irida-next",
@@ -272,9 +276,9 @@
     }
   ],
   "count": {
-    "total": 763,
+    "total": 767,
     "public": 385,
-    "private": 378,
+    "private": 382,
     "more_than_zero_star": 156
   }
 }

@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/4paradigm/OpenMLDB",
-      "stars": 1671
+      "stars": 1673
     },
     {
       "url": "https://github.com/jackpocket/android-scratchoff",
@@ -89,8 +89,8 @@
   ],
   "count": {
     "total": 344,
-    "public": 147,
-    "private": 197,
+    "public": 145,
+    "private": 199,
     "more_than_zero_star": 62
   }
 }

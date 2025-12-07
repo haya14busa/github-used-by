@@ -3,6 +3,10 @@
   "repo": "action-trivy",
   "repos": [
     {
+      "url": "https://github.com/allthingslinux/tux",
+      "stars": 146
+    },
+    {
       "url": "https://github.com/cookpad/terraform-aws-eks",
       "stars": 70
     },
@@ -12,9 +16,9 @@
     }
   ],
   "count": {
-    "total": 48,
-    "public": 36,
+    "total": 49,
+    "public": 37,
     "private": 12,
-    "more_than_zero_star": 11
+    "more_than_zero_star": 12
   }
 }

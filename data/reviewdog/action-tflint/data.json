@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1774
+      "stars": 1777
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 1199
+      "stars": 1206
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 607
+      "stars": 609
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 584
+      "stars": 603
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
@@ -24,11 +24,11 @@
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 252
+      "stars": 278
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 237
+      "stars": 239
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/chainguard-dev/terraform-infra-common",
-      "stars": 27
+      "stars": 28
     },
     {
       "url": "https://github.com/timoa/terraform-oci-vscode-server",
@@ -139,6 +139,10 @@
       "stars": 8
     },
     {
+      "url": "https://github.com/chainguard-dev/ghaudit",
+      "stars": 8
+    },
+    {
       "url": "https://github.com/VikeSec/CTF-Infrastructure",
       "stars": 8
     },
@@ -156,10 +160,6 @@
     },
     {
       "url": "https://github.com/cloudposse/.github",
-      "stars": 7
-    },
-    {
-      "url": "https://github.com/chainguard-dev/ghaudit",
       "stars": 7
     },
     {
@@ -228,9 +228,9 @@
     }
   ],
   "count": {
-    "total": 684,
-    "public": 313,
-    "private": 371,
+    "total": 687,
+    "public": 311,
+    "private": 376,
     "more_than_zero_star": 136
   }
 }

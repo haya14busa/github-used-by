@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 76848
+      "stars": 76928
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7391
+      "stars": 7394
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -20,19 +20,19 @@
     },
     {
       "url": "https://github.com/lavenderdotpet/LibreQuake",
-      "stars": 613
+      "stars": 616
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 595
+      "stars": 596
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
-      "stars": 549
+      "stars": 551
     },
     {
       "url": "https://github.com/PersiaML/PERSIA",
-      "stars": 410
+      "stars": 411
     },
     {
       "url": "https://github.com/PAhelper/PhoenixAdult.bundle",
@@ -40,15 +40,15 @@
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
-      "stars": 235
+      "stars": 236
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 231
+      "stars": 232
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
-      "stars": 171
+      "stars": 172
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
@@ -216,9 +216,9 @@
     }
   ],
   "count": {
-    "total": 545,
-    "public": 315,
+    "total": 546,
+    "public": 316,
     "private": 230,
-    "more_than_zero_star": 120
+    "more_than_zero_star": 119
   }
 }

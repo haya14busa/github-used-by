@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 545 | 315 | 230 | 120 |
+| 546 | 316 | 230 | 119 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-flake8/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-flake8)
@@ -21,18 +21,18 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/netdata|76848|
-|2|<img src="https://github.com/bndr.png" width=50 height=50>|https://github.com/bndr/pipreqs|7391|
+|1|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/netdata|76928|
+|2|<img src="https://github.com/bndr.png" width=50 height=50>|https://github.com/bndr/pipreqs|7394|
 |3|<img src="https://github.com/BaguaSys.png" width=50 height=50>|https://github.com/BaguaSys/bagua|881|
 |4|<img src="https://github.com/tradingstrategy-ai.png" width=50 height=50>|https://github.com/tradingstrategy-ai/web3-ethereum-defi|759|
-|5|<img src="https://github.com/lavenderdotpet.png" width=50 height=50>|https://github.com/lavenderdotpet/LibreQuake|613|
-|6|<img src="https://github.com/simpeg.png" width=50 height=50>|https://github.com/simpeg/simpeg|595|
-|7|<img src="https://github.com/pnuckowski.png" width=50 height=50>|https://github.com/pnuckowski/aioresponses|549|
-|8|<img src="https://github.com/PersiaML.png" width=50 height=50>|https://github.com/PersiaML/PERSIA|410|
+|5|<img src="https://github.com/lavenderdotpet.png" width=50 height=50>|https://github.com/lavenderdotpet/LibreQuake|616|
+|6|<img src="https://github.com/simpeg.png" width=50 height=50>|https://github.com/simpeg/simpeg|596|
+|7|<img src="https://github.com/pnuckowski.png" width=50 height=50>|https://github.com/pnuckowski/aioresponses|551|
+|8|<img src="https://github.com/PersiaML.png" width=50 height=50>|https://github.com/PersiaML/PERSIA|411|
 |9|<img src="https://github.com/PAhelper.png" width=50 height=50>|https://github.com/PAhelper/PhoenixAdult.bundle|378|
-|10|<img src="https://github.com/ThePornDatabase.png" width=50 height=50>|https://github.com/ThePornDatabase/ThePornDB.bundle|235|
-|11|<img src="https://github.com/f0uriest.png" width=50 height=50>|https://github.com/f0uriest/interpax|231|
-|12|<img src="https://github.com/libcgroup.png" width=50 height=50>|https://github.com/libcgroup/libcgroup|171|
+|10|<img src="https://github.com/ThePornDatabase.png" width=50 height=50>|https://github.com/ThePornDatabase/ThePornDB.bundle|236|
+|11|<img src="https://github.com/f0uriest.png" width=50 height=50>|https://github.com/f0uriest/interpax|232|
+|12|<img src="https://github.com/libcgroup.png" width=50 height=50>|https://github.com/libcgroup/libcgroup|172|
 |13|<img src="https://github.com/PlasmaControl.png" width=50 height=50>|https://github.com/PlasmaControl/DESC|145|
 |14|<img src="https://github.com/mangdangroboticsclub.png" width=50 height=50>|https://github.com/mangdangroboticsclub/mini_pupper_ros|140|
 |15|<img src="https://github.com/ehpor.png" width=50 height=50>|https://github.com/ehpor/hcipy|127|
