@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/galaxyproject/ansible-postgresql",
-      "stars": 124
+      "stars": 125
     },
     {
       "url": "https://github.com/galaxyproject/ansible-slurm",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/galaxyproject/ansible-postgresql-objects",
-      "stars": 12
+      "stars": 13
     },
     {
       "url": "https://github.com/RiskIdent/ansible-collection-luks",

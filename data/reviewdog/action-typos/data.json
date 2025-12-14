@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9653
+      "stars": 9656
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8872
+      "stars": 8891
     },
     {
       "url": "https://github.com/moonbitlang/moonbit-docs",
-      "stars": 1987
+      "stars": 2000
     },
     {
       "url": "https://github.com/mime-types/ruby-mime-types",
-      "stars": 335
+      "stars": 336
     },
     {
       "url": "https://github.com/halostatue/diff-lcs",
@@ -55,11 +55,11 @@
       "stars": 18
     },
     {
-      "url": "https://github.com/halostatue/fish-brew",
-      "stars": 12
+      "url": "https://github.com/halostatue/enviable",
+      "stars": 13
     },
     {
-      "url": "https://github.com/halostatue/enviable",
+      "url": "https://github.com/halostatue/fish-brew",
       "stars": 12
     },
     {
@@ -83,12 +83,12 @@
       "stars": 8
     },
     {
-      "url": "https://github.com/uci-f1tenth/UCI_race_stack",
+      "url": "https://github.com/halostatue/fish-chezmoi",
       "stars": 7
     },
     {
-      "url": "https://github.com/halostatue/fish-chezmoi",
-      "stars": 6
+      "url": "https://github.com/uci-f1tenth/UCI_race_stack",
+      "stars": 7
     },
     {
       "url": "https://github.com/halostatue/fish-utils",
@@ -96,8 +96,8 @@
     }
   ],
   "count": {
-    "total": 69,
-    "public": 58,
+    "total": 72,
+    "public": 61,
     "private": 11,
     "more_than_zero_star": 37
   }

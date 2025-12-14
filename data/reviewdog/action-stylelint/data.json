@@ -4,27 +4,27 @@
   "repos": [
     {
       "url": "https://github.com/Tokyo-Metro-Gov/covid19",
-      "stars": 6213
+      "stars": 6212
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2579
+      "stars": 2595
     },
     {
       "url": "https://github.com/adobe/spectrum-web-components",
-      "stars": 1453
+      "stars": 1457
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
-      "stars": 1248
+      "stars": 1249
     },
     {
       "url": "https://github.com/h3poteto/whalebird-desktop",
-      "stars": 928
+      "stars": 931
     },
     {
       "url": "https://github.com/th0th/poeticmetric",
-      "stars": 266
+      "stars": 267
     },
     {
       "url": "https://github.com/haya14busa/github-action-brandings",
@@ -107,12 +107,12 @@
       "stars": 19
     },
     {
-      "url": "https://github.com/covid19-oita/covid19",
+      "url": "https://github.com/MooncellWiki/prts-widgets",
       "stars": 16
     },
     {
-      "url": "https://github.com/MooncellWiki/prts-widgets",
-      "stars": 15
+      "url": "https://github.com/covid19-oita/covid19",
+      "stars": 16
     },
     {
       "url": "https://github.com/codeforjapan/remote-patient-monitoring-dashboard",
@@ -188,8 +188,8 @@
     }
   ],
   "count": {
-    "total": 506,
-    "public": 180,
+    "total": 507,
+    "public": 181,
     "private": 326,
     "more_than_zero_star": 70
   }

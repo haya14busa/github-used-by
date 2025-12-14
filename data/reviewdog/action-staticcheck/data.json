@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/zeromicro/go-zero",
-      "stars": 32236
+      "stars": 32275
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8872
+      "stars": 8891
     },
     {
       "url": "https://github.com/golang-jwt/jwt",
-      "stars": 8739
+      "stars": 8758
     },
     {
       "url": "https://github.com/drk1wi/Modlishka",
-      "stars": 5227
+      "stars": 5231
     },
     {
       "url": "https://github.com/TarsCloud/TarsGo",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/x-motemen/ghq",
-      "stars": 3358
+      "stars": 3366
     },
     {
       "url": "https://github.com/XiaoMi/Gaea",
@@ -32,11 +32,11 @@
     },
     {
       "url": "https://github.com/gookit/goutil",
-      "stars": 2322
+      "stars": 2326
     },
     {
       "url": "https://github.com/cloudwego/goref",
-      "stars": 968
+      "stars": 969
     },
     {
       "url": "https://github.com/bytedance/mockey",
@@ -56,15 +56,15 @@
     },
     {
       "url": "https://github.com/gookit/slog",
-      "stars": 519
+      "stars": 521
     },
     {
       "url": "https://github.com/cloudwego/shmipc-go",
-      "stars": 495
+      "stars": 496
     },
     {
       "url": "https://github.com/cloudwego/kitex-examples",
-      "stars": 413
+      "stars": 412
     },
     {
       "url": "https://github.com/gookit/gcli",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/openconfig/gnmic",
-      "stars": 262
+      "stars": 263
     },
     {
       "url": "https://github.com/Songmu/tagpr",
@@ -112,7 +112,7 @@
     },
     {
       "url": "https://github.com/x-motemen/blogsync",
-      "stars": 168
+      "stars": 170
     },
     {
       "url": "https://github.com/Songmu/horenso",
@@ -160,7 +160,7 @@
     },
     {
       "url": "https://github.com/GStones/moke-kit",
-      "stars": 96
+      "stars": 97
     },
     {
       "url": "https://github.com/Songmu/goxz",
@@ -404,8 +404,8 @@
     }
   ],
   "count": {
-    "total": 770,
-    "public": 453,
+    "total": 771,
+    "public": 454,
     "private": 317,
     "more_than_zero_star": 201
   }

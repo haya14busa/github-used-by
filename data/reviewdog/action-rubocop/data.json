@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 13304
+      "stars": 13356
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9653
+      "stars": 9656
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 3201
+      "stars": 3208
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2791
+      "stars": 2792
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2445
+      "stars": 2447
     },
     {
       "url": "https://github.com/castwide/solargraph",
@@ -32,15 +32,15 @@
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1730
+      "stars": 1739
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1216
+      "stars": 1215
     },
     {
       "url": "https://github.com/k1LoW/awspec",
-      "stars": 1174
+      "stars": 1175
     },
     {
       "url": "https://github.com/activeadmin/arbre",
@@ -67,12 +67,12 @@
       "stars": 183
     },
     {
-      "url": "https://github.com/kumahq/kuma-website",
-      "stars": 138
+      "url": "https://github.com/ytti/oxidized-web",
+      "stars": 139
     },
     {
-      "url": "https://github.com/ytti/oxidized-web",
-      "stars": 137
+      "url": "https://github.com/kumahq/kuma-website",
+      "stars": 138
     },
     {
       "url": "https://github.com/chanzuckerberg/czid-web",
@@ -276,9 +276,9 @@
     }
   ],
   "count": {
-    "total": 767,
-    "public": 385,
-    "private": 382,
+    "total": 768,
+    "public": 384,
+    "private": 384,
     "more_than_zero_star": 156
   }
 }

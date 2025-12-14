@@ -4,35 +4,35 @@
   "repos": [
     {
       "url": "https://github.com/dockur/windows",
-      "stars": 48961
+      "stars": 49056
     },
     {
       "url": "https://github.com/dockur/macos",
-      "stars": 17943
+      "stars": 17982
     },
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 4562
+      "stars": 4580
     },
     {
       "url": "https://github.com/vdsm/virtual-dsm",
-      "stars": 3479
+      "stars": 3487
     },
     {
       "url": "https://github.com/dockur/windows-arm",
-      "stars": 1997
+      "stars": 2007
     },
     {
       "url": "https://github.com/qemus/qemu",
-      "stars": 1547
+      "stars": 1564
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 1272
+      "stars": 1288
     },
     {
       "url": "https://github.com/dockur/samba",
-      "stars": 565
+      "stars": 567
     },
     {
       "url": "https://github.com/dockur/umbrel",
@@ -47,8 +47,12 @@
       "stars": 198
     },
     {
+      "url": "https://github.com/dockur/casa",
+      "stars": 174
+    },
+    {
       "url": "https://github.com/qemus/qemu-arm",
-      "stars": 170
+      "stars": 171
     },
     {
       "url": "https://github.com/allthingslinux/tux",
@@ -59,12 +63,8 @@
       "stars": 145
     },
     {
-      "url": "https://github.com/dockur/casa",
-      "stars": 143
-    },
-    {
       "url": "https://github.com/dockur/dnsmasq",
-      "stars": 116
+      "stars": 117
     },
     {
       "url": "https://github.com/jiro4989/setup-nim-action",
@@ -72,11 +72,11 @@
     },
     {
       "url": "https://github.com/jonathanmorley/asdf-pnpm",
-      "stars": 92
+      "stars": 93
     },
     {
       "url": "https://github.com/dockur/chrony",
-      "stars": 82
+      "stars": 84
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
@@ -88,7 +88,7 @@
     },
     {
       "url": "https://github.com/aiKrice/homebrew-badgetizr",
-      "stars": 62
+      "stars": 63
     },
     {
       "url": "https://github.com/lure-sh/lure-repo",
@@ -104,7 +104,7 @@
     },
     {
       "url": "https://github.com/dockur/munin",
-      "stars": 37
+      "stars": 38
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-tsc",
@@ -121,6 +121,10 @@
     {
       "url": "https://github.com/helpermethod/up",
       "stars": 19
+    },
+    {
+      "url": "https://github.com/y-miyazaki/terraform-aws-base",
+      "stars": 15
     },
     {
       "url": "https://github.com/knative/actions",
@@ -160,9 +164,9 @@
     }
   ],
   "count": {
-    "total": 231,
-    "public": 131,
+    "total": 235,
+    "public": 135,
     "private": 100,
-    "more_than_zero_star": 61
+    "more_than_zero_star": 62
   }
 }

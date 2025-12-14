@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8872
+      "stars": 8891
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7700
+      "stars": 7703
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1669
+      "stars": 1675
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
@@ -20,15 +20,15 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1131
+      "stars": 1135
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 1098
+      "stars": 1103
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 1078
+      "stars": 1080
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
@@ -36,11 +36,11 @@
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 731
+      "stars": 735
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
-      "stars": 324
+      "stars": 325
     },
     {
       "url": "https://github.com/Shemnei/punktf",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 137
+      "stars": 138
     },
     {
       "url": "https://github.com/mszostok/version",
@@ -72,11 +72,11 @@
     },
     {
       "url": "https://github.com/GStones/moke-kit",
-      "stars": 96
+      "stars": 97
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
-      "stars": 92
+      "stars": 93
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
@@ -100,7 +100,7 @@
     },
     {
       "url": "https://github.com/jeertmans/DiffeRT",
-      "stars": 43
+      "stars": 44
     },
     {
       "url": "https://github.com/jeertmans/rpdf",
@@ -124,7 +124,7 @@
     },
     {
       "url": "https://github.com/dotnet-project-file-analyzers/dotnet-project-file-analyzers",
-      "stars": 21
+      "stars": 22
     },
     {
       "url": "https://github.com/TheNeikos/type_description",
@@ -136,7 +136,7 @@
     },
     {
       "url": "https://github.com/unknowIfGuestInDream/javafxTool",
-      "stars": 14
+      "stars": 15
     },
     {
       "url": "https://github.com/hashbite/gatsby-mdx-suite",
@@ -149,10 +149,6 @@
     {
       "url": "https://github.com/leveeml/rabbids",
       "stars": 14
-    },
-    {
-      "url": "https://github.com/vipulgupta2048/talkswith2048",
-      "stars": 12
     },
     {
       "url": "https://github.com/GoogleCloudPlatform/appengine-cloud-demo-portal",
@@ -216,9 +212,9 @@
     }
   ],
   "count": {
-    "total": 419,
-    "public": 190,
+    "total": 420,
+    "public": 191,
     "private": 229,
-    "more_than_zero_star": 91
+    "more_than_zero_star": 90
   }
 }
