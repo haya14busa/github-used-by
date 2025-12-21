@@ -21,6 +21,6 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/allthingslinux.png" width=50 height=50>|https://github.com/allthingslinux/tux|146|
+|1|<img src="https://github.com/allthingslinux.png" width=50 height=50>|https://github.com/allthingslinux/tux|151|
 |2|<img src="https://github.com/cookpad.png" width=50 height=50>|https://github.com/cookpad/terraform-aws-eks|70|
 |3|<img src="https://github.com/nuvibit.png" width=50 height=50>|https://github.com/nuvibit/github-terraform-workflows|8|

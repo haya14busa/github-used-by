@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1778
+      "stars": 1781
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 1208
+      "stars": 1211
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 628
+      "stars": 633
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 608
+      "stars": 607
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
@@ -24,11 +24,11 @@
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 284
+      "stars": 287
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 239
+      "stars": 241
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://github.com/SweetOps/terraform-google-storage-bucket",
-      "stars": 16
+      "stars": 15
     },
     {
       "url": "https://github.com/rhythmictech/terraform-terraform-template",
@@ -119,6 +119,10 @@
       "stars": 10
     },
     {
+      "url": "https://github.com/chainguard-dev/ghaudit",
+      "stars": 9
+    },
+    {
       "url": "https://github.com/sammcj/smart_diskinfo",
       "stars": 9
     },
@@ -132,10 +136,6 @@
     },
     {
       "url": "https://github.com/hazelops/terraform-aws-ec2-bastion",
-      "stars": 8
-    },
-    {
-      "url": "https://github.com/chainguard-dev/ghaudit",
       "stars": 8
     },
     {
@@ -224,9 +224,9 @@
     }
   ],
   "count": {
-    "total": 687,
-    "public": 309,
-    "private": 378,
-    "more_than_zero_star": 135
+    "total": 688,
+    "public": 308,
+    "private": 380,
+    "more_than_zero_star": 136
   }
 }

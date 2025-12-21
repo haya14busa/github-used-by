@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 344 | 144 | 200 | 65 |
+| 344 | 143 | 201 | 65 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-detect-secrets/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-detect-secrets)
@@ -21,9 +21,9 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/4paradigm.png" width=50 height=50>|https://github.com/4paradigm/OpenMLDB|1674|
+|1|<img src="https://github.com/4paradigm.png" width=50 height=50>|https://github.com/4paradigm/OpenMLDB|1676|
 |2|<img src="https://github.com/jackpocket.png" width=50 height=50>|https://github.com/jackpocket/android-scratchoff|448|
-|3|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/closeable-map|61|
+|3|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/closeable-map|62|
 |4|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/malli-cli|55|
 |5|<img src="https://github.com/adam-rms.png" width=50 height=50>|https://github.com/adam-rms/adam-rms|44|
 |6|<img src="https://github.com/bitjourney.png" width=50 height=50>|https://github.com/bitjourney/react-simple-image|29|

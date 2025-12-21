@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/4paradigm/OpenMLDB",
-      "stars": 1674
+      "stars": 1676
     },
     {
       "url": "https://github.com/jackpocket/android-scratchoff",
@@ -12,7 +12,7 @@
     },
     {
       "url": "https://github.com/piotr-yuxuan/closeable-map",
-      "stars": 61
+      "stars": 62
     },
     {
       "url": "https://github.com/piotr-yuxuan/malli-cli",
@@ -89,8 +89,8 @@
   ],
   "count": {
     "total": 344,
-    "public": 144,
-    "private": 200,
+    "public": 143,
+    "private": 201,
     "more_than_zero_star": 65
   }
 }

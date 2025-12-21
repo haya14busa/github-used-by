@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 507 | 181 | 326 | 70 |
+| 508 | 181 | 327 | 71 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-stylelint/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-stylelint)
@@ -21,10 +21,10 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/Tokyo-Metro-Gov.png" width=50 height=50>|https://github.com/Tokyo-Metro-Gov/covid19|6212|
-|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2595|
-|3|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-web-components|1457|
-|4|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-css|1249|
+|1|<img src="https://github.com/Tokyo-Metro-Gov.png" width=50 height=50>|https://github.com/Tokyo-Metro-Gov/covid19|6211|
+|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2603|
+|3|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-web-components|1458|
+|4|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-css|1250|
 |5|<img src="https://github.com/h3poteto.png" width=50 height=50>|https://github.com/h3poteto/whalebird-desktop|931|
 |6|<img src="https://github.com/th0th.png" width=50 height=50>|https://github.com/th0th/poeticmetric|267|
 |7|<img src="https://github.com/haya14busa.png" width=50 height=50>|https://github.com/haya14busa/github-action-brandings|159|
@@ -58,12 +58,14 @@
 |35|<img src="https://github.com/laurentmuller.png" width=50 height=50>|https://github.com/laurentmuller/calculation|9|
 |36|<img src="https://github.com/codeforjapan.png" width=50 height=50>|https://github.com/codeforjapan/remote-patient-monitoring-client|9|
 |37|<img src="https://github.com/Retsuki.png" width=50 height=50>|https://github.com/Retsuki/covid19-ishikawa|9|
-|38|<img src="https://github.com/adobecom.png" width=50 height=50>|https://github.com/adobecom/dc|8|
-|39|<img src="https://github.com/chiefpansancolt.png" width=50 height=50>|https://github.com/chiefpansancolt/simplecov-material|7|
-|40|<img src="https://github.com/arkirchner.png" width=50 height=50>|https://github.com/arkirchner/resourcer|7|
-|41|<img src="https://github.com/WPMedia.png" width=50 height=50>|https://github.com/WPMedia/arc-themes-components|7|
-|42|<img src="https://github.com/harrialeksi.png" width=50 height=50>|https://github.com/harrialeksi/poetic_metric|6|
-|43|<img src="https://github.com/btkostner.png" width=50 height=50>|https://github.com/btkostner/jumar|6|
-|44|<img src="https://github.com/thunder.png" width=50 height=50>|https://github.com/thunder/select2|6|
-|45|<img src="https://github.com/yamaserif.png" width=50 height=50>|https://github.com/yamaserif/covid19|6|
-|46|<img src="https://github.com/danskernesdigitalebibliotek.png" width=50 height=50>|https://github.com/danskernesdigitalebibliotek/dpl-design-system|5|
+|38|<img src="https://github.com/chitoku-k.png" width=50 height=50>|https://github.com/chitoku-k/chitoku.jp|8|
+|39|<img src="https://github.com/adobecom.png" width=50 height=50>|https://github.com/adobecom/dc|8|
+|40|<img src="https://github.com/chiefpansancolt.png" width=50 height=50>|https://github.com/chiefpansancolt/simplecov-material|7|
+|41|<img src="https://github.com/arkirchner.png" width=50 height=50>|https://github.com/arkirchner/resourcer|7|
+|42|<img src="https://github.com/WPMedia.png" width=50 height=50>|https://github.com/WPMedia/arc-themes-components|7|
+|43|<img src="https://github.com/harrialeksi.png" width=50 height=50>|https://github.com/harrialeksi/poetic_metric|6|
+|44|<img src="https://github.com/btkostner.png" width=50 height=50>|https://github.com/btkostner/jumar|6|
+|45|<img src="https://github.com/thunder.png" width=50 height=50>|https://github.com/thunder/select2|6|
+|46|<img src="https://github.com/yamaserif.png" width=50 height=50>|https://github.com/yamaserif/covid19|6|
+|47|<img src="https://github.com/department-of-veterans-affairs.png" width=50 height=50>|https://github.com/department-of-veterans-affairs/va.gov-cms-test|5|
+|48|<img src="https://github.com/danskernesdigitalebibliotek.png" width=50 height=50>|https://github.com/danskernesdigitalebibliotek/dpl-design-system|5|

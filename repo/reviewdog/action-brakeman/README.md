@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 117 | 64 | 53 | 26 |
+| 117 | 62 | 55 | 26 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-brakeman/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-brakeman)
@@ -21,7 +21,7 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/chanzuckerberg.png" width=50 height=50>|https://github.com/chanzuckerberg/czid-web|86|
+|1|<img src="https://github.com/chanzuckerberg.png" width=50 height=50>|https://github.com/chanzuckerberg/czid-web|88|
 |2|<img src="https://github.com/MushroomObserver.png" width=50 height=50>|https://github.com/MushroomObserver/mushroom-observer|82|
 |3|<img src="https://github.com/tricknotes.png" width=50 height=50>|https://github.com/tricknotes/starseeker|81|
 |4|<img src="https://github.com/openHPI.png" width=50 height=50>|https://github.com/openHPI/codeocean|72|

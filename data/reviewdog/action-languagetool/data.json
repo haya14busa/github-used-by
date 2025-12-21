@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8891
+      "stars": 8905
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7703
+      "stars": 7704
     },
     {
       "url": "https://github.com/vdaas/vald",
@@ -16,31 +16,27 @@
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1164
+      "stars": 1166
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1135
-    },
-    {
-      "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 1103
+      "stars": 1137
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 1080
+      "stars": 1084
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 753
+      "stars": 750
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 735
+      "stars": 737
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
-      "stars": 325
+      "stars": 326
     },
     {
       "url": "https://github.com/Shemnei/punktf",
@@ -64,7 +60,7 @@
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 138
+      "stars": 141
     },
     {
       "url": "https://github.com/mszostok/version",
@@ -76,7 +72,7 @@
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
-      "stars": 93
+      "stars": 94
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
@@ -100,7 +96,7 @@
     },
     {
       "url": "https://github.com/jeertmans/DiffeRT",
-      "stars": 44
+      "stars": 45
     },
     {
       "url": "https://github.com/jeertmans/rpdf",
@@ -160,7 +156,7 @@
     },
     {
       "url": "https://github.com/liftwizard/liftwizard",
-      "stars": 9
+      "stars": 10
     },
     {
       "url": "https://github.com/jeertmans/jeertmans.github.io",
@@ -173,6 +169,10 @@
     {
       "url": "https://github.com/CircuitVerse/Blog",
       "stars": 8
+    },
+    {
+      "url": "https://github.com/ImMALWARE/wiki.malw.link",
+      "stars": 7
     },
     {
       "url": "https://github.com/chocolatey/boxstarter.org",
@@ -195,6 +195,10 @@
       "stars": 6
     },
     {
+      "url": "https://github.com/MasWag/FalCAuN",
+      "stars": 5
+    },
+    {
       "url": "https://github.com/margau/bahn.day",
       "stars": 5
     },
@@ -212,9 +216,9 @@
     }
   ],
   "count": {
-    "total": 420,
-    "public": 191,
-    "private": 229,
-    "more_than_zero_star": 90
+    "total": 423,
+    "public": 192,
+    "private": 231,
+    "more_than_zero_star": 91
   }
 }

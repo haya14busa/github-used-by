@@ -12,15 +12,15 @@
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7703
+      "stars": 7704
     },
     {
       "url": "https://github.com/preservim/tagbar",
-      "stars": 6214
+      "stars": 6213
     },
     {
       "url": "https://github.com/preservim/nerdcommenter",
-      "stars": 5010
+      "stars": 5008
     },
     {
       "url": "https://github.com/preservim/vim-markdown",
@@ -40,19 +40,19 @@
     },
     {
       "url": "https://github.com/liuchengxu/vim-clap",
-      "stars": 2134
+      "stars": 2136
     },
     {
       "url": "https://github.com/Xuyuanp/nerdtree-git-plugin",
-      "stars": 2089
+      "stars": 2086
     },
     {
       "url": "https://github.com/vim-airline/vim-airline-themes",
-      "stars": 2070
+      "stars": 2068
     },
     {
       "url": "https://github.com/liuchengxu/vista.vim",
-      "stars": 1941
+      "stars": 1940
     },
     {
       "url": "https://github.com/OmniSharp/omnisharp-vim",
@@ -64,15 +64,15 @@
     },
     {
       "url": "https://github.com/lambdalisue/vim-fern",
-      "stars": 1342
+      "stars": 1344
     },
     {
       "url": "https://github.com/kassio/neoterm",
-      "stars": 1335
+      "stars": 1334
     },
     {
       "url": "https://github.com/whatyouhide/vim-gotham",
-      "stars": 1285
+      "stars": 1287
     },
     {
       "url": "https://github.com/artur-shaik/vim-javacomplete2",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/prabirshrestha/asyncomplete.vim",
-      "stars": 971
+      "stars": 970
     },
     {
       "url": "https://github.com/lambdalisue/vim-gina",
@@ -100,7 +100,7 @@
     },
     {
       "url": "https://github.com/tyru/caw.vim",
-      "stars": 380
+      "stars": 379
     },
     {
       "url": "https://github.com/tani/vim-jetpack",
@@ -177,8 +177,8 @@
   ],
   "count": {
     "total": 377,
-    "public": 140,
-    "private": 237,
+    "public": 139,
+    "private": 238,
     "more_than_zero_star": 61
   }
 }

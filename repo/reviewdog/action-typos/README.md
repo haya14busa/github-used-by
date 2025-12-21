@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 72 | 61 | 11 | 37 |
+| 73 | 62 | 11 | 37 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-typos/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-typos)
@@ -21,13 +21,13 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9656|
-|2|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|8891|
-|3|<img src="https://github.com/moonbitlang.png" width=50 height=50>|https://github.com/moonbitlang/moonbit-docs|2000|
+|1|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9659|
+|2|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|8905|
+|3|<img src="https://github.com/moonbitlang.png" width=50 height=50>|https://github.com/moonbitlang/moonbit-docs|2013|
 |4|<img src="https://github.com/mime-types.png" width=50 height=50>|https://github.com/mime-types/ruby-mime-types|336|
-|5|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/diff-lcs|299|
+|5|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/diff-lcs|300|
 |6|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/color|157|
-|7|<img src="https://github.com/aaronhurt.png" width=50 height=50>|https://github.com/aaronhurt/zfs-replicate|79|
+|7|<img src="https://github.com/aaronhurt.png" width=50 height=50>|https://github.com/aaronhurt/zfs-replicate|80|
 |8|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/fish-macos|46|
 |9|<img src="https://github.com/mime-types.png" width=50 height=50>|https://github.com/mime-types/mime-types-data|46|
 |10|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/minitar|42|
