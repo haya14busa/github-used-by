@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/zeromicro/go-zero",
-      "stars": 32312
+      "stars": 32358
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8905
+      "stars": 8914
     },
     {
       "url": "https://github.com/golang-jwt/jwt",
-      "stars": 8785
+      "stars": 8801
     },
     {
       "url": "https://github.com/drk1wi/Modlishka",
-      "stars": 5233
+      "stars": 5239
     },
     {
       "url": "https://github.com/x-motemen/ghq",
-      "stars": 3386
+      "stars": 3392
     },
     {
       "url": "https://github.com/TarsCloud/TarsGo",
@@ -32,15 +32,15 @@
     },
     {
       "url": "https://github.com/gookit/goutil",
-      "stars": 2327
+      "stars": 2326
     },
     {
       "url": "https://github.com/cloudwego/goref",
-      "stars": 972
+      "stars": 973
     },
     {
       "url": "https://github.com/bytedance/mockey",
-      "stars": 848
+      "stars": 851
     },
     {
       "url": "https://github.com/shomali11/slacker",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/gookit/slog",
-      "stars": 523
+      "stars": 524
     },
     {
       "url": "https://github.com/cloudwego/shmipc-go",
@@ -64,11 +64,11 @@
     },
     {
       "url": "https://github.com/cloudwego/kitex-examples",
-      "stars": 413
+      "stars": 414
     },
     {
       "url": "https://github.com/gookit/gcli",
-      "stars": 376
+      "stars": 377
     },
     {
       "url": "https://github.com/arana-db/arana",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://github.com/Songmu/tagpr",
-      "stars": 262
+      "stars": 263
     },
     {
       "url": "https://github.com/toshimaru/nyan",
@@ -124,7 +124,7 @@
     },
     {
       "url": "https://github.com/gookit/filter",
-      "stars": 149
+      "stars": 150
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
@@ -148,11 +148,11 @@
     },
     {
       "url": "https://github.com/cloudwego/fastpb",
-      "stars": 103
+      "stars": 104
     },
     {
       "url": "https://github.com/Songmu/ghg",
-      "stars": 98
+      "stars": 99
     },
     {
       "url": "https://github.com/gookit/rux",
@@ -184,15 +184,15 @@
     },
     {
       "url": "https://github.com/Songmu/make2help",
-      "stars": 71
+      "stars": 72
+    },
+    {
+      "url": "https://github.com/slack-io/slacker",
+      "stars": 61
     },
     {
       "url": "https://github.com/johnmanjiro13/gh-bump",
       "stars": 61
-    },
-    {
-      "url": "https://github.com/slack-io/slacker",
-      "stars": 60
     },
     {
       "url": "https://github.com/cloudwego/gjson",
@@ -215,20 +215,20 @@
       "stars": 38
     },
     {
+      "url": "https://github.com/golang-jwt/jwe",
+      "stars": 37
+    },
+    {
       "url": "https://github.com/kitex-contrib/xds",
       "stars": 36
     },
     {
-      "url": "https://github.com/golang-jwt/jwe",
-      "stars": 36
+      "url": "https://github.com/hertz-contrib/obs-opentelemetry",
+      "stars": 35
     },
     {
       "url": "https://github.com/brunopadz/amictl",
       "stars": 35
-    },
-    {
-      "url": "https://github.com/hertz-contrib/obs-opentelemetry",
-      "stars": 34
     },
     {
       "url": "https://github.com/hertz-contrib/jwt",
@@ -275,15 +275,15 @@
       "stars": 21
     },
     {
+      "url": "https://github.com/kitex-contrib/registry-etcd",
+      "stars": 21
+    },
+    {
       "url": "https://github.com/hertz-contrib/reverseproxy",
       "stars": 21
     },
     {
       "url": "https://github.com/cloudwego/base64x",
-      "stars": 20
-    },
-    {
-      "url": "https://github.com/kitex-contrib/registry-etcd",
       "stars": 20
     },
     {
@@ -351,6 +351,10 @@
       "stars": 13
     },
     {
+      "url": "https://github.com/Songmu/gh2changelog",
+      "stars": 13
+    },
+    {
       "url": "https://github.com/hertz-contrib/gzip",
       "stars": 13
     },
@@ -364,10 +368,6 @@
     },
     {
       "url": "https://github.com/timoa/secure-go-backend-clean-architecture",
-      "stars": 12
-    },
-    {
-      "url": "https://github.com/Songmu/gh2changelog",
       "stars": 12
     },
     {
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 771,
-    "public": 452,
-    "private": 319,
+    "total": 772,
+    "public": 450,
+    "private": 322,
     "more_than_zero_star": 200
   }
 }

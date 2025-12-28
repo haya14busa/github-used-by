@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 508 | 181 | 327 | 71 |
+| 508 | 180 | 328 | 71 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-stylelint/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-stylelint)
@@ -22,8 +22,8 @@
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
 |1|<img src="https://github.com/Tokyo-Metro-Gov.png" width=50 height=50>|https://github.com/Tokyo-Metro-Gov/covid19|6211|
-|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2603|
-|3|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-web-components|1458|
+|2|<img src="https://github.com/target.png" width=50 height=50>|https://github.com/target/goalert|2613|
+|3|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-web-components|1459|
 |4|<img src="https://github.com/adobe.png" width=50 height=50>|https://github.com/adobe/spectrum-css|1250|
 |5|<img src="https://github.com/h3poteto.png" width=50 height=50>|https://github.com/h3poteto/whalebird-desktop|931|
 |6|<img src="https://github.com/th0th.png" width=50 height=50>|https://github.com/th0th/poeticmetric|267|
@@ -34,7 +34,7 @@
 |11|<img src="https://github.com/department-of-veterans-affairs.png" width=50 height=50>|https://github.com/department-of-veterans-affairs/va.gov-cms|107|
 |12|<img src="https://github.com/nordcloud.png" width=50 height=50>|https://github.com/nordcloud/pat-frontend-template|57|
 |13|<img src="https://github.com/stop-covid19-hyogo.png" width=50 height=50>|https://github.com/stop-covid19-hyogo/covid19|54|
-|14|<img src="https://github.com/DepSpy.png" width=50 height=50>|https://github.com/DepSpy/depspy|44|
+|14|<img src="https://github.com/DepSpy.png" width=50 height=50>|https://github.com/DepSpy/depspy|45|
 |15|<img src="https://github.com/WPMedia.png" width=50 height=50>|https://github.com/WPMedia/arc-themes-blocks|42|
 |16|<img src="https://github.com/a01sa01to.png" width=50 height=50>|https://github.com/a01sa01to/covid19-ibaraki|40|
 |17|<img src="https://github.com/gdg-fukushima.png" width=50 height=50>|https://github.com/gdg-fukushima/covid19|33|

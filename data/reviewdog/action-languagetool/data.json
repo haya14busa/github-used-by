@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8905
+      "stars": 8914
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7704
+      "stars": 7707
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1675
+      "stars": 1677
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
@@ -20,23 +20,23 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1137
+      "stars": 1136
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 1084
+      "stars": 1086
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 750
+      "stars": 753
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 737
+      "stars": 738
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
-      "stars": 326
+      "stars": 331
     },
     {
       "url": "https://github.com/Shemnei/punktf",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
-      "stars": 154
+      "stars": 155
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 141
+      "stars": 142
     },
     {
       "url": "https://github.com/mszostok/version",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
-      "stars": 94
+      "stars": 96
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
@@ -96,7 +96,7 @@
     },
     {
       "url": "https://github.com/jeertmans/DiffeRT",
-      "stars": 45
+      "stars": 46
     },
     {
       "url": "https://github.com/jeertmans/rpdf",
@@ -147,15 +147,15 @@
       "stars": 14
     },
     {
+      "url": "https://github.com/liftwizard/liftwizard",
+      "stars": 12
+    },
+    {
       "url": "https://github.com/GoogleCloudPlatform/appengine-cloud-demo-portal",
       "stars": 11
     },
     {
       "url": "https://github.com/libp2p/blog",
-      "stars": 10
-    },
-    {
-      "url": "https://github.com/liftwizard/liftwizard",
       "stars": 10
     },
     {
@@ -169,10 +169,6 @@
     {
       "url": "https://github.com/CircuitVerse/Blog",
       "stars": 8
-    },
-    {
-      "url": "https://github.com/ImMALWARE/wiki.malw.link",
-      "stars": 7
     },
     {
       "url": "https://github.com/chocolatey/boxstarter.org",
@@ -217,8 +213,8 @@
   ],
   "count": {
     "total": 423,
-    "public": 192,
-    "private": 231,
+    "public": 191,
+    "private": 232,
     "more_than_zero_star": 91
   }
 }

@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 77080
+      "stars": 77153
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7401
+      "stars": 7402
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -16,15 +16,15 @@
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 761
+      "stars": 763
     },
     {
       "url": "https://github.com/lavenderdotpet/LibreQuake",
-      "stars": 627
+      "stars": 628
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 599
+      "stars": 600
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
-      "stars": 237
+      "stars": 238
     },
     {
       "url": "https://github.com/f0uriest/interpax",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
-      "stars": 145
+      "stars": 146
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
@@ -68,7 +68,7 @@
     },
     {
       "url": "https://github.com/ydb-platform/nbs",
-      "stars": 92
+      "stars": 93
     },
     {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
@@ -88,7 +88,7 @@
     },
     {
       "url": "https://github.com/ThePornDatabase/scrapers",
-      "stars": 70
+      "stars": 71
     },
     {
       "url": "https://github.com/oracle/adaptivemm",
@@ -112,7 +112,7 @@
     },
     {
       "url": "https://github.com/comorment/containers",
-      "stars": 35
+      "stars": 36
     },
     {
       "url": "https://github.com/NebularNerd/subtotxt",
@@ -160,7 +160,7 @@
     },
     {
       "url": "https://github.com/mikhailprivalov/l2",
-      "stars": 17
+      "stars": 18
     },
     {
       "url": "https://github.com/ccdc-opensource/dash",
@@ -216,9 +216,9 @@
     }
   ],
   "count": {
-    "total": 549,
+    "total": 551,
     "public": 317,
-    "private": 232,
+    "private": 234,
     "more_than_zero_star": 119
   }
 }

@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/preservim/nerdtree",
-      "stars": 20031
+      "stars": 20032
     },
     {
       "url": "https://github.com/vim-airline/vim-airline",
-      "stars": 17926
+      "stars": 17928
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7704
+      "stars": 7707
     },
     {
       "url": "https://github.com/preservim/tagbar",
-      "stars": 6213
+      "stars": 6212
     },
     {
       "url": "https://github.com/preservim/nerdcommenter",
@@ -24,11 +24,11 @@
     },
     {
       "url": "https://github.com/preservim/vim-markdown",
-      "stars": 4785
+      "stars": 4788
     },
     {
       "url": "https://github.com/prabirshrestha/vim-lsp",
-      "stars": 3332
+      "stars": 3331
     },
     {
       "url": "https://github.com/liuchengxu/space-vim",
@@ -44,11 +44,11 @@
     },
     {
       "url": "https://github.com/Xuyuanp/nerdtree-git-plugin",
-      "stars": 2086
+      "stars": 2085
     },
     {
       "url": "https://github.com/vim-airline/vim-airline-themes",
-      "stars": 2068
+      "stars": 2069
     },
     {
       "url": "https://github.com/liuchengxu/vista.vim",
@@ -64,11 +64,11 @@
     },
     {
       "url": "https://github.com/lambdalisue/vim-fern",
-      "stars": 1344
+      "stars": 1345
     },
     {
       "url": "https://github.com/kassio/neoterm",
-      "stars": 1334
+      "stars": 1337
     },
     {
       "url": "https://github.com/whatyouhide/vim-gotham",
@@ -88,7 +88,7 @@
     },
     {
       "url": "https://github.com/vim-jp/vital.vim",
-      "stars": 583
+      "stars": 584
     },
     {
       "url": "https://github.com/haya14busa/vim-asterisk",
@@ -96,7 +96,7 @@
     },
     {
       "url": "https://github.com/ledger/vim-ledger",
-      "stars": 384
+      "stars": 385
     },
     {
       "url": "https://github.com/tyru/caw.vim",
@@ -177,8 +177,8 @@
   ],
   "count": {
     "total": 377,
-    "public": 139,
-    "private": 238,
-    "more_than_zero_star": 61
+    "public": 138,
+    "private": 239,
+    "more_than_zero_star": 60
   }
 }

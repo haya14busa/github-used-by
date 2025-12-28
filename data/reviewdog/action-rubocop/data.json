@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 13409
+      "stars": 13446
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9659
+      "stars": 9667
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 3217
+      "stars": 3224
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2792
+      "stars": 2793
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
@@ -24,19 +24,19 @@
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2450
+      "stars": 2452
     },
     {
       "url": "https://github.com/castwide/solargraph",
-      "stars": 1986
+      "stars": 1987
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1748
+      "stars": 1755
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1215
+      "stars": 1218
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -64,7 +64,7 @@
     },
     {
       "url": "https://github.com/vmware/dod-compliance-and-automation",
-      "stars": 183
+      "stars": 184
     },
     {
       "url": "https://github.com/kumahq/kuma-website",
@@ -128,7 +128,7 @@
     },
     {
       "url": "https://github.com/GetStream/stream-chat-ruby",
-      "stars": 33
+      "stars": 32
     },
     {
       "url": "https://github.com/workato/workato-connector-sdk",
@@ -231,10 +231,6 @@
       "stars": 7
     },
     {
-      "url": "https://github.com/openheritage/open-plaques-3",
-      "stars": 7
-    },
-    {
       "url": "https://github.com/ayarotsky/rack-shield",
       "stars": 6
     },
@@ -273,8 +269,8 @@
   ],
   "count": {
     "total": 771,
-    "public": 385,
-    "private": 386,
-    "more_than_zero_star": 156
+    "public": 384,
+    "private": 387,
+    "more_than_zero_star": 155
   }
 }

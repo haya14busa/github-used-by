@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 688 | 308 | 380 | 136 |
+| 689 | 307 | 382 | 136 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-tflint/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-tflint)
@@ -21,14 +21,14 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/magma.png" width=50 height=50>|https://github.com/magma/magma|1781|
-|2|<img src="https://github.com/cloudposse.png" width=50 height=50>|https://github.com/cloudposse/atmos|1211|
-|3|<img src="https://github.com/chainguard-dev.png" width=50 height=50>|https://github.com/chainguard-dev/malcontent|633|
-|4|<img src="https://github.com/xunholy.png" width=50 height=50>|https://github.com/xunholy/k8s-gitops|607|
+|1|<img src="https://github.com/magma.png" width=50 height=50>|https://github.com/magma/magma|1787|
+|2|<img src="https://github.com/cloudposse.png" width=50 height=50>|https://github.com/cloudposse/atmos|1218|
+|3|<img src="https://github.com/chainguard-dev.png" width=50 height=50>|https://github.com/chainguard-dev/malcontent|635|
+|4|<img src="https://github.com/xunholy.png" width=50 height=50>|https://github.com/xunholy/k8s-gitops|611|
 |5|<img src="https://github.com/aztfmod.png" width=50 height=50>|https://github.com/aztfmod/terraform-azurerm-caf|579|
-|6|<img src="https://github.com/octo-sts.png" width=50 height=50>|https://github.com/octo-sts/app|287|
-|7|<img src="https://github.com/gruberdev.png" width=50 height=50>|https://github.com/gruberdev/homelab|241|
-|8|<img src="https://github.com/TechToSpeech.png" width=50 height=50>|https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress|195|
+|6|<img src="https://github.com/octo-sts.png" width=50 height=50>|https://github.com/octo-sts/app|288|
+|7|<img src="https://github.com/gruberdev.png" width=50 height=50>|https://github.com/gruberdev/homelab|243|
+|8|<img src="https://github.com/TechToSpeech.png" width=50 height=50>|https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress|196|
 |9|<img src="https://github.com/raspbernetes.png" width=50 height=50>|https://github.com/raspbernetes/k8s-cluster-installation|116|
 |10|<img src="https://github.com/GiganticMinecraft.png" width=50 height=50>|https://github.com/GiganticMinecraft/seichi_infra|64|
 |11|<img src="https://github.com/cloudposse-archives.png" width=50 height=50>|https://github.com/cloudposse-archives/github-actions-workflows|41|

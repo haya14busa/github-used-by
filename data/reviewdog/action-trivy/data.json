@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/allthingslinux/tux",
-      "stars": 151
+      "stars": 153
     },
     {
       "url": "https://github.com/cookpad/terraform-aws-eks",
@@ -16,8 +16,8 @@
     }
   ],
   "count": {
-    "total": 49,
-    "public": 36,
+    "total": 50,
+    "public": 37,
     "private": 13,
     "more_than_zero_star": 13
   }

@@ -8,11 +8,11 @@
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2603
+      "stars": 2613
     },
     {
       "url": "https://github.com/adobe/spectrum-web-components",
-      "stars": 1458
+      "stars": 1459
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/DepSpy/depspy",
-      "stars": 44
+      "stars": 45
     },
     {
       "url": "https://github.com/WPMedia/arc-themes-blocks",
@@ -197,8 +197,8 @@
   ],
   "count": {
     "total": 508,
-    "public": 181,
-    "private": 327,
+    "public": 180,
+    "private": 328,
     "more_than_zero_star": 71
   }
 }
