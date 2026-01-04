@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 77153
+      "stars": 77228
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7402
+      "stars": 7406
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -16,15 +16,15 @@
     },
     {
       "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 763
+      "stars": 764
     },
     {
       "url": "https://github.com/lavenderdotpet/LibreQuake",
-      "stars": 628
+      "stars": 630
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 600
+      "stars": 602
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
@@ -56,11 +56,11 @@
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
-      "stars": 142
+      "stars": 143
     },
     {
       "url": "https://github.com/ehpor/hcipy",
-      "stars": 127
+      "stars": 128
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
@@ -68,7 +68,7 @@
     },
     {
       "url": "https://github.com/ydb-platform/nbs",
-      "stars": 93
+      "stars": 94
     },
     {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
@@ -76,7 +76,7 @@
     },
     {
       "url": "https://github.com/LFPy/LFPy",
-      "stars": 83
+      "stars": 84
     },
     {
       "url": "https://github.com/ktsaou/netdata",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://github.com/f0uriest/quadax",
-      "stars": 73
+      "stars": 74
     },
     {
       "url": "https://github.com/ThePornDatabase/scrapers",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/oracle/adaptivemm",
-      "stars": 69
+      "stars": 70
     },
     {
       "url": "https://github.com/ut-issl/c2a-core",
@@ -147,16 +147,16 @@
       "stars": 19
     },
     {
+      "url": "https://github.com/istellartech/GELATO",
+      "stars": 19
+    },
+    {
       "url": "https://github.com/nnsnodnb/kalyke",
       "stars": 19
     },
     {
       "url": "https://github.com/nnsnodnb/django-ios-storekit",
       "stars": 19
-    },
-    {
-      "url": "https://github.com/istellartech/GELATO",
-      "stars": 18
     },
     {
       "url": "https://github.com/mikhailprivalov/l2",
@@ -216,9 +216,9 @@
     }
   ],
   "count": {
-    "total": 551,
-    "public": 317,
-    "private": 234,
-    "more_than_zero_star": 119
+    "total": 553,
+    "public": 316,
+    "private": 237,
+    "more_than_zero_star": 120
   }
 }

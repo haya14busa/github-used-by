@@ -4,39 +4,39 @@
   "repos": [
     {
       "url": "https://github.com/dockur/windows",
-      "stars": 49258
+      "stars": 49330
     },
     {
       "url": "https://github.com/dockur/macos",
-      "stars": 18033
+      "stars": 18065
     },
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 4652
+      "stars": 4663
     },
     {
       "url": "https://github.com/vdsm/virtual-dsm",
-      "stars": 3507
+      "stars": 3520
     },
     {
       "url": "https://github.com/dockur/windows-arm",
-      "stars": 2017
+      "stars": 2026
     },
     {
       "url": "https://github.com/qemus/qemu",
-      "stars": 1593
+      "stars": 1605
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 1312
+      "stars": 1321
     },
     {
       "url": "https://github.com/dockur/samba",
-      "stars": 578
+      "stars": 583
     },
     {
       "url": "https://github.com/dockur/umbrel",
-      "stars": 341
+      "stars": 342
     },
     {
       "url": "https://github.com/Shemnei/punktf",
@@ -48,15 +48,15 @@
     },
     {
       "url": "https://github.com/dockur/casa",
-      "stars": 176
+      "stars": 177
     },
     {
       "url": "https://github.com/qemus/qemu-arm",
-      "stars": 173
+      "stars": 177
     },
     {
       "url": "https://github.com/allthingslinux/tux",
-      "stars": 153
+      "stars": 156
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/aiKrice/homebrew-badgetizr",
-      "stars": 63
+      "stars": 64
     },
     {
       "url": "https://github.com/lure-sh/lure-repo",
@@ -108,7 +108,7 @@
     },
     {
       "url": "https://github.com/dockur/munin",
-      "stars": 38
+      "stars": 39
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-tsc",
@@ -168,9 +168,9 @@
     }
   ],
   "count": {
-    "total": 242,
-    "public": 140,
-    "private": 102,
+    "total": 243,
+    "public": 138,
+    "private": 105,
     "more_than_zero_star": 65
   }
 }

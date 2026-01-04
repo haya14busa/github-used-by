@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9667
+      "stars": 9666
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8914
+      "stars": 8932
     },
     {
       "url": "https://github.com/moonbitlang/moonbit-docs",
-      "stars": 2033
+      "stars": 2057
     },
     {
       "url": "https://github.com/mime-types/ruby-mime-types",
-      "stars": 337
+      "stars": 338
     },
     {
       "url": "https://github.com/halostatue/diff-lcs",
@@ -96,9 +96,9 @@
     }
   ],
   "count": {
-    "total": 75,
-    "public": 64,
+    "total": 78,
+    "public": 67,
     "private": 11,
-    "more_than_zero_star": 37
+    "more_than_zero_star": 38
   }
 }

@@ -4,43 +4,43 @@
   "repos": [
     {
       "url": "https://github.com/zeromicro/go-zero",
-      "stars": 32358
+      "stars": 32398
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8914
+      "stars": 8932
     },
     {
       "url": "https://github.com/golang-jwt/jwt",
-      "stars": 8801
+      "stars": 8811
     },
     {
       "url": "https://github.com/drk1wi/Modlishka",
-      "stars": 5239
+      "stars": 5241
     },
     {
       "url": "https://github.com/x-motemen/ghq",
-      "stars": 3392
+      "stars": 3397
     },
     {
       "url": "https://github.com/TarsCloud/TarsGo",
-      "stars": 3368
+      "stars": 3369
     },
     {
       "url": "https://github.com/XiaoMi/Gaea",
-      "stars": 2762
+      "stars": 2763
     },
     {
       "url": "https://github.com/gookit/goutil",
-      "stars": 2326
+      "stars": 2329
     },
     {
       "url": "https://github.com/cloudwego/goref",
-      "stars": 973
+      "stars": 977
     },
     {
       "url": "https://github.com/bytedance/mockey",
-      "stars": 851
+      "stars": 854
     },
     {
       "url": "https://github.com/shomali11/slacker",
@@ -52,11 +52,11 @@
     },
     {
       "url": "https://github.com/gookit/event",
-      "stars": 561
+      "stars": 562
     },
     {
       "url": "https://github.com/gookit/slog",
-      "stars": 524
+      "stars": 525
     },
     {
       "url": "https://github.com/cloudwego/shmipc-go",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/arana-db/arana",
-      "stars": 300
+      "stars": 299
     },
     {
       "url": "https://github.com/chenquan/diskusage",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/openconfig/gnmic",
-      "stars": 263
+      "stars": 264
     },
     {
       "url": "https://github.com/Songmu/tagpr",
@@ -100,7 +100,7 @@
     },
     {
       "url": "https://github.com/Songmu/ecschedule",
-      "stars": 194
+      "stars": 195
     },
     {
       "url": "https://github.com/kevwan/mapreduce",
@@ -131,15 +131,15 @@
       "stars": 148
     },
     {
+      "url": "https://github.com/go-gorm/opentelemetry",
+      "stars": 131
+    },
+    {
       "url": "https://github.com/cloudwego/frugal",
       "stars": 130
     },
     {
       "url": "https://github.com/moke-game/platform",
-      "stars": 129
-    },
-    {
-      "url": "https://github.com/go-gorm/opentelemetry",
       "stars": 129
     },
     {
@@ -167,15 +167,15 @@
       "stars": 94
     },
     {
+      "url": "https://github.com/Ouyangan/go-zero-annotation",
+      "stars": 92
+    },
+    {
       "url": "https://github.com/kevwan/stream",
       "stars": 92
     },
     {
       "url": "https://github.com/jlucaspains/go-rest-template",
-      "stars": 91
-    },
-    {
-      "url": "https://github.com/Ouyangan/go-zero-annotation",
       "stars": 91
     },
     {
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 772,
-    "public": 450,
-    "private": 322,
+    "total": 774,
+    "public": 451,
+    "private": 323,
     "more_than_zero_star": 200
   }
 }

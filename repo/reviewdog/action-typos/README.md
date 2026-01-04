@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 75 | 64 | 11 | 37 |
+| 78 | 67 | 11 | 38 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-typos/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-typos)
@@ -21,10 +21,10 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9667|
-|2|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|8914|
-|3|<img src="https://github.com/moonbitlang.png" width=50 height=50>|https://github.com/moonbitlang/moonbit-docs|2033|
-|4|<img src="https://github.com/mime-types.png" width=50 height=50>|https://github.com/mime-types/ruby-mime-types|337|
+|1|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9666|
+|2|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|8932|
+|3|<img src="https://github.com/moonbitlang.png" width=50 height=50>|https://github.com/moonbitlang/moonbit-docs|2057|
+|4|<img src="https://github.com/mime-types.png" width=50 height=50>|https://github.com/mime-types/ruby-mime-types|338|
 |5|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/diff-lcs|300|
 |6|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/color|158|
 |7|<img src="https://github.com/aaronhurt.png" width=50 height=50>|https://github.com/aaronhurt/zfs-replicate|80|

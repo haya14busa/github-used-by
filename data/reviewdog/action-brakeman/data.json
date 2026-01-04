@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/chanzuckerberg/czid-web",
-      "stars": 88
+      "stars": 89
     },
     {
       "url": "https://github.com/MushroomObserver/mushroom-observer",
-      "stars": 82
+      "stars": 83
     },
     {
       "url": "https://github.com/tricknotes/starseeker",
@@ -56,8 +56,8 @@
     }
   ],
   "count": {
-    "total": 117,
-    "public": 62,
+    "total": 118,
+    "public": 63,
     "private": 55,
     "more_than_zero_star": 26
   }
