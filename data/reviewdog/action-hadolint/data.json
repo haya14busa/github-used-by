@@ -4,47 +4,47 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 77228
+      "stars": 77302
     },
     {
       "url": "https://github.com/dockur/windows",
-      "stars": 49330
+      "stars": 49416
     },
     {
       "url": "https://github.com/dockur/macos",
-      "stars": 18065
+      "stars": 18308
     },
     {
       "url": "https://github.com/idank/explainshell",
-      "stars": 13893
+      "stars": 13911
     },
     {
       "url": "https://github.com/fluent/fluent-bit",
-      "stars": 7536
+      "stars": 7557
     },
     {
       "url": "https://github.com/evrone/go-clean-template",
-      "stars": 7259
+      "stars": 7278
     },
     {
       "url": "https://github.com/Drakkar-Software/OctoBot",
-      "stars": 5074
+      "stars": 5095
     },
     {
       "url": "https://github.com/vdsm/virtual-dsm",
-      "stars": 3520
+      "stars": 3633
     },
     {
       "url": "https://github.com/stellargraph/stellargraph",
-      "stars": 3044
+      "stars": 3042
     },
     {
       "url": "https://github.com/dotenv-linter/dotenv-linter",
-      "stars": 2046
+      "stars": 2051
     },
     {
       "url": "https://github.com/dockur/windows-arm",
-      "stars": 2026
+      "stars": 2036
     },
     {
       "url": "https://github.com/magma/magma",
@@ -52,19 +52,19 @@
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1679
+      "stars": 1680
     },
     {
       "url": "https://github.com/qemus/qemu",
-      "stars": 1605
+      "stars": 1613
     },
     {
       "url": "https://github.com/controlplaneio/kubesec",
-      "stars": 1422
+      "stars": 1425
     },
     {
       "url": "https://github.com/factoriotools/factorio-docker",
-      "stars": 1313
+      "stars": 1320
     },
     {
       "url": "https://github.com/anothrNick/github-tag-action",
@@ -72,23 +72,23 @@
     },
     {
       "url": "https://github.com/dockur/samba",
-      "stars": 583
+      "stars": 592
     },
     {
       "url": "https://github.com/opentibiabr/canary",
-      "stars": 525
+      "stars": 526
     },
     {
       "url": "https://github.com/K-Phoen/dark",
-      "stars": 435
+      "stars": 434
     },
     {
       "url": "https://github.com/isindir/sops-secrets-operator",
-      "stars": 425
+      "stars": 426
     },
     {
       "url": "https://github.com/dockur/umbrel",
-      "stars": 342
+      "stars": 346
     },
     {
       "url": "https://github.com/KCarretto/paragon",
@@ -104,15 +104,15 @@
     },
     {
       "url": "https://github.com/dadrus/heimdall",
-      "stars": 216
-    },
-    {
-      "url": "https://github.com/dockur/casa",
-      "stars": 177
+      "stars": 217
     },
     {
       "url": "https://github.com/qemus/qemu-arm",
-      "stars": 177
+      "stars": 180
+    },
+    {
+      "url": "https://github.com/dockur/casa",
+      "stars": 179
     },
     {
       "url": "https://github.com/raspbernetes/multi-arch-images",
@@ -132,7 +132,7 @@
     },
     {
       "url": "https://github.com/vanadium23/kompanion",
-      "stars": 123
+      "stars": 122
     },
     {
       "url": "https://github.com/timoa/app-stores-prometheus-exporter",
@@ -160,7 +160,7 @@
     },
     {
       "url": "https://github.com/dockur/chrony",
-      "stars": 87
+      "stars": 89
     },
     {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
@@ -180,7 +180,7 @@
     },
     {
       "url": "https://github.com/netdata/community",
-      "stars": 74
+      "stars": 75
     },
     {
       "url": "https://github.com/akunzai/GSS.Authentication.CAS",
@@ -295,12 +295,12 @@
       "stars": 18
     },
     {
-      "url": "https://github.com/sammcj/scripts",
-      "stars": 16
+      "url": "https://github.com/yanorei32/discord-tts",
+      "stars": 17
     },
     {
-      "url": "https://github.com/yanorei32/discord-tts",
-      "stars": 15
+      "url": "https://github.com/sammcj/scripts",
+      "stars": 16
     },
     {
       "url": "https://github.com/netdata/ebpf-co-re",
@@ -404,9 +404,9 @@
     }
   ],
   "count": {
-    "total": 2128,
-    "public": 1010,
-    "private": 1118,
-    "more_than_zero_star": 298
+    "total": 2131,
+    "public": 998,
+    "private": 1133,
+    "more_than_zero_star": 294
   }
 }

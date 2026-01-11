@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/4paradigm/OpenMLDB",
-      "stars": 1675
+      "stars": 1674
     },
     {
       "url": "https://github.com/jackpocket/android-scratchoff",
@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/adam-rms/adam-rms",
-      "stars": 46
+      "stars": 47
     },
     {
       "url": "https://github.com/bitjourney/react-simple-image",
@@ -89,8 +89,8 @@
   ],
   "count": {
     "total": 344,
-    "public": 143,
-    "private": 201,
-    "more_than_zero_star": 65
+    "public": 142,
+    "private": 202,
+    "more_than_zero_star": 64
   }
 }

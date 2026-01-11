@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9666
+      "stars": 9664
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8932
+      "stars": 8946
     },
     {
       "url": "https://github.com/moonbitlang/moonbit-docs",
-      "stars": 2057
+      "stars": 2073
     },
     {
       "url": "https://github.com/mime-types/ruby-mime-types",
@@ -32,7 +32,7 @@
     },
     {
       "url": "https://github.com/halostatue/fish-macos",
-      "stars": 46
+      "stars": 47
     },
     {
       "url": "https://github.com/mime-types/mime-types-data",
@@ -96,9 +96,9 @@
     }
   ],
   "count": {
-    "total": 78,
+    "total": 79,
     "public": 67,
-    "private": 11,
-    "more_than_zero_star": 38
+    "private": 12,
+    "more_than_zero_star": 39
   }
 }

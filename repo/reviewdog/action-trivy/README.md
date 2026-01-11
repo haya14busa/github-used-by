@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 51 | 36 | 15 | 12 |
+| 51 | 35 | 16 | 12 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-trivy/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-trivy)

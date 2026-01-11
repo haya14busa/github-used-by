@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8932
+      "stars": 8946
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7711
+      "stars": 7713
     },
     {
       "url": "https://github.com/vdaas/vald",
-      "stars": 1679
+      "stars": 1680
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
@@ -20,23 +20,23 @@
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1138
+      "stars": 1140
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 1089
+      "stars": 1091
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 755
+      "stars": 761
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 739
+      "stars": 742
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
-      "stars": 331
+      "stars": 332
     },
     {
       "url": "https://github.com/Shemnei/punktf",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
-      "stars": 156
+      "stars": 157
     },
     {
       "url": "https://github.com/leandro-lugaresi/hub",
@@ -67,12 +67,12 @@
       "stars": 109
     },
     {
-      "url": "https://github.com/GStones/moke-kit",
-      "stars": 97
+      "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
+      "stars": 98
     },
     {
-      "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
-      "stars": 96
+      "url": "https://github.com/GStones/moke-kit",
+      "stars": 97
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://github.com/capactio/capact",
-      "stars": 80
+      "stars": 81
     },
     {
       "url": "https://github.com/codewars/docs",
@@ -164,11 +164,11 @@
     },
     {
       "url": "https://github.com/VikeSec/CTF-Infrastructure",
-      "stars": 8
+      "stars": 9
     },
     {
       "url": "https://github.com/CircuitVerse/Blog",
-      "stars": 8
+      "stars": 9
     },
     {
       "url": "https://github.com/chocolatey/boxstarter.org",
@@ -213,8 +213,8 @@
   ],
   "count": {
     "total": 425,
-    "public": 191,
-    "private": 234,
+    "public": 186,
+    "private": 239,
     "more_than_zero_star": 91
   }
 }

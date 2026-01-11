@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 773 | 384 | 389 | 154 |
+| 778 | 387 | 391 | 154 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-rubocop/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-rubocop)
@@ -21,14 +21,14 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/opf.png" width=50 height=50>|https://github.com/opf/openproject|13493|
-|2|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9666|
-|3|<img src="https://github.com/ytti.png" width=50 height=50>|https://github.com/ytti/oxidized|3230|
+|1|<img src="https://github.com/opf.png" width=50 height=50>|https://github.com/opf/openproject|13701|
+|2|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9664|
+|3|<img src="https://github.com/ytti.png" width=50 height=50>|https://github.com/ytti/oxidized|3242|
 |4|<img src="https://github.com/CartoDB.png" width=50 height=50>|https://github.com/CartoDB/cartodb|2794|
 |5|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/inherited_resources|2703|
-|6|<img src="https://github.com/chromebrew.png" width=50 height=50>|https://github.com/chromebrew/chromebrew|2453|
-|7|<img src="https://github.com/castwide.png" width=50 height=50>|https://github.com/castwide/solargraph|1989|
-|8|<img src="https://github.com/otwcode.png" width=50 height=50>|https://github.com/otwcode/otwarchive|1762|
+|6|<img src="https://github.com/chromebrew.png" width=50 height=50>|https://github.com/chromebrew/chromebrew|2456|
+|7|<img src="https://github.com/castwide.png" width=50 height=50>|https://github.com/castwide/solargraph|1988|
+|8|<img src="https://github.com/otwcode.png" width=50 height=50>|https://github.com/otwcode/otwarchive|1770|
 |9|<img src="https://github.com/openfoodfoundation.png" width=50 height=50>|https://github.com/openfoodfoundation/openfoodnetwork|1219|
 |10|<img src="https://github.com/k1LoW.png" width=50 height=50>|https://github.com/k1LoW/awspec|1176|
 |11|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/arbre|785|
@@ -44,7 +44,7 @@
 |21|<img src="https://github.com/openHPI.png" width=50 height=50>|https://github.com/openHPI/codeocean|72|
 |22|<img src="https://github.com/Unleash.png" width=50 height=50>|https://github.com/Unleash/unleash-ruby-sdk|62|
 |23|<img src="https://github.com/veuelive.png" width=50 height=50>|https://github.com/veuelive/veue|55|
-|24|<img src="https://github.com/gabriel-dehan.png" width=50 height=50>|https://github.com/gabriel-dehan/dyson-sphere-blueprints|53|
+|24|<img src="https://github.com/gabriel-dehan.png" width=50 height=50>|https://github.com/gabriel-dehan/dyson-sphere-blueprints|54|
 |25|<img src="https://github.com/ytti.png" width=50 height=50>|https://github.com/ytti/oxidized-script|49|
 |26|<img src="https://github.com/puzzle.png" width=50 height=50>|https://github.com/puzzle/puzzletime|47|
 |27|<img src="https://github.com/machinio.png" width=50 height=50>|https://github.com/machinio/solrb|39|
@@ -52,7 +52,7 @@
 |29|<img src="https://github.com/injectablerb.png" width=50 height=50>|https://github.com/injectablerb/injectable|34|
 |30|<img src="https://github.com/mysociety.png" width=50 height=50>|https://github.com/mysociety/whatdotheyknow-theme|34|
 |31|<img src="https://github.com/GetStream.png" width=50 height=50>|https://github.com/GetStream/stream-chat-ruby|32|
-|32|<img src="https://github.com/workato.png" width=50 height=50>|https://github.com/workato/workato-connector-sdk|29|
+|32|<img src="https://github.com/workato.png" width=50 height=50>|https://github.com/workato/workato-connector-sdk|30|
 |33|<img src="https://github.com/neinteractiveliterature.png" width=50 height=50>|https://github.com/neinteractiveliterature/intercode|26|
 |34|<img src="https://github.com/bitjourney.png" width=50 height=50>|https://github.com/bitjourney/mato|23|
 |35|<img src="https://github.com/glowfic-constellation.png" width=50 height=50>|https://github.com/glowfic-constellation/glowfic|21|

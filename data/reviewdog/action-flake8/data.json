@@ -4,27 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 77228
+      "stars": 77302
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7406
+      "stars": 7413
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
-      "stars": 881
-    },
-    {
-      "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi",
-      "stars": 764
+      "stars": 882
     },
     {
       "url": "https://github.com/lavenderdotpet/LibreQuake",
-      "stars": 630
+      "stars": 640
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 602
+      "stars": 604
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
@@ -40,11 +36,11 @@
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
-      "stars": 238
+      "stars": 239
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 235
+      "stars": 237
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
@@ -52,7 +48,7 @@
     },
     {
       "url": "https://github.com/PlasmaControl/DESC",
-      "stars": 146
+      "stars": 148
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
@@ -60,7 +56,7 @@
     },
     {
       "url": "https://github.com/ehpor/hcipy",
-      "stars": 128
+      "stars": 129
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
@@ -216,9 +212,9 @@
     }
   ],
   "count": {
-    "total": 553,
-    "public": 316,
-    "private": 237,
-    "more_than_zero_star": 120
+    "total": 556,
+    "public": 318,
+    "private": 238,
+    "more_than_zero_star": 119
   }
 }

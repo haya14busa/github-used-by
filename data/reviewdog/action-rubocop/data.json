@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 13493
+      "stars": 13701
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9666
+      "stars": 9664
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 3230
+      "stars": 3242
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
@@ -24,15 +24,15 @@
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2453
+      "stars": 2456
     },
     {
       "url": "https://github.com/castwide/solargraph",
-      "stars": 1989
+      "stars": 1988
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1762
+      "stars": 1770
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
@@ -96,7 +96,7 @@
     },
     {
       "url": "https://github.com/gabriel-dehan/dyson-sphere-blueprints",
-      "stars": 53
+      "stars": 54
     },
     {
       "url": "https://github.com/ytti/oxidized-script",
@@ -128,7 +128,7 @@
     },
     {
       "url": "https://github.com/workato/workato-connector-sdk",
-      "stars": 29
+      "stars": 30
     },
     {
       "url": "https://github.com/neinteractiveliterature/intercode",
@@ -268,9 +268,9 @@
     }
   ],
   "count": {
-    "total": 773,
-    "public": 384,
-    "private": 389,
+    "total": 778,
+    "public": 387,
+    "private": 391,
     "more_than_zero_star": 154
   }
 }

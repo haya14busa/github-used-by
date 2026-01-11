@@ -4,39 +4,39 @@
   "repos": [
     {
       "url": "https://github.com/dockur/windows",
-      "stars": 49330
+      "stars": 49416
     },
     {
       "url": "https://github.com/dockur/macos",
-      "stars": 18065
+      "stars": 18308
     },
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 4663
+      "stars": 4675
     },
     {
       "url": "https://github.com/vdsm/virtual-dsm",
-      "stars": 3520
+      "stars": 3633
     },
     {
       "url": "https://github.com/dockur/windows-arm",
-      "stars": 2026
+      "stars": 2036
     },
     {
       "url": "https://github.com/qemus/qemu",
-      "stars": 1605
+      "stars": 1613
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 1321
+      "stars": 1331
     },
     {
       "url": "https://github.com/dockur/samba",
-      "stars": 583
+      "stars": 592
     },
     {
       "url": "https://github.com/dockur/umbrel",
-      "stars": 342
+      "stars": 346
     },
     {
       "url": "https://github.com/Shemnei/punktf",
@@ -47,12 +47,12 @@
       "stars": 197
     },
     {
-      "url": "https://github.com/dockur/casa",
-      "stars": 177
+      "url": "https://github.com/qemus/qemu-arm",
+      "stars": 180
     },
     {
-      "url": "https://github.com/qemus/qemu-arm",
-      "stars": 177
+      "url": "https://github.com/dockur/casa",
+      "stars": 179
     },
     {
       "url": "https://github.com/allthingslinux/tux",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/dockur/chrony",
-      "stars": 87
+      "stars": 89
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
@@ -168,9 +168,9 @@
     }
   ],
   "count": {
-    "total": 243,
-    "public": 138,
-    "private": 105,
+    "total": 244,
+    "public": 137,
+    "private": 107,
     "more_than_zero_star": 65
   }
 }
