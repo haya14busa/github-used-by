@@ -4,43 +4,43 @@
   "repos": [
     {
       "url": "https://github.com/zeromicro/go-zero",
-      "stars": 32434
+      "stars": 32480
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8946
+      "stars": 8969
     },
     {
       "url": "https://github.com/golang-jwt/jwt",
-      "stars": 8826
+      "stars": 8840
     },
     {
       "url": "https://github.com/drk1wi/Modlishka",
-      "stars": 5241
+      "stars": 5243
     },
     {
       "url": "https://github.com/x-motemen/ghq",
-      "stars": 3404
+      "stars": 3422
     },
     {
       "url": "https://github.com/TarsCloud/TarsGo",
-      "stars": 3366
+      "stars": 3369
     },
     {
       "url": "https://github.com/XiaoMi/Gaea",
-      "stars": 2763
+      "stars": 2766
     },
     {
       "url": "https://github.com/gookit/goutil",
-      "stars": 2330
+      "stars": 2331
     },
     {
       "url": "https://github.com/cloudwego/goref",
-      "stars": 980
+      "stars": 981
     },
     {
       "url": "https://github.com/bytedance/mockey",
-      "stars": 857
+      "stars": 863
     },
     {
       "url": "https://github.com/shomali11/slacker",
@@ -48,27 +48,27 @@
     },
     {
       "url": "https://github.com/gookit/config",
-      "stars": 576
+      "stars": 578
     },
     {
       "url": "https://github.com/gookit/event",
-      "stars": 562
+      "stars": 564
     },
     {
       "url": "https://github.com/gookit/slog",
-      "stars": 530
+      "stars": 531
     },
     {
       "url": "https://github.com/cloudwego/shmipc-go",
-      "stars": 502
+      "stars": 505
     },
     {
       "url": "https://github.com/cloudwego/kitex-examples",
-      "stars": 414
+      "stars": 413
     },
     {
       "url": "https://github.com/gookit/gcli",
-      "stars": 377
+      "stars": 376
     },
     {
       "url": "https://github.com/arana-db/arana",
@@ -80,11 +80,11 @@
     },
     {
       "url": "https://github.com/openconfig/gnmic",
-      "stars": 264
+      "stars": 267
     },
     {
       "url": "https://github.com/Songmu/tagpr",
-      "stars": 264
+      "stars": 265
     },
     {
       "url": "https://github.com/toshimaru/nyan",
@@ -92,7 +92,7 @@
     },
     {
       "url": "https://github.com/karimra/gnmic",
-      "stars": 221
+      "stars": 222
     },
     {
       "url": "https://github.com/gookit/cache",
@@ -100,7 +100,7 @@
     },
     {
       "url": "https://github.com/Songmu/ecschedule",
-      "stars": 195
+      "stars": 196
     },
     {
       "url": "https://github.com/kevwan/mapreduce",
@@ -136,7 +136,7 @@
     },
     {
       "url": "https://github.com/cloudwego/frugal",
-      "stars": 130
+      "stars": 129
     },
     {
       "url": "https://github.com/moke-game/platform",
@@ -167,11 +167,11 @@
       "stars": 94
     },
     {
-      "url": "https://github.com/jlucaspains/go-rest-template",
-      "stars": 92
+      "url": "https://github.com/Ouyangan/go-zero-annotation",
+      "stars": 93
     },
     {
-      "url": "https://github.com/Ouyangan/go-zero-annotation",
+      "url": "https://github.com/jlucaspains/go-rest-template",
       "stars": 92
     },
     {
@@ -232,7 +232,7 @@
     },
     {
       "url": "https://github.com/hertz-contrib/jwt",
-      "stars": 33
+      "stars": 34
     },
     {
       "url": "https://github.com/empathyco/kubernetes-cost-report",
@@ -263,10 +263,6 @@
       "stars": 24
     },
     {
-      "url": "https://github.com/kitex-contrib/monitor-prometheus",
-      "stars": 23
-    },
-    {
       "url": "https://github.com/cloudwego/thrift-gen-validator",
       "stars": 22
     },
@@ -288,7 +284,7 @@
     },
     {
       "url": "https://github.com/cloudwego/iasm",
-      "stars": 19
+      "stars": 20
     },
     {
       "url": "https://github.com/cloudwego/configmanager",
@@ -401,12 +397,16 @@
     {
       "url": "https://github.com/hertz-contrib/cache",
       "stars": 8
+    },
+    {
+      "url": "https://github.com/chenquan/go-pkg",
+      "stars": 8
     }
   ],
   "count": {
-    "total": 776,
-    "public": 438,
-    "private": 338,
-    "more_than_zero_star": 188
+    "total": 777,
+    "public": 431,
+    "private": 346,
+    "more_than_zero_star": 180
   }
 }

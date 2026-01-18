@@ -8,11 +8,11 @@
     },
     {
       "url": "https://github.com/target/goalert",
-      "stars": 2632
+      "stars": 2638
     },
     {
       "url": "https://github.com/adobe/spectrum-web-components",
-      "stars": 1464
+      "stars": 1469
     },
     {
       "url": "https://github.com/adobe/spectrum-css",
@@ -36,11 +36,11 @@
     },
     {
       "url": "https://github.com/10up/10up-experience",
-      "stars": 136
+      "stars": 137
     },
     {
       "url": "https://github.com/MWDelaney/ZeroPoint",
-      "stars": 118
+      "stars": 134
     },
     {
       "url": "https://github.com/department-of-veterans-affairs/va.gov-cms",
@@ -123,6 +123,10 @@
       "stars": 13
     },
     {
+      "url": "https://github.com/codeforboston/boston-liquor-license-tracker",
+      "stars": 12
+    },
+    {
       "url": "https://github.com/ironpeakservices/iron-chart-hugo",
       "stars": 12
     },
@@ -157,6 +161,10 @@
     {
       "url": "https://github.com/adobecom/dc",
       "stars": 8
+    },
+    {
+      "url": "https://github.com/MWDelaney/getzeropoint.com",
+      "stars": 7
     },
     {
       "url": "https://github.com/chiefpansancolt/simplecov-material",
@@ -196,9 +204,9 @@
     }
   ],
   "count": {
-    "total": 509,
-    "public": 179,
-    "private": 330,
+    "total": 511,
+    "public": 180,
+    "private": 331,
     "more_than_zero_star": 71
   }
 }

@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 13701
+      "stars": 14120
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9664
+      "stars": 9665
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 3242
+      "stars": 3247
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2794
+      "stars": 2793
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
@@ -24,19 +24,19 @@
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2456
+      "stars": 2454
     },
     {
       "url": "https://github.com/castwide/solargraph",
-      "stars": 1988
+      "stars": 1989
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1770
+      "stars": 1775
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1219
+      "stars": 1223
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -44,7 +44,7 @@
     },
     {
       "url": "https://github.com/activeadmin/arbre",
-      "stars": 785
+      "stars": 786
     },
     {
       "url": "https://github.com/zilverline/sequent",
@@ -167,10 +167,6 @@
       "stars": 16
     },
     {
-      "url": "https://github.com/alphagov/govuk-mobile-ios-app",
-      "stars": 14
-    },
-    {
       "url": "https://github.com/rwx-research/rspec-abq",
       "stars": 14
     },
@@ -251,6 +247,14 @@
       "stars": 6
     },
     {
+      "url": "https://github.com/KazWolfe/XIVAuth",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/Strappazzon/www",
+      "stars": 5
+    },
+    {
       "url": "https://github.com/SwedbankPay/swedbank-pay-design-guide-jekyll-theme",
       "stars": 5
     },
@@ -268,9 +272,9 @@
     }
   ],
   "count": {
-    "total": 778,
-    "public": 387,
-    "private": 391,
+    "total": 780,
+    "public": 386,
+    "private": 394,
     "more_than_zero_star": 154
   }
 }

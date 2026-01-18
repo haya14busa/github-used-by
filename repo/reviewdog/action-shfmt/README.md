@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 244 | 137 | 107 | 65 |
+| 244 | 135 | 109 | 64 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-shfmt/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-shfmt)
@@ -21,24 +21,24 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/dockur.png" width=50 height=50>|https://github.com/dockur/windows|49416|
-|2|<img src="https://github.com/dockur.png" width=50 height=50>|https://github.com/dockur/macos|18308|
-|3|<img src="https://github.com/ChrisTitusTech.png" width=50 height=50>|https://github.com/ChrisTitusTech/linutil|4675|
-|4|<img src="https://github.com/vdsm.png" width=50 height=50>|https://github.com/vdsm/virtual-dsm|3633|
-|5|<img src="https://github.com/dockur.png" width=50 height=50>|https://github.com/dockur/windows-arm|2036|
-|6|<img src="https://github.com/qemus.png" width=50 height=50>|https://github.com/qemus/qemu|1613|
-|7|<img src="https://github.com/sourcegraph.png" width=50 height=50>|https://github.com/sourcegraph/zoekt|1331|
-|8|<img src="https://github.com/dockur.png" width=50 height=50>|https://github.com/dockur/samba|592|
-|9|<img src="https://github.com/dockur.png" width=50 height=50>|https://github.com/dockur/umbrel|346|
+|1|<img src="https://github.com/dockur.png" width=50 height=50>|https://github.com/dockur/windows|49541|
+|2|<img src="https://github.com/dockur.png" width=50 height=50>|https://github.com/dockur/macos|18386|
+|3|<img src="https://github.com/ChrisTitusTech.png" width=50 height=50>|https://github.com/ChrisTitusTech/linutil|4689|
+|4|<img src="https://github.com/vdsm.png" width=50 height=50>|https://github.com/vdsm/virtual-dsm|3638|
+|5|<img src="https://github.com/dockur.png" width=50 height=50>|https://github.com/dockur/windows-arm|2044|
+|6|<img src="https://github.com/qemus.png" width=50 height=50>|https://github.com/qemus/qemu|1630|
+|7|<img src="https://github.com/sourcegraph.png" width=50 height=50>|https://github.com/sourcegraph/zoekt|1339|
+|8|<img src="https://github.com/dockur.png" width=50 height=50>|https://github.com/dockur/samba|596|
+|9|<img src="https://github.com/dockur.png" width=50 height=50>|https://github.com/dockur/umbrel|349|
 |10|<img src="https://github.com/Shemnei.png" width=50 height=50>|https://github.com/Shemnei/punktf|301|
-|11|<img src="https://github.com/CrowdStrike.png" width=50 height=50>|https://github.com/CrowdStrike/falcon-scripts|197|
-|12|<img src="https://github.com/qemus.png" width=50 height=50>|https://github.com/qemus/qemu-arm|180|
-|13|<img src="https://github.com/dockur.png" width=50 height=50>|https://github.com/dockur/casa|179|
-|14|<img src="https://github.com/allthingslinux.png" width=50 height=50>|https://github.com/allthingslinux/tux|156|
+|11|<img src="https://github.com/CrowdStrike.png" width=50 height=50>|https://github.com/CrowdStrike/falcon-scripts|198|
+|12|<img src="https://github.com/qemus.png" width=50 height=50>|https://github.com/qemus/qemu-arm|181|
+|13|<img src="https://github.com/dockur.png" width=50 height=50>|https://github.com/dockur/casa|180|
+|14|<img src="https://github.com/allthingslinux.png" width=50 height=50>|https://github.com/allthingslinux/tux|161|
 |15|<img src="https://github.com/aerospike.png" width=50 height=50>|https://github.com/aerospike/aerospike-server.docker|145|
 |16|<img src="https://github.com/dockur.png" width=50 height=50>|https://github.com/dockur/dnsmasq|118|
 |17|<img src="https://github.com/jiro4989.png" width=50 height=50>|https://github.com/jiro4989/setup-nim-action|108|
-|18|<img src="https://github.com/NOAA-EMC.png" width=50 height=50>|https://github.com/NOAA-EMC/global-workflow|95|
+|18|<img src="https://github.com/NOAA-EMC.png" width=50 height=50>|https://github.com/NOAA-EMC/global-workflow|94|
 |19|<img src="https://github.com/jonathanmorley.png" width=50 height=50>|https://github.com/jonathanmorley/asdf-pnpm|93|
 |20|<img src="https://github.com/dockur.png" width=50 height=50>|https://github.com/dockur/chrony|89|
 |21|<img src="https://github.com/aaronhurt.png" width=50 height=50>|https://github.com/aaronhurt/zfs-replicate|80|
@@ -55,9 +55,9 @@
 |32|<img src="https://github.com/y-miyazaki.png" width=50 height=50>|https://github.com/y-miyazaki/terraform-aws-base|15|
 |33|<img src="https://github.com/knative.png" width=50 height=50>|https://github.com/knative/actions|12|
 |34|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/action-ast-grep|11|
-|35|<img src="https://github.com/sourcebot-dev.png" width=50 height=50>|https://github.com/sourcebot-dev/zoekt|6|
-|36|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/action-typos|6|
-|37|<img src="https://github.com/tolkonepiu.png" width=50 height=50>|https://github.com/tolkonepiu/keencli|6|
+|35|<img src="https://github.com/sourcebot-dev.png" width=50 height=50>|https://github.com/sourcebot-dev/zoekt|7|
+|36|<img src="https://github.com/tolkonepiu.png" width=50 height=50>|https://github.com/tolkonepiu/keencli|7|
+|37|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/action-typos|6|
 |38|<img src="https://github.com/btkostner.png" width=50 height=50>|https://github.com/btkostner/jumar|6|
 |39|<img src="https://github.com/webdevred.png" width=50 height=50>|https://github.com/webdevred/jbeam_edit|5|
 |40|<img src="https://github.com/AMS21.png" width=50 height=50>|https://github.com/AMS21/Phi|5|

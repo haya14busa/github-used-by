@@ -4,39 +4,39 @@
   "repos": [
     {
       "url": "https://github.com/dockur/windows",
-      "stars": 49416
+      "stars": 49541
     },
     {
       "url": "https://github.com/dockur/macos",
-      "stars": 18308
+      "stars": 18386
     },
     {
       "url": "https://github.com/ChrisTitusTech/linutil",
-      "stars": 4675
+      "stars": 4689
     },
     {
       "url": "https://github.com/vdsm/virtual-dsm",
-      "stars": 3633
+      "stars": 3638
     },
     {
       "url": "https://github.com/dockur/windows-arm",
-      "stars": 2036
+      "stars": 2044
     },
     {
       "url": "https://github.com/qemus/qemu",
-      "stars": 1613
+      "stars": 1630
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 1331
+      "stars": 1339
     },
     {
       "url": "https://github.com/dockur/samba",
-      "stars": 592
+      "stars": 596
     },
     {
       "url": "https://github.com/dockur/umbrel",
-      "stars": 346
+      "stars": 349
     },
     {
       "url": "https://github.com/Shemnei/punktf",
@@ -44,19 +44,19 @@
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
-      "stars": 197
+      "stars": 198
     },
     {
       "url": "https://github.com/qemus/qemu-arm",
-      "stars": 180
+      "stars": 181
     },
     {
       "url": "https://github.com/dockur/casa",
-      "stars": 179
+      "stars": 180
     },
     {
       "url": "https://github.com/allthingslinux/tux",
-      "stars": 156
+      "stars": 161
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/NOAA-EMC/global-workflow",
-      "stars": 95
+      "stars": 94
     },
     {
       "url": "https://github.com/jonathanmorley/asdf-pnpm",
@@ -140,14 +140,14 @@
     },
     {
       "url": "https://github.com/sourcebot-dev/zoekt",
-      "stars": 6
-    },
-    {
-      "url": "https://github.com/reviewdog/action-typos",
-      "stars": 6
+      "stars": 7
     },
     {
       "url": "https://github.com/tolkonepiu/keencli",
+      "stars": 7
+    },
+    {
+      "url": "https://github.com/reviewdog/action-typos",
       "stars": 6
     },
     {
@@ -169,8 +169,8 @@
   ],
   "count": {
     "total": 244,
-    "public": 137,
-    "private": 107,
-    "more_than_zero_star": 65
+    "public": 135,
+    "private": 109,
+    "more_than_zero_star": 64
   }
 }

@@ -21,8 +21,8 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/4paradigm.png" width=50 height=50>|https://github.com/4paradigm/OpenMLDB|1674|
-|2|<img src="https://github.com/jackpocket.png" width=50 height=50>|https://github.com/jackpocket/android-scratchoff|449|
+|1|<img src="https://github.com/4paradigm.png" width=50 height=50>|https://github.com/4paradigm/OpenMLDB|1676|
+|2|<img src="https://github.com/jackpocket.png" width=50 height=50>|https://github.com/jackpocket/android-scratchoff|448|
 |3|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/closeable-map|62|
 |4|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/malli-cli|56|
 |5|<img src="https://github.com/adam-rms.png" width=50 height=50>|https://github.com/adam-rms/adam-rms|47|
@@ -38,7 +38,7 @@
 |15|<img src="https://github.com/Badger-Finance.png" width=50 height=50>|https://github.com/Badger-Finance/v2-ui|8|
 |16|<img src="https://github.com/Avanade.png" width=50 height=50>|https://github.com/Avanade/ghcp-usage-dashboard|7|
 |17|<img src="https://github.com/piotr-yuxuan.png" width=50 height=50>|https://github.com/piotr-yuxuan/slava|7|
-|18|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/druid-opa-authorizer|6|
-|19|<img src="https://github.com/bitjourney.png" width=50 height=50>|https://github.com/bitjourney/ts_assets-rails|5|
-|20|<img src="https://github.com/ctc-uci.png" width=50 height=50>|https://github.com/ctc-uci/stand-up-to-trash-backend|5|
-|21|<img src="https://github.com/ctc-uci.png" width=50 height=50>|https://github.com/ctc-uci/stand-up-to-trash-frontend|5|
+|18|<img src="https://github.com/bitjourney.png" width=50 height=50>|https://github.com/bitjourney/ts_assets-rails|5|
+|19|<img src="https://github.com/ctc-uci.png" width=50 height=50>|https://github.com/ctc-uci/stand-up-to-trash-backend|5|
+|20|<img src="https://github.com/ctc-uci.png" width=50 height=50>|https://github.com/ctc-uci/stand-up-to-trash-frontend|5|
+|21|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/druid-opa-authorizer|5|
