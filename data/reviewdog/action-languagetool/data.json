@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8969
+      "stars": 9018
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7714
+      "stars": 7715
     },
     {
       "url": "https://github.com/vdaas/vald",
@@ -16,27 +16,31 @@
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1167
+      "stars": 1168
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1140
+      "stars": 1144
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
-      "stars": 1092
+      "stars": 1094
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 766
+      "stars": 769
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 754
+      "stars": 758
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
       "stars": 332
+    },
+    {
+      "url": "https://github.com/Together-Java/ModernJava",
+      "stars": 314
     },
     {
       "url": "https://github.com/Shemnei/punktf",
@@ -44,7 +48,7 @@
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
-      "stars": 188
+      "stars": 190
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
@@ -55,16 +59,12 @@
       "stars": 158
     },
     {
-      "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 157
-    },
-    {
       "url": "https://github.com/leandro-lugaresi/hub",
       "stars": 148
     },
     {
       "url": "https://github.com/mszostok/version",
-      "stars": 109
+      "stars": 110
     },
     {
       "url": "https://github.com/CircuitVerse/CircuitVerseDocs",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/GStones/moke-kit",
-      "stars": 97
+      "stars": 98
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
@@ -88,7 +88,7 @@
     },
     {
       "url": "https://github.com/codewars/docs",
-      "stars": 65
+      "stars": 66
     },
     {
       "url": "https://github.com/shopware/docs",
@@ -96,7 +96,7 @@
     },
     {
       "url": "https://github.com/jeertmans/DiffeRT",
-      "stars": 48
+      "stars": 49
     },
     {
       "url": "https://github.com/jeertmans/rpdf",
@@ -104,7 +104,7 @@
     },
     {
       "url": "https://github.com/pkosiec/website",
-      "stars": 35
+      "stars": 36
     },
     {
       "url": "https://github.com/ADE-Scheduler/ADE-Scheduler",
@@ -120,7 +120,7 @@
     },
     {
       "url": "https://github.com/dotnet-project-file-analyzers/dotnet-project-file-analyzers",
-      "stars": 22
+      "stars": 23
     },
     {
       "url": "https://github.com/TheNeikos/type_description",
@@ -135,6 +135,10 @@
       "stars": 15
     },
     {
+      "url": "https://github.com/liftwizard/liftwizard",
+      "stars": 14
+    },
+    {
       "url": "https://github.com/hashbite/gatsby-mdx-suite",
       "stars": 14
     },
@@ -145,10 +149,6 @@
     {
       "url": "https://github.com/leveeml/rabbids",
       "stars": 14
-    },
-    {
-      "url": "https://github.com/liftwizard/liftwizard",
-      "stars": 13
     },
     {
       "url": "https://github.com/GoogleCloudPlatform/appengine-cloud-demo-portal",
@@ -212,9 +212,9 @@
     }
   ],
   "count": {
-    "total": 427,
+    "total": 428,
     "public": 187,
-    "private": 240,
+    "private": 241,
     "more_than_zero_star": 91
   }
 }

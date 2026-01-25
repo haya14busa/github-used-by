@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9665
+      "stars": 9668
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 8969
+      "stars": 9018
     },
     {
       "url": "https://github.com/moonbitlang/moonbit-docs",
-      "stars": 2082
+      "stars": 2094
     },
     {
       "url": "https://github.com/mime-types/ruby-mime-types",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/halostatue/color",
-      "stars": 158
+      "stars": 160
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",

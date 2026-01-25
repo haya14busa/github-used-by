@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 14120
+      "stars": 14218
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9665
+      "stars": 9668
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 3247
+      "stars": 3251
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
@@ -24,27 +24,27 @@
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
-      "stars": 2454
+      "stars": 2457
     },
     {
       "url": "https://github.com/castwide/solargraph",
-      "stars": 1989
+      "stars": 1990
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1775
+      "stars": 1788
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1223
+      "stars": 1221
     },
     {
       "url": "https://github.com/k1LoW/awspec",
-      "stars": 1176
+      "stars": 1177
     },
     {
       "url": "https://github.com/activeadmin/arbre",
-      "stars": 786
+      "stars": 787
     },
     {
       "url": "https://github.com/zilverline/sequent",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/mysociety/alaveteli",
-      "stars": 406
+      "stars": 407
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/vmware/dod-compliance-and-automation",
-      "stars": 184
+      "stars": 185
     },
     {
       "url": "https://github.com/kumahq/kuma-website",
@@ -72,7 +72,7 @@
     },
     {
       "url": "https://github.com/chanzuckerberg/czid-web",
-      "stars": 89
+      "stars": 90
     },
     {
       "url": "https://github.com/GetStream/stream-ruby",
@@ -273,8 +273,8 @@
   ],
   "count": {
     "total": 780,
-    "public": 386,
-    "private": 394,
+    "public": 384,
+    "private": 396,
     "more_than_zero_star": 154
   }
 }

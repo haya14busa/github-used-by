@@ -4,35 +4,35 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1803
+      "stars": 1806
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 1233
+      "stars": 1242
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 638
+      "stars": 639
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
-      "stars": 618
+      "stars": 619
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
-      "stars": 580
+      "stars": 579
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 292
+      "stars": 293
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 244
+      "stars": 247
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
-      "stars": 196
+      "stars": 195
     },
     {
       "url": "https://github.com/raspbernetes/k8s-cluster-installation",
@@ -147,10 +147,6 @@
       "stars": 8
     },
     {
-      "url": "https://github.com/nuvibit/github-terraform-workflows",
-      "stars": 8
-    },
-    {
       "url": "https://github.com/rhythmictech/terraform-aws-okta-sso",
       "stars": 8
     },
@@ -172,6 +168,10 @@
     },
     {
       "url": "https://github.com/rhythmictech/terraform-aws-backend",
+      "stars": 7
+    },
+    {
+      "url": "https://github.com/nuvibit/github-terraform-workflows",
       "stars": 7
     },
     {
@@ -199,12 +199,12 @@
       "stars": 6
     },
     {
-      "url": "https://github.com/sue445/terraform-gcp-template",
+      "url": "https://github.com/rhythmictech/terraform-aws-nexus",
       "stars": 6
     },
     {
-      "url": "https://github.com/rhythmictech/terraform-aws-nexus",
-      "stars": 6
+      "url": "https://github.com/hazelops/terraform-aws-ecs-datadog-agent",
+      "stars": 5
     },
     {
       "url": "https://github.com/aztfmodnew/terraform-azurerm-caf",
@@ -212,6 +212,10 @@
     },
     {
       "url": "https://github.com/rhythmictech/terraform-aws-datadog",
+      "stars": 5
+    },
+    {
+      "url": "https://github.com/sue445/terraform-gcp-template",
       "stars": 5
     },
     {
@@ -225,8 +229,8 @@
   ],
   "count": {
     "total": 692,
-    "public": 305,
-    "private": 387,
+    "public": 303,
+    "private": 389,
     "more_than_zero_star": 138
   }
 }
