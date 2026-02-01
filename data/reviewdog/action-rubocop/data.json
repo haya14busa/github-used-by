@@ -4,23 +4,23 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 14218
+      "stars": 14301
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9668
+      "stars": 9672
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 3251
+      "stars": 3262
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2793
+      "stars": 2792
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
-      "stars": 2703
+      "stars": 2704
     },
     {
       "url": "https://github.com/chromebrew/chromebrew",
@@ -32,27 +32,27 @@
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1788
+      "stars": 1798
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1221
+      "stars": 1222
     },
     {
       "url": "https://github.com/k1LoW/awspec",
-      "stars": 1177
+      "stars": 1178
     },
     {
       "url": "https://github.com/activeadmin/arbre",
-      "stars": 787
+      "stars": 788
     },
     {
       "url": "https://github.com/zilverline/sequent",
-      "stars": 556
+      "stars": 557
     },
     {
       "url": "https://github.com/mysociety/alaveteli",
-      "stars": 407
+      "stars": 408
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/vmware/dod-compliance-and-automation",
-      "stars": 185
+      "stars": 187
     },
     {
       "url": "https://github.com/kumahq/kuma-website",
@@ -128,7 +128,7 @@
     },
     {
       "url": "https://github.com/workato/workato-connector-sdk",
-      "stars": 30
+      "stars": 31
     },
     {
       "url": "https://github.com/neinteractiveliterature/intercode",
@@ -272,9 +272,9 @@
     }
   ],
   "count": {
-    "total": 780,
-    "public": 384,
-    "private": 396,
+    "total": 783,
+    "public": 385,
+    "private": 398,
     "more_than_zero_star": 154
   }
 }

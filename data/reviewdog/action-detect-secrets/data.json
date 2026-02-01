@@ -4,7 +4,7 @@
   "repos": [
     {
       "url": "https://github.com/4paradigm/OpenMLDB",
-      "stars": 1678
+      "stars": 1677
     },
     {
       "url": "https://github.com/jackpocket/android-scratchoff",
@@ -20,7 +20,7 @@
     },
     {
       "url": "https://github.com/adam-rms/adam-rms",
-      "stars": 47
+      "stars": 48
     },
     {
       "url": "https://github.com/bitjourney/react-simple-image",
@@ -36,7 +36,7 @@
     },
     {
       "url": "https://github.com/sammcj/zsh-bootstrap",
-      "stars": 18
+      "stars": 17
     },
     {
       "url": "https://github.com/sammcj/scripts",
@@ -89,8 +89,8 @@
   ],
   "count": {
     "total": 345,
-    "public": 143,
-    "private": 202,
+    "public": 142,
+    "private": 203,
     "more_than_zero_star": 64
   }
 }

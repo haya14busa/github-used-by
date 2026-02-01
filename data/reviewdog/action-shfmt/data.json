@@ -4,35 +4,35 @@
   "repos": [
     {
       "url": "https://github.com/dockur/windows",
-      "stars": 49638
+      "stars": 49767
     },
     {
       "url": "https://github.com/dockur/macos",
-      "stars": 18420
+      "stars": 18498
     },
     {
       "url": "https://github.com/vdsm/virtual-dsm",
-      "stars": 3649
+      "stars": 3656
     },
     {
       "url": "https://github.com/dockur/windows-arm",
-      "stars": 2047
+      "stars": 2056
     },
     {
       "url": "https://github.com/qemus/qemu",
-      "stars": 1642
+      "stars": 1660
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 1358
+      "stars": 1366
     },
     {
       "url": "https://github.com/dockur/samba",
-      "stars": 602
+      "stars": 612
     },
     {
       "url": "https://github.com/dockur/umbrel",
-      "stars": 348
+      "stars": 349
     },
     {
       "url": "https://github.com/Shemnei/punktf",
@@ -40,19 +40,19 @@
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
-      "stars": 200
-    },
-    {
-      "url": "https://github.com/qemus/qemu-arm",
-      "stars": 183
+      "stars": 201
     },
     {
       "url": "https://github.com/dockur/casa",
-      "stars": 182
+      "stars": 189
+    },
+    {
+      "url": "https://github.com/qemus/qemu-arm",
+      "stars": 184
     },
     {
       "url": "https://github.com/allthingslinux/tux",
-      "stars": 167
+      "stars": 172
     },
     {
       "url": "https://github.com/aerospike/aerospike-server.docker",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/dockur/dnsmasq",
-      "stars": 120
+      "stars": 121
     },
     {
       "url": "https://github.com/jiro4989/setup-nim-action",
@@ -76,7 +76,7 @@
     },
     {
       "url": "https://github.com/dockur/chrony",
-      "stars": 90
+      "stars": 91
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
@@ -108,7 +108,7 @@
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-tsc",
-      "stars": 28
+      "stars": 29
     },
     {
       "url": "https://github.com/EPMatt/reviewdog-action-prettier",
