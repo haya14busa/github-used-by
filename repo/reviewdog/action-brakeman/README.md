@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 118 | 62 | 56 | 26 |
+| 119 | 63 | 56 | 26 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-brakeman/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-brakeman)
@@ -26,7 +26,7 @@
 |3|<img src="https://github.com/tricknotes.png" width=50 height=50>|https://github.com/tricknotes/starseeker|81|
 |4|<img src="https://github.com/openHPI.png" width=50 height=50>|https://github.com/openHPI/codeocean|72|
 |5|<img src="https://github.com/veuelive.png" width=50 height=50>|https://github.com/veuelive/veue|55|
-|6|<img src="https://github.com/rubyforgood.png" width=50 height=50>|https://github.com/rubyforgood/Flaredown|45|
+|6|<img src="https://github.com/rubyforgood.png" width=50 height=50>|https://github.com/rubyforgood/Flaredown|46|
 |7|<img src="https://github.com/powerhome.png" width=50 height=50>|https://github.com/powerhome/playbook|37|
 |8|<img src="https://github.com/sokusekiya.png" width=50 height=50>|https://github.com/sokusekiya/sokuseki|24|
 |9|<img src="https://github.com/glowfic-constellation.png" width=50 height=50>|https://github.com/glowfic-constellation/glowfic|21|

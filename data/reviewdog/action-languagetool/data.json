@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 9041
+      "stars": 9059
     },
     {
       "url": "https://github.com/easymotion/vim-easymotion",
-      "stars": 7718
+      "stars": 7717
     },
     {
       "url": "https://github.com/vdaas/vald",
@@ -16,11 +16,11 @@
     },
     {
       "url": "https://github.com/markuspoerschke/iCal",
-      "stars": 1168
+      "stars": 1169
     },
     {
       "url": "https://github.com/latchset/clevis",
-      "stars": 1145
+      "stars": 1149
     },
     {
       "url": "https://github.com/tuono-labs/tuono",
@@ -28,15 +28,15 @@
     },
     {
       "url": "https://github.com/swiftwave-org/swiftwave",
-      "stars": 777
+      "stars": 780
     },
     {
       "url": "https://github.com/jeertmans/manim-slides",
-      "stars": 762
+      "stars": 767
     },
     {
       "url": "https://github.com/Together-Java/ModernJava",
-      "stars": 376
+      "stars": 397
     },
     {
       "url": "https://github.com/ipfs/ipfs-docs",
@@ -44,7 +44,7 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 301
+      "stars": 302
     },
     {
       "url": "https://github.com/jeertmans/languagetool-rust",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/openhab/openhab-google-assistant",
-      "stars": 175
+      "stars": 174
     },
     {
       "url": "https://github.com/CircuitVerse/Interactive-Book",
@@ -76,7 +76,7 @@
     },
     {
       "url": "https://github.com/agilepathway/label-checker",
-      "stars": 89
+      "stars": 90
     },
     {
       "url": "https://github.com/pheature-flags/pheature-flags",
@@ -104,7 +104,7 @@
     },
     {
       "url": "https://github.com/pkosiec/website",
-      "stars": 36
+      "stars": 37
     },
     {
       "url": "https://github.com/ADE-Scheduler/ADE-Scheduler",
@@ -212,8 +212,8 @@
     }
   ],
   "count": {
-    "total": 428,
-    "public": 187,
+    "total": 429,
+    "public": 188,
     "private": 241,
     "more_than_zero_star": 91
   }

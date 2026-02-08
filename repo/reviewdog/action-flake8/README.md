@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 559 | 315 | 244 | 121 |
+| 560 | 313 | 247 | 121 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-flake8/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-flake8)
@@ -21,27 +21,27 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/netdata|77586|
-|2|<img src="https://github.com/bndr.png" width=50 height=50>|https://github.com/bndr/pipreqs|7416|
+|1|<img src="https://github.com/netdata.png" width=50 height=50>|https://github.com/netdata/netdata|77677|
+|2|<img src="https://github.com/bndr.png" width=50 height=50>|https://github.com/bndr/pipreqs|7417|
 |3|<img src="https://github.com/BaguaSys.png" width=50 height=50>|https://github.com/BaguaSys/bagua|884|
-|4|<img src="https://github.com/lavenderdotpet.png" width=50 height=50>|https://github.com/lavenderdotpet/LibreQuake|660|
-|5|<img src="https://github.com/simpeg.png" width=50 height=50>|https://github.com/simpeg/simpeg|609|
+|4|<img src="https://github.com/lavenderdotpet.png" width=50 height=50>|https://github.com/lavenderdotpet/LibreQuake|669|
+|5|<img src="https://github.com/simpeg.png" width=50 height=50>|https://github.com/simpeg/simpeg|613|
 |6|<img src="https://github.com/pnuckowski.png" width=50 height=50>|https://github.com/pnuckowski/aioresponses|552|
 |7|<img src="https://github.com/PersiaML.png" width=50 height=50>|https://github.com/PersiaML/PERSIA|410|
-|8|<img src="https://github.com/PAhelper.png" width=50 height=50>|https://github.com/PAhelper/PhoenixAdult.bundle|380|
-|9|<img src="https://github.com/f0uriest.png" width=50 height=50>|https://github.com/f0uriest/interpax|245|
-|10|<img src="https://github.com/ThePornDatabase.png" width=50 height=50>|https://github.com/ThePornDatabase/ThePornDB.bundle|238|
+|8|<img src="https://github.com/PAhelper.png" width=50 height=50>|https://github.com/PAhelper/PhoenixAdult.bundle|381|
+|9|<img src="https://github.com/f0uriest.png" width=50 height=50>|https://github.com/f0uriest/interpax|248|
+|10|<img src="https://github.com/ThePornDatabase.png" width=50 height=50>|https://github.com/ThePornDatabase/ThePornDB.bundle|241|
 |11|<img src="https://github.com/libcgroup.png" width=50 height=50>|https://github.com/libcgroup/libcgroup|175|
 |12|<img src="https://github.com/PlasmaControl.png" width=50 height=50>|https://github.com/PlasmaControl/DESC|148|
-|13|<img src="https://github.com/mangdangroboticsclub.png" width=50 height=50>|https://github.com/mangdangroboticsclub/mini_pupper_ros|143|
+|13|<img src="https://github.com/mangdangroboticsclub.png" width=50 height=50>|https://github.com/mangdangroboticsclub/mini_pupper_ros|145|
 |14|<img src="https://github.com/ehpor.png" width=50 height=50>|https://github.com/ehpor/hcipy|129|
-|15|<img src="https://github.com/fdintino.png" width=50 height=50>|https://github.com/fdintino/pillow-avif-plugin|113|
-|16|<img src="https://github.com/ydb-platform.png" width=50 height=50>|https://github.com/ydb-platform/nbs|97|
+|15|<img src="https://github.com/fdintino.png" width=50 height=50>|https://github.com/fdintino/pillow-avif-plugin|114|
+|16|<img src="https://github.com/ydb-platform.png" width=50 height=50>|https://github.com/ydb-platform/nbs|98|
 |17|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/csd-python-api-scripts|86|
 |18|<img src="https://github.com/LFPy.png" width=50 height=50>|https://github.com/LFPy/LFPy|84|
 |19|<img src="https://github.com/ktsaou.png" width=50 height=50>|https://github.com/ktsaou/netdata|79|
 |20|<img src="https://github.com/f0uriest.png" width=50 height=50>|https://github.com/f0uriest/quadax|75|
-|21|<img src="https://github.com/ThePornDatabase.png" width=50 height=50>|https://github.com/ThePornDatabase/scrapers|71|
+|21|<img src="https://github.com/ThePornDatabase.png" width=50 height=50>|https://github.com/ThePornDatabase/scrapers|72|
 |22|<img src="https://github.com/oracle.png" width=50 height=50>|https://github.com/oracle/adaptivemm|70|
 |23|<img src="https://github.com/ut-issl.png" width=50 height=50>|https://github.com/ut-issl/c2a-core|55|
 |24|<img src="https://github.com/rickstaa.png" width=50 height=50>|https://github.com/rickstaa/ros-gazebo-gym|51|
@@ -57,9 +57,9 @@
 |34|<img src="https://github.com/danishi.png" width=50 height=50>|https://github.com/danishi/dynamodb-csv|22|
 |35|<img src="https://github.com/rickstaa.png" width=50 height=50>|https://github.com/rickstaa/panda-gazebo|19|
 |36|<img src="https://github.com/istellartech.png" width=50 height=50>|https://github.com/istellartech/GELATO|19|
-|37|<img src="https://github.com/nnsnodnb.png" width=50 height=50>|https://github.com/nnsnodnb/kalyke|19|
-|38|<img src="https://github.com/nnsnodnb.png" width=50 height=50>|https://github.com/nnsnodnb/django-ios-storekit|19|
-|39|<img src="https://github.com/mikhailprivalov.png" width=50 height=50>|https://github.com/mikhailprivalov/l2|18|
+|37|<img src="https://github.com/mikhailprivalov.png" width=50 height=50>|https://github.com/mikhailprivalov/l2|19|
+|38|<img src="https://github.com/nnsnodnb.png" width=50 height=50>|https://github.com/nnsnodnb/kalyke|19|
+|39|<img src="https://github.com/nnsnodnb.png" width=50 height=50>|https://github.com/nnsnodnb/django-ios-storekit|19|
 |40|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/dash|13|
 |41|<img src="https://github.com/rickstaa.png" width=50 height=50>|https://github.com/rickstaa/stable-gym|12|
 |42|<img src="https://github.com/ccdc-opensource.png" width=50 height=50>|https://github.com/ccdc-opensource/science-paper-rf-machine-learned-scoring-2022|11|
@@ -68,9 +68,10 @@
 |45|<img src="https://github.com/rickstaa.png" width=50 height=50>|https://github.com/rickstaa/stable-learning-control|7|
 |46|<img src="https://github.com/Police-Data-Accessibility-Project.png" width=50 height=50>|https://github.com/Police-Data-Accessibility-Project/data-source-manager|6|
 |47|<img src="https://github.com/LFPy.png" width=50 height=50>|https://github.com/LFPy/LFPykernels|6|
-|48|<img src="https://github.com/idiv-biodiversity.png" width=50 height=50>|https://github.com/idiv-biodiversity/scddl|5|
-|49|<img src="https://github.com/Tiryoh.png" width=50 height=50>|https://github.com/Tiryoh/mcap-to-mp4|5|
-|50|<img src="https://github.com/MiraGeoscience.png" width=50 height=50>|https://github.com/MiraGeoscience/simpeg|5|
-|51|<img src="https://github.com/rickstaa.png" width=50 height=50>|https://github.com/rickstaa/ros-gazebo-gym-examples|5|
-|52|<img src="https://github.com/NurOrNuLL.png" width=50 height=50>|https://github.com/NurOrNuLL/ESDP-AP-5-6-TEAM-2|5|
-|53|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/druid-opa-authorizer|5|
+|48|<img src="https://github.com/Angelius007.png" width=50 height=50>|https://github.com/Angelius007/myfox-api|5|
+|49|<img src="https://github.com/idiv-biodiversity.png" width=50 height=50>|https://github.com/idiv-biodiversity/scddl|5|
+|50|<img src="https://github.com/Tiryoh.png" width=50 height=50>|https://github.com/Tiryoh/mcap-to-mp4|5|
+|51|<img src="https://github.com/MiraGeoscience.png" width=50 height=50>|https://github.com/MiraGeoscience/simpeg|5|
+|52|<img src="https://github.com/rickstaa.png" width=50 height=50>|https://github.com/rickstaa/ros-gazebo-gym-examples|5|
+|53|<img src="https://github.com/NurOrNuLL.png" width=50 height=50>|https://github.com/NurOrNuLL/ESDP-AP-5-6-TEAM-2|5|
+|54|<img src="https://github.com/stackabletech.png" width=50 height=50>|https://github.com/stackabletech/druid-opa-authorizer|5|

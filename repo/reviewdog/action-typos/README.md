@@ -8,7 +8,7 @@
 
 | Total | Public | Private | At least 1 star
 | ----- | ------ | ------- | ---------------
-| 81 | 69 | 12 | 40 |
+| 82 | 70 | 12 | 40 |
 
 ```md
 [![Used-by counter](https://img.shields.io/endpoint?url=https://haya14busa.github.io/github-used-by/data/reviewdog/action-typos/shieldsio.json)](https://github.com/haya14busa/github-used-by/tree/main/repo/reviewdog/action-typos)
@@ -21,12 +21,12 @@
 
 | # | Icon | URL | Stars |
 | -- | -- | -- | -- | 
-|1|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9672|
-|2|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|9041|
-|3|<img src="https://github.com/moonbitlang.png" width=50 height=50>|https://github.com/moonbitlang/moonbit-docs|2105|
+|1|<img src="https://github.com/activeadmin.png" width=50 height=50>|https://github.com/activeadmin/activeadmin|9671|
+|2|<img src="https://github.com/reviewdog.png" width=50 height=50>|https://github.com/reviewdog/reviewdog|9059|
+|3|<img src="https://github.com/moonbitlang.png" width=50 height=50>|https://github.com/moonbitlang/moonbit-docs|2118|
 |4|<img src="https://github.com/mime-types.png" width=50 height=50>|https://github.com/mime-types/ruby-mime-types|338|
 |5|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/diff-lcs|300|
-|6|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/color|161|
+|6|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/color|162|
 |7|<img src="https://github.com/aaronhurt.png" width=50 height=50>|https://github.com/aaronhurt/zfs-replicate|80|
 |8|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/fish-macos|49|
 |9|<img src="https://github.com/mime-types.png" width=50 height=50>|https://github.com/mime-types/mime-types-data|46|
@@ -34,7 +34,7 @@
 |11|<img src="https://github.com/ixm-one.png" width=50 height=50>|https://github.com/ixm-one/ixm|20|
 |12|<img src="https://github.com/xeho91.png" width=50 height=50>|https://github.com/xeho91/js-ast|19|
 |13|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/fish-rust|18|
-|14|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/enviable|15|
+|14|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/enviable|16|
 |15|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/fish-brew|12|
 |16|<img src="https://github.com/svelte-docgen.png" width=50 height=50>|https://github.com/svelte-docgen/svelte-docgen|12|
 |17|<img src="https://github.com/halostatue.png" width=50 height=50>|https://github.com/halostatue/fish-direnv|11|

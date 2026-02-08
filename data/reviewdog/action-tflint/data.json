@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/magma/magma",
-      "stars": 1810
+      "stars": 1815
     },
     {
       "url": "https://github.com/cloudposse/atmos",
-      "stars": 1247
+      "stars": 1249
     },
     {
       "url": "https://github.com/chainguard-dev/malcontent",
-      "stars": 640
+      "stars": 642
     },
     {
       "url": "https://github.com/xunholy/k8s-gitops",
@@ -20,15 +20,15 @@
     },
     {
       "url": "https://github.com/aztfmod/terraform-azurerm-caf",
-      "stars": 579
+      "stars": 578
     },
     {
       "url": "https://github.com/octo-sts/app",
-      "stars": 301
+      "stars": 304
     },
     {
       "url": "https://github.com/gruberdev/homelab",
-      "stars": 246
+      "stars": 245
     },
     {
       "url": "https://github.com/TechToSpeech/terraform-aws-serverless-static-wordpress",
@@ -191,6 +191,10 @@
       "stars": 7
     },
     {
+      "url": "https://github.com/hazelops/terraform-aws-ecs-datadog-agent",
+      "stars": 6
+    },
+    {
       "url": "https://github.com/piiano/vault-deployments",
       "stars": 6
     },
@@ -201,10 +205,6 @@
     {
       "url": "https://github.com/rhythmictech/terraform-aws-nexus",
       "stars": 6
-    },
-    {
-      "url": "https://github.com/hazelops/terraform-aws-ecs-datadog-agent",
-      "stars": 5
     },
     {
       "url": "https://github.com/aztfmodnew/terraform-azurerm-caf",
@@ -228,9 +228,9 @@
     }
   ],
   "count": {
-    "total": 692,
+    "total": 693,
     "public": 301,
-    "private": 391,
+    "private": 392,
     "more_than_zero_star": 138
   }
 }

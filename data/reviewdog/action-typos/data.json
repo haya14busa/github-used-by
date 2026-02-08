@@ -4,15 +4,15 @@
   "repos": [
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9672
+      "stars": 9671
     },
     {
       "url": "https://github.com/reviewdog/reviewdog",
-      "stars": 9041
+      "stars": 9059
     },
     {
       "url": "https://github.com/moonbitlang/moonbit-docs",
-      "stars": 2105
+      "stars": 2118
     },
     {
       "url": "https://github.com/mime-types/ruby-mime-types",
@@ -24,7 +24,7 @@
     },
     {
       "url": "https://github.com/halostatue/color",
-      "stars": 161
+      "stars": 162
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/halostatue/enviable",
-      "stars": 15
+      "stars": 16
     },
     {
       "url": "https://github.com/halostatue/fish-brew",
@@ -96,8 +96,8 @@
     }
   ],
   "count": {
-    "total": 81,
-    "public": 69,
+    "total": 82,
+    "public": 70,
     "private": 12,
     "more_than_zero_star": 40
   }

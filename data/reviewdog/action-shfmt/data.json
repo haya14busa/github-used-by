@@ -4,31 +4,31 @@
   "repos": [
     {
       "url": "https://github.com/dockur/windows",
-      "stars": 49767
+      "stars": 49876
     },
     {
       "url": "https://github.com/dockur/macos",
-      "stars": 18498
+      "stars": 18545
     },
     {
       "url": "https://github.com/vdsm/virtual-dsm",
-      "stars": 3656
+      "stars": 3671
     },
     {
       "url": "https://github.com/dockur/windows-arm",
-      "stars": 2056
+      "stars": 2067
     },
     {
       "url": "https://github.com/qemus/qemu",
-      "stars": 1660
+      "stars": 1677
     },
     {
       "url": "https://github.com/sourcegraph/zoekt",
-      "stars": 1366
+      "stars": 1381
     },
     {
       "url": "https://github.com/dockur/samba",
-      "stars": 612
+      "stars": 623
     },
     {
       "url": "https://github.com/dockur/umbrel",
@@ -36,15 +36,15 @@
     },
     {
       "url": "https://github.com/Shemnei/punktf",
-      "stars": 301
+      "stars": 302
     },
     {
       "url": "https://github.com/CrowdStrike/falcon-scripts",
-      "stars": 201
+      "stars": 203
     },
     {
       "url": "https://github.com/dockur/casa",
-      "stars": 189
+      "stars": 191
     },
     {
       "url": "https://github.com/qemus/qemu-arm",
@@ -60,7 +60,7 @@
     },
     {
       "url": "https://github.com/dockur/dnsmasq",
-      "stars": 121
+      "stars": 122
     },
     {
       "url": "https://github.com/jiro4989/setup-nim-action",
@@ -76,7 +76,7 @@
     },
     {
       "url": "https://github.com/dockur/chrony",
-      "stars": 91
+      "stars": 92
     },
     {
       "url": "https://github.com/aaronhurt/zfs-replicate",
@@ -116,7 +116,7 @@
     },
     {
       "url": "https://github.com/UmbrellaDocs/action-linkspector",
-      "stars": 24
+      "stars": 25
     },
     {
       "url": "https://github.com/helpermethod/up",
@@ -132,7 +132,7 @@
     },
     {
       "url": "https://github.com/knative/actions",
-      "stars": 12
+      "stars": 11
     },
     {
       "url": "https://github.com/sourcebot-dev/zoekt",
@@ -164,9 +164,9 @@
     }
   ],
   "count": {
-    "total": 245,
-    "public": 133,
-    "private": 112,
-    "more_than_zero_star": 63
+    "total": 248,
+    "public": 135,
+    "private": 113,
+    "more_than_zero_star": 62
   }
 }

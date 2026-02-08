@@ -4,19 +4,19 @@
   "repos": [
     {
       "url": "https://github.com/opf/openproject",
-      "stars": 14301
+      "stars": 14341
     },
     {
       "url": "https://github.com/activeadmin/activeadmin",
-      "stars": 9672
+      "stars": 9671
     },
     {
       "url": "https://github.com/ytti/oxidized",
-      "stars": 3262
+      "stars": 3267
     },
     {
       "url": "https://github.com/CartoDB/cartodb",
-      "stars": 2792
+      "stars": 2795
     },
     {
       "url": "https://github.com/activeadmin/inherited_resources",
@@ -28,15 +28,15 @@
     },
     {
       "url": "https://github.com/castwide/solargraph",
-      "stars": 1990
+      "stars": 1992
     },
     {
       "url": "https://github.com/otwcode/otwarchive",
-      "stars": 1798
+      "stars": 1806
     },
     {
       "url": "https://github.com/openfoodfoundation/openfoodnetwork",
-      "stars": 1222
+      "stars": 1223
     },
     {
       "url": "https://github.com/k1LoW/awspec",
@@ -44,11 +44,11 @@
     },
     {
       "url": "https://github.com/activeadmin/arbre",
-      "stars": 788
+      "stars": 785
     },
     {
       "url": "https://github.com/zilverline/sequent",
-      "stars": 557
+      "stars": 558
     },
     {
       "url": "https://github.com/mysociety/alaveteli",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/Strech/sidekiq-prometheus-exporter",
-      "stars": 209
+      "stars": 208
     },
     {
       "url": "https://github.com/vmware/dod-compliance-and-automation",
@@ -80,7 +80,7 @@
     },
     {
       "url": "https://github.com/Drieam/rspec-github",
-      "stars": 79
+      "stars": 80
     },
     {
       "url": "https://github.com/openHPI/codeocean",
@@ -247,7 +247,7 @@
       "stars": 6
     },
     {
-      "url": "https://github.com/KazWolfe/XIVAuth",
+      "url": "https://github.com/XIVAuth/XIVAuth",
       "stars": 5
     },
     {
@@ -272,9 +272,9 @@
     }
   ],
   "count": {
-    "total": 783,
-    "public": 385,
-    "private": 398,
-    "more_than_zero_star": 154
+    "total": 784,
+    "public": 383,
+    "private": 401,
+    "more_than_zero_star": 153
   }
 }

@@ -4,11 +4,11 @@
   "repos": [
     {
       "url": "https://github.com/netdata/netdata",
-      "stars": 77586
+      "stars": 77677
     },
     {
       "url": "https://github.com/bndr/pipreqs",
-      "stars": 7416
+      "stars": 7417
     },
     {
       "url": "https://github.com/BaguaSys/bagua",
@@ -16,11 +16,11 @@
     },
     {
       "url": "https://github.com/lavenderdotpet/LibreQuake",
-      "stars": 660
+      "stars": 669
     },
     {
       "url": "https://github.com/simpeg/simpeg",
-      "stars": 609
+      "stars": 613
     },
     {
       "url": "https://github.com/pnuckowski/aioresponses",
@@ -32,15 +32,15 @@
     },
     {
       "url": "https://github.com/PAhelper/PhoenixAdult.bundle",
-      "stars": 380
+      "stars": 381
     },
     {
       "url": "https://github.com/f0uriest/interpax",
-      "stars": 245
+      "stars": 248
     },
     {
       "url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
-      "stars": 238
+      "stars": 241
     },
     {
       "url": "https://github.com/libcgroup/libcgroup",
@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/mangdangroboticsclub/mini_pupper_ros",
-      "stars": 143
+      "stars": 145
     },
     {
       "url": "https://github.com/ehpor/hcipy",
@@ -60,11 +60,11 @@
     },
     {
       "url": "https://github.com/fdintino/pillow-avif-plugin",
-      "stars": 113
+      "stars": 114
     },
     {
       "url": "https://github.com/ydb-platform/nbs",
-      "stars": 97
+      "stars": 98
     },
     {
       "url": "https://github.com/ccdc-opensource/csd-python-api-scripts",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://github.com/ThePornDatabase/scrapers",
-      "stars": 71
+      "stars": 72
     },
     {
       "url": "https://github.com/oracle/adaptivemm",
@@ -147,16 +147,16 @@
       "stars": 19
     },
     {
+      "url": "https://github.com/mikhailprivalov/l2",
+      "stars": 19
+    },
+    {
       "url": "https://github.com/nnsnodnb/kalyke",
       "stars": 19
     },
     {
       "url": "https://github.com/nnsnodnb/django-ios-storekit",
       "stars": 19
-    },
-    {
-      "url": "https://github.com/mikhailprivalov/l2",
-      "stars": 18
     },
     {
       "url": "https://github.com/ccdc-opensource/dash",
@@ -191,6 +191,10 @@
       "stars": 6
     },
     {
+      "url": "https://github.com/Angelius007/myfox-api",
+      "stars": 5
+    },
+    {
       "url": "https://github.com/idiv-biodiversity/scddl",
       "stars": 5
     },
@@ -216,9 +220,9 @@
     }
   ],
   "count": {
-    "total": 559,
-    "public": 315,
-    "private": 244,
+    "total": 560,
+    "public": 313,
+    "private": 247,
     "more_than_zero_star": 121
   }
 }
